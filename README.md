@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/nag-codes/.github/raw/main/profile/assets/landing.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/heyNag/heyNag/main/assets/landing.png" width="100%" />
 </p>
 
 ---
