@@ -5,7 +5,5 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/orgs/nag-codes/repositories">📦 nag-codes</a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/heyNag">👤 @heyNag</a>
+  <a href="https://github.com/nag-codes">📦 nag-codes</a>
 </p>
