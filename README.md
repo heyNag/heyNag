@@ -5,7 +5,7 @@
 <h3 align="center">Exploring ideas worth keeping.</h3>
 
 <p align="center">
-  I build small, native, open-source tools for macOS —<br />
+  I build small, open-source tools —<br />
   with a bias toward restraint and craft.
 </p>
 
