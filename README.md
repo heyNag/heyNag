@@ -2,7 +2,16 @@
   <img src="https://raw.githubusercontent.com/heyNag/heyNag/main/assets/landing.png" width="100%" />
 </p>
 
-<br />
+<h3 align="center">Exploring ideas worth keeping.</h3>
+
+<p align="center">
+  I build small, native, open-source tools for macOS —<br />
+  with a bias toward restraint and craft.
+</p>
+
+<p align="center">
+  Projects live under <a href="https://github.com/nag-codes"><b>@nag-codes</b></a>.
+</p>
 
 <p align="center">
   <a href="https://github.com/orgs/nag-codes/repositories">
