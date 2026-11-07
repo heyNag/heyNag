@@ -63,7 +63,7 @@ result = {
     'allAtLeastNine':len(scores)==18 and all(s>=9 for s in scores),
     'positions':positions,'pairs':pairs,
     'limits':read(proposal_path)['limits'],
-    'publication':'Prepared locally, not applied to live profile.',
+    'publication':read(ROOT / 'brand/profile/publication.json'),
 }
 write(HERE / 'consensus.json', result)
 print(json.dumps({'accepted':accepted,'positions':len(positions),'pairs':len(pairs),'scoreRange':result['scoreRange'],'allAtLeastNine':result['allAtLeastNine']}, indent=2))

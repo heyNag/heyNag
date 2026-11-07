@@ -1,12 +1,22 @@
 {
-  "state": "prepared_locally",
+  "state": "review_branch_published_profile_pending",
   "repository": "heyNag/heyNag",
-  "profileReadme": "Not published.",
+  "profileReadme": "Not merged to the default branch; live profile unchanged.",
   "accountNameAndBio": "Not applied.",
   "avatar": "Not applied.",
   "pins": "Not applied.",
   "repositoryDescriptions": "Not applied.",
   "personalProfileLinks": "Not applied.",
   "website": "Not built. No profile website link proposed yet.",
-  "evidence": []
+  "evidence": [
+    "Signed source commit verified locally and pushed to the review branch.",
+    "GitHub connector returned draft PR #1 for the expected heyNag repository and branch."
+  ],
+  "repositorySource": {
+    "branch": "codex/heynag-personal-brand",
+    "reviewedSourceCommit": "648d9641ae1c6eb363b5bca3316ae593f1025048",
+    "pullRequest": "https://github.com/heyNag/heyNag/pull/1",
+    "draft": true,
+    "signatureVerified": true
+  }
 }

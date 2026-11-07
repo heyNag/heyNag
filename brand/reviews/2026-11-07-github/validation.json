@@ -12,7 +12,7 @@
   "reportMissingLocalLinks": 0,
   "currentAuthoredDiffCheck": "Passed for README, profile files, current review, team/workflow/story and guides.",
   "historicalWhitespace": "Full initial-package staged diff reports six original trailing-whitespace lines in four vendor OFL copies and two raw encoder logs. Those byte-preserved license/evidence files are intentionally unchanged.",
-  "publication": "Not applied; browser sign-in requested for avatar and pins.",
+  "publication": "Signed reviewed source pushed to draft PR https://github.com/heyNag/heyNag/pull/1. Live profile remains unchanged pending browser sign-in and application.",
   "limitations": [
     "No physical-phone or spoken screen-reader validation.",
     "No built website or human recognition/recall/attachment study.",

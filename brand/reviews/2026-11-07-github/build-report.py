@@ -43,7 +43,8 @@ document = '''<!doctype html>
 <div class="eyebrow">heyNag · GitHub application review</div>
 <h1>A familiar first hello.</h1>
 <p>The GitHub profile introduces Nag and a small public sample of the work. The future website can continue the same story with richer project details and the same expressive little moth.</p>
-<p class="status"><strong>LOCAL DRAFT — not published.</strong><br>''' + esc(status) + '''</p>
+<p class="status"><strong>PROFILE DRAFT — live changes pending.</strong><br>''' + esc(status) + '''</p>
+<p>Source, assets and review history are backed up in <a href="https://github.com/heyNag/heyNag/pull/1">draft PR #1</a>. The live profile has not been changed.</p>
 <h2>The same identity in both themes</h2>
 <div class="pair"><figure><img src="evidence/profile-light-1440.png" alt="Proposed GitHub profile in the light theme, with the moth avatar, heyNag header and personal introduction"><figcaption>Light · actual GitHub layout with the proposed local content.</figcaption></figure><figure><img src="evidence/profile-dark-1440.png" alt="The same proposed GitHub profile in the dark theme"><figcaption>Dark · same tiny anatomy, paired artwork.</figcaption></figure></div>
 <p class="note">These captures use GitHub's Markdown renderer and its real layout with draft content inserted locally. They demonstrate presentation, not saved account settings. The profile has one universal avatar; its README header follows the viewer's color-scheme preference.</p>
