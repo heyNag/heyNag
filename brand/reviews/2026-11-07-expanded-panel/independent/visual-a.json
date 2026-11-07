@@ -1,0 +1,39 @@
+{
+  "reviewer": "visual-A",
+  "lens": "Materials and light/dark continuity",
+  "independence": "Recorded before reading visual-b.json; preserves predecessor refinement findings.",
+  "scope": "Refined V5 SVG static materials and theme continuity in shown identity applications; no animation or audience score.",
+  "evidence": [
+    "refinement/round1/visual.json; refinement/round2/visual.json",
+    "refinement/evidence/identity.png (original resolution), all-24.png, poses.png, readme-390-night.png",
+    "assets/brand/heynag-moth-v5.png; heynag-moth-v5-refined.png",
+    "brand/animation-v5/character.js:21\u201330,90\u2013101,119\u2013151,224\u2013258"
+  ],
+  "judgment": "Retain the current application. The narrow night antenna edge visibly reconnects stems without enlarging anatomy. Cream face, pale forewings and greener hindwings preserve a gentle hierarchy. Tiny proportions, marked layered wings and unequal paddles remain the attraction. No blocking static defect is demonstrated.",
+  "score": {
+    "value": 8.4,
+    "outOf": 10,
+    "confidence": "Moderate: source plus rendered stills, not calibrated displays.",
+    "criteria": [
+      "Face-first value hierarchy",
+      "Continuous antenna construction",
+      "Soft material appeal",
+      "Theme parity at shown sizes"
+    ],
+    "deductions": [
+      "Night small-sheet contours look softer than day: the whole-character rim accompanies the useful local stem keyline, slightly reducing crisp separation around ruff and hands. This is polish scope, not a failed header.",
+      "At large inspection the vector materials feel more uniformly smooth than the raster reference; equivalent gentle tactile appeal has not been demonstrated in a matched-visible-height comparison. This is an interpretation judgment, not a demand for grain."
+    ],
+    "couldImprove": "A controlled comparison that preserves face warmth and readable stems while making the small night figure more crisply articulated, plus a material variant that increases soft appeal without glossy highlights or extra detail."
+  },
+  "priorities": [
+    "Compare baseline with a restrained whole-character-rim reduction while retaining local antenna keylines.",
+    "Compare baseline with subtly adjusted cream/forewing tonal falloff at identical geometry and visible height. Adopt only for a named visible benefit."
+  ],
+  "limits": [
+    "32px avatar visibility is not all-size expressive recognition.",
+    "Source-shared geometry is not identical rendered boundaries across themes.",
+    "No continuous playback, live GitHub, environment integration or human attachment evidence inspected.",
+    "Original raster remains intact; reversible exploration needs no preexisting defect."
+  ]
+}

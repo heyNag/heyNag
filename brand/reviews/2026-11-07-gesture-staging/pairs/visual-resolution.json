@@ -1,0 +1,20 @@
+{
+  "discipline": "visual",
+  "state": "Both reviewers explicitly confirmed the same scoped recommendation.",
+  "recommendation": "Keep unchanged innocent anatomy and refined day/night paint. The revised contours improve hand hierarchy; small-size density and supported night sizes remain optical considerations.",
+  "discussionRecords": [
+    "pairs/visual-a-discussion.json",
+    "pairs/visual-b-discussion.json"
+  ],
+  "independentReviews": [
+    "independent/visual-a.json",
+    "independent/visual-b.json"
+  ],
+  "explicitConfirmations": [
+    "team-votes/visual-a.json",
+    "team-votes/visual-b.json"
+  ],
+  "proposal": "team-proposal-v1.json",
+  "proposalSha256": "db064ee23559e695e350ddc47e86c77380776554e6bb3a5a43eeadd8b18bd5f3",
+  "scorePolicy": "Individual scores remain separate; acceptance does not imply a 9/10 rating."
+}

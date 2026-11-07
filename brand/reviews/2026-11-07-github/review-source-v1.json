@@ -1,0 +1,41 @@
+{
+  "scope": "GitHub profile and proposed website continuity; not published and website not built",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "7225aa1fc4f7e1d2b94c85750b3133bae479cbe09a5218731e167a807e1ed172"
+    },
+    {
+      "path": "brand/profile/profile.json",
+      "sha256": "4512750df36c4ffe9eca6efd4208c21b6b601d742c7367cfee3dc92e507ef48a"
+    },
+    {
+      "path": "brand/profile/continuity.json",
+      "sha256": "f464f0e5d9fe8826ea2e9690d5d00918cea8c7886c2f500aabd3bdd9628c2532"
+    },
+    {
+      "path": "brand/animation-v5/character.js",
+      "sha256": "b93400daeaa43af99e4b8c30942b80d4d69aba545a808863dd92ebe1830a97fa"
+    },
+    {
+      "path": "brand/source/applications-v5.js",
+      "sha256": "4fbc16806e17b196a6ee51ebf230c0331079862ca35492b66b04fff016cd3ef3"
+    },
+    {
+      "path": "brand/design-system.css",
+      "sha256": "ffd5db7f059d58b8303606cc65b4a535b8a85a2952de10f59e7d133ba7ef883e"
+    },
+    {
+      "path": "assets/brand/header-v5-light.png",
+      "sha256": "9a30a46f7a50f21daa4bbbbc38863e5f3552c8cea239859be7cff99198e033d9"
+    },
+    {
+      "path": "assets/brand/header-v5-dark.png",
+      "sha256": "daac3c4a6c9c27adad1ee591fb36e1c3733fa70dee1baa4ffafebc90b246c8e9"
+    },
+    {
+      "path": "assets/brand/heynag-moth-avatar-v5-day.png",
+      "sha256": "9322ce46806ec584c03cf8fb34126ff6a73b4e1c930fb8de5ead9ea8c79dafe7"
+    }
+  ]
+}

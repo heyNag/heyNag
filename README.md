@@ -1,20 +1,17 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/heyNag/heyNag/main/assets/landing.png" width="100%" />
-</p>
+<img alt="Nag’s curious little moth coding on a park bench, building at a workshop, and taking a breather beneath a tree while small companions play." src="assets/brand/banner-park/park-film-study-13-muse-face-cleanup.png" width="1200">
 
-<h3 align="center">Exploring ideas worth keeping.</h3>
+## Hey, I’m Nag 👋
 
-<p align="center">
-  I build small, open-source tools —<br />
-  with a bias toward restraint and craft.
-</p>
+I’m Nagarjuna Boddu. I work in software, and I like following a good “what if?”
 
-<p align="center">
-  Projects live under <a href="https://github.com/nag-codes"><b>@nag-codes</b></a>.
-</p>
+🛠️ I’m building tools to explore videos and saved ideas, experiments in memory across conversations, and little animated companions. I’m drawn to useful things with a bit of personality.
 
-<p align="center">
-  <a href="https://github.com/orgs/nag-codes/repositories">
-    <img src="https://img.shields.io/badge/view%20projects-0f172a?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+🔎 I’m also exploring local AI, smoother developer workflows, and ways to make separate tools work well together. The quiet details interest me too: what happens when something fails, or an answer isn’t quite complete.
+
+🤓 I’m curious, talkative, and happy to get very geeky about the details. The glasses come out for deep work. Sometimes it’s a system I’m figuring out; sometimes it’s whether a tiny character’s eyes feel right.
+
+🌱 That little moth is a bit of me: building, wondering, taking a breather, then coming back with another idea. I want the things I make to be useful—and give someone a small reason to smile.
+
+Some experiments are already here. Others are still on the workbench. I’ll share more as they’re ready.
+
+Glad you wandered in.

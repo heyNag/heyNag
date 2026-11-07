@@ -1,0 +1,75 @@
+{
+  "discipline": "interaction",
+  "proposalSha256": "710168aea494893968a89809edc6034930e39c8ed9a0147919b3aac04c04cce5",
+  "assetSha256": "32ce62c11e533fcd3a7ab1856a102c7a31b9111d96c3fbf16df8d469b8f08469",
+  "readmeSha256": "a88ff0761cd9d7da1bb6d2ba5746612976ab52c7bc73156d32feb8a24418e90e",
+  "state": "Both members explicitly confirm the same scoped recommendation after reciprocal challenge; individual scores and limits retained",
+  "members": [
+    {
+      "reviewer": "interaction-a",
+      "decision": "agree_with_named_limits",
+      "score": 9,
+      "vote": "brand/reviews/2026-11-07-banner-park/whole-scene-13/votes/interaction-a.json",
+      "explicitRecommendation": {
+        "exactRecommendationConfirmedByA": "Accept exact13 and the frozen personal-story README for owner presentation, an original-size Downloads copy and the authorized heyNag/heyNag README/banner update. Preserve native story text and scene alt text, supplementary emojis, unnamed public/private themes and the same day image in both themes. Keep account settings separate; retain individual image scores and nonblocking limits without claiming live, device, assistive-technology or audience validation.",
+        "confirmationByA": true,
+        "counterpartFinalConfirmation": "Confirmed: B's exact-proposal vote and direct message explicitly accept the shared recommendation. A has read B's counterchallenge and acknowledges it below; no pending pair response remains.",
+        "knownSharedImagePosition": "Both independent records say ready_for_owner_review with no mustFix or newRegressions. Scores9.0 and8.9 remain separate.",
+        "remainingSubstantiveObjectionsRaisedByA": [],
+        "status": "Both members explicitly confirm the shared recommendation; no substantive objection remains."
+      },
+      "counterpartChallenge": {
+        "record": "brand/reviews/2026-11-07-banner-park/whole-scene-13/independent/interaction-b.json",
+        "counterpartScoreRead": 8.9,
+        "agreement": "B and A both find the required whole-scene materials/grip corrections addressed and no current must-fix. Both retain the minor native hero surface preference and make small background detail optional.",
+        "concreteChallenge": "B treats the outward coder gaze as slightly posed and narrow detail loss as reduced story discovery. In this particular README, the welcoming gaze fits the explicit Hey, I’m Nag greeting, while the native paragraph linking the moth to building, wondering and taking a breather carries the metaphor independently of the308px banner. The scene alt text also names the three activities. I would not turn absorbed coding or unaided micro-story recognition into a profile-readiness criterion.",
+        "evidence": "Both current390px README previews show a clear greeting and fully readable native paragraphs beneath the small banner; both1440 previews show the same native maker attribution. Frozen README source contains the scene alt and personal metaphor.",
+        "differenceRetained": "B may retain8.9 and those optional craft preferences. A keeps9.0; neither score is averaged, supplied by the partner or raised to claim unanimous9.",
+        "messageSent": true,
+        "messageScope": "Direct concise challenge and A's explicit recommendation sent to the standing Interaction B agent. B is scheduled next; no reply or new final vote is assumed.",
+        "remainingSubstantiveObjectionFromA": false,
+        "pairCloseAcknowledgment": {
+          "counterpartVoteRead": "brand/reviews/2026-11-07-banner-park/whole-scene-13/votes/interaction-b.json",
+          "acknowledgment": "Accepted. In the390px previews, the roughly845px article precedes Popular repositories and contains no inline project destinations. Readable, complete personal storytelling does not establish quick project discovery or return navigation. The native Repositories/Popular routes should remain available; actual project-finding speed and repeat-visit performance are unmeasured.",
+          "classification": "Owner-authorized narrative tradeoff, not a must-fix or a requirement to restore a named-project showcase.",
+          "sharedRecommendationChanged": false,
+          "scoreChanged": false,
+          "sourceChanged": false,
+          "confirmation": "A retains the exact shared recommendation, its9.0 image score and separate qualitative profile readiness. B retains8.9. No new tests, artwork, source changes or review round occurred.",
+          "remainingSubstantiveObjection": false
+        }
+      }
+    },
+    {
+      "reviewer": "interaction-b",
+      "decision": "agree",
+      "score": 8.9,
+      "vote": "brand/reviews/2026-11-07-banner-park/whole-scene-13/votes/interaction-b.json",
+      "explicitRecommendation": {
+        "status": "Explicit shared recommendation confirmed by both members through direct messages; individual scores preserved.",
+        "recommendation": "Accept exact13 and the frozen personal-story README for owner presentation, an original-size 2172x724 Downloads copy and the authorized heyNag/heyNag README/banner update. Preserve native text and scene alt, supplementary emojis, unnamed public/private themes, one unchanged day image in both themes and separately scoped account settings.",
+        "ownConfirmation": "I explicitly confirm this exact shared recommendation.",
+        "counterpartConfirmation": "A explicitly confirmed acceptance of exact13 and frozen personal-story README for owner presentation, original-size Downloads and authorized README/banner publication with these scope limits.",
+        "scores": {
+          "interaction-a": 9,
+          "interaction-b": 8.9
+        },
+        "differenceRetained": "A scores image9.0; B retains8.9 and its optional image-only gaze/scale deductions. Neither requests further edits or makes these differences publication blockers.",
+        "remainingSubstantiveObjection": false
+      },
+      "counterpartChallenge": {
+        "counterpart": "interaction-a",
+        "initialRead": "Read saved interaction-a initial only after my independent13 record existed; also read full-intake.json and the exact proposal.",
+        "aToB": "A challenged treating the outward greeting gaze and miniature story loss as profile concerns: the Hey, I’m Nag greeting, native story text and scene alt support the intended welcome/metaphor at the 308-pixel banner width.",
+        "bResponse": "Accepted for this application. Those remain bounded still-image preferences; neither is a profile blocker or a reason to re-pose the moth. The image score stays8.9.",
+        "bToA": "I challenged the breadth of profile readiness with the actual390 previews: the roughly845-pixel article precedes Popular repositories and includes no inline project destinations. Complete personal-story reading does not itself establish quick project discovery or return navigation. This is an authorized narrative tradeoff, not a requirement to reintroduce named projects.",
+        "evidence": "Both readme-390 previews show the full story before Popular repositories; render-checks reports articleHeight844.71 and imageWidth308. The frozen README deliberately has no named project showcase.",
+        "recommendation": "Keep the owner-requested story and native Repositories/Popular paths. Do not claim task-completion speed or repeat-visitor performance from these screenshots.",
+        "exchange": "Concise explicit acceptance, counter-challenge and shared recommendation sent directly to A. A’s earlier direct message explicitly confirms the same publication recommendation; no response to the new navigation nuance is assumed."
+      }
+    }
+  ],
+  "remainingSubstantiveObjections": [],
+  "scope": "Present actual13 as the reviewed day-scene and publish this personal-story README/banner to heyNag/heyNag within the owner’s explicit instruction. Preserve all individual image scores and named nonblocking limits. Do not claim unanimous9, audience validation or a night/animated counterpart.",
+  "limits": "Pair recommendation does not supply any other specialist’s vote, prove human outcomes or claim publication has already happened."
+}

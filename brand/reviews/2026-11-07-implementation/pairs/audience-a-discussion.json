@@ -1,0 +1,83 @@
+{
+  "reviewer": "audience-a",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "partnerRecordRead": "independent/audience-b.json",
+  "partnerDiscussionRead": null,
+  "partnerDiscussionStatus": "No audience-b-discussion.json existed when the first response was prepared. B then directly messaged agreement with the exact audience recommendation and challenged the owner-cue proposal; A responded explicitly. B's file remains pending at this update, so this record does not claim to have read it.",
+  "directPartnerExchange": {
+    "bPositionReceived": "B agrees with the exact audience recommendation, retains 8.3 versus A's 8.2 and all human outcomes null, treats an adjacent owner cue as a hypothesis, and distinguishes neutral action clips from branded attribution/recall exposure.",
+    "aResponseSent": "A explicitly agreed and retained 8.2 and null human outcomes. Natural whole-page exposure may already supply the name. An added owner cue is an optional variable, not an assumed improvement. Brand/project context must remain in attribution/recall exposure; isolated neutral clips answer action comprehension. A also accepts v2's unresolved phone-eyeline relation.",
+    "remainingSubstantiveDisagreement": false
+  },
+  "proposalFile": "team-proposal-v2.json",
+  "proposalSha256": "4eef022ccecba73621ca188b29c13cbc41d08b5268ffeaa6e98e2c4c5ea08c5c",
+  "sourceManifest": "review-source-v4.json",
+  "sourceManifestSha256": "4b70d40e6c6fed47936377ff71d915379cbe84bc2a23020ac2ab2fb9696b2caa",
+  "verification": {"proposalHashMatched": true, "manifestHashMatched": true, "sourceFilesChecked": 18, "sourceMismatches": []},
+  "discussion": [
+    {
+      "topic": "B's AB1 priming concern",
+      "challengeOrNuance": "The existing labels, intent explanation and accessible descriptions are useful and appropriate in an authoring study. Calling them an implementation defect or removing them now would confuse this tool's purpose with a future neutral research instrument.",
+      "resolution": "I agree with B's distinction: accept the labelled local study. If a later question concerns unaided action comprehension, prepare a separate full-size single-clip exposure and ask for a free description before showing variant names or emotion choices. Keep accessible information appropriate to the research question and report the modality; do not silently remove accessibility to manufacture neutrality.",
+      "basis": ["signature.html and studio.js inspected in the independent review", "independent/audience-b.json AB1", "team-proposal-v2.json validationLimits"]
+    },
+    {
+      "topic": "B's AB2 exposure concern and A's A-AUD-3 attribution finding",
+      "challengeOrNuance": "My observation that the scrolled portrait scene lacks an adjacent owner cue does not establish that a natural visitor misses Nag's name. The name is present earlier and in the footer. Conversely, an initial 320px capture is not an exposure to the character simply because the character exists below it.",
+      "resolution": "We should distinguish natural browsing from a controlled scene stimulus. For natural browsing, retain the real page and record viewport, scroll, name/moth visibility, duration and playback; report unequal exposure instead of attributing it to theme or character quality. For a self-contained attribution stimulus, an adjacent verified Nag/first-person cue is an optional comparison variable, not an automatic fix and not a new result. As B emphasized in the direct exchange, branded attribution/recall exposure must retain the name and project context: removing those to mimic an isolated neutral action clip would test the wrong thing. Keep A's 0.4 craft deduction and B's instrument limit visible without claiming measured misattribution.",
+      "basis": ["signature-final-320.png", "signature-final-390-stage.png", "signature-final-1440.png", "signature.html", "independent/audience-b.json AB2"]
+    },
+    {
+      "topic": "B's AB3 sharing cue and A's A-AUD-1 still-family finding",
+      "challengeOrNuance": "A tiny hand's visibility is not the same as its social meaning. Equally, resemblance between Grateful/Shy or Thinking/Focused stills is not observed confusion and does not justify demanding perfect identification of all 24 labels.",
+      "resolution": "Keep the present anatomy and owner-selected direction. Prioritize the consequential narrative distinction in its intended application: investigating and offering something versus merely looking/thinking. For any future human work, accept unconstrained descriptions before coding responses; do not supply 'sharing' as the expected answer. Use the quiet-pose family observation to select useful comparisons, not to preemptively enlarge hands, add explanation or rewrite the repertoire.",
+      "basis": ["all-final.png", "poses.png", "curious-investigate.png", "sizes-final.png", "signature-final-390-stage.png", "independent/audience-b.json AB3"]
+    },
+    {
+      "topic": "The proposal's phone eyeline limitation",
+      "challengeOrNuance": "My independent review praised the larger portrait character and the question's upper-right placement. That does not establish literal alignment with a glance authored toward screen-right; the stacked composition changes the geometric relation.",
+      "resolution": "Accept the v2 limitation explicitly. Portrait legibility improves while the eye-to-question relation remains less literal. Preserve it as a nonblocking craft issue for the local foundation; future staging tests may vary orientation or position within the same anatomy. No actual comprehension failure or score gain is inferred.",
+      "basis": ["signature-final-390-stage.png and signature-final-390-night.png inspected in the independent review", "motion.js investigationFrames inspected in the independent review", "team-proposal-v2.json unresolvedCraft"]
+    },
+    {
+      "topic": "Updated local cadence evidence",
+      "challengeOrNuance": "The newer active-only record is more relevant than treating mixed idle/playback approximately one-second intervals as an animation-cost measurement.",
+      "resolution": "I read desktop-performance-active.json: 119 active intervals, mean 34.45ms, p95 35ms, maximum 67ms and four above 50ms in a focused local desktop Thinking sample. This narrows the measurement statement; it neither establishes smooth perceived playback nor attributes earlier gaps to SVG. No change to my static craft score follows.",
+      "basis": ["evidence/desktop-performance-active.json", "team-proposal-v2.json evidence"]
+    }
+  ],
+  "acceptedJointRecommendation": "Keep hypotheses separate from owner preference and expert craft. Audience outcomes remain unscored; authoring labels are not neutral research stimuli.",
+  "acceptance": "I explicitly confirm this exact audience recommendation and v2's acceptance of the implemented local foundation with named limits. I do not confirm publication, human research success, all-team unanimity or a 9/10 threshold.",
+  "remainingDisagreements": [
+    "No substantive disagreement with B's recommendation. Our independent numbers remain different: A 8.2 and B 8.3, with related but nonidentical scopes and deductions. They should not be averaged or harmonized.",
+    "A retains the 32–48px night-stem and scrolled-scene attribution deductions. The proposal's day universal 32px avatar policy mitigates use risk; it does not make the inspected night mark more legible."
+  ],
+  "personalScore": {"value": 8.2, "outOf": 10, "changed": false, "meaning": "Expert craft readiness of inspected static emotional staging and attribution in this local study; not an audience result or continuous-motion rating."},
+  "audienceOutcomeScores": {"unprimedComprehension": null, "nagAttribution": null, "delayedRecall": null, "attachment": null, "ownerFitNumeric": null},
+  "practicalSkillsWorkflowAgreement": {
+    "intake": "A and B independently record all 17 catalog entries read and full emil-design-eng, prototype and mobile-native instructions read. This response accepts the overlapping practical workflow in B's review; it does not claim full reading of the other 14 skills.",
+    "steps": [
+      "Before any future comparison, name the decision: owner preference, expert craft, usability, comprehension or memory. Do not reuse one score across these questions.",
+      "Apply prototype's realistic full-size presentation and named comparison axis. Keep a single working direction visible, immediate switching for expert comparison, and the already selected owner direction stable. The existing historical evidence remains preserved.",
+      "For comprehension, separate the authoring tool from the neutral stimulus. Version the exact source, theme, size, exposure duration, playback/still state, motion preference and viewport/scroll. Free description precedes diagnostic labels; any later comparison order is handled explicitly.",
+      "For attribution and memory, separate recall of the visual, recall of heyNag, association between them, and recall of software work. Unaided recall precedes recognition choices. No human outcome is filled from AI agreement.",
+      "Apply emil-design-eng's purpose/frequency guidance to immediate control feedback. Preserve purposeful character beats and keyboard Play. Any cue adjustment gets actual-size rendered comparison, with a Before/After/Why explanation.",
+      "Apply mobile-native by capability and reason. Keep zoom, document scrolling and selectable content; classify source/emulation observations separately from phone tests. Do not call phone behavior validated without hardware evidence."
+    ],
+    "exceptions": [
+      "No new prototype run, picker, source mutation, recruitment or extra owner-selection gate is authorized by this review alone.",
+      "Prototype cleanup does not delete historical evidence required by the repository.",
+      "Sub-300ms UI timing and no keyboard animation do not truncate intentional character content or disable accessible Play.",
+      "Compositor guidance does not justify deleting expressive SVG anatomy; performance changes require a relevant workload and diagnosis.",
+      "A mobile baseline is not a reason to lock zoom, suppress content selection or disable scrolling across a document."
+    ]
+  },
+  "remainingEvidenceLimits": [
+    "No new unfamiliar-human results, actual attribution, delayed recall or attachment evidence.",
+    "No continuous normal-speed playback observation by this reviewer; decoded frames and deterministic films establish different claims.",
+    "No physical-phone behavior, GPU trace, native-menu keyboard commit or spoken screen-reader output established.",
+    "No source changes or public release action in this pair phase."
+  ],
+  "substantiveObjections": []
+}

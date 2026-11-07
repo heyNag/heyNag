@@ -1,0 +1,24 @@
+{
+  "scope": "Implemented native SVG character, motion, studio, signature study, current application exports and films. Includes portrait phone staging and 320px heading-wrap correction.",
+  "files": {
+    "assets/brand/header-v5-dark.png": "daac3c4a6c9c27adad1ee591fb36e1c3733fa70dee1baa4ffafebc90b246c8e9",
+    "assets/brand/header-v5-dark.svg": "da0af111440c0c28ccdcd26f5d1780c51ec4675288bd8c1f4cc5135f57fb479f",
+    "assets/brand/header-v5-light.png": "9a30a46f7a50f21daa4bbbbc38863e5f3552c8cea239859be7cff99198e033d9",
+    "assets/brand/header-v5-light.svg": "f099bd2987d2ffc518905c9e39bcd91fa4202324c32397dec6ad890f4cbf784f",
+    "assets/brand/heynag-moth-avatar-v5-day.png": "9322ce46806ec584c03cf8fb34126ff6a73b4e1c930fb8de5ead9ea8c79dafe7",
+    "assets/brand/heynag-moth-avatar-v5-day.svg": "cebead28f1e383c3ad9c216188e12e6924befb1b93c36ae799612dcf1567d8b2",
+    "assets/brand/heynag-moth-avatar-v5-night.png": "033c73324b12fe0632c4c7bb0673770b1798202c32d071945e610a49240dbe4d",
+    "assets/brand/heynag-moth-avatar-v5-night.svg": "8a9e0b454d004736d5db42be4195f01335415288ca0edb6b719a2665067cea03",
+    "assets/brand/preview/heynag-v5-current-emotions.mp4": "676393adf4ce68cd23236736d3269c3503a04900a967619654a94f1ce38a0c88",
+    "brand/animation-v5/character.js": "b93400daeaa43af99e4b8c30942b80d4d69aba545a808863dd92ebe1830a97fa",
+    "brand/animation-v5/index.html": "b6d131043c416cc5acd5780c8762753dead910787ccfda1186f0497498dac8c7",
+    "brand/animation-v5/motion.js": "1027502ecbe9c43a067d09c819842c3876d307a7fa737e4064bebd386ee65a04",
+    "brand/animation-v5/signature.css": "5032455c9ad8f6cd607b40a21f83652560432c171544040a86a59d8f29d1a059",
+    "brand/animation-v5/signature.html": "e216bac4b50d6e337d344773adb162c82923ed9ed004d23504f450f693f7aaf4",
+    "brand/animation-v5/signature.js": "313b6c2a96cf371601b6960556993d6288c5ea8109beeb614517097d09c4a43d",
+    "brand/animation-v5/studio.css": "a43848acd9bb41df4fd2c3c7c6015e74883d12ababd77489040f31f54acd18ca",
+    "brand/animation-v5/studio.js": "cdde884a87090cb33b4f227367f301f5f5797ae22ee09e10d4b6ff4f78ffdbec",
+    "brand/reviews/2026-11-07-implementation/evidence/comparison.mp4": "2dc2f4a7819f1da540a3f380f8a440ca302e9a44ff82f734bf6a003dd5aaf33d"
+  },
+  "version": "v3"
+}

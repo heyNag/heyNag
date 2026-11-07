@@ -1,0 +1,33 @@
+{
+  "reviewer": "interaction-a",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "proposalFile": "team-proposal-v2.json",
+  "proposalSha256": "4eef022ccecba73621ca188b29c13cbc41d08b5268ffeaa6e98e2c4c5ea08c5c",
+  "sourceManifestSha256": "4b70d40e6c6fed47936377ff71d915379cbe84bc2a23020ac2ab2fb9696b2caa",
+  "decision": "agree_with_named_nonblocking_limits",
+  "acceptedScope": "The immutable v2 proposal for the implemented v4 local foundation: character and performance studies, owner-selected portrait signature, current exports/films and native-control/accessibility improvements. This is local continuation readiness, not publication, uniform 9/10 approval, human validation or continuous-motion certification.",
+  "personalScore": {
+    "value": 8.8,
+    "outOf": 10,
+    "scope": "Interaction A: local keyboard, controls, focus, reduced-motion and truthful semantics",
+    "history": "v3 8.6 retained in independent review scoreHistory; v4 8.8 remains unchanged after partner discussion."
+  },
+  "scoreMeaning": "The implemented interaction foundation is strong and the one demonstrated v3 semantic defect is fixed. Missing native-input, spoken-AT, real-device and visitor evidence prevents a comprehensive validation claim without proving a defect.",
+  "namedLimits": [
+    "Native OS menu keyboard commit remains inconclusive.",
+    "Screen-reader spoken output is not captured.",
+    "Phone screenshots/coarse-pointer emulation do not establish physical touch use.",
+    "Portrait first-viewport discovery and narrow Both-mode expression recognition remain observed tradeoffs with untested human consequences.",
+    "Current local cadence evidence is not subjective smoothness, phone/GPU validation or proof of SVG-caused stalls.",
+    "No unfamiliar-human or return-use study has been performed."
+  ],
+  "substantiveObjections": [],
+  "pairRecommendationConfirmed": true,
+  "acceptedJointRecommendation": "Accept the native controls and v4 semantics for the local study. The report link must resolve. Native keyboard, spoken AT and phone validation remain separate.",
+  "reportLinkCheck": "Signature link resolves to existing index.html; all 23 parsed local report targets exist. This is filesystem verification.",
+  "skillsMessageAcknowledged": true,
+  "skillsAcknowledgmentDetail": "All 17 catalogue entries reviewed. Full emil-design-eng/mobile-native reading and workflow exceptions are recorded independently; the pair response adopts a practical split between keyboard/AT checks and discovery/revisit/stress tasks, without converting skill rules into evidence or source mutations.",
+  "pairDiscussionFile": "pairs/interaction-a-discussion.json",
+  "sourceVerification": "Seven current interaction HTML/CSS/JS hashes match the immutable v4 manifest; proposal and manifest SHA256 verified."
+}

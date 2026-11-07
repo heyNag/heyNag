@@ -1,0 +1,165 @@
+{
+  "reviewer": "sound-B",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "lens": "Rhythm, optional audio and repeat-listening comfort",
+  "scope": "Frozen v4 local implementation: deliberate silent playback, finite performance structure, visual punctuation and sampled cause/response staging. Numeric judgment excludes continuous perceived rhythm, real-device smoothness, human repeat-visit comfort and all listening quality.",
+  "independence": "Saved before reading sound-A implementation review or cross-disciplinary proposal.",
+  "evidenceActuallyInspected": [
+    "AGENTS.md; brand/team.json sound role; brand/workflow.json; reviewer-instructions.txt; brief.json; review-source-v4.json; owner-preference.json; prior expanded-panel independent/sound-b.json",
+    "Full installed-skills.json containing all 17 summaries; full choreograph/SKILL.md, remove-animations/SKILL.md and review-animations/SKILL.md",
+    "brand/animation-v5/studio.js and signature.js in full; signature.css in full; studio.css motion selectors; motion.js neutral/keyframe machinery, curious/thinking/excited/surprised/variants/transition-family/sampler/engine sections. All five inspected source-file hashes match review-source-v4.json.",
+    "view_image: curious-investigate.png, mischievous-one-peek.png, poses.png, signature-final-1440.png, signature-final-390-stage.png, signature-final-390-night.png",
+    "view_image: decoded-day-0.png, decoded-day-2.png, decoded-day-4.png, decoded-day-5.png, decoded-day-10.png, decoded-night-5.png",
+    "evidence/comparison-export.json, full-reel-export.json, interaction.json, layout-and-collection.json, description-and-reduced-motion.json, desktop-performance-focused.json",
+    "ffprobe comparison.mp4: one H.264 video stream, 30/1 frame rate, 88.8 seconds; no audio stream. No continuous playback watched."
+  ],
+  "score": {
+    "value": 8.5,
+    "outOf": 10,
+    "meaning": "Strong implemented silence and attention-control craft, with clear sampled visual punctuation, held endings and deliberate replay. Below finished-signature quality because the phone composition breaks the authored direction of the question cue. This is a scoped source-and-rendered-frame score, not a rhythm/listening rating."
+  },
+  "continuousRhythmScore": null,
+  "audioQualityScore": null,
+  "repeatedListeningComfortScore": null,
+  "strengths": [
+    {
+      "finding": "The work is complete enough to function silently; silence is a valid designed baseline, not a missing soundtrack.",
+      "basis": "Investigation PNG and decoded day/night sheets show antenna attention, glasses/consideration, then an outward held invitation. One-peek study reaches a half-eye reveal and retains it; the joke does not need an audible cue."
+    },
+    {
+      "finding": "Attention is returned after a bounded action.",
+      "basis": "studio.js and signature.js initialize to still poses, play after deliberate controls, allow pause/scrub, pause when hidden/offscreen, and do not automatically resume. Engine completion clears playing and holds the final pose. Studio collection traversal is explicit, finite and cancelled offscreen even between clips."
+    },
+    {
+      "finding": "Reduced-motion preference preserves access to the intended content without imposing moving playback.",
+      "basis": "Source selects the representative pose, removes movement in controls and disables collection traversal; interaction.json and description-and-reduced-motion.json record the still state and corresponding labels. This is source plus recorded browser evidence, not screen-reader speech or physical-device validation."
+    },
+    {
+      "finding": "Prior cue-suppression concern has a concrete implementation response.",
+      "basis": "Engine._begin now skips the extra blend when starting at neutral; curious antenna-first opening is no longer mathematically eased twice. Decoded-day-0 shows its early changed antenna. I do not infer normal-speed perceptibility from the sheet."
+    },
+    {
+      "finding": "Motion has named causes and limited secondary accents.",
+      "basis": "excited body descends through the 900 ms wing reversal, contacts at 1060 ms and gives the head a later recovery; the decoded hop sheet supports one rise-and-land cycle. The one-peek study removes a second checking beat without deleting the intentional character performance."
+    }
+  ],
+  "deductions": [
+    {
+      "finding": "Phone staging weakens the silent link between attention and its object.",
+      "severity": "moderate; blocks a claim of fully resolved phone narrative staging",
+      "type": "observed layout/source mismatch",
+      "confidence": "high for mismatch, medium for perceptual impact",
+      "basis": "signature.css portrait rule places .question in row 1 and .moth in row 2; 390 day/night PNGs confirm the question substantially above the moth. investigationFrames still use gazeX 4\u20135 with gazeY -2 then 3 then 1 and a screen-right head turn. Those values were authored for the desktop question on the right. The pose can remain charming while its specific cause becomes spatially less exact.",
+      "deductionReason": "Silent cause is central to this role; the viewer should not need sound or explanatory prose to repair a misplaced eye-line."
+    }
+  ],
+  "improvementCriteria": [
+    "For the phone study, compare a question position intersecting the existing rightward investigation axis with a minimally retargeted portrait performance. Keep all tiny anatomy and light/dark numerical parity. Review actual moving portrait output before selecting.",
+    "Check unlabeled silent normal-speed play, replay and one interruption at intended size with fresh observers, particularly notice \u2192 consideration \u2192 invitation and when the action feels finished. Preserve owner preference as a separate input.",
+    "Resolve the unexplained live rAF gaps with a representative physical-device workload before a smoothness claim. Deterministic 30 fps export cannot supply that evidence.",
+    "If audio is later separately requested, begin default-off with explicit opt-in and easy mute, sparse event-based cues, no overlapping retriggers or catch-up bursts, and a repeated-listening comparison. No audio is required to improve this silent version."
+  ],
+  "confidence": {
+    "overall": "medium-high for scoped implementation and sampled staging",
+    "continuousTiming": "not observed",
+    "audio": "not applicable; film is silent",
+    "humanComfort": "not measured"
+  },
+  "implementedAssessment": {
+    "decision": "Support the implemented local study and preservation of Investigate & share as owner-selected lead, with phone narrative staging expressly unfinished. Do not promote this to finished-phone, live-smoothness, audio or audience approval.",
+    "priorConcernResolution": "Neutral-entry double easing has been removed in source; collection remains explicit and finite. Earlier concern about repeated catalogue timing is a future-site guardrail, not a new observed defect.",
+    "noSourceEdits": true
+  },
+  "objections": [
+    {
+      "id": "sound-b-phone-cause",
+      "type": "substantive scoped objection",
+      "finding": "Do not claim the portrait signature has fully resolved silent cause-and-response staging while its question and authored gaze axes differ.",
+      "blocks": "Unqualified finished-phone narrative approval",
+      "doesNotBlock": "Local study delivery with the limitation recorded; silent identity exports; further authorized implementation"
+    }
+  ],
+  "limits": [
+    "No continuous playback watched, heard, or subjectively experienced. Decoded contact sheets expose poses and sequence; they do not prove perceived pace or smoothness.",
+    "No audio asset or playback system was evaluated. No soundtrack recommendation is implied by the sound role.",
+    "No fresh unprimed human observers, repeat-visit study, listening test, recognition or attachment evidence.",
+    "Root owns browser; I did not operate one. Browser evidence records were read, not independently reproduced. No physical phone or spoken assistive-technology testing.",
+    "Desktop focused rAF evidence contains a roughly one-second maximum gap in both paused and playing observations; cause remains unestablished. No general performance verdict inferred."
+  ],
+  "skillsReviewed": {
+    "catalogCount": 17,
+    "catalogSummariesRead": [
+      "emil-design-eng",
+      "animate",
+      "animate-expo",
+      "review-animations",
+      "improve-animations",
+      "find-animation-opportunities",
+      "remove-animations",
+      "choreograph",
+      "animation-performance",
+      "animation-vocabulary",
+      "apple-design",
+      "write-swift",
+      "pick-ui-library",
+      "prototype",
+      "mobile-native",
+      "break-ui",
+      "ask-sonner"
+    ],
+    "fullInstructionsRead": [
+      {
+        "name": "choreograph",
+        "path": "/Users/nag/.config/skillshare/skills/choreograph/SKILL.md"
+      },
+      {
+        "name": "remove-animations",
+        "path": "/Users/nag/.config/skillshare/skills/remove-animations/SKILL.md"
+      },
+      {
+        "name": "review-animations",
+        "path": "/Users/nag/.config/skillshare/skills/review-animations/SKILL.md"
+      }
+    ],
+    "additionalPartialReading": "emil-design-eng output was partially truncated; not counted as full reading and no precise rule is attributed to it.",
+    "appliedPurpose": "Review relationships and stillness, challenge repeated attention demand, separate UI feedback from chosen character content, and explicitly bound what recorded frames can establish."
+  },
+  "workflowChanges": [
+    "Before future website motion work, make a small timeline naming lead (antenna/gaze/head), support (mitten/wing) and static elements (project copy, controls/background). Attach support to the cause or settle, not an arbitrary delay.",
+    "Keep a frequency inventory separating finite user-requested performances from navigation/control feedback. Retain static startup and indefinite settled rest; reject ambient replay by default.",
+    "Test cancellation during the between-clip timer as well as during a gesture; test hidden/offscreen behavior and replays from both settled and interrupted poses.",
+    "For the next shared review, capture the actual intended-size portrait action as well as the desktop one and identify the exact gaze/object relationship to inspect. Keep source facts, sampled-frame findings, continuous perception and human observations in separate fields.",
+    "If sound is ever commissioned, require a separate opt-in interaction and audio-specific repeated-listening review; do not infer consent from pressing a silent performance Play button."
+  ],
+  "rulesNotApplicableWithReason": [
+    {
+      "rule": "Delete any keyboard-triggered animation",
+      "reason": "Keyboard Play intentionally requests expressive content. Preserve equal keyboard access; remove gratuitous control/navigation animation instead."
+    },
+    {
+      "rule": "Sub-300 ms UI timing on every moving element",
+      "reason": "The 2.5\u20134.7 second character pieces are the requested content, not interface latency. Their notice, thought and invitation beats need narrative timing."
+    },
+    {
+      "rule": "GPU-only properties as a universal approval gate",
+      "reason": "Expressive SVG path anatomy serves the character; do not replace or enlarge it merely to satisfy a UI compositor heuristic. Measure a relevant workload before simplification."
+    },
+    {
+      "rule": "Add an idle attention loop after a short delay",
+      "reason": "The current goal prioritizes silent reading comfort and explicit finite playback. A static start and settled end are appropriate."
+    },
+    {
+      "rule": "Execute remove-animations edits and dependency removal",
+      "reason": "This assignment is an independent read-only source review. The skill informs the frequency/purpose audit; no source or dependency mutation is authorized to this reviewer."
+    },
+    {
+      "rule": "Skill-specific Markdown report format",
+      "reason": "The parent assignment requires a structured independent JSON record. Equivalent findings, kept choices, scope and verdict are recorded here."
+    },
+    {
+      "rule": "React Native, Swift, Sonner, library-selection, prototype implementation and data-stress workflows",
+      "reason": "Catalog summaries were inspected, but these are not material to this plain-JavaScript silent-motion review. Catalog awareness is not claimed as full skill intake."
+    }
+  ]
+}

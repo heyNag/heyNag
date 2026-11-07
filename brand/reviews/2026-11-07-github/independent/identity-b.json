@@ -1,0 +1,121 @@
+{
+  "reviewerId": "identity-b",
+  "role": "Identity systems designer B",
+  "lens": "Small-size recognition and typography hierarchy",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "scope": "Current GitHub profile application as a local preview in GitHub's real DOM/layout: name, bio, universal day avatar, paired static header, README hierarchy and pins. The future website continuity contract is assessed as a plan only. This is a fresh application judgment, not inherited approval of all mascot motion.",
+  "sourceManifestSha256": "7b23e48c7555ab1abca2a81923bb526411043350c092e352ef42efd106b468d2",
+  "independence": "Saved before reading any new partner or other specialist independent review.",
+  "inspectedEvidence": [
+    "AGENTS.md; brand/workflow.json; brand/team.json identity A/B roles",
+    "README.md; brand/profile/profile.json; brand/profile/continuity.json",
+    "brand/reviews/2026-11-07-github/brief.json; review-instructions.txt; review-source-v1.json",
+    "view_image original: evidence/profile-light-1440.png and profile-dark-1440.png",
+    "view_image original: evidence/profile-light-320-top.png and profile-dark-320-top.png",
+    "view_image original: evidence/readme-light-320-scroll.png and readme-dark-320-scroll.png",
+    "view_image original: evidence/pins-light-320-scroll.png",
+    "view_image original: assets/brand/heynag-moth-avatar-v5-day.png at 512px",
+    "evidence/render-checks.json: local-preview provenance, both themes at 1440/1024/768/390/320px, banner widths, selected themes and target links",
+    "Verified all nine current source/asset hashes against review-source-v1.json. Did not use full-page 320 captures for layout claims because of their documented sticky-navigation artifacts."
+  ],
+  "skillsReviewed": [
+    {
+      "name": "design-taste-frontend",
+      "path": "/Users/nag/.agents/skills/taste-skill/SKILL.md",
+      "depth": "Full SKILL.md newly read this round",
+      "used": "Plain grounded copy, the existing visual system, real project evidence and actual rendered review. No commercial-site template was imposed."
+    },
+    {
+      "name": "emil-design-eng",
+      "path": "/Users/nag/.agents/skills/emil-design-eng/SKILL.md",
+      "depth": "Full prior conversation reading reused; verified byte-identical to the earlier fully read skill",
+      "used": "Whole-composition hierarchy, coherent defaults, purposeful static treatment and explicit Before/After/Why."
+    },
+    {
+      "name": "apple-design",
+      "path": "/Users/nag/.agents/skills/apple-design/SKILL.md",
+      "depth": "Full prior conversation reading reused; verified unchanged",
+      "used": "Hierarchy through type size/weight/spacing and clear naming at actual narrow widths; no Apple styling prescription."
+    },
+    {
+      "name": "mobile-native",
+      "path": "/Users/nag/.agents/skills/mobile-native/SKILL.md",
+      "depth": "Full prior conversation reading reused; verified unchanged",
+      "used": "Separate narrow browser evidence from physical-phone behavior and inspect actual scrolled viewports rather than misleading full-page captures."
+    }
+  ],
+  "workflowChanges": [
+    "Review the identity in the host platform's actual DOM and native typography, not only a standalone brand sheet. The preview label and publication status stay attached to the evidence.",
+    "Use actual wheel-scrolled narrow viewports for name, banner and reading hierarchy. Treat full-page sticky artifacts as capture limitations rather than product defects.",
+    "Assess bio, README and pins together for cumulative repetition and name mapping. The same identity source can be coherent while its introductory copy needs editing.",
+    "Keep current application quality separate from future website continuity and unfamiliar-human recognition. Reuse the same source/assets without treating a continuity contract as a built website."
+  ],
+  "rulesNotApplicableWithReason": [
+    "GitHub owns layout, text fonts, controls and sanitization. Design-taste's one-section-per-screen recipe, commercial hero dealer, custom hover layer, shaders, asset-kit build and custom-CSS checks are inapplicable to this native profile.",
+    "The task is read-only and root owns browser automation. Skill browser/checker implementation instructions do not authorize this reviewer to edit source, launch a browser or publish profile fields.",
+    "GitHub profile images are intentionally static. No missing animation, sound, bespoke typeface or mascot interaction is a defect; the content is available without playing or manipulating anything.",
+    "The existing personal identity is not a commercial product to rename or surround with stock photography. No invented outcomes, testimonials, metrics or substitute contact details are appropriate.",
+    "Native GitHub cards and text remain governed by its accessible platform behavior. Do not demand custom button motion, full-width marketing controls or text-selection/zoom locks.",
+    "Prior small night-avatar weakness is not a fresh defect in this application: it deliberately uses the day universal avatar in both themes. The future owned-theme usage limit remains part of the existing brand guidance."
+  ],
+  "score": 8.9,
+  "scoreMeaning": "8.9/10 for the observed local GitHub identity application and reading hierarchy. The avatar/name/header form a coherent introduction in both themes, including the narrow proofs. Repeated introductory wording leaves a modest hierarchy/editing opportunity. This score does not certify publication, future website quality, human recall or the complete motion system.",
+  "confidence": {
+    "overall": "High for static local appearance and source consistency; moderate for broader platform behavior",
+    "basis": "Actual native-layout light/dark desktop and narrow viewport images plus verified source hashes. This is one supplied rendering environment with local proposed fields, not the published account or physical phone."
+  },
+  "strengths": [
+    "The universal day avatar has a clear cream ground and connected dark head/antenna contour in both themes. At the small mobile profile placement, the complete unequal paddles and face remain readable; the larger desktop crop is comfortable and intact.",
+    "At 320px the full personal name and heyNag handle remain readable together. The profile name, conversational Hey, I'm Nag heading and large banner wordmark establish a clear visual naming relationship without relying on the mascot to identify the author.",
+    "The banner scales to 238px wide inside GitHub's narrow README container and heyNag still reads immediately. The tiny full moth becomes supporting illustration; no essential project meaning is assigned to its fine hand detail.",
+    "Light/dark banners visibly belong to one family and match the existing avatar anatomy. The paper avatar on a dark page is a deliberate universal asset with strong separation, not a theme inconsistency.",
+    "Native headings, bold linked project names, paragraphs and dividers provide useful reading structure. The three pins wrap within their cards, with recognizable repository slugs and descriptions; no observed clipping or horizontal document overflow.",
+    "The first-person introduction makes Nag the maker and the moth a companion. The private-work sentence appropriately describes a public sample, and the three concrete project links give the personality a factual anchor.",
+    "The website destination is withheld while unfinished. Static GitHub presentation and the proposed richer website can share name, palette, character and voice without duplicating custom controls or requiring motion."
+  ],
+  "deductions": [
+    {
+      "id": "IDENTITY-GITHUB-B-01",
+      "severity": "minor",
+      "kind": "reading-hierarchy/editing opportunity",
+      "confidence": "high for duplication; moderate for its cost to readers",
+      "observation": "The profile bio and first README paragraph repeat software, systems, useful tools, curiosity and caring how software feels. At 320px, after GitHub's native profile sections, the README spends another five lines on that broad introduction before its private-work explanation and concrete projects. The hierarchy is legible but could reach distinguishing work sooner.",
+      "evidence": [
+        "brand/profile/profile.json bio",
+        "README.md first paragraph",
+        "evidence/profile-light-320-top.png",
+        "evidence/readme-light-320-scroll.png",
+        "evidence/readme-dark-320-scroll.png"
+      ],
+      "improvementCriterion": "Keep one concise statement of the general identity and let the other introduction add a distinct verified detail or lead directly into the public sample. Recheck both native themes at 320px; do not compensate with custom CSS or delete useful project descriptions."
+    }
+  ],
+  "blockers": [],
+  "recommendations": [
+    "Accept the current local application with the minor copy/hierarchy opportunity retained; no crop, anatomy, avatar or wordmark redesign is warranted.",
+    "Keep the universal day avatar for GitHub. Preserve the paired header assets and their current image alternatives rather than creating a special miniature anatomy.",
+    "When the website is actually built, carry the same name/character/palette and truthful project descriptions into a clearly authored opening; verify its own responsive layout and static/reduced-motion path independently.",
+    "Frame the continuity contract's recognition wording as intended recognition until actual unfamiliar-viewer evidence exists. The supplied pixels support coherence, not a measured immediate association."
+  ],
+  "continuityAssessment": {
+    "status": "Coherent plan; future implementation remains unscored",
+    "supportedNow": "Name roles, the same renderer/exporter, existing palette and first-person voice provide a concrete source-of-truth contract. Native GitHub text can differ from the future website's brand typeface while the asset/voice relationship remains coherent.",
+    "futureAcceptanceCriteria": [
+      "Same character anatomy and named versioned source, with theme differences in paint rather than geometry.",
+      "Nag's authorship and actual work visible without mascot interaction; preserve readable static/reduced-motion paths.",
+      "Consistent public project names/descriptions and useful reciprocal links only when the website is live.",
+      "Actual desktop/narrow rendered evidence plus separately labelled phone, AT and human evidence."
+    ],
+    "wordingCaveat": "continuity.json github.recognition says the assets establish the shared identity immediately. I interpret that as design intent/expert hypothesis; immediate recognition is not demonstrated by this review.",
+    "notBuilt": "No website page, live navigation, site performance, motion integration or user journey was inspected."
+  },
+  "uiReviewTable": "| Before / current observation | After / recommendation | Why |\n| --- | --- | --- |\n| Bio and README repeat the same broad maker description | Let one add a distinct verified detail or move into the public sample | Reaches concrete work sooner on narrow screens |\n| Brand judged only as isolated assets | Actual GitHub DOM, both themes and scrolled320px viewports | Verifies the host-platform application |\n| Recognition phrased as immediate outcome | Recognition stated as intent until observed | Keeps continuity claims grounded |",
+  "unscoredOutcomes": [
+    "Published GitHub account fields and live settings; all inspected changes are explicitly local previews.",
+    "Future heyNag.com artwork, implementation, navigation, motion and accessibility; continuity.json is a contract only.",
+    "Unfamiliar-human recognition, attribution, comprehension, attachment or delayed recall.",
+    "Physical-phone behavior, screen-reader spoken output and platform rendering outside the supplied environment.",
+    "Continuous motion and audio: this application is deliberately static and silent."
+  ]
+}

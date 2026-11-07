@@ -1,0 +1,81 @@
+{
+  "engine": "local",
+  "question": null,
+  "media_identity": {
+    "path": "/Users/nag/projects/personal/heyNag/assets/brand/preview/heynag-v5-emotions.mp4",
+    "size": 7797026,
+    "mtime_ns": 1794037394818311911
+  },
+  "transcript": {
+    "source": "none",
+    "gaps": null,
+    "no_speech": null,
+    "reused_from": null
+  },
+  "supporting_transcripts": {
+    "path": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07/evidence/video/20261107-145508-heynag-v5-emotions-3d1c983d/supporting_transcripts.json",
+    "count": 0,
+    "sources": []
+  },
+  "source": "/Users/nag/projects/personal/heyNag/assets/brand/preview/heynag-v5-emotions.mp4",
+  "source_info": {
+    "title": "heynag-v5-emotions.mp4",
+    "path": "/Users/nag/projects/personal/heyNag/assets/brand/preview/heynag-v5-emotions.mp4",
+    "source_type": "local"
+  },
+  "video_path": "/Users/nag/projects/personal/heyNag/assets/brand/preview/heynag-v5-emotions.mp4",
+  "caption_path": null,
+  "caption_info": null,
+  "subtitle_langs": "en,en-orig,en-US,en-GB,en.*,-live_chat",
+  "probe": {
+    "duration_seconds": 88.7,
+    "width": 1280,
+    "height": 800,
+    "video_codec": "h264",
+    "has_audio": false,
+    "size_bytes": 7797026,
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2"
+  },
+  "range": {
+    "start_seconds": 0.0,
+    "end_seconds": 88.7,
+    "duration_seconds": 88.7,
+    "focused": false,
+    "focused_download_section": null,
+    "focused_download_requested": false
+  },
+  "frames": {
+    "enabled": true,
+    "detail": "transcript",
+    "count": 34,
+    "mode": "auto",
+    "frame_interval": 5.0,
+    "fps": null,
+    "selected_fps": 0.4509582863585118,
+    "target_frames": 40,
+    "frame_cap": 40,
+    "max_frames": 40,
+    "width": 1024,
+    "format": "png",
+    "dedup": true,
+    "engine": null,
+    "cues": {
+      "engine": "timestamps",
+      "requested_count": 34,
+      "selected_count": 34,
+      "dropped_out_of_window": 0,
+      "warnings": []
+    },
+    "manifest": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07/evidence/video/20261107-145508-heynag-v5-emotions-3d1c983d/evidence.json"
+  },
+  "transcriber": "none",
+  "analyzer": "none",
+  "visual_evidence_requested": true,
+  "original_audio": {
+    "requested": false,
+    "path": null,
+    "status": "not_requested"
+  },
+  "audio_error": null,
+  "errors": []
+}

@@ -1,0 +1,76 @@
+{
+  "generation": "V5",
+  "revision": "0.4.0",
+  "role": "application exports",
+  "releaseState": "local draft; independent and cross-disciplinary review recorded",
+  "renderer": "brand/animation-v5/character.js",
+  "exporter": "brand/source/applications-v5.js",
+  "loader": "brand/source/applications-v5.html",
+  "wordmark": "assets/brand/wordmark-ink.svg",
+  "geometry": "Existing neutral character. Avatar clones head only; headers place complete rig with uniform scaling. Day and night geometry identical.",
+  "avatar": {
+    "paths": [
+      "assets/brand/heynag-moth-avatar-v5-day.svg",
+      "assets/brand/heynag-moth-avatar-v5-day.png",
+      "assets/brand/heynag-moth-avatar-v5-night.svg",
+      "assets/brand/heynag-moth-avatar-v5-night.png"
+    ],
+    "size": [
+      512,
+      512
+    ],
+    "headViewBox": [
+      92,
+      -25,
+      490,
+      490
+    ],
+    "minimumTestedCSSSize": 32,
+    "preferredUniversalGitHubAvatar": "assets/brand/heynag-moth-avatar-v5-day.png",
+    "notes": "One GitHub account avatar does not auto-switch theme. Day export has a paper ground that works on either surrounding UI; the paired night export is available for owned applications.",
+    "supportedSizes": {
+      "universalDay": [
+        32,
+        48,
+        64
+      ],
+      "ownedNight": [
+        48,
+        64
+      ],
+      "night32": "Rendered but excluded from universal recommendation: weak stem visibility."
+    }
+  },
+  "headers": {
+    "paths": [
+      "assets/brand/header-v5-light.svg",
+      "assets/brand/header-v5-light.png",
+      "assets/brand/header-v5-dark.svg",
+      "assets/brand/header-v5-dark.png"
+    ],
+    "size": [
+      1200,
+      360
+    ],
+    "consumer": "README.md picture element",
+    "previousGeneration": "Unversioned header-light/dark exports remain V2 historical sources."
+  },
+  "nightTreatment": {
+    "edge": "Selected refined paint: same16-unit antenna understroke at0.62 opacity, preserved0.55 whole-character rim; broad cream/forewing falloff midpoint.",
+    "anatomyChanged": false,
+    "broadGlowAdded": false
+  },
+  "exportRecipe": [
+    "Open brand/source/applications-v5.html in the current isolated Ego task space.",
+    "Read the existing outlined wordmark SVG from the filesystem.",
+    "HeyNagApplications.create(kind, theme, wordmarkSVG) returns a standalone SVG with deterministic IDs. Different variants are isolated; repeated identical inline SVGs require consumer per-instance namespacing. Repeated img elements are safe.",
+    "HeyNagApplications.png(svgText) renders that exact SVG to PNG at its declared native size. Save both without modifying the original raster references.",
+    "Inspect circle masks and headers at their intended sizes in both themes, then update review record and manifest."
+  ],
+  "review": "brand/reviews/2026-11-07-implementation/index.html",
+  "limitations": [
+    "Local draft, not published to GitHub.",
+    "No human recognition or recall study.",
+    "Vector application retains the family and anatomy; it does not reproduce raster texture pixel-for-pixel."
+  ]
+}

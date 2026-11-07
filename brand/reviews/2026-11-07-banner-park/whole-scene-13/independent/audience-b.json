@@ -1,0 +1,142 @@
+{
+  "reviewer": "audience-b",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "lens": "Research design and memory hypotheses",
+  "asset": "assets/brand/banner-park/park-film-study-13-muse-face-cleanup.png",
+  "assetSha256": "32ce62c11e533fcd3a7ab1856a102c7a31b9111d96c3fbf16df8d469b8f08469",
+  "hashVerified": true,
+  "evidenceInspected": [
+    "Fresh full scene13, scene11 and scene07 via view_image; 2172x724 originals displayed at 2048x683.",
+    "Fresh scene13 local widths 1280, 880 and 420.",
+    "Fresh scene13 native hero, workshop and tree-play crops.",
+    "Fresh scene13 companions-native, companions-5x, grip-native and grip-5x crops from final integrated export.",
+    "Fresh matched scene11 and scene07 native hero/workshop crops, compared with scene13.",
+    "Reused prior direct inspections of original refined V5 moth, owner Clawd pixel/plush, blue beret Dot, Muse lineup and original Grok reference; no new likeness claim from an unseen reference.",
+    "whole-scene-13/brief.json and AGENTS.md; prior full workflow, skill and agreed correction-plan reading reused."
+  ],
+  "evidencePathBase": "Current crops: brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/. Controls: whole-scene-11/evidence/.",
+  "readiness": "ready_for_owner_review",
+  "readinessScope": "Within Audience B’s still-image craft lens. No required visible repair remains from this inspection; root coordinates the remaining panel decision before finished-art presentation.",
+  "score": {
+    "value": 9.0,
+    "previous": 8.4,
+    "change": 0.6,
+    "scope": "Expert still-image craft within audience lens: readable emotion/identity cues, hierarchy and coherent visual storytelling across the entire scene. No score for recognition, recall, affection, motion or a published application.",
+    "confidence": "High for visible hierarchy, material/control differences and integrated details; moderate for aesthetic and narrative interpretation. No empirical confidence for audience outcomes.",
+    "changeReason": "The previous blocking cross-material regression is materially resolved across the whole frame, and the tool grip now has a readable solid connection. Clearer facial planes, board edges, cloth and scene depth strengthen the existing hierarchy without expanding the cast or story. The gain is for inspected results, not plan acceptance or the desired target.",
+    "deductions": [
+      {
+        "id": "AB13-fine-surface",
+        "severity": "minor, optional",
+        "location": "Hero cream face and green wing/antenna surfaces in native crop.",
+        "finding": "A fine looping or embossed-looking texture remains more explicit than 07’s softer facial finish. It no longer produces 11’s coarse cross-material fracture pattern, and the cream volume remains soft and clear at 1280/880.",
+        "effect": "Small stylistic reservation about tactile naturalness; not a remaining W1 blocker or a reason for another global edit."
+      },
+      {
+        "id": "AB13-secondary-specificity",
+        "severity": "minor, optional",
+        "location": "Workshop guests and left leaf group, especially at 420.",
+        "finding": "Placement and props establish supporting groups, but exact watching and shared-play intentions become less specific at small scale. The three appearances of one moth are linked by repeated design cues rather than an explicit narrative transition.",
+        "effect": "The broad personal park/coding scene is clear to expert inspection; the precise metaphor should not be promised as an unfamiliar viewer’s interpretation."
+      }
+    ],
+    "criteriaForNine": [
+      {
+        "criterion": "Restore distinct soft cream/plush, wood, fabric and foliage materials without 11’s disruptive common cellular pattern.",
+        "assessment": "Met for this lens at native and full-frame1280; the remaining fine motif is a minor stylistic reservation."
+      },
+      {
+        "criterion": "Preserve dominant coding moth/MacBook and separate subordinate guest groups at supplied scales, including420.",
+        "assessment": "Met. No foreground guest or loss of primary silhouette."
+      },
+      {
+        "criterion": "Keep usable secondary prop/hand separation at native/880 without forcing every micro-action to survive420.",
+        "assessment": "Met. Solid mallet grip and separate leaf/companions are visible in the integrated export. Human research was never a condition for a craft nine."
+      }
+    ]
+  },
+  "correctionAssessment": {
+    "W1": {
+      "status": "fixed",
+      "evidence": "13 replaces 11’s coarse, shared angular pattern with cleaner modeled faces, continuous glasses/laptop contours, directional wood grain, distinct cloth weave and readable stone/foliage planes. Clawd again reads as orange plush. Matched native crops and1280 show broad improvement, not merely an isolated eye patch or global blur. Fine stylized surface detail remains but does not materially break coherence."
+    },
+    "W2": {
+      "status": "fixed",
+      "evidence": "Final native and5x grip show a cream rounded mitten enclosing the diagonal mallet handle, connected through a short arm. The hollow/angular strap appearance in11 is absent. Raised anticipation, small tool scale and compact moth are retained; no impact pose is required."
+    },
+    "MuseCleanup": {
+      "status": "visually_resolved",
+      "evidence": "In final integrated native and5x companions crops, Muse has dark eyes and one small smile without an extra lower dark curve. Grok retains two flat pupil-free white ovals. The 54-pixel edit count is supplied provenance, not independently audited here."
+    }
+  },
+  "wholeSceneAssessment": [
+    "The tree canopy, open curving stone path, middle workshop and large right bench form one spatial scene. Warm upper-right light and softer distant bridge/trees remain coherent across environment and characters.",
+    "The face/laptop silhouette, cream-to-green masses and bench scale keep the original coding moth primary at1280/880/420. Four cameos stay in supporting zones; their combined color does not overtake the hero in my inspection.",
+    "Clear support/contact at bench, stools, tabletop and ground makes the groups feel placed within the park. The repaired grip improves local task legibility without introducing new anatomy.",
+    "Repeated large cream head, unequal green paddles and layered marked wings supply plausible personal-identity continuity across coding, making and resting. This is a visible design relationship, not demonstrated owner-name attribution.",
+    "Cloth, wood, ceramic, silver laptop, foliage and plush now remain distinct while sharing warm light; the environment participates in the film-like treatment rather than competing through a common surface artifact."
+  ],
+  "preservation": [
+    "Same scene architecture, three appearances of the tiny original moth, four subordinate guests, two stools and single leaf.",
+    "Exclusive foreground moth/bench/MacBook; established cup, books and blanket; no new cast, text, logo strip or private-work material.",
+    "Compact innocent anatomy and visible marked-wing/asymmetric-antenna cues retained; no age-up from the parent/kids metaphor.",
+    "Muse dark eyes, Grok flat white ovals, Clawd’s two square eyes and blue beret Dot preserved in inspected export.",
+    "Warm cinematic light, background depth and existing quiet-versus-active story contrast preserved."
+  ],
+  "newRegressions": [],
+  "mustFix": [],
+  "optional": [
+    "If revisited for a future application, keep fine face/wing texture restrained; do not globally smooth the current image or risk losing material distinction for a small preference.",
+    "Any stronger watcher orientation or leaf interaction remains optional. Do not enlarge guests, add explanation or demand detailed420px actions.",
+    "Retain native Nag/heyNag context when applying the image; the artwork contains no name and cannot establish unaided name recall on its own."
+  ],
+  "skillsReviewed": [
+    {
+      "skill": "emil-design-eng",
+      "intake": "Prior full read reused",
+      "application": "Purposeful hierarchy and actual whole-result inspection."
+    },
+    {
+      "skill": "prototype",
+      "intake": "Prior full read reused",
+      "application": "Matched controls and scale comparison; retain evidence rather than infer quality from requested edits."
+    },
+    {
+      "skill": "mobile-native",
+      "intake": "Prior full read reused",
+      "application": "Distinguish local reduced artwork from actual browser/phone behavior."
+    },
+    {
+      "skill": "design-taste-frontend",
+      "intake": "Prior full read reused",
+      "application": "One coherent visual treatment and concrete evidence; owner-requested film stylization overrides unrelated commercial-site recipes."
+    }
+  ],
+  "skillCatalog": "All17 catalog summaries previously read; no new full skill claimed.",
+  "workflowChanges": [
+    "Judge full frame and native/scaled surfaces before using magnified detail to verify small repairs.",
+    "Keep exact asset hash, compare actual13 with actual11/07, and preserve prior required-versus-optional distinctions.",
+    "Save initial judgment before peer13 findings. Separate craft readiness from human response and the remaining panel decision."
+  ],
+  "rulesNotApplicableWithReason": [
+    "Static raster review does not invoke UI timing, compositor, hover, touch, keyboard or runtime prototype rules.",
+    "No commercial webpage layout, browser checker or new image creation is being performed.",
+    "No human-research acceptance gate or score target substitutes for observed craft."
+  ],
+  "limits": [
+    "No unfamiliar-human responses, fixation measurements, delayed recall, attribution trials, emotion interviews or preference tests.",
+    "No empirical claim that warmth, personal recognition, affection or the exact three-moment metaphor improves because of13.",
+    "Local1280/880/420 image scales are not native GitHub, physical-device or accessibility evidence.",
+    "No animation, audio, night edition, actual website quality, deployment or studio-production equivalence is scored.",
+    "Readiness is Audience B’s independent recommendation for owner review; no full18 consensus or publication is claimed."
+  ],
+  "unscoredHumanOutcomes": {
+    "emotionComprehension": null,
+    "nameAttribution": null,
+    "immediateRecognition": null,
+    "delayedRecall": null,
+    "affection": null
+  },
+  "independence": "Saved before reading or receiving peer13 findings; no substantive findings sent to peers. Root schedules pair discussion later."
+}

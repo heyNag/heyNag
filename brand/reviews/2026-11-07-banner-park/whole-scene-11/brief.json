@@ -1,0 +1,241 @@
+{
+  "ownerRequest": [
+    "Before bring it to me, please check with our team of 18 specialists. Very small detail. It should be like a Pixar/ Disney like inspired picture",
+    "Not just the characters. The whole scene as a whole"
+  ],
+  "scope": "Entire image as a cohesive animated-feature film still: composition, cinematic staging, environment, materials, lighting, color, depth, anatomy/contact, emotion/story, visual hierarchy, and tiny detail consistency. This is NOT another eye-only review.",
+  "referenceAsset": "assets/brand/banner-park/park-film-study-11-flat-grok-eyes.png",
+  "sha256": "87943e3c1452d40b1ac535ea5bbcefa6e7676cee77165eef2d77ce5c67a32569",
+  "dimensions": [
+    2172,
+    724
+  ],
+  "baseline": "assets/brand/banner-park/park-film-study-07-clawd-plush.png",
+  "baselineContext": "Owner liked07 before later story/light/eye passes. Compare overall quality; baseline is a control, not a command to prefer it.",
+  "identityReference": "assets/brand/heynag-moth-v5-refined.png",
+  "referenceImagesOutsidePublicPackage": [
+    "/Users/nag/projects/personal/.heynag-profile-work/references/owner-muse-lineup.jpg",
+    "/Users/nag/projects/personal/.heynag-profile-work/references/owner-clawd-plush.jpg",
+    "/Users/nag/projects/personal/.heynag-profile-work/references/nag-grok-bot-reference.webp"
+  ],
+  "establishedScene": [
+    "Foreground right: only original tiny cream/lime moth on bench coding on silver Apple MacBook.",
+    "Same moth at middle workshop building; Clawd and blue beret Dot sit on two stools watching.",
+    "Same tiny moth rests under left tree; Muse and Grok play with one leaf directly in front. Parent/kids metaphor never ages moth.",
+    "Three appearances of ONE original moth; four guest characters total.",
+    "No nag-codes, no private project details, no new cast, logo strip, foreground guests or added text.",
+    "Original moth large head, compact body, mittens, attached stub feet, unequal paddle antennae, four layered marked wings.",
+    "Tiny innocent proportions; Muse dark eyes; Grok flat white pupil-free ovals; Clawd orange plush with both square eyes visible."
+  ],
+  "target": "Warm appealing dimensional animation-film image inspired by Pixar/Disney craft. Judge the WHOLE frame, not merely whether the characters are cute. Soft readable forms, believable contact and materials, motivated light, coherent visual depth and focused storytelling. Original heyNag identity remains hero.",
+  "knownHistory": [
+    "Muse08 pale-ring eyes were rejected.",
+    "A faint Grok spot persisted in10 and the owner caught it; native-only panel approval was wrong and retracted.",
+    "11 has new enlarged-source eye correction; it still needs independent whole-scene evaluation.",
+    "Repeated raster edits may affect unrelated textures. Inspect whether this is materially visible rather than assume."
+  ],
+  "requiredEvidence": [
+    "View actual11 full image and earlier07.",
+    "View original moth identity reference.",
+    "View representative 1280/880/420 widths; these are local image scales, NOT actual GitHub/mobile browser evidence.",
+    "View native hero/tree/workshop crops and final eye 5x crop in muse-review/evidence/11-companion-inspection-enlarged.png.",
+    "Use original companion reference images if judging recognizable likeness."
+  ],
+  "reviewProtocol": [
+    "Read AGENTS.md and route relevant installed skills using brand/workflow.json; record full readings actually reused or newly consumed.",
+    "Give own initial whole-scene opinion BEFORE reading new peer findings. Existing scoped eye verdicts do not pre-approve this whole-image review.",
+    "Record score /10 for stated still-image craft scope, confidence, named visible deductions and what would earn9. No demanded9s. If an axis is untestable, say so rather than score nonexistent animation, sound or audience outcomes.",
+    "Prioritize must-fix visible defects over optional tastes. Give image locations and effect on film-like coherence. Do not invent changes merely to sound critical.",
+    "After both pair members save initial views, discuss differences and explicitly confirm joint recommendation; retain individual scores.",
+    "Then all18 consider one consolidated cross-disciplinary recommendation. Agreement on improvements is not approval of unbuilt replacement art.",
+    "Do not call art finished or present it as approved until reviews and concrete objections are resolved. No publication actions."
+  ],
+  "outputSchema": {
+    "reviewer": "role-a or role-b",
+    "model": "gpt-6-astra",
+    "reasoning": "ultra",
+    "evidenceInspected": [],
+    "initialWholeSceneVerdict": "ready / revise / direction_only",
+    "score": {
+      "value": "honest numeric or untestable with reason",
+      "scope": "still-image craft within lens",
+      "confidence": "high/moderate/low",
+      "deductions": [],
+      "criteriaForNine": []
+    },
+    "strengths": [],
+    "mustFix": [],
+    "optional": [],
+    "baselineComparison": "specific actual07 vs11 observations",
+    "skillsReviewed": [],
+    "workflowChanges": [],
+    "rulesNotApplicableWithReason": [],
+    "limits": [],
+    "pairDiscussion": "added after own initial record saved"
+  },
+  "roster": [
+    {
+      "id": "brand-a",
+      "discipline": "brand",
+      "role": "Character brand director",
+      "lens": "Personal voice and authentic work",
+      "agent": "/root/panel_brand_a_implementation",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra"
+    },
+    {
+      "id": "brand-b",
+      "discipline": "brand",
+      "role": "Character brand director",
+      "lens": "Long-term recognition and distinctive brand behavior",
+      "agent": "/root/panel_brand_b_implementation",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra"
+    },
+    {
+      "id": "performance-a",
+      "discipline": "performance",
+      "role": "Character performance director",
+      "lens": "Intention and comic acting",
+      "agent": "/root/panel_performance_a_implementation",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra"
+    },
+    {
+      "id": "performance-b",
+      "discipline": "performance",
+      "role": "Character performance director",
+      "lens": "Timing, weight and emotional clarity",
+      "agent": "/root/panel_performance_b_implementation",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra"
+    },
+    {
+      "id": "identity-a",
+      "discipline": "identity",
+      "role": "Identity systems designer",
+      "lens": "Silhouette and cross-surface identity",
+      "agent": "/root/panel_identity_a_implementation",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra"
+    },
+    {
+      "id": "identity-b",
+      "discipline": "identity",
+      "role": "Identity systems designer",
+      "lens": "Small-size recognition and typography hierarchy",
+      "agent": "/root/panel_identity_b_implementation",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra"
+    },
+    {
+      "id": "rigging-a",
+      "discipline": "rigging",
+      "role": "Technical character animator and rigger",
+      "lens": "Articulation and contact",
+      "agent": "/root/panel_rigging_a_implementation",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra"
+    },
+    {
+      "id": "rigging-b",
+      "discipline": "rigging",
+      "role": "Technical character animator and rigger",
+      "lens": "Rendering integrity and production reuse",
+      "agent": "/root/panel_rigging_b_implementation",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra"
+    },
+    {
+      "id": "interaction-a",
+      "discipline": "interaction",
+      "role": "Interaction and accessibility designer",
+      "lens": "Keyboard and accessible controls",
+      "agent": "/root/panel_interaction_a_implementation",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra"
+    },
+    {
+      "id": "interaction-b",
+      "discipline": "interaction",
+      "role": "Interaction and accessibility designer",
+      "lens": "Discoverability, comfort and repeat visits",
+      "agent": "/root/panel_interaction_b_implementation",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra"
+    },
+    {
+      "id": "audience-a",
+      "discipline": "audience",
+      "role": "Audience and character-perception researcher",
+      "lens": "Emotion comprehension and attribution",
+      "agent": "/root/panel_audience_a_implementation",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra"
+    },
+    {
+      "id": "audience-b",
+      "discipline": "audience",
+      "role": "Audience and character-perception researcher",
+      "lens": "Research design and memory hypotheses",
+      "agent": "/root/panel_audience_b_implementation",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra"
+    },
+    {
+      "id": "storyboard-a",
+      "discipline": "storyboard",
+      "role": "Storyboard, animatic and comic staging director",
+      "lens": "Visual storytelling and setup/payoff",
+      "agent": "/root/panel_storyboard_a_implementation",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra"
+    },
+    {
+      "id": "storyboard-b",
+      "discipline": "storyboard",
+      "role": "Storyboard, animatic and comic staging director",
+      "lens": "Editing rhythm and comic economy",
+      "agent": "/root/panel_storyboard_b_implementation",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra"
+    },
+    {
+      "id": "visual-a",
+      "discipline": "visual",
+      "role": "Visual development and lighting artist",
+      "lens": "Materials and light/dark continuity",
+      "agent": "/root/panel_visual_development_astra",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra"
+    },
+    {
+      "id": "visual-b",
+      "discipline": "visual",
+      "role": "Visual development and lighting artist",
+      "lens": "Drawing appeal, contour and scale simplification",
+      "agent": "/root/panel_visual_b_implementation",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra"
+    },
+    {
+      "id": "sound-a",
+      "discipline": "sound",
+      "role": "Sound designer",
+      "lens": "Silent legibility and restraint",
+      "agent": "/root/panel_sound_a_implementation",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra"
+    },
+    {
+      "id": "sound-b",
+      "discipline": "sound",
+      "role": "Sound designer",
+      "lens": "Rhythm, optional audio and repeat-listening comfort",
+      "agent": "/root/panel_sound_b_implementation",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra"
+    }
+  ],
+  "status": "Full18 whole-image review commencing; no full-scene acceptance."
+}

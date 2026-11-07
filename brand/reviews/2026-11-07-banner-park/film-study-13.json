@@ -1,0 +1,38 @@
+{
+  "asset": "assets/brand/banner-park/park-film-study-13-muse-face-cleanup.png",
+  "sha256": "32ce62c11e533fcd3a7ab1856a102c7a31b9111d96c3fbf16df8d469b8f08469",
+  "dimensions": [
+    2172,
+    724
+  ],
+  "source": "assets/brand/banner-park/park-film-study-12-materials-and-grip.png",
+  "sourceSha256": "f43b5c7053f9fc3017c651e9ba4628a862ffbe1fd76d706f145a88f75f2e3e70",
+  "mode": "Owner-authorized precise pixel retouch; Node built-ins; no generative rerender",
+  "authorization": "Use precise pixel retouching (Recommended)",
+  "purpose": "Remove only the new extra curved dark mark below Muse’s existing smile",
+  "method": "Harmonic interpolation from immediate surrounding skin within reviewed rectangle; 800 Jacobi iterations per channel; original PNG ancillary chunks retained",
+  "bounds": {
+    "left": 368,
+    "top": 495,
+    "right": 377,
+    "bottom": 501
+  },
+  "actualChangedBounds": {
+    "left": 368,
+    "top": 495,
+    "right": 377,
+    "bottom": 501
+  },
+  "changedPixels": 54,
+  "pixelsOutsideBoundsChanged": 0,
+  "totalPixels": 1572528,
+  "sourceCode": "brand/source/retouch-park13.mjs",
+  "preserved": "Every decoded RGB pixel outside the bounded patch is identical to version12. Existing smile/eyes/hood, all other characters, composition, materials and lighting are untouched.",
+  "status": "Full18 reviewed and accepted with nonblocking limits for authorized GitHub README/banner publication",
+  "generatedSource": {
+    "record": "brand/reviews/2026-11-07-banner-park/film-study-12.json",
+    "prompt": "brand/reviews/2026-11-07-banner-park/film-whole-scene-repair-prompt.txt",
+    "mode": "Built-in image_gen; version13 then applies owner-authorized exact pixel cleanup"
+  },
+  "reviewConsensus": "brand/reviews/2026-11-07-banner-park/whole-scene-13/consensus.json"
+}

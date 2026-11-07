@@ -1,0 +1,43 @@
+{
+  "discipline": "Storyboard, animatic and comic staging",
+  "status": "A proposal after independent reviews; B confirmation pending",
+  "challenges": [
+    {
+      "claim": "SB-B-01: shared easing may flatten comic punctuation",
+      "response": "Keep this hypothesis narrow. Surprised accents its head at 540ms and wings at 850ms; Thinking separates a 1730–2130ms consideration from a 2590–2770ms toe tap. Shared smoothstep does not establish shared rhythm, and total duration is no substitute for beat structure. Inspect those accents before authoring tangent changes.",
+      "evidence": "motion.js:112–124,288–298, sample; all-24.png distinguishes their held intentions, not cadence"
+    },
+    {
+      "claim": "SB-B-02 / highestValueExperiment: compare two peeks with one",
+      "response": "Accept a comparison, but first establish what the existing second peek does. Closing at 2190ms and reopening at 2520ms could mean renewed conspiratorial checking, not surplus activity. A knowing hold changes that intention as well as rhythm. Specify both candidate readings before comparison; a sleepy-looking 1550ms still cannot adjudicate a temporal joke.",
+      "evidence": "motion.js:136–147; all-24.png"
+    },
+    {
+      "claim": "qualityCriteriaForNine: interruption preserves emotional continuity",
+      "response": "Separate semantic continuity from completion. exact-case-9 shows a rapidly superseded anger command, while Engine._begin replaces playback. Acceptance must not demand a readable anger beat or queue it after cancellation.",
+      "evidence": "exact-case-9.png; motion.js: Engine._begin/_advance"
+    }
+  ],
+  "agreements": [
+    "Preserve tiny anatomy, silent baseline, purposeful holds and existing antenna/gaze/mitten vocabulary.",
+    "Curious's return glance is a strong candidate for conversational address; this remains an interpretation to verify.",
+    "Source/still evidence does not justify a rhythm score; both individual scores remain null."
+  ],
+  "differences": "A prioritizes baseline playback before a timing variant. B prioritizes the one-peek comparison. Proposed sequence accommodates both without declaring an existing failure.",
+  "prioritizedExperiments": [
+    "1. Inspect existing Curious, Mischievous, Thinking and Surprised silently at intended size and normal speed. Record perceived attention, reveal and settling moments; distinguish expert inference from unprimed observer responses.",
+    "2. Compare current Mischievous against one reveal plus held complicity, keeping anatomy and framing fixed. Record whether the second reveal adds renewed checking, obscures the first joke, or makes no discernible difference. Retain baseline unless evidence favors revision.",
+    "3. Verify replay Thinking, the uninterrupted hop and rapid cancelled commands continuously; inspect both theme outputs without inventing additional story beats."
+  ],
+  "acceptanceCriteria": [
+    "Selected actions communicate their intended temporal relation without explanatory labels; quiet reactions need no compulsory punchline.",
+    "The static mischievous fallback is assessed separately for useful expression; it need not encode the whole joke.",
+    "No unrelated emotional interval in inspected compatible transitions; superseded commands may remain unreadable. Hop descent and landing retain attached feet.",
+    "Any revision has a named perceptual benefit in fresh evidence, unchanged proportions and shared numeric theme poses. Audience claims require actual observer evidence."
+  ],
+  "remainingObjections": [
+    "No objection to this bounded plan. Playback polish, comic comprehension and audience attachment remain unapproved."
+  ],
+  "ADecision": "agree with named nonblocking evidence limits; plan only",
+  "BDecision": "pending"
+}

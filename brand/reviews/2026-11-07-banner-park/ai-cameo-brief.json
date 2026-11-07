@@ -1,0 +1,20 @@
+{
+  "stage": "Concept decision before image generation. Owner asked the team to assess fit versus overload.",
+  "ownerRequest": "All these are AI logos. See if it fits or overload. I do not want them in the foreground. Either they watching our mascot doing work and few a playing sides us near tree.",
+  "followup": "Ask our team",
+  "latestOwnerConstraint": "Do not clutter them in the front. At front. Just us. Bench and us working.",
+  "foregroundExclusion": "The foreground bench, coding moth, MacBook and surrounding foreground path are reserved for Nag's scene. No companion on, beside or overlapping this foreground area. Any companion must occupy deeper tree/workshop space.",
+  "currentArt": "assets/brand/banner-park/park-day-study-02-macbook.png",
+  "referenceImageLocalOnly": "/tmp/codex-remote-attachments/01a1b473-8621-7941-ba03-4b47867c136c/D31EE005-F5E8-41CB-97E7-95E073243BDD/1-Photo-1.jpg",
+  "identity": "Nag / Nagarjuna Boddu; heyNag and future heyNag.com. Tiny innocent moth is the primary personal identity. Three existing moth appearances metaphorically represent the same person coding, building and resting.",
+  "referenceReading": "The attached picnic contains playful anthropomorphic logo-like companions. Do not assume all depicted symbols are AI products or invent uncertain product identifications. Review the visible forms and composition; specific product roster is not yet chosen.",
+  "options": [
+    "Keep the current moth-only park.",
+    "Two small supporting cameos, clustered in the middle/background.",
+    "Three small cameos: one watching toolbox work, two quietly playing near the tree, all behind foreground coder.",
+    "The full reference cast distributed through the park."
+  ],
+  "invariants": ["Do not age or redesign the moth", "Keep foreground coder and requested MacBook dominant", "No foreground cameo, logo strip or extra text", "No publication while this is an unreviewed study"],
+  "reviewQuestions": ["Does this strengthen Nag's story or shift recognition to other brands?", "What count, scale, placement and action would you test?", "What concrete failure would make you remove the cameos?", "Which conclusions remain unproven until rendering at GitHub banner size?"],
+  "reviewPolicy": "Independent positions first, then paired challenge. Evidence: view both actual input images. No numeric score for an unbuilt variation. Prefer concise concrete judgment, preserving disagreement. Relevant skill intake from brand/workflow.json; read missing full relevant skill instructions. No browser or image generation by reviewers. Write only your own review files."
+}

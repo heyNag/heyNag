@@ -1,0 +1,21 @@
+{
+  "reviewerId": "rigging-b",
+  "decision": "endorse_with_explicit_correction",
+  "responses": [
+    {
+      "challenge": "Existing renderer coverage narrows the missing-renderer claim.",
+      "response": "Accepted. I have now read refinement/evidence/geometry-checks.json: 504 matched samples report zero day/night geometry mismatches, before/after anatomy mismatches and invalid SVG. My initial finding applied to motion.test.mjs, not the whole evidence inventory. Reuse the existing renderer coverage. Paint is excluded, and two added antenna-edge paths are excluded specifically from before/after comparison; these exclusions do not establish perceived contour equality or occlusion quality. I inspected the report, not its generation run."
+    },
+    {
+      "challenge": "Existing interrupted-hop evidence is stronger than B initially inspected.",
+      "response": "Accepted. I have now viewed exact-case-9.png. Its selected excited→angry→worried frames retain compact anatomy and connected parts. This reduces the uncertainty to perceived uninterrupted timing and intended cases not represented. Excited→sad is an optional distinct probe, not a mandatory substitute or demand to certify every transition."
+    },
+    {
+      "challenge": "Thinking/grateful density may be intended contact.",
+      "response": "Accepted. Chin support and gratitude gathering are legitimate contacts; lower-hand separation already improved. Treat my density concern as a size-dependent readability hypothesis. Do not separate every contour or enlarge anatomy to satisfy it."
+    }
+  ],
+  "explicitCorrection": "I endorse the pair's bounded evidence inventory, application-size review and invariant checks. I do not endorse a literal defect-only permission gate in A's criteria or pair P3. Reversible staging/timing exploration may pursue appeal without a proven defect; adopting a variant requires a named observed benefit and no unacceptable regression. The whole-team proposal states this distinction correctly.",
+  "remainingSubstantiveObjections": [],
+  "limits": ["Normal-speed playback has not been observed by me in this review.", "This endorsement approves a plan; it awards no score and does not approve future artwork."]
+}

@@ -1,0 +1,20 @@
+{
+  "discipline": "brand",
+  "state": "Both reviewers explicitly confirmed the same scoped recommendation.",
+  "recommendation": "Keep the warm owner-selected signature and real project bridge. Deepen verified authorship later; avoid audience-impact claims.",
+  "discussionRecords": [
+    "pairs/brand-a-discussion.json",
+    "pairs/brand-b-discussion.json"
+  ],
+  "independentReviews": [
+    "independent/brand-a.json",
+    "independent/brand-b.json"
+  ],
+  "explicitConfirmations": [
+    "team-votes/brand-a.json",
+    "team-votes/brand-b.json"
+  ],
+  "proposal": "team-proposal-v2.json",
+  "proposalSha256": "4eef022ccecba73621ca188b29c13cbc41d08b5268ffeaa6e98e2c4c5ea08c5c",
+  "scorePolicy": "Individual scores remain separate; acceptance does not imply a 9/10 rating."
+}

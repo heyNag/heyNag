@@ -1,0 +1,16 @@
+{
+  "keys": [
+    {
+      "key": "ArrowRight",
+      "prevented": true,
+      "selected": "happy"
+    },
+    {
+      "key": " ",
+      "prevented": true,
+      "selected": "happy"
+    }
+  ],
+  "selected": "happy",
+  "status": "Happy · Paused"
+}

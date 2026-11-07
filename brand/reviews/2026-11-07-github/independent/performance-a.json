@@ -1,0 +1,135 @@
+{
+  "reviewerId": "performance-a",
+  "role": "Character performance director A",
+  "lens": "Intention and comic acting; whole-body intention and weight",
+  "scope": "Independent review of the locally previewed static GitHub profile and the written GitHub-to-website continuity contract. No partner review read. No browser operation, source edit or publication.",
+  "sourceManifestSha256": "7b23e48c7555ab1abca2a81923bb526411043350c092e352ef42efd106b468d2",
+  "inspectedEvidence": [
+    "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-github/evidence/profile-light-1440.png",
+    "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-github/evidence/profile-dark-1440.png",
+    "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-github/evidence/profile-light-320-top.png",
+    "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-github/evidence/profile-dark-320-top.png",
+    "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-github/evidence/readme-light-320-scroll.png",
+    "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-github/evidence/readme-dark-320-scroll.png",
+    "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-github/evidence/pins-light-320-scroll.png",
+    "/Users/nag/projects/personal/heyNag/assets/brand/heynag-moth-avatar-v5-day.png",
+    "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-github/evidence/render-checks.json",
+    "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-github/review-source-v1.json",
+    "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-github/brief.json",
+    "/Users/nag/projects/personal/heyNag/README.md",
+    "/Users/nag/projects/personal/heyNag/brand/profile/profile.json",
+    "/Users/nag/projects/personal/heyNag/brand/profile/continuity.json",
+    "/Users/nag/projects/personal/heyNag/brand/source/applications-v5.js",
+    "/Users/nag/projects/personal/heyNag/AGENTS.md",
+    "/Users/nag/projects/personal/heyNag/brand/workflow.json",
+    "/Users/nag/projects/personal/heyNag/brand/team.json"
+  ],
+  "skillsReviewed": [
+    {
+      "path": "/Users/nag/.agents/skills/emil-design-eng/SKILL.md",
+      "intake": "Full text read for this review.",
+      "applied": "Purpose before motion, coherent personality, rendered evidence and responsive checks."
+    },
+    {
+      "path": "/Users/nag/.agents/skills/taste-skill/SKILL.md",
+      "intake": "Full text read for this review; user-invoked design-taste-frontend.",
+      "applied": "One established identity, factual work and plain copy, render verification."
+    },
+    {
+      "path": "/Users/nag/.config/skillshare/skills/choreograph/SKILL.md",
+      "intake": "Full text read in the preceding standing-panel review; reused, not reread.",
+      "applied": "Hierarchy of attention and a purposeful notice/look/invite sequence for the future contract only."
+    },
+    {
+      "path": "/Users/nag/.config/skillshare/skills/review-animations/SKILL.md",
+      "intake": "Full text read in the preceding standing-panel review; reused, not reread.",
+      "applied": "Separate implementation evidence from perceived motion; do not reward animation merely for existing."
+    }
+  ],
+  "workflowChanges": [
+    "Review the actual application independently of the prior 8.8 mascot-foundation score. This score is a fresh static-profile judgment, not inherited approval.",
+    "Inspect the full face, actual 320px GitHub avatar/banner and native reading flow together. The 512px asset alone cannot establish small-scale acting specificity.",
+    "Preserve source-manifest provenance and distinguish observed screenshots, supplied render-check results, planned website behavior and untested audience interpretation.",
+    "For future website staging, choose a real project detail first; then compose the gaze and one invitation around it. Review that composition as a still before adding a notice/look/share sequence."
+  ],
+  "rulesNotApplicableWithReason": [
+    "GitHub hosts the native layout and Markdown: custom typography, random site-kind/palette/layout recipes, custom hover/effect layers and build-kit scaffolding from design-taste-frontend do not apply.",
+    "UI duration, spring, stagger, compositor and interruptibility rules cannot evaluate these static PNGs. Not adding autoplay is purposeful restraint, not a missing performance feature.",
+    "The requested JSON assessment replaces a UI implementation Before/After table: no UI source change is being proposed or made in this independent review.",
+    "Future character acting is purposeful content; a universal sub-300ms UI-transition limit should not truncate a considered look or comic pause. Its actual timing remains unscored until implemented and observed."
+  ],
+  "score": 8.8,
+  "scoreMeaning": "Fresh craft assessment of silent welcome, static pose legibility and character/author relationship in this local GitHub application. It does not score a built website, motion timing, audience recognition or live account state.",
+  "confidence": {
+    "staticApplication": "High for the inspected light/dark desktop and 320px viewport captures and source export.",
+    "futureContinuity": "Moderate confidence in the contract's coherence; no implementation or visitor-comprehension evidence.",
+    "provenance": "Local draft inserted into GitHub DOM using Markdown API HTML, local asset data URLs and proposed fields. Screenshots show browser viewport emulation, not physical devices. Supplied render-checks were read, not independently rerun."
+  },
+  "strengths": [
+    {
+      "finding": "The open smile, unequal antennae and slight facial asymmetry give the introduction a relaxed, welcoming attitude in both themes. The cropped avatar preserves the complete antenna paddles; the small displayed avatar still offers a clear face rather than relying on hand detail.",
+      "evidence": [
+        "assets/brand/heynag-moth-avatar-v5-day.png",
+        "evidence/profile-light-320-top.png",
+        "evidence/profile-dark-320-top.png"
+      ]
+    },
+    {
+      "finding": "The header's compact body, short planted feet and contained arms communicate a gentle standing companion. The large heyNag wordmark and 'Hey, I'm Nag.' keep the human author primary; the moth does not impersonate the author or demand interaction.",
+      "evidence": [
+        "evidence/profile-light-1440.png",
+        "evidence/profile-dark-1440.png",
+        "README.md"
+      ]
+    },
+    {
+      "finding": "Friendly stillness suits a recurring repository profile. Source explicitly renders NEUTRAL and exports PNGs; nothing in the reviewed application pretends to stage a discovery or a temporal joke.",
+      "evidence": [
+        "brand/source/applications-v5.js",
+        "README.md"
+      ]
+    },
+    {
+      "finding": "The curious character tone is supported by concrete project descriptions and the invitation to see a small public window into the work. The 320px reading and pin captures retain that substance after the decorative header scrolls away.",
+      "evidence": [
+        "evidence/readme-light-320-scroll.png",
+        "evidence/readme-dark-320-scroll.png",
+        "evidence/pins-light-320-scroll.png"
+      ]
+    }
+  ],
+  "deductions": [
+    {
+      "finding": "The neutral body pose has less specific inviting intention than the face. Both mittens sit near the ruff; at the 238px-wide phone banner their relationship becomes a small cluster. I can read a cheerful greeting, but not a distinct offer or shared discovery from that silhouette.",
+      "evidence": [
+        "brand/source/applications-v5.js: NEUTRAL render",
+        "evidence/profile-light-1440.png",
+        "evidence/profile-light-320-top.png",
+        "evidence/profile-dark-320-top.png",
+        "evidence/render-checks.json: 320px viewport, 238px banner"
+      ],
+      "severity": "Minor, nonblocking acting-specificity limit. Essential profile meaning is carried by native text, so no profile acceptance blocker.",
+      "improvementCriterion": "A more specific future invitation should separate one mitten from the collar/body silhouette and align gaze with a visible item to share, while preserving the approved anatomy. Compare the actual intended display size in both themes. Keep the current static greeting if that extra gesture does not survive reduction cleanly."
+    }
+  ],
+  "blockers": [],
+  "recommendations": [
+    "Keep the current profile as a quiet static introduction; do not add a looping wave or imply the neutral still already demonstrates Investigate & share.",
+    "Carry the same warm baseline into the website, then give the character a concrete reason to look closer and a visible thing to invite the visitor toward. Warm curiosity should precede occasional mischief.",
+    "In the website implementation, keep authorship and project explanations readable without the mascot, and preserve the discovery in the reduced-motion/static composition. Validate actual gaze geometry and interruption separately from felt timing.",
+    "Treat a smile, facial recognizability and comprehension of 'this character is sharing that project' as separate questions in any later audience check."
+  ],
+  "continuityAssessment": {
+    "current": "The avatar, neutral full-body header, wordmark and human introduction form a coherent static identity. Theme changes preserve the same pose and anatomy.",
+    "proposed": "The written Investigate & share sequence is a credible extension of the curious, welcoming baseline: real work supplies the subject; the moth can then notice, consider and invite. It is a plan, not observed behavior.",
+    "boundary": "A smile is not an observed investigation, a planned gaze is not verified attention guidance, and source consistency is not proof of audience recognition. No deduction is assigned merely because this static GitHub surface cannot perform the full sequence.",
+    "acceptance": "Support the current static application within this lens, with the named minor pose-specificity limit. Website execution requires its own rendered and motion review."
+  },
+  "unscoredOutcomes": [
+    "Continuous felt motion, timing, weight transfer, comic pauses, interruption and runtime animation performance.",
+    "Human recognition, comprehension, preference, conversion or response to the welcoming pose.",
+    "A built, tested or launched heyNag.com website and future project stories.",
+    "Physical-device behavior, live published account fields, completed publication or cross-platform rendering beyond the supplied preview evidence.",
+    "Audio or sound design; the profile is silent."
+  ]
+}

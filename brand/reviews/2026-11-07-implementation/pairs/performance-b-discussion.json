@@ -1,0 +1,146 @@
+{
+  "reviewer": "Performance B — timing, weight and emotional clarity; comic economy and character appeal counterpoint",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "partnerRecordRead": "independent/performance-a.json",
+  "partnerDiscussionRead": "pairs/performance-a-discussion.json",
+  "proposalFile": "team-proposal-v2.json",
+  "proposalSha256": "4eef022ccecba73621ca188b29c13cbc41d08b5268ffeaa6e98e2c4c5ea08c5c",
+  "sourceManifest": "review-source-v4.json",
+  "sourceManifestSha256": "4b70d40e6c6fed47936377ff71d915379cbe84bc2a23020ac2ab2fb9696b2caa",
+  "verification": {
+    "all18ManifestEntriesMatched": true,
+    "characterAndMotionUnchangedFromOwnIndependent": true,
+    "currentSourceRead": [
+      "brand/animation-v5/signature.js (full)",
+      "brand/animation-v5/signature.html (full)",
+      "brand/animation-v5/signature.css (full)"
+    ],
+    "freshImagesActuallyViewedWithViewImage": [
+      "evidence/signature-final-320.png",
+      "evidence/signature-final-390-stage.png",
+      "evidence/signature-final-390-night.png",
+      "evidence/signature-final-1440.png"
+    ],
+    "freshRecordsRead": [
+      "team-proposal-v2.json (full)",
+      "review-source-v4.json (full)",
+      "evidence/description-and-reduced-motion.json",
+      "evidence/desktop-performance-active.json"
+    ],
+    "priorEvidenceReused": "The 22 actually viewed PNGs, source review and 17-skill catalog/three full-skill intake remain documented in independent/performance-b.json. No unnecessary repeated full skill reads."
+  },
+  "meaningfulPartnerChallenges": [
+    {
+      "partnerPoint": "A distinguishes an isolated still lacking temporal setup from an actual drawing defect.",
+      "response": "Agree with the distinction. My PB-I2 was explicitly an observed static-story limitation, not broken anatomy or a demand that a single frame encode the entire joke. I retain the practical expressive-specificity deduction in my holistic score because a labeled Mischievous fallback conveys less specific intent than its clip; I do not require it to recover the false-sleep setup.",
+      "evidence": "all-final.png and decoded-day-2/night-2 were inspected independently. The half-eye is present and appealing; the sequence supplies the prior closed eyes and reveal that one held image cannot.",
+      "resolution": "Accept the still as a useful knowing/soft-wink pose and the clip as the causal joke. Keep the limitation visible, make no mandatory pose change, and evaluate still and clip with separate questions."
+    },
+    {
+      "partnerPoint": "A limits the phrase complete thought change to authored causal construction.",
+      "response": "Agree. Complete in my strength claim means that source and sampled poses contain notice, read/consider and return/share beats. It does not mean an unfamiliar observer identified them, and the adjacent text/labels make this unsuitable as unprimed comprehension evidence.",
+      "evidence": "motion.js:425–446 supplies the causal timeline; owner-preference.json supplies Nag’s choice only. No new unfamiliar-observer record was reviewed.",
+      "resolution": "Describe the construction as purposeful and complete in authored steps; describe audience comprehension and personal attribution as unmeasured. Correct accessible descriptions state intended content, not experimental results."
+    },
+    {
+      "partnerPoint": "A withdraws the old cramped side-by-side390px criticism but retains the phone eyeline tradeoff.",
+      "response": "Agree. My independent review already used final portrait stage/night screenshots and praised the increased character size. The fresh320px screenshot confirms the heading wraps cleanly. The remaining rightward gaze versus above-character question is a separate spatial limitation, not a reason to resurrect the old tiny-display claim.",
+      "evidence": "signature-final-390-stage/night.png places the question above the moth; signature-final-1440.png places it screen-right. The unchanged investigation frames principally direct gaze screen-right.",
+      "resolution": "Accept the portrait local study with the limitation stated in proposal v2. Future breakpoint review should test cue placement and gaze together, without silently changing character anatomy or claiming mobile equivalence from CSS alone."
+    },
+    {
+      "partnerPoint": "A says fewer checks are not inherently better comedy.",
+      "response": "Agree and sharpen my economy claim: the one-peek study removes a second check, which is useful for a single sustained reveal. That is a structural option rather than proof that it is funnier, warmer or better paced. The second check can itself be the payoff in another setting.",
+      "evidence": "motion.js and decoded-day-2/night-2 preserve both variants. No continuous perception comparison was performed by me.",
+      "resolution": "Keep one-peek as a separate audition and the two-peek emotion intact. Compare setup/reveal/reconcealment/settlement continuously in context before promotion."
+    },
+    {
+      "partnerPoint": "A now accepts reversible alternatives without requiring proven baseline failure.",
+      "response": "Agree. This resolves the earlier process difference. A named expressive question is sufficient authority for a bounded local study; a named benefit and preservation of geometry are needed for adoption.",
+      "resolution": "No invented failure-only or user-permission gate. Keep baseline and one-variable variant evidence, and retain the baseline if the proposed benefit is not demonstrated."
+    },
+    {
+      "partnerPoint": "A treats new cadence and semantic evidence separately from acting quality.",
+      "response": "Agree. The active-only desktop record is narrower and more useful than mixed idle/playback gaps, but it is neither subjective continuity nor a phone trace. The variant descriptions fix a specific semantic mismatch without proving that the gesture itself was understood.",
+      "resolution": "Do not attribute residual delays to SVG or award extra acting points from a technical pass. Preserve separate source, frame, runtime, device and audience evidence categories."
+    }
+  ],
+  "evidenceBasedResolution": [
+    "Retain Investigate & share as Nag’s chosen lead; the warm authored sequence is coherent and the current local implementation contains it.",
+    "Retain the improved surprise onset, contact-follow-through ordering and compatible-emotion continuity. These are implemented construction gains; felt weight and rhythm remain outside this reviewer’s evidence.",
+    "Keep invitation specificity and the optional wry distinction as nonblocking craft deductions. Improve through bounded pose/timing/staging comparisons if evidence supports adoption, without enlarging the character.",
+    "Keep static-fallback narrative limits visible without converting them into automatic drawing defects or requiring all frames to explain whole clips.",
+    "Accept the larger final portrait and corrected320px wrap. Explicitly retain the above-question/rightward-gaze tradeoff and first-viewport exposure limit.",
+    "Neither equal numerical scores nor aligned recommendations prove human comprehension or all18 consensus."
+  ],
+  "remainingDisagreements": [
+    "Mild scoring classification difference remains: A primarily treats PB-I2 as a representation limit; B includes that limited static semantic specificity in a holistic expressive-usefulness score. Both agree it is not an actual drawing error, does not block local acceptance and does not mandate a change.",
+    "Our coincident8.4 values are independent judgments, not an averaged or calibrated pair score. Their scopes and named deductions remain in the original records."
+  ],
+  "acceptedJointRecommendation": "Keep the improved beat structure. A bounded future study can vary tiny hand pose and orientation to strengthen invitation without changing anatomy. Continuous playback evidence is needed for timing judgments.",
+  "acceptedJointRecommendationStatus": "B explicitly confirms the exact quoted recommendation already confirmed by A in pairs/performance-a-discussion.json. This confirms this pair only, not the other16 individual positions.",
+  "practicalSkillsWorkflowAgreement": [
+    {
+      "skill": "choreograph",
+      "agreement": "Write a causal timeline before implementation, cast lead/support/static channels, and attach supporting wing/antenna/head accents to the meaningful thought or contact event. Check each viewport’s cue-to-gaze relation alongside the timeline."
+    },
+    {
+      "skill": "review-animations",
+      "agreement": "Use two review tracks: product controls for responsiveness, frequency, input parity, interruption and reduced motion; character performances for intention, silhouette, anticipation, hold and settlement. Record named defects instead of treating checklist passes as aesthetic approval."
+    },
+    {
+      "skill": "animation-performance",
+      "agreement": "Inventory the actual driver/property updates and keep source risk, exact export, active desktop intervals and real-device traces distinct. Diagnose a measured bottleneck before changing geometry or applying will-change. Preserve expressive correctness."
+    },
+    {
+      "skill": "baseline/alternative review",
+      "agreement": "Inspect baseline first, permit one named reversible expressive hypothesis, compare actual rendered sizes and contextual playback, and adopt only a demonstrated benefit. Record a still fallback separately from the full clip."
+    },
+    {
+      "skill": "animation-vocabulary and evidence handoff",
+      "agreement": "Accept A’s precise anticipation/follow-through/interruption terminology and timestamped evidence handoff as pair practice. B does not claim a new full read of animation-vocabulary or watch-video; B’s actual full-skill intake remains the three files recorded independently."
+    },
+    {
+      "skill": "future website work",
+      "agreement": "Carry these rules into engineering briefs: source manifest, causal timeline, responsive cue/character staging, interruption cases, still fallback, and clear limits for device and audience claims. Engineers implement; fresh paired evidence review follows material changes."
+    }
+  ],
+  "skillExceptions": [
+    "Do not cap an authored2.6–4.7-second thought sequence at a300ms UI budget. Assess control feedback and first readable reaction separately from the complete narrative.",
+    "Different acting channels may intentionally lead or lag; one generic timing family or simultaneous onset is not mandatory.",
+    "Explicit Play activated from the keyboard must expose the requested performance. The no-keyboard-animation rule concerns unnecessary feedback, not the content being played.",
+    "A still pose is a valid reduced-motion alternative; fades are not mandatory.",
+    "Transform/opacity guidance does not authorize replacing expressive SVG paths with visually inequivalent shortcuts or changing tiny anatomy.",
+    "Unseen continuous feel warrants scoped claims and further evidence, not automatic deletion of commissioned acting.",
+    "Local reversible exploration needs no invented approval gate."
+  ],
+  "scoreHistory": [
+    {
+      "stage": "independent review-source-v2 with final portrait evidence",
+      "value": 8.4,
+      "outOf": 10,
+      "record": "independent/performance-b.json",
+      "meaning": "Visual acting construction, pose relationships and sampled transitions; no score for unseen continuous rhythm or audience outcomes."
+    },
+    {
+      "stage": "review-source-v4 / team-proposal-v2 final pair position",
+      "value": 8.4,
+      "outOf": 10,
+      "reason": "No character/motion source change. My independent review already included the larger portrait stage, so no obsolete compressed-phone deduction requires removal. The final semantics and 320px heading are improvements outside the acting score. Retain invitation specificity, subtle optional afterthought and static-story limits; clarify classification without forcing numerical agreement."
+    }
+  ],
+  "namedLimits": [
+    "The sharing mitten is more visible in the final portrait, but its specific invitation remains less determinate than the glasses and face; 96–128px inner contours remain dense.",
+    "The phone question is above the character while the authored investigation looks principally screen-right. The final portrait trades a more literal eyeline relation for greater character legibility and vertical space; it does not resolve both.",
+    "The wry afterthought is subtle at reduced size. The mischievous still conveys broad knowing/wink affect more securely than the full pretend-sleep narrative; this is a representation limit, not proof of a drawing error.",
+    "No continuous normal-speed perception was performed by this reviewer. Authored beats and decoded frames do not establish felt weight, successful comic timing or perceived smoothness.",
+    "No new unprimed-human comprehension, attribution, attachment or recall result exists. Owner preference establishes personal fit; performance labels and explanatory copy prime interpretation.",
+    "Active desktop cadence is a 119-interval local sample (mean 34.45ms, p95 35ms, max 67ms, four intervals above 50ms), not physical-phone/GPU validation or a causal attribution of delay to SVG.",
+    "Per-variant accessible descriptions and truthful reduced-motion labels are supported by source and browser records; native menu keyboard commit and spoken screen-reader output remain unverified.",
+    "Acceptance is for the implemented local foundation and continued design. It is not publication, remote commit/push, deployment or a universal 9/10 rating."
+  ],
+  "substantiveObjections": [],
+  "decision": "agree_with_named_nonblocking_limits",
+  "sourceEditsMade": false
+}

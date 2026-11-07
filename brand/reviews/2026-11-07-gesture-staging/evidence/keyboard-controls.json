@@ -1,0 +1,60 @@
+{
+  "playing": {
+    "playing": true,
+    "focus": "play"
+  },
+  "paused": {
+    "playing": false,
+    "text": "Resume",
+    "pose": {
+      "bodyX": 0,
+      "bodyY": 0,
+      "bodyR": 0,
+      "headX": 0,
+      "headY": 1,
+      "headR": -1,
+      "antennaL": 1.9993916139689787,
+      "antennaR": -4.996146888470198,
+      "wingLF": -3,
+      "wingRF": 7,
+      "wingLH": 1,
+      "wingRH": 4,
+      "handLX": 269,
+      "handLY": 481,
+      "handLR": 0,
+      "handRX": 407,
+      "handRY": 458,
+      "handRR": -26,
+      "footLR": 0,
+      "footRR": 0,
+      "eyeL": 0.98,
+      "eyeR": 0.98,
+      "eyeJoy": 0,
+      "gazeX": 0,
+      "gazeY": 0,
+      "browL": -4,
+      "browR": 3,
+      "browLY": -3,
+      "browRY": -2,
+      "mouthSmile": 0.55,
+      "mouthOpen": 0,
+      "mouthO": 0,
+      "mouthX": 0,
+      "glasses": 1,
+      "glassesY": 0,
+      "bulb": 0,
+      "heart": 0,
+      "tear": 0,
+      "breath": 0
+    }
+  },
+  "resumed": {
+    "playing": true
+  },
+  "range": {
+    "before": 5,
+    "value": 6,
+    "status": "Pose inspection"
+  },
+  "scope": "Desktop browser keyboard Play/Pause/Resume and range; not native OS select menu or spoken AT validation."
+}

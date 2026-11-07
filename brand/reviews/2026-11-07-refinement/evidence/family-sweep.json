@@ -1,0 +1,299 @@
+{
+  "method": "42 directed family pairs; deterministic engine at10ms; numeric evidence, not perceptual approval",
+  "results": [
+    {
+      "from": "sad",
+      "to": "worried",
+      "maxSmileFirst1100ms": 0,
+      "maxHandReach": 35.6931365951495,
+      "nonfinite": 0
+    },
+    {
+      "from": "sad",
+      "to": "scared",
+      "maxSmileFirst1100ms": -0.005395067502551365,
+      "maxHandReach": 38.470768123342694,
+      "nonfinite": 0
+    },
+    {
+      "from": "sad",
+      "to": "frustrated",
+      "maxSmileFirst1100ms": -0.2,
+      "maxHandReach": 35.6931365951495,
+      "nonfinite": 0
+    },
+    {
+      "from": "sad",
+      "to": "angry",
+      "maxSmileFirst1100ms": -0.3,
+      "maxHandReach": 35.6931365951495,
+      "nonfinite": 0
+    },
+    {
+      "from": "sad",
+      "to": "disgusted",
+      "maxSmileFirst1100ms": -0.2,
+      "maxHandReach": 35.6931365951495,
+      "nonfinite": 0
+    },
+    {
+      "from": "worried",
+      "to": "sad",
+      "maxSmileFirst1100ms": -0.25,
+      "maxHandReach": 35.6931365951495,
+      "nonfinite": 0
+    },
+    {
+      "from": "worried",
+      "to": "scared",
+      "maxSmileFirst1100ms": -0.0043689969966467235,
+      "maxHandReach": 38.470768123342694,
+      "nonfinite": 0
+    },
+    {
+      "from": "worried",
+      "to": "frustrated",
+      "maxSmileFirst1100ms": -0.2,
+      "maxHandReach": 35.38361202590826,
+      "nonfinite": 0
+    },
+    {
+      "from": "worried",
+      "to": "angry",
+      "maxSmileFirst1100ms": -0.3,
+      "maxHandReach": 35.38361202590826,
+      "nonfinite": 0
+    },
+    {
+      "from": "worried",
+      "to": "disgusted",
+      "maxSmileFirst1100ms": -0.2,
+      "maxHandReach": 35.38361202590826,
+      "nonfinite": 0
+    },
+    {
+      "from": "scared",
+      "to": "sad",
+      "maxSmileFirst1100ms": -0.1,
+      "maxHandReach": 38.470768123342694,
+      "nonfinite": 0
+    },
+    {
+      "from": "scared",
+      "to": "worried",
+      "maxSmileFirst1100ms": 0,
+      "maxHandReach": 38.470768123342694,
+      "nonfinite": 0
+    },
+    {
+      "from": "scared",
+      "to": "frustrated",
+      "maxSmileFirst1100ms": -0.1,
+      "maxHandReach": 38.470768123342694,
+      "nonfinite": 0
+    },
+    {
+      "from": "scared",
+      "to": "angry",
+      "maxSmileFirst1100ms": -0.1,
+      "maxHandReach": 38.470768123342694,
+      "nonfinite": 0
+    },
+    {
+      "from": "scared",
+      "to": "disgusted",
+      "maxSmileFirst1100ms": -0.1,
+      "maxHandReach": 38.470768123342694,
+      "nonfinite": 0
+    },
+    {
+      "from": "frustrated",
+      "to": "sad",
+      "maxSmileFirst1100ms": -0.25,
+      "maxHandReach": 35.6931365951495,
+      "nonfinite": 0
+    },
+    {
+      "from": "frustrated",
+      "to": "worried",
+      "maxSmileFirst1100ms": 0,
+      "maxHandReach": 35.38361202590826,
+      "nonfinite": 0
+    },
+    {
+      "from": "frustrated",
+      "to": "scared",
+      "maxSmileFirst1100ms": -0.005190956116051915,
+      "maxHandReach": 38.470768123342694,
+      "nonfinite": 0
+    },
+    {
+      "from": "frustrated",
+      "to": "angry",
+      "maxSmileFirst1100ms": -0.3,
+      "maxHandReach": 26.907248094147423,
+      "nonfinite": 0
+    },
+    {
+      "from": "frustrated",
+      "to": "disgusted",
+      "maxSmileFirst1100ms": -0.2,
+      "maxHandReach": 33.52610922848042,
+      "nonfinite": 0
+    },
+    {
+      "from": "angry",
+      "to": "sad",
+      "maxSmileFirst1100ms": -0.25,
+      "maxHandReach": 35.6931365951495,
+      "nonfinite": 0
+    },
+    {
+      "from": "angry",
+      "to": "worried",
+      "maxSmileFirst1100ms": 0,
+      "maxHandReach": 35.38361202590826,
+      "nonfinite": 0
+    },
+    {
+      "from": "angry",
+      "to": "scared",
+      "maxSmileFirst1100ms": -0.00549712319580109,
+      "maxHandReach": 38.470768123342694,
+      "nonfinite": 0
+    },
+    {
+      "from": "angry",
+      "to": "frustrated",
+      "maxSmileFirst1100ms": -0.19999999999999996,
+      "maxHandReach": 26.907248094147423,
+      "nonfinite": 0
+    },
+    {
+      "from": "angry",
+      "to": "disgusted",
+      "maxSmileFirst1100ms": -0.19999999999999996,
+      "maxHandReach": 33.52610922848042,
+      "nonfinite": 0
+    },
+    {
+      "from": "disgusted",
+      "to": "sad",
+      "maxSmileFirst1100ms": -0.25,
+      "maxHandReach": 35.6931365951495,
+      "nonfinite": 0
+    },
+    {
+      "from": "disgusted",
+      "to": "worried",
+      "maxSmileFirst1100ms": 0,
+      "maxHandReach": 35.38361202590826,
+      "nonfinite": 0
+    },
+    {
+      "from": "disgusted",
+      "to": "scared",
+      "maxSmileFirst1100ms": -0.005395067502551365,
+      "maxHandReach": 38.470768123342694,
+      "nonfinite": 0
+    },
+    {
+      "from": "disgusted",
+      "to": "frustrated",
+      "maxSmileFirst1100ms": -0.2,
+      "maxHandReach": 33.52610922848042,
+      "nonfinite": 0
+    },
+    {
+      "from": "disgusted",
+      "to": "angry",
+      "maxSmileFirst1100ms": -0.3,
+      "maxHandReach": 33.52610922848042,
+      "nonfinite": 0
+    },
+    {
+      "from": "thinking",
+      "to": "focused",
+      "maxSmileFirst1100ms": 0.25,
+      "maxHandReach": 38.41874542459709,
+      "nonfinite": 0
+    },
+    {
+      "from": "thinking",
+      "to": "skeptical",
+      "maxSmileFirst1100ms": 0.25,
+      "maxHandReach": 38.41874542459709,
+      "nonfinite": 0
+    },
+    {
+      "from": "thinking",
+      "to": "confused",
+      "maxSmileFirst1100ms": 0.25,
+      "maxHandReach": 38.41874542459709,
+      "nonfinite": 0
+    },
+    {
+      "from": "focused",
+      "to": "thinking",
+      "maxSmileFirst1100ms": 0.25,
+      "maxHandReach": 39.698866482558415,
+      "nonfinite": 0
+    },
+    {
+      "from": "focused",
+      "to": "skeptical",
+      "maxSmileFirst1100ms": 0,
+      "maxHandReach": 35.05709628591621,
+      "nonfinite": 0
+    },
+    {
+      "from": "focused",
+      "to": "confused",
+      "maxSmileFirst1100ms": 0.09770524274675609,
+      "maxHandReach": 35.05709628591621,
+      "nonfinite": 0
+    },
+    {
+      "from": "skeptical",
+      "to": "thinking",
+      "maxSmileFirst1100ms": 0.25,
+      "maxHandReach": 39.698866482558415,
+      "nonfinite": 0
+    },
+    {
+      "from": "skeptical",
+      "to": "focused",
+      "maxSmileFirst1100ms": 0.10000000000000002,
+      "maxHandReach": 35.05709628591621,
+      "nonfinite": 0
+    },
+    {
+      "from": "skeptical",
+      "to": "confused",
+      "maxSmileFirst1100ms": 0.09681954512319581,
+      "maxHandReach": 31.144823004794876,
+      "nonfinite": 0
+    },
+    {
+      "from": "confused",
+      "to": "thinking",
+      "maxSmileFirst1100ms": 0.25,
+      "maxHandReach": 39.698866482558415,
+      "nonfinite": 0
+    },
+    {
+      "from": "confused",
+      "to": "focused",
+      "maxSmileFirst1100ms": 0.09999999999999998,
+      "maxHandReach": 35.05709628591621,
+      "nonfinite": 0
+    },
+    {
+      "from": "confused",
+      "to": "skeptical",
+      "maxSmileFirst1100ms": 0,
+      "maxHandReach": 31.144823004794876,
+      "nonfinite": 0
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "reviewer": "brand-a",
+  "role": "Character brand director A — personal voice and authentic work",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "partnerRecordRead": "independent/brand-b.json",
+  "partnerDiscussionRead": null,
+  "partnerDiscussionStatus": "No brand-b-discussion.json existed when this response was written. This is my explicit contribution and confirmation; Brand B must confirm its own position.",
+  "proposalFile": "team-proposal-v2.json",
+  "proposalSha256": "4eef022ccecba73621ca188b29c13cbc41d08b5268ffeaa6e98e2c4c5ea08c5c",
+  "sourceManifest": "review-source-v4.json",
+  "sourceManifestSha256": "4b70d40e6c6fed47936377ff71d915379cbe84bc2a23020ac2ab2fb9696b2caa",
+  "verification": {
+    "proposalAndManifestHashes": "Independently computed and matched the requested immutable hashes.",
+    "currentSourceHashesMatched": [
+      "brand/animation-v5/character.js",
+      "brand/animation-v5/motion.js",
+      "brand/animation-v5/signature.html",
+      "brand/animation-v5/signature.css",
+      "brand/animation-v5/signature.js",
+      "brand/animation-v5/studio.css",
+      "assets/brand/header-v5-light.png",
+      "assets/brand/header-v5-dark.png",
+      "assets/brand/heynag-moth-avatar-v5-day.png",
+      "assets/brand/heynag-moth-avatar-v5-night.png"
+    ],
+    "newImagesActuallyViewed": [
+      "evidence/signature-final-1440.png",
+      "evidence/signature-final-390.png",
+      "evidence/signature-final-390-stage.png",
+      "evidence/signature-final-390-night.png",
+      "evidence/signature-final-320.png",
+      "evidence/sizes-final.png",
+      "assets/brand/header-v5-light.png",
+      "assets/brand/header-v5-dark.png",
+      "assets/brand/heynag-moth-avatar-v5-day.png",
+      "assets/brand/heynag-moth-avatar-v5-night.png"
+    ],
+    "newRecordsRead": [
+      "team-proposal-v2.json in full",
+      "review-source-v4.json in full",
+      "Current signature.html, signature.css and signature.js in full",
+      "evidence/description-and-reduced-motion.json",
+      "evidence/desktop-performance-active.json",
+      "evidence/final-ui.json",
+      "brand/workflow.json",
+      "index.html source search confirming the local report exists, alongside still-historical review summaries"
+    ],
+    "precedence": "description-and-reduced-motion.json supersedes final-ui.json's older 'press play' reduced-motion status. Final portrait PNGs supersede the old side-by-side phone deduction. No browser or physical phone operated by this reviewer."
+  },
+  "meaningfulPartnerChallenges": [
+    {
+      "partnerFinding": "Brand B's first deduction identifies a roughly 105px visible moth in a narrow phone column, and warns that stacking the cue may contradict the authored screen-right gaze.",
+      "challenge": "The scale diagnosis must be updated for v4, but its eyeline warning must not be discarded merely because the new moth is larger. Readable detail and a motivated glance are different properties.",
+      "resolution": "The final 390 stage plainly shows a larger, more present character and a discernible lifted mitten. I retire my own original cramped-column finding. The cue now sits above the character and the authored horizontal glance is less literally aligned with it; the first viewport also shows the question while almost all of the moth and its Play action are below. v2 explicitly names these tradeoffs. They are nonblocking for this local study and remain criteria for future phone staging.",
+      "evidence": ["signature-final-390.png", "signature-final-390-stage.png", "signature-final-390-night.png", "signature-final-320.png", "motion.js investigationFrames", "team-proposal-v2.json unresolvedCraft"]
+    },
+    {
+      "partnerFinding": "The signature is more 'friendly curious person' than highly specific Nag behavior; use a second verified project moment to establish a repertoire.",
+      "challenge": "I agree with the content opportunity, but 'ownable' or distinctive behavior cannot be established by making every pose more unusual. Nor should a second scene become a mandatory blocker for accepting this bounded study.",
+      "resolution": "Keep the warm owner-selected lead. The next authoring unit should begin with one verified decision or useful observation in Nag's voice, then select a restrained supporting performance. The current eva.md link is a credible authorship bridge, and the broader claim of recognizable personal behavior remains unmeasured. This meets the proposal's local-acceptance scope without claiming a finished project story.",
+      "evidence": ["signature.html", "README.md and brand/story.md inspected in independent review", "owner-preference.json", "independent/brand-b.json", "team-proposal-v2.json pairRecommendations.brand"]
+    },
+    {
+      "partnerFinding": "The head-only avatar omits the most obvious moth cue and transfers recognition to the head and antennae.",
+      "challenge": "The observation is correct, but I treat the crop as a deliberate recognition tradeoff rather than a separate proven brand defect. A 32px full figure could sacrifice the facial presence that makes the current crop useful; no confusion or recall failure has been observed.",
+      "resolution": "Accept the inspected day avatar as the universal small mark and the full character beside heyNag in the headers. Give the night version more space. Keep the missing-wing recognition hypothesis available for later audience work, without deducting for an untested failure or reopening anatomy now.",
+      "evidence": ["sizes-final.png", "actual refreshed day/night avatar PNGs", "actual refreshed day/night header PNGs"]
+    },
+    {
+      "partnerFinding": "Good defaults and a recurring chosen behavior matter more than exposing the entire emotion catalogue as the brand.",
+      "challenge": "A default only helps if the useful content arrives independently of its performance. The final tall phone view should not be described as providing the entire brand moment at first glance.",
+      "resolution": "Accept the still-first page and stable project link as the usable default. Preserve the single selected signature; the 24 emotions remain an exploration library. Future first-visit tests should record viewport and scroll exposure, while repeat visits should be evaluated for useful immediate content and restrained optional playback.",
+      "evidence": ["signature-final-390.png", "signature.js still and play branches", "independent/brand-b.json workflowChanges"]
+    }
+  ],
+  "remainingDisagreements": [
+    "Brand B's independent 8.4 and my 8.2 are individual scoped judgments, not a numerical conflict to average away.",
+    "I classify the wingless avatar crop principally as a usage tradeoff and research hypothesis; Brand B includes it as a minor craft deduction. This does not prevent agreement on the day-avatar recommendation.",
+    "The exact future phone composition remains undecided. Better visual presence is accepted; complete resolution of the look-to-question relation is not claimed."
+  ],
+  "acceptedJointRecommendation": "Keep the warm owner-selected signature and real project bridge. Deepen verified authorship later; avoid audience-impact claims.",
+  "recommendationConfirmedByThisReviewer": true,
+  "jointStatus": "Brand A explicitly accepts this exact recommendation. Do not call it jointly confirmed until Brand B explicitly records its own agreement.",
+  "personalScore": {"outOf10": 8.2},
+  "scoreHistory": [
+    {"source": "independent/brand-a.json", "version": "v1 static/source scope", "outOf10": 8.2},
+    {"version": "v4 final static/source brand scope", "outOf10": 8.2, "reason": "The cramped-column deduction is retired because character visibility materially improves. Overall judgment stays at 8.2: the taller phone composition and less literal cue relation create new application tradeoffs, and the authored story remains introductory. The score is not mechanically raised for additional tests, partner agreement or a desired 9."}
+  ],
+  "skillsWorkflowAgreement": {
+    "acknowledgment": "Nag's installed-skill request is acknowledged. All 17 catalog entries were inspected in the independent pass. Full emil-design-eng and prototype texts were read then; full choreograph SKILL.md was additionally read for this pair response.",
+    "skillsReviewed": [
+      {"name": "emil-design-eng", "depth": "full", "path": "/Users/nag/.config/skillshare/skills/emil-design-eng/SKILL.md"},
+      {"name": "prototype", "depth": "full", "path": "/Users/nag/.config/skillshare/skills/prototype/SKILL.md"},
+      {"name": "choreograph", "depth": "full", "path": "/Users/nag/.config/skillshare/skills/choreograph/SKILL.md"}
+    ],
+    "practicalProcessAcceptedByA": [
+      "Before another brand performance, write the verified project question, one actual observation/decision, reader action, and evidence source. Give informational content the lead and the character an expressive supporting role.",
+      "Cast moving parts and static content before tuning timing. Require a cause for each sequence: antenna notices, gaze finds the subject, consideration precedes invitation. The project text and destination stay visible and usable.",
+      "Compare full-size scenes at the smallest intended application, including first viewport and scrolled stage. A cropped stage proof cannot alone approve the landing experience, and a contact sheet cannot judge normal-speed rhythm.",
+      "Retain still-first finite playback and inspect the repeat-visit case. Immediate keyboard control feedback and purposeful keyboard-triggered content are separate lanes.",
+      "When a new comparative exploration is explicitly requested, name the axis, keep realistic identical content and give the owner functioning alternatives. Controlled microvariations are legitimate when their narrow question is explicit; never inflate them into three unrelated directions just to satisfy a template.",
+      "Tag owner preference, expert craft, browser operation, physical-device experience and unprimed human response separately. Every claim carries its source version and actual inspected evidence.",
+      "Use the pair process to challenge where a skill rule applies. The adopted capability-based hover, coarse-pointer input text, immediate focused-control feedback and truthful reduced-motion labels are concrete improvements, not a checklist replacement for brand judgment."
+    ],
+    "uiReviewTable": "| Before | After | Why |\n| Old narrow phone scene compresses the character | Final portrait gives the unchanged character more area | Retire the old size deduction, then separately review eyeline and scroll exposure |\n| One generic accessible description covers three performances | v4 selects a description for each performance | The comparison now communicates its intended differences without claiming spoken-AT validation |\n| Generic hover and control transitions | Capability-gated hover and brief explicit feedback; focused controls respond immediately | Apply UI craft rules to controls while preserving deliberate character content |",
+    "exceptions": [
+      "Choreograph's short UI budgets and no-keyboard-stagger rule do not compress or suppress an explicitly requested character thought. They govern control latency and incidental entrance effects.",
+      "Choreograph's Together default is not mandatory simultaneous acting. Notice, consider and share have causal order; the cue-to-gaze relation must remain meaningful at each layout.",
+      "A larger phone figure is not enough to satisfy choreography: the position of its subject and the visitor's scroll exposure also matter.",
+      "Transform/opacity guidance is an engineering heuristic, not authority to erase expressive SVG anatomy. Measure performance before changing rendering strategy.",
+      "Prototype is explicit-invocation-only. Reading its comparison guidance does not start a new build or require deleting historical evidence that this repository expressly preserves.",
+      "No compulsory bounce, stagger, blur, idle loop, audio, Sonner, Swift, Expo or new library follows from installed examples.",
+      "I have read Brand B's mobile-native-derived recommendations but do not claim to have read that full skill; physical-phone validation remains a separate specialist task.",
+      "This is a review of skill adoption, not a new choreography implementation. The build workflow and its required new implementation timeline are not invoked; source remains unchanged."
+    ]
+  },
+  "substantiveObjections": [],
+  "remainingLimits": [
+    "No continuous normal-speed perceptual review by this reviewer; decoded frames and deterministic films are not a substitute.",
+    "No human comprehension, recognition, personal attribution, attachment or delayed recall results.",
+    "No physical-phone, GPU or full spoken-AT validation; native menu keyboard commit remains unverified.",
+    "Active desktop cadence narrows the measurement to about 34ms mean intervals with occasional longer intervals; it does not demonstrate 60fps, identify an SVG bottleneck or prove subjective smoothness.",
+    "Small hand/ruff/glasses details remain dense, the wry/peek alternatives remain subtle, and phone eye-line alignment remains incomplete.",
+    "The source report exists; its currently historical score/deduction summaries should be clearly updated or labelled during final synthesis. This is not an objection to the immutable implemented-source scope.",
+    "No public release, GitHub mutation, commit/push or deployment is approved by this review."
+  ]
+}

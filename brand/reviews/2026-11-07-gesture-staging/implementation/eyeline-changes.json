@@ -1,0 +1,302 @@
+{
+  "package": "Composition-aware project-question eyeline",
+  "authorRole": "Interaction/staging implementation engineer; not specialist approval",
+  "plan": "brand/reviews/2026-11-07-gesture-staging/implementation/eyeline-plan.json",
+  "baseline": "brand/reviews/2026-11-07-gesture-staging/before/animation-v5",
+  "files": [
+    {
+      "file": "brand/animation-v5/signature.js",
+      "sha256": "193978baaeced60a7a4f953444c7acc0a3211fc028fa3385cdc0eb3941c0d0e3"
+    },
+    {
+      "file": "brand/animation-v5/signature.html",
+      "sha256": "fb57d8ecbd9ebead9d6fdbe799481eba6d840c3346aab86ba622b388f9e2a06e",
+      "implementationSha256": "23017c2db075fbed658dd8d6c76bc7fb3db26664d5bc942dd54ed1f3dfbbdebd",
+      "rootIntegrationNote": "Footer review link points to this gesture/staging review; behavior unchanged."
+    },
+    {
+      "file": "brand/animation-v5/staging.js",
+      "sha256": "6be8d37d4a77484397d64e7db8d3c86471b76e0c8ef1ecc3978e319c03403d9e"
+    },
+    {
+      "file": "brand/animation-v5/staging.test.mjs",
+      "sha256": "6713f3ad7264a0da5f1dc71e94735a7856fe11a1006b0a63a2661e699c6a4d57"
+    }
+  ],
+  "implementation": {
+    "measurement": "Read the moth host and question h2 rectangles only on initial layout, ResizeObserver, window resize and font readiness. Derive neutral eye center using xMidYMid meet in640\u00d7660 and the fixed artwork offset. No DOM reads in the frame mapper.",
+    "mapping": "Only curious-investigate and curious-wry, only gazeX/gazeY/headX/headY/headR. Upward influence is derived continuously from actual heading bearing. The above-target reading scan stays upward; head support follows the eyes.",
+    "continuity": "Layout direction retargets from its current numeric value over380ms of active clip time. Repeated retargets are continuous. Paused resize freezes the rendered pose; seek commits cached layout. Replay carries its displayed correction into the engine handoff. Theme switches only paint.",
+    "return": "All staging influence is exactly zero by2350ms, including both variants; the warm return and offer remain authored.",
+    "layout": "signature.css is unchanged. Existing phone question order,300px host, intro spacing, controls and zoom remain unchanged.",
+    "api": "HeyNagStaging.measureDirection(hostRect,headingRect), mapPose(rawPose,id,time,direction); heyNagSignature.staging returns frozen cloned snapshots with measured eye/target/direction and current raw/rendered poses."
+  },
+  "timeline": [
+    {
+      "element": "Question content and interface",
+      "role": "Static",
+      "starts": null,
+      "duration": null,
+      "motion": "None",
+      "relationship": "Readable throughout; no layout animation."
+    },
+    {
+      "element": "Gaze correction",
+      "role": "Lead",
+      "starts": 150,
+      "ready": 330,
+      "releases": 1900,
+      "ends": 2350,
+      "motion": "Use cached heading bearing with reduced authored scan",
+      "relationship": "Follows authored antenna cue; gaze leads head."
+    },
+    {
+      "element": "Head support",
+      "role": "Support",
+      "starts": 330,
+      "ready": 790,
+      "releases": 1900,
+      "ends": 2350,
+      "motion": "Bounded headX/headY/headR adjustment",
+      "relationship": "Overlaps gaze and retains authored glasses/hand timing."
+    },
+    {
+      "element": "Visitor return and offering hand",
+      "role": "Authored lead",
+      "starts": 2350,
+      "motion": "No staging correction",
+      "relationship": "Unchanged warm return; separate motion-engine hand refinements remain independent."
+    }
+  ],
+  "findingsTable": [
+    {
+      "before": "Phone composition places the question above the face while the reading pose retains gazeY:+3 and a lateral/downward head roll.",
+      "after": "The measured headline bearing steers gaze and bounded head support during the existing investigation.",
+      "why": "Make the intended subject of attention agree with actual composition without changing anatomy, order or display size."
+    },
+    {
+      "before": "The same horizontal attention coordinates are used at every composition.",
+      "after": "Cached neutral SVG-eye and headline rectangles determine an upward-target influence, with authored scan reduced to one quarter.",
+      "why": "Respond to layout geometry instead of a device guess while preserving the small reading variation."
+    },
+    {
+      "before": "Replaying a corrected frame could drop the correction when the engine restarts its clock.",
+      "after": "Carry the currently displayed five-channel correction across the existing380ms pose handoff.",
+      "why": "Keep the first replay frame continuous and meet the new authored entry without an extra animation loop."
+    },
+    {
+      "before": "A changed layout could abruptly retarget a frozen inspection frame.",
+      "after": "Resize only caches the new target while paused; explicit seek adopts it, and playback smoothly retargets using active clip time.",
+      "why": "Respect pause/reduced motion, avoid autonomous correction motion and keep deliberate inspection meaningful."
+    }
+  ],
+  "markdownTable": "| Before | After | Why |\n| --- | --- | --- |\n| Phone composition places the question above the face while the reading pose retains gazeY:+3 and a lateral/downward head roll. | The measured headline bearing steers gaze and bounded head support during the existing investigation. | Make the intended subject of attention agree with actual composition without changing anatomy, order or display size. |\n| The same horizontal attention coordinates are used at every composition. | Cached neutral SVG-eye and headline rectangles determine an upward-target influence, with authored scan reduced to one quarter. | Respond to layout geometry instead of a device guess while preserving the small reading variation. |\n| Replaying a corrected frame could drop the correction when the engine restarts its clock. | Carry the currently displayed five-channel correction across the existing380ms pose handoff. | Keep the first replay frame continuous and meet the new authored entry without an extra animation loop. |\n| A changed layout could abruptly retarget a frozen inspection frame. | Resize only caches the new target while paused; explicit seek adopts it, and playback smoothly retargets using active clip time. | Respect pause/reduced motion, avoid autonomous correction motion and keep deliberate inspection meaningful. |",
+  "invariants": [
+    "Original24-expression studio does not load staging.js.",
+    "Original curious control receives an identical pose.",
+    "No body, wing, limb, glasses, expression-shape, scale or geometry changes by this package.",
+    "One mapped pose independent of theme.",
+    "No new autonomous requestAnimationFrame loop or timer.",
+    "Reduced motion and static inspection schedule no staging animation.",
+    "Native keyboard/select/radio/range controls remain; explicit keyboard Play still plays content."
+  ],
+  "verification": {
+    "syntax": "node --check signature.js and staging.js pass",
+    "tests": "node --test brand/animation-v5/staging.test.mjs:7 passed,0 failed",
+    "coverage": [
+      "SVG letterbox/translation/scale direction invariants",
+      "Upward notice/read gaze at330/790/1190/1610/1900",
+      "Dense10ms samples preserve all unaffected pose keys and exact before150/after2350 return",
+      "Repeated resize direction continuity and finite interpolation",
+      "Replay correction continuity",
+      "Controller cache: no DOM reads on animation frames; paused resize and paint-only theme invariant",
+      "Direct seek adopts new cached layout; reduced-motion never schedules work"
+    ],
+    "fixtureCaveat": "The coordinates below are a test fixture, not a measured browser viewport.",
+    "fixture": {
+      "host": {
+        "left": 39,
+        "top": 500,
+        "width": 300,
+        "height": 300
+      },
+      "heading": {
+        "left": 106,
+        "top": 300,
+        "width": 245,
+        "height": 96
+      }
+    },
+    "direction": {
+      "x": 0.11301752120823151,
+      "y": -0.993592995094041,
+      "eye": {
+        "x": 195.36363636363637,
+        "y": 639.3181818181818
+      },
+      "target": {
+        "x": 228.5,
+        "y": 348
+      }
+    },
+    "samples": [
+      {
+        "time": 150,
+        "raw": {
+          "gazeX": 0,
+          "gazeY": 0,
+          "headX": 0,
+          "headY": 0,
+          "headR": 0
+        },
+        "mapped": {
+          "gazeX": 0,
+          "gazeY": 0,
+          "headX": 0,
+          "headY": 0,
+          "headR": 0
+        }
+      },
+      {
+        "time": 330,
+        "raw": {
+          "gazeX": 5,
+          "gazeY": -2,
+          "headX": 0,
+          "headY": 0,
+          "headR": 0
+        },
+        "mapped": {
+          "gazeX": 0.5935021115067505,
+          "gazeY": -4.952132186908699,
+          "headX": 0,
+          "headY": 0,
+          "headR": 0
+        }
+      },
+      {
+        "time": 790,
+        "raw": {
+          "gazeX": 5,
+          "gazeY": -2,
+          "headX": 6,
+          "headY": 1,
+          "headR": 5
+        },
+        "mapped": {
+          "gazeX": 0.5935021115067505,
+          "gazeY": -4.952132186908699,
+          "headX": 1.2307536235486038,
+          "headY": -2.7259737316026538,
+          "headR": 0.777229770850326
+        }
+      },
+      {
+        "time": 1190,
+        "raw": {
+          "gazeX": 4,
+          "gazeY": 3,
+          "headX": 6,
+          "headY": 4,
+          "headR": 3
+        },
+        "mapped": {
+          "gazeX": 0.5870951066007914,
+          "gazeY": -3.6781059185113536,
+          "headX": 1.2307536235486038,
+          "headY": -1.9615579705642459,
+          "headR": 0.4663378625101955
+        }
+      },
+      {
+        "time": 1610,
+        "raw": {
+          "gazeX": 5,
+          "gazeY": 1,
+          "headX": 5,
+          "headY": 4,
+          "headR": 3
+        },
+        "mapped": {
+          "gazeX": 0.5935021115067505,
+          "gazeY": -4.187716425870292,
+          "headX": 1.025628019623836,
+          "headY": -1.9615579705642459,
+          "headR": 0.4663378625101955
+        }
+      },
+      {
+        "time": 1900,
+        "raw": {
+          "gazeX": 5,
+          "gazeY": 1,
+          "headX": 5,
+          "headY": 4,
+          "headR": 3
+        },
+        "mapped": {
+          "gazeX": 0.5935021115067505,
+          "gazeY": -4.187716425870292,
+          "headX": 1.025628019623836,
+          "headY": -1.9615579705642459,
+          "headR": 0.4663378625101955
+        }
+      },
+      {
+        "time": 2350,
+        "raw": {
+          "gazeX": 0,
+          "gazeY": 0,
+          "headX": 0,
+          "headY": 2,
+          "headR": -1
+        },
+        "mapped": {
+          "gazeX": 0,
+          "gazeY": 0,
+          "headX": 0,
+          "headY": 2,
+          "headR": -1
+        }
+      },
+      {
+        "time": 2720,
+        "raw": {
+          "gazeX": 0,
+          "gazeY": 0,
+          "headX": 0,
+          "headY": 1,
+          "headR": -1
+        },
+        "mapped": {
+          "gazeX": 0,
+          "gazeY": 0,
+          "headX": 0,
+          "headY": 1,
+          "headR": -1
+        }
+      }
+    ],
+    "browser": "Root owns fresh responsive rendering, actual-size perception, resize/replay viewing and independent review. No browser operated by this engineer.",
+    "hardware": "No physical mobile-device validation."
+  },
+  "skillsReviewed": [
+    "emil-design-eng",
+    "mobile-native",
+    "review-animations and STANDARDS.md",
+    "animate",
+    "choreograph"
+  ],
+  "workflowChanges": [
+    "Classify gaze as purposeful spatial attention and the head as delayed support; hold text/layout static.",
+    "Keep DOM measurement outside animation frames and separate pure pose adaptation from the shared motion engine.",
+    "Preserve interruption continuity for the displayed correction, not just the underlying engine pose.",
+    "Use real rendered phone and desktop samples to judge direction; numeric sign tests establish reliability only."
+  ],
+  "rulesNotApplicableWithReason": [
+    "Character attention retains authored multi-second pacing rather than UI feedback timing.",
+    "Keyboard Play requests the film, so keyboard access must not disable it.",
+    "Expressive SVG pose channels remain; no new motion library or compositor-only rewrite."
+  ],
+  "status": "Implemented for root rendering; visual approval not yet claimed."
+}

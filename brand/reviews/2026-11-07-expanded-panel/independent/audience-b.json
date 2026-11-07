@@ -1,0 +1,53 @@
+{
+  "reviewer": "audience-b",
+  "lens": "Research design and memory hypotheses",
+  "scope": "Independent review of README.md and refinement evidence: all-24.png, identity.png, poses.png, readme-390-day.png. No prior reviews or scores consulted.",
+  "observedStrengths": [
+    {
+      "type": "evidence",
+      "finding": "The oversized soft head, compact body, mitten hands, attached feet, unequal paddle antennae and layered green wings remain consistent across the supplied applications. The character reads to this reviewer as small and approachable; the paired themes retain its identity."
+    },
+    {
+      "type": "evidence",
+      "finding": "The mobile README places heyNag immediately beside the character, then names software work and concrete projects. This provides a clear owner/category association at the point of exposure rather than requiring the mascot to explain software by itself."
+    },
+    {
+      "type": "evidence",
+      "finding": "Question-led project headings make curiosity explicit. Glasses and varied facial poses add a plausible geeky, expressive vocabulary without sacrificing innocent proportions."
+    }
+  ],
+  "concerns": [
+    {
+      "type": "evidence",
+      "finding": "The 24-state sheet supplies emotion names before each image. It demonstrates available artwork, but cannot establish whether an unprimed viewer distinguishes thinking/focused, proud/grateful, or related subdued states."
+    },
+    {
+      "type": "hypothesis",
+      "finding": "At small display sizes, subtle facial and mitten differences may merge. Validate only distinctions that matter in actual use; perfect naming of all 24 emotions is unnecessary."
+    },
+    {
+      "type": "evidence",
+      "finding": "The head avatar omits the wings. This preserves the face and antenna signature while removing the clearest moth-specific anatomy."
+    },
+    {
+      "type": "hypothesis",
+      "finding": "Some viewers may remember a sprout-like cute creature rather than a moth, or recall the creature without heyNag. Neither outcome has been measured; species naming alone is not the brand objective."
+    },
+    {
+      "type": "hypothesis",
+      "finding": "Warmth and curiosity appear stronger than talkativeness or wry mischief in the static README. The intended personality may emerge through timed performance and writing, but these stills cannot verify that experience."
+    }
+  ],
+  "criteriaFor9WithinPresentScope": [
+    "A defensible high craft judgment requires the same tiny identity to remain legible across intended avatar/header sizes and both themes, with a clear heyNag association in the current application.",
+    "Review actual silent clips without emotion labels for a few consequential contrasts; improve posing or timing only where ambiguity harms their intended use.",
+    "Preserve factual project context and curiosity-led authorship. Seek one restrained, characterful expression of wry or talkative Nag in existing scope only if it improves that context.",
+    "Keep any craft score explicitly separate from unmeasured recall, affection, recognition and audience fit. A 9 is not evidence of those outcomes, and absent human research does not automatically block local refinement."
+  ],
+  "highestValueExperiment": {
+    "status": "Proposed only; no participants or findings exist.",
+    "protocol": "Recruit a small pragmatic first round of people resembling likely software-profile visitors, recording familiarity with Nag and the projects. Show the current profile naturally without introducing a moth, mascot, intended traits, or a memory test. After exposure, ask what the person does and what stood out; record free descriptions before trait choices. After an unrelated task, ask what they remember about the name and visual. If feasible, repeat unaided recall the following day before showing anything again. Only afterward use balanced recognition alternatives and a few unlabeled silent clips to explore confusion.",
+    "interpretation": "Report responses, denominators, exposure conditions and dissent. Separate name recall, visual recall, personality inference and preference. Use recurring confusions to choose the next adjustment; choose recruitment depth from decision stakes and uncertainty, never a universal sample-size release gate."
+  },
+  "limits": "One AI specialist inspecting supplied static evidence and prose. No live GitHub observation, motion inspection, recruited humans, delayed recall, attachment data or population estimates. AI agreement cannot establish audience response."
+}

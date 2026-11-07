@@ -1,0 +1,15 @@
+{
+  "stage": "Rejected for Clawd material/integration; historical identity-restoration study only.",
+  "tool": "Built-in image_gen",
+  "prompt": "brand/reviews/2026-11-07-banner-park/film-clawd-recognition-prompt.txt",
+  "editTarget": "assets/brand/banner-park/park-film-study-05-clawd-seated.png",
+  "output": "assets/brand/banner-park/park-film-study-06-clawd-recognition.png",
+  "dimensions": [
+    2172,
+    724
+  ],
+  "sha256": "4096bb11e58e630a7acc44d9c10b098714b2d2124849ac5a1dd29e94b37fe24f",
+  "bytes": 2433826,
+  "ownerFeedback": "Crab looks like wood rather other characters",
+  "review": "Square-eye/block identity returned, but identity pair and visual reviewer identified flat-cutout appearance. New repair uses owner plush photograph and cleaner04 background."
+}

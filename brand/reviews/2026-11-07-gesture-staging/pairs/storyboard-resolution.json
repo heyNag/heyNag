@@ -1,0 +1,20 @@
+{
+  "discipline": "storyboard",
+  "state": "Both reviewers explicitly confirmed the same scoped recommendation.",
+  "recommendation": "Keep Investigate & share as the lead: question, consideration, visitor return, then offering hand. Accept phone attention correction while preserving subtlety and later comic-timing challenges.",
+  "discussionRecords": [
+    "pairs/storyboard-a-discussion.json",
+    "pairs/storyboard-b-discussion.json"
+  ],
+  "independentReviews": [
+    "independent/storyboard-a.json",
+    "independent/storyboard-b.json"
+  ],
+  "explicitConfirmations": [
+    "team-votes/storyboard-a.json",
+    "team-votes/storyboard-b.json"
+  ],
+  "proposal": "team-proposal-v1.json",
+  "proposalSha256": "db064ee23559e695e350ddc47e86c77380776554e6bb3a5a43eeadd8b18bd5f3",
+  "scorePolicy": "Individual scores remain separate; acceptance does not imply a 9/10 rating."
+}

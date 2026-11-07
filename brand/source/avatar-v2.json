@@ -1,0 +1,7 @@
+{
+  "asset": "assets/brand/heynag-moth-avatar-v2.png",
+  "method": "OpenAI built-in image generation",
+  "reference": "assets/brand/heynag-moth-v2.png",
+  "prompt": "Use case: identity-preserve. Asset type: small-profile avatar of the EXACT revised heyNag moth in the supplied reference. Extract and refine ONLY the complete floating HEAD plus both antennae for32px readability. Preserve the same charcoal oval eyes, warm cream head, gently amused conversational smile, few broad cheek tufts, and permanent antenna asymmetry: viewer RIGHT antenna taller, viewer LEFT shorter and lateral; rounded chartreuse paddle tips. Remove entire body, collar, arms, wings and feet, leaving a clean CLOSED rounded chin contour. Enlarge the face relative to the antennae slightly for optical clarity; compress antenna stems vertically but keep unmistakable tall/short relationship. Square canvas. Head and antenna silhouette should occupy88–92%of canvas width andheight with small balanced margins, face centered with enough circular-avatar safe space. No enormous whitespace. Complete tips and cheek outline insidecanvas. Clean flat charcoal #1C1C1C, warm cream #FFF5DF, chartreuse #A8C84B, crisp opaque interior fills and genuinely transparent outside. No glasses, neck, props, background, shadows, glow, residue, fragments, text or frame. One single complete isolated head, not a bust crop. Keep this exact character identity, no other characters.",
+  "transparency": "Original generated alpha preserved. No raster editing."
+}

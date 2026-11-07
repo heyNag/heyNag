@@ -1,0 +1,35 @@
+{
+  "scope": "Focused local desktop, CPU1; paused control vs paired real SVG animation. Not phone or perceptual proof.",
+  "records": [
+    {
+      "mode": "paused",
+      "frames": 7,
+      "meanMs": 722.199999996594,
+      "p95Ms": 1008.7000000000007,
+      "maxMs": 1008.7000000000007,
+      "gapsOver50": 5,
+      "changes": [
+        {
+          "time": 0,
+          "visibility": "visible",
+          "focus": true
+        }
+      ]
+    },
+    {
+      "mode": "playing",
+      "frames": 122,
+      "meanMs": 42.547540983313425,
+      "p95Ms": 35,
+      "maxMs": 1000.1000000000022,
+      "gapsOver50": 6,
+      "changes": [
+        {
+          "time": 0,
+          "visibility": "visible",
+          "focus": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "ownerDirection": [
+    "Add emojis; tell the personal story and interests",
+    "Describe what the projects do without project names",
+    "Draw from both public and private work without revealing private details",
+    "Keep a high-resolution copy in Downloads and update heyNag GitHub"
+  ],
+  "publicEvidence": "brand/profile/public-evidence.json",
+  "privateEvidenceHandling": "Read-only source research stays outside this public repository. Current owner instruction authorizes broad interests only; no private project names, paths, URLs, code, infrastructure details, metrics, customer/employer details or incidents are included.",
+  "allowedPrivateThemes": [
+    "Local AI",
+    "Developer workflows",
+    "Connecting tools",
+    "Attention to failure and incomplete results"
+  ],
+  "excluded": "No work-linked project story, production-impact claim, runtime-health claim, or unreleased product announcement.",
+  "personalityEvidence": "Owner describes himself as fun, talkative, curious and geeky, with glasses for deep work; meticulous expression/eye work occurred during this project.",
+  "scope": "Current README only. Native account avatar/bio/pins/settings are separate and are not being presented as changed.",
+  "themeTreatment": "The same reviewed daylight artwork is used in both GitHub themes; no invented night counterpart or altered anatomy."
+}

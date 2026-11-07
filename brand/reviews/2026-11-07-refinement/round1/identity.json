@@ -1,0 +1,44 @@
+{
+  "role": "Identity systems designer",
+  "verdict": "The updated native-vector applications resolve avatar clipping and materially improve night-stem continuity while preserving the small V5 character. Fresh 390px local README proofs confirm complete framing and readable name hierarchy in both themes. No artwork blocker is visible in these inspected placements; package status reconciliation is a separate completion item, not publication approval.",
+  "inspectedEvidence": [
+    "brand/reviews/2026-11-07-refinement/brief.json; AGENTS.md; brand/team.json",
+    "brand/reviews/2026-11-07-refinement/evidence/identity.png inspected at original resolution",
+    "brand/reviews/2026-11-07-refinement/evidence/curious-night.png, exact poses 0\u20133000ms",
+    "assets/brand/heynag-moth-avatar-v5-day.png and heynag-moth-avatar-v5-night.png viewed directly; corresponding SVG exports",
+    "assets/brand/header-v5-light.png and header-v5-dark.png viewed directly; corresponding SVG exports",
+    "brand/source/applications-v5.js; brand/animation-v5/character.js compared with refinement/before/character.js",
+    "Original V5, refined and night PNG checksums compared with refinement/baseline.json: all unchanged",
+    "README.md; brand/README.md; brand/design-system.md",
+    "brand/reviews/2026-11-07-refinement/evidence/readme-390-day.png and readme-390-night.png inspected at original resolution",
+    "brand/source/applications-v5.json"
+  ],
+  "resolvedIssues": [
+    "Both asymmetric paddles and the complete jaw fit the new circular avatar at 32, 48 and 64 CSS pixels. The face remains readable at those sizes; 32px naturally carries less expression detail. The former upper-right paddle clipping is absent.",
+    "The night full-body rows at 96, 128 and 160px show traceable stem-to-paddle connections where the before row lost them. The added solid local edge does not create a broad luminous aura.",
+    "The code follows the exact bent antenna paths with the edge on every render. Inspected Curious poses retain alignment through the bend; day hides this edge. Core head, body, feet, hands and wing geometry are unchanged.",
+    "New header and avatar exports now share the V5 rig rather than mixing V2 applications with V5 studies. The headers retain the readable large heyNag wordmark, complete full-body silhouette and quiet name-first hierarchy.",
+    "The avatar is a framed clone of the existing head, with identical day/night geometry. Original raster references remain unchanged; no anatomy redesign was needed.",
+    "At the 390px local README viewport, both headers fit without cutting antennae, wings or feet. The name remains dominant; the night connecting edges remain visible. Immediate first-person copy and real project links retain Nag as the subject."
+  ],
+  "findings": [
+    {
+      "id": "REF-IDENTITY-01",
+      "severity": "note",
+      "claim": "Documentation reconciliation is underway: the application record names the native-vector exports, local-draft status and 32px minimum tested avatar size. At this inspection, older paragraphs still call the avatar/header future work. This is a remaining handoff update, not an artwork defect.",
+      "evidence": [
+        "brand/source/applications-v5.json",
+        "brand/README.md historical header and later-avatar paragraphs",
+        "brand/design-system.md character-direction paragraph"
+      ],
+      "fix": "Record these as current native-vector application candidates with their supported ground, static circular-avatar minimum and review state; retain clear historical V2 labels. Update references and inventory only to the intended local application state.",
+      "verification": "A contributor can select the matching V5 header/avatar pair without guessing whether a candidate is publicly released. The final README sources and manifest agree with that state."
+    }
+  ],
+  "limits": [
+    "Phone framing is confirmed for the captured 390px local README viewport, not live GitHub or every narrower layout.",
+    "The avatar framing is for the static neutral head, not animated antenna extremes or 24px use.",
+    "Inspected the specified dark export ground; arbitrary transparent placement is not established.",
+    "No current peer reviews consulted, no audience research or live GitHub inspection, and no production edits performed."
+  ]
+}

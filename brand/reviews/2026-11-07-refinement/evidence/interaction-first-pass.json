@@ -1,0 +1,68 @@
+{
+  "keyboard": {
+    "active": "feeling-name",
+    "scrollY": 229,
+    "rect": {
+      "x": 84.8984375,
+      "y": 25.265625,
+      "width": 58.125,
+      "height": 26.3984375,
+      "top": 25.265625,
+      "right": 143.0234375,
+      "bottom": 51.6640625,
+      "left": 84.8984375
+    },
+    "info": {
+      "id": "angry",
+      "time": 0,
+      "duration": 3000,
+      "playing": true,
+      "paused": false,
+      "progress": 0,
+      "transitioning": true,
+      "reducedMotion": false
+    }
+  },
+  "tab": {
+    "active": "<input type=\"radio\" name=\"appearance\" value=\"both\" checked=\"\">",
+    "scrollY": 229,
+    "info": {
+      "id": "angry",
+      "time": 1027,
+      "duration": 3000,
+      "playing": true,
+      "paused": false,
+      "progress": 0.3423333333333333,
+      "transitioning": false,
+      "reducedMotion": false
+    }
+  },
+  "pointer": {
+    "active": "angry",
+    "scrollY": 229,
+    "info": {
+      "id": "angry",
+      "time": 0,
+      "duration": 3000,
+      "playing": true,
+      "paused": false,
+      "progress": 0,
+      "transitioning": true,
+      "reducedMotion": false
+    }
+  },
+  "mixed": {
+    "active": "disgusted",
+    "scrollY": 1866.5,
+    "info": {
+      "id": "angry",
+      "time": 12.600000023841858,
+      "duration": 3000,
+      "playing": true,
+      "paused": false,
+      "progress": 0.004200000007947286,
+      "transitioning": true,
+      "reducedMotion": false
+    }
+  }
+}

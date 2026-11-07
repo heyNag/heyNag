@@ -1,0 +1,38 @@
+{
+  "reviewer": "Storyboard / animatic / comic staging B",
+  "lens": "Editing rhythm and comic economy",
+  "independent": true,
+  "observedStrengths": [
+    "The all-24 contact sheet preserves a small, innocent individual across a broad emotional range. Surprise opens the silhouette; fear contracts it; sleepy lowers the antennae. These are useful editorial contrasts without changing anatomy.",
+    "Curious has a particularly promising authored thought sequence: antenna at 160 ms, gaze at 320 ms, head and wing follow, then a viewer-facing glance at 2040 ms. Attention precedes explanation, which suits Nag's curious, conversational character.",
+    "Mischievous uses concealment and a revealing half-eye rather than aggressive anatomy. Skeptical stays restrained. Together they support an innocent character with private opinions.",
+    "The updated poses separate Thinking's low mitten from its chin mitten and Focused's two low mittens. Exact-case-7 samples keep the thinking face and glasses through replay; the former visible smile excursion is absent. This preserves the sentence of thought at the sampled moments.",
+    "Exact-case-9 retains attached stub feet and a compact figure through sampled hop/interruption states. Quiet held endings and the silent baseline are legitimate strengths, not missing production value."
+  ],
+  "concreteConcerns": [
+    {
+      "id": "SB-B-01",
+      "claim": "Comic punctuation is less proven than pose quality: most channels share eased arrivals, which may make a quick realization and a slow reflection feel similarly rounded. This is a playback hypothesis, not an observed timing defect.",
+      "evidence": "motion.js:26 and 451 apply smoothstep between keyframes; explicitly authored tangent exceptions are concentrated in the excited hop. Surprised spends 320 ms on preparation before its 540 ms head accent. The supplied contact sheets cannot establish how sharp that accent feels at normal speed."
+    },
+    {
+      "id": "SB-B-02",
+      "claim": "Mischievous contains two revelations where one may be the stronger joke. The second peek needs an editorial reason rather than simply extending activity.",
+      "evidence": "motion.js mischievous opens the right eye at 1250 ms, closes toward 2190 ms, and reopens at 2520 ms. all-24's 1550 ms still is very close to peaceful drowsiness at contact-sheet size. Whether the first reveal reads, or repetition improves it, remains untested."
+    },
+    {
+      "id": "SB-B-03",
+      "claim": "The conversation aspect of Nag is less legible than curiosity and gentleness in this evidence. A mouth-open emotion alone does not establish a conversational beat.",
+      "evidence": "all-24 is dominated by solitary held reactions. Curious's authored return glance offers an existing route to address the viewer; no normal-speed evidence here proves that an audience perceives that invitation. This does not require speech, sound, scenery, or another expression."
+    }
+  ],
+  "qualityCriteriaForNine": [
+    "At intended display size, silent normal-speed viewing reveals a clear setup, readable turn, and useful hold for each selected signature performance without labels.",
+    "A mischievous reveal reads as a deliberate secret or joke rather than only sleepiness; any repeated reveal adds meaning.",
+    "Curious's return glance communicates sharing attention; skeptical and surprised have recognizably different rhythms without universal acceleration.",
+    "Replay and interruption preserve emotional continuity at normal speed, including case-7 and case-9; anatomy and numeric theme parity remain unchanged."
+  ],
+  "highestValueExperiment": "Make a reversible timing-only comparison of the existing mischievous clip: current two peeks versus one clear peek with a longer knowing hold. Present each silently, unlabelled, at intended size and normal speed, alongside unchanged curious and skeptical. Record what viewers believe the moth intended and where the joke landed; retain the current version unless the alternative reads better.",
+  "optionalScore": null,
+  "limits": "Independent source/still review only; no prior reviews or scores read and no normal-speed playback observed. Timing concerns are hypotheses. Human attachment, recognition, and recall are unmeasured. Website and future scenes are outside this judgment."
+}

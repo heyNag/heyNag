@@ -1,0 +1,226 @@
+{
+  "reviewer": "sound-B",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "lens": "Rhythm, optional audio and repeat-listening comfort; silent visual cause and optional sonic identity",
+  "scope": "Updated local v1 foundation: implemented silence, deliberate finite playback and rest, source-defined visual punctuation, sampled causal staging and readable silent gesture. Same source-and-rendered-frame scope as previous 8.5 review. No audio, continuous perceived rhythm, physical-device or human comfort score.",
+  "previousScoreAndScope": {
+    "value": 8.5,
+    "outOf": 10,
+    "record": "../2026-11-07-implementation/team-votes/sound-b.json",
+    "scope": "Frozen v4 local implementation: deliberate silent playback, finite performance structure, visual punctuation and sampled cause/response staging. Numeric judgment excludes continuous perceived rhythm, real-device smoothness, human repeat-visit comfort and all listening quality.",
+    "continuity": "The prior moderate phone eye-line deduction remains part of this assessment until checked against current source and actual phone evidence; it is resolved in the inspected composition by a real pose adaptation, not by narrowing the score or changing the layout claim."
+  },
+  "independence": "Saved before reading new sound-A independent review, new pair responses or team-proposal-v1.json.",
+  "sourceManifest": "review-source-v1.json",
+  "sourceManifestSha256": "d5abc24f90f9539bfddb0223da42392fb31c9321ab7c962aa98c893ff3789e0e",
+  "score": {
+    "value": 9.0,
+    "outOf": 10,
+    "meaning": "Strong implemented silent cause and attention-control craft. The prior phone direction defect is substantively corrected in source and inspected DOM samples, and the return-to-offer gesture is clearer without added beats or anatomy. Remaining small-size semantic subtlety prevents a claim of universal invitation readability. This score is not continuous-rhythm, listening, audience or live-device certification."
+  },
+  "scoreHistory": [
+    {
+      "round": "2026-11-07-implementation",
+      "value": 8.5
+    },
+    {
+      "round": "2026-11-07-gesture-staging",
+      "value": 9.0,
+      "reason": "Directly verified correction of the principal previous deduction plus a clearer held offering silhouette; source silence, finite playback and reduced-motion behavior retained."
+    }
+  ],
+  "unsupportedScores": {
+    "audioQuality": null,
+    "optionalSonicIdentity": null,
+    "continuousPerceivedRhythm": null,
+    "repeatListeningComfort": null,
+    "humanRepeatVisitComfort": null,
+    "unprimedComprehension": null
+  },
+  "evidenceActuallyInspected": [
+    "AGENTS.md and sound role/team/workflow instructions previously read in this conversation; new reviewer-instructions.txt, brief.json, review-source-v1.json and evidence/evidence-index.json.",
+    "Own previous independent, pair discussion and final team vote; earlier Sound A reciprocal response about the reduced-motion endpoint retained as historical context only.",
+    "Current staging.js and signature.js in full; exact before/current motion.js diff covering six hand families and unchanged engine/timing; signature.css unchanged by hash; implementation/hand-changes.json and implementation/eyeline-changes.json.",
+    "All review-source-v1.json file hashes checked against current files and matched; manifest SHA verified against assignment.",
+    {
+      "view_image": [
+        "hands-day.png",
+        "hands-night.png",
+        "sizes-curious-investigate.png",
+        "sizes-thinking.png",
+        "sizes-grateful.png",
+        "sizes-worried.png",
+        "sizes-shy.png",
+        "offer-sequence-day.png",
+        "offer-sequence-night.png",
+        "baseline-attention-390-day.png",
+        "baseline-attention-390-night.png",
+        "attention-320-day-790.png",
+        "attention-320-night-790.png",
+        "attention-1440-day-790.png",
+        "attention-1440-night-790.png",
+        "decoded-phone-night.png",
+        "attention-390-day-330.png",
+        "attention-390-day-790.png",
+        "attention-390-day-1190.png",
+        "attention-390-day-1900.png",
+        "attention-390-day-2350.png",
+        "attention-390-day-2720.png",
+        "attention-390-night-330.png",
+        "attention-390-night-790.png",
+        "attention-390-night-1190.png",
+        "attention-390-night-1900.png",
+        "attention-390-night-2350.png",
+        "attention-390-night-2720.png"
+      ]
+    },
+    "evidence/all-tests.txt: reported 23 pass, 0 fail; not rerun by this reviewer. evidence/geometry.json: 567 sampled cases, no mismatch/invalid.",
+    "evidence/browser-checks.json: inspected representative cases, then computed summaries over all 108 cases at 320,390,650,651,768,1440 widths; all theme parity true, no false return/control checks; inspected full resize/replay/reduced records.",
+    "evidence/attention-browser.json: inspected representative full records and summary of all 16 rendered attention captures; keyboard-controls.json read in full.",
+    "evidence/rigging-b-replay-envelope.json: 2,136 cases, 429,336 numeric samples; final gaze can exceed nominal engine \u00b15, maximum 5.1401, but remains within renderer \u00b16. Numeric diagnostic only.",
+    "evidence/comparison-export.json: 65.2 second deterministic 30 fps film. ffprobe confirms H.264 video stream and no audio stream. Inspected decoded-phone-night.png; did not watch continuous motion."
+  ],
+  "strengths": [
+    {
+      "finding": "The earlier phone eye-line mismatch has been addressed in the action itself.",
+      "basis": "At actual 390 px, before/current 790 ms screenshots show the head support changing from lateral lean to a more upright lifted inspection; current 1190/1900 ms day/night samples keep attention above the face while the question is above. staging.mapPose measures the heading bearing, fades gaze in after 150 ms and head after 330 ms, and keeps the above-target scan upward. 320 px captures support the same relation; desktop retains its rightward relation."
+    },
+    {
+      "finding": "The correction releases before the offer rather than competing with its meaning.",
+      "basis": "Staging influence is zero at 2350 ms. Actual 390 day/night samples at 2350 and 2720 ms show a visitor-facing return followed by the outward cup. Offer sheets show the hand moves once and holds through 4100 ms; project text remains static. This is sampled ordering, not a real-time fluency verdict."
+    },
+    {
+      "finding": "The revised offering hand reads as a small open presentation more readily than the old collar-side acknowledgment.",
+      "basis": "Matched hands-day/night sheets and actual 160/240 px ladders show a clearer upward cup with separation from the ruff. The original mitten outline and short reach are retained. Both offering studies retain the warm lead-in; the wry version relaxes the existing hand instead of adding a wave."
+    },
+    {
+      "finding": "Lowering support hands makes the main visual accent easier to find without adding sensory demand.",
+      "basis": "Thinking retains its right chin contact while its free hand moves below; grateful clasp is lower and visibly distinct from the collar; focused has two low hands. No added sound or repeating movement is needed to point out these distinctions."
+    },
+    {
+      "finding": "New responsive attention respects stillness and deliberate control.",
+      "basis": "signature.js uses cached layout and the clip clock; there is no independent staging rAF/timer. Paused resize keeps the rendered pose, explicit seek adopts the cached layout, replay carries the displayed correction, and reduced motion stays still. Browser records report exact replay start and frozen pause; 23 reported tests support finite/no-autonomous scheduling behavior."
+    },
+    {
+      "finding": "Silence remains a coherent finished baseline for this local study.",
+      "basis": "No audio is introduced in the source diff/controller and actual comparison film has no audio stream. Play remains user initiated; finite settle, pause, hidden/offscreen interruption and reduced-motion stills remain. No missing-sound deduction is appropriate."
+    }
+  ],
+  "deductions": [
+    {
+      "id": "sound-b-small-invitation",
+      "severity": "minor craft limitation",
+      "confidence": "medium-high for visible scale effect; unknown for unfamiliar viewers",
+      "type": "sampled visual judgment",
+      "finding": "At 96\u2013128 px the new cup is still primarily a small directional accent beside the face/wing. Its exact offering meaning is weaker than the unmistakable face-and-glasses reading. The larger samples improve the gesture, but do not justify calling the isolated tiny still a self-explanatory invitation.",
+      "basis": [
+        "sizes-curious-investigate.png, before/current 96/128/160/240 px in both themes",
+        "hands-day.png",
+        "hands-night.png"
+      ],
+      "qualification": "This keeps small-size semantic specificity in scope. It is not a measured misreading, an argument to enlarge the anatomy, or a demand for a sound cue."
+    },
+    {
+      "id": "sound-b-hand-family-density",
+      "severity": "minor craft limitation",
+      "confidence": "medium",
+      "type": "sampled visual judgment",
+      "finding": "Grateful and shy remain visually close in the smallest stills: both place small pale hand lobes under a ruff, with their difference relying on subtle contact/asymmetry and facial context. The contour improvements are useful, but the silent pose vocabulary is not equally explicit at every size.",
+      "basis": [
+        "sizes-grateful.png",
+        "sizes-shy.png",
+        "hands-day.png",
+        "hands-night.png"
+      ],
+      "qualification": "No claim that audiences confuse the emotions; this is a comparative craft deduction from inspected small stills."
+    }
+  ],
+  "previousDeductionResolution": {
+    "phoneEyeline": "Resolved for the inspected local responsive staging: actual question bearing now changes early gaze/head support, including upward reading through the hold, while leaving the authored return exact. This is not a claim of every-device or human interpretation validation.",
+    "sharingSpecificity": "Improved visibly at 160/240 px and the 300 px phone host; residual small-size ambiguity retained explicitly."
+  },
+  "improvementCriteria": [
+    "At intended small deployment sizes, treat the signature as a face/character mark unless its offering meaning is demonstrated. If that meaning is essential, give the existing character enough display area or preserve contextual sequence; do not enlarge anatomy.",
+    "Inspect normal-speed silent 2350\u20132720 ms return/cup motion on the intended desktop and phone rendering to establish whether the wrist turn reads as one offer or a flick. Frame order and a 30 fps file cannot settle that feel question.",
+    "Before a human-comfort or comprehension score, use unprimed observers and repeat viewing with actual size/scroll exposure recorded; separate their reports from owner preference and these specialist judgments.",
+    "If sound is later commissioned, start with a separate reversible opt-in, preserve visual meaning, use sparse event-based cues and test repeat listening/retrigger behavior. No audio is needed to raise this silent craft score."
+  ],
+  "confidence": {
+    "sourceAndControlRestraint": "high",
+    "sampledCausalStaging": "high within inspected widths and phases",
+    "smallPoseSemanticSpecificity": "medium",
+    "continuousRhythmAndHumanComfort": "unsupported"
+  },
+  "objections": [],
+  "limits": [
+    "No continuous motion watched and no audio heard. Actual film metadata and decoded image samples are not a listening or perceived rhythm test.",
+    "No physical-phone, GPU trace, spoken screen-reader, unfamiliar-human comprehension, memory, attachment or repeat-visit evidence.",
+    "Root owns browser; reported browser tests/callback records were read and summarized, not independently operated by this reviewer.",
+    "The film phone panel is a simplified composition using a measured 390 px bearing. Actual DOM phone judgments above use attention-*.png, not that simplified film as a layout substitute.",
+    "The renderer tolerates replay gaze beyond nominal engine \u00b15; reviewed numeric envelope remains within \u00b16. This is not a new strict \u00b15 promise or visible-jump diagnosis.",
+    "No claim that all 24 emotions or every frame were perceptually reviewed. The retained overall local-foundation scope focuses this fresh pass on changed hand families, staging and preserved attention control."
+  ],
+  "skillsApplied": {
+    "previousFullIntakeRecord": "../2026-11-07-implementation/independent/sound-b.json",
+    "catalogSummariesPreviouslyRead": [
+      "emil-design-eng",
+      "animate",
+      "animate-expo",
+      "review-animations",
+      "improve-animations",
+      "find-animation-opportunities",
+      "remove-animations",
+      "choreograph",
+      "animation-performance",
+      "animation-vocabulary",
+      "apple-design",
+      "write-swift",
+      "pick-ui-library",
+      "prototype",
+      "mobile-native",
+      "break-ui",
+      "ask-sonner"
+    ],
+    "fullInstructionsPreviouslyReadAndApplied": [
+      "choreograph",
+      "remove-animations",
+      "review-animations"
+    ],
+    "newFullInstructionsRead": [],
+    "actualUse": [
+      "choreograph: verify gaze as lead, head as delayed support, and return before offer; keep text static.",
+      "remove-animations: retain the finite purposeful act, reject extra automatic accents or required audio.",
+      "review-animations: inspect displayed-pose replay, pause, reduced-motion and effect of resize separately from source correctness."
+    ],
+    "designTaste": "No full design-taste skill read or claimed; this narrowly scoped sound/causal-staging review does not design a website or introduce a visual system."
+  },
+  "workflowChanges": [
+    "Use matching before/current actual-size sheets and complete contextual phone phases when a responsive cue changes; a larger character alone is no longer accepted as eye-line evidence.",
+    "Treat displayed-pose replay continuity as its own check because a pure engine replay pass can miss composition corrections.",
+    "For silent offer reviews, inspect both initial/reduced-motion endpoint and the full return-to-offer sequence; record which context supports the semantic judgment.",
+    "Keep a separate score field for continuous rhythm/audio/human comfort, leaving it null unless the appropriate observation exists."
+  ],
+  "rulesNotApplicableWithReason": [
+    {
+      "rule": "Delete keyboard-triggered animation",
+      "reason": "Keyboard Play intentionally requests expressive content; keep equal access, suppress only decorative UI feedback."
+    },
+    {
+      "rule": "Sub-300 ms UI or group timing for the whole character scene",
+      "reason": "The 4.1 second investigation is content with notice/consideration/return, not input latency. No global speedup is justified."
+    },
+    {
+      "rule": "GPU-only motion as an unconditional character constraint",
+      "reason": "Preserve original SVG expression and tiny anatomy; measure representative rendering workload before replacing it."
+    },
+    {
+      "rule": "Add a sparse idle loop or sound to draw attention",
+      "reason": "Static startup, self-contained silent action and indefinite rest satisfy this task better; optional audio would need a separately commissioned purpose and opt-in."
+    },
+    {
+      "rule": "Execute remove-animations edits or standalone Markdown templates",
+      "reason": "This is a read-only source review with required JSON artifacts; no source/dependency edits made."
+    }
+  ]
+}

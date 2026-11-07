@@ -1,0 +1,34 @@
+{
+  "stage": "NOT ACCEPTED: enlarged inspection confirms residual brown dot in Grok viewer-right eye after owner correction.",
+  "tool": "Built-in image_gen",
+  "prompt": "brand/reviews/2026-11-07-banner-park/film-grok-clean-eyes-prompt.txt",
+  "editTarget": "assets/brand/banner-park/park-film-study-09-companion-refinement.png",
+  "references": [
+    "brand/reviews/2026-11-07-banner-park/muse-review/evidence/09-companion-inspection.png",
+    "Original Grok identity reference, private copy outside public assets"
+  ],
+  "output": "assets/brand/banner-park/park-film-study-10-clean-companion-eyes.png",
+  "dimensions": [
+    2172,
+    724
+  ],
+  "sha256": "667cabad45f56cd9ce585570dae2f57d444777e57d154c2fb78b85aaf4b7fd3f",
+  "bytes": 2497595,
+  "promptSet": [
+    "brand/reviews/2026-11-07-banner-park/film-companion-refinement-prompt.txt",
+    "brand/reviews/2026-11-07-banner-park/film-grok-clean-eyes-prompt.txt"
+  ],
+  "rootInspection": {
+    "nativeCrop": "brand/reviews/2026-11-07-banner-park/muse-review/evidence/10-companion-inspection.png",
+    "observed": "Grok now has continuous warm off-white ovals with no visible inner dark centers in the native crop. Muse retains compact solid dark eyes, restrained broader face opening and tiny seated proportions. Scene composition visually retained; no pixel-identical claim.",
+    "scope": "Local companion refinement, not GitHub-size validation or final whole-banner approval.",
+    "superseded": true
+  },
+  "correctedRootInspection": {
+    "ownerFeedback": "I still see some black dot on grok bot eye",
+    "evidence": "brand/reviews/2026-11-07-banner-park/muse-review/evidence/10-companion-inspection-enlarged.png",
+    "finding": "Five-times magnification reveals a faint brown-peach spot inside viewer-right oval, below center and distinct from perimeter. Earlier native-size clean-eye claim was wrong.",
+    "action": "Preserve Muse. Generate isolated enlarged eye cleanup, then reintegrate only eye appearance into full banner. No unchanged full-scene retry route.",
+    "acceptance": "Require native context and magnified interior inspection; no inner tone patches or gradients."
+  }
+}

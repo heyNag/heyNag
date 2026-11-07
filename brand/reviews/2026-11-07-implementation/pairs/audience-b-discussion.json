@@ -1,0 +1,95 @@
+{
+  "reviewer": "audience-b",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "proposalFile": "team-proposal-v2.json",
+  "proposalSha256": "4eef022ccecba73621ca188b29c13cbc41d08b5268ffeaa6e98e2c4c5ea08c5c",
+  "sourceManifestSha256": "4b70d40e6c6fed47936377ff71d915379cbe84bc2a23020ac2ab2fb9696b2caa",
+  "partnerRecordRead": "independent/audience-a.json",
+  "partnerDiscussionAtInitialRead": "Not yet present at initial read; subsequently read in full after A’s direct confirmation.",
+  "independencePreserved": "Both independent records were saved before this exchange; neither score is averaged or conformed.",
+  "relevantSourceVerification": {
+    "brand/animation-v5/signature.html": true,
+    "brand/animation-v5/signature.js": true,
+    "brand/animation-v5/signature.css": true,
+    "brand/animation-v5/motion.js": true,
+    "brand/animation-v5/character.js": true,
+    "brand/animation-v5/studio.js": true,
+    "brand/animation-v5/index.html": true,
+    "brand/reviews/2026-11-07-implementation/evidence/comparison.mp4": true
+  },
+  "newEvidenceRead": [
+    "team-proposal-v2.json in full",
+    "evidence/desktop-performance-active.json",
+    "evidence/description-and-reduced-motion.json"
+  ],
+  "meaningfulChallengesAndResolution": [
+    {
+      "partnerPoint": "A-AUD-3 proposes a brief adjacent verified owner cue for a future attribution stimulus.",
+      "challenge": "A cropped/scrolled stage lacks heyNag, while the full document supplies the name, biography and project link. Lack of the name in a crop does not prove natural browsing causes misattribution. Adding an owner cue is a testable staging choice, not a validated remedy.",
+      "resolution": "Keep A’s observation and hypothesis. Record actual viewport, scroll, name/moth visibility and playback exposure. Preserve normal brand/project context when testing owner attribution or recall; use an isolated neutral clip only when testing action comprehension. These answer different questions."
+    },
+    {
+      "partnerPoint": "A-AUD-1 notes near-neighbor held emotions; B-AB3 notes the small presenting mitten’s limited independent specificity.",
+      "challenge": "Similarity in a labeled static catalogue is not evidence that people confuse the selected actions during playback. Nor does every one of the 24 emotions need unique naming at avatar size.",
+      "resolution": "Keep the deductions as scoped craft judgments. Prioritize the few contrasts used in an actual product; examine full-size unlabeled stills and continuous clips before changing poses. Preserve tiny anatomy and avoid adding motion or detail merely to increase a score."
+    },
+    {
+      "partnerPoint": "A-AUD-2 notes weaker 32–48px night antenna stem continuity.",
+      "challenge": "The actual-size proof supports a narrow scale observation, not a general night-identity failure or a measured recognition loss.",
+      "resolution": "Accept the proposal’s day universal 32px mark and larger night usage. If revisited, compare a tightly scoped edge variant at the exact size before altering larger character paint. No audience recognition claim follows from this choice."
+    },
+    {
+      "partnerPoint": "Both reviews caution that labels prime interpretation.",
+      "challenge": "Neutral prompts are required for some research questions, but labels are useful and appropriate for the current authoring/selection tool. Removing them globally would weaken the studio and removing brand context from an attribution test would change the question.",
+      "resolution": "Keep the local labeled studio. For future unprimed action comprehension, make a separate one-direction stimulus and free-response prompt; introduce diagnostic labels only afterward. Keep accessibility and document the modality rather than silently stripping descriptions."
+    },
+    {
+      "partnerPoint": "Both reviews praised improved portrait legibility; v2 explicitly adds the stacked-phone eyeline limitation.",
+      "challenge": "A larger character is easier to inspect, but the authored screen-right glance is not literal alignment with the upper-right stacked question in every pose.",
+      "resolution": "Accept v2’s named spatial limitation. Keep it as a future within-anatomy staging/timing hypothesis, not evidence of confused viewers and not a reason to revive the superseded cramped phone layout."
+    }
+  ],
+  "cadenceReconciliation": "The newer active-only desktop record reports 119 intervals, mean 34.45ms, p95 35ms, maximum 67ms and four above 50ms. It narrows the technical observation; it neither attributes earlier mixed idle one-second gaps to SVG nor establishes normal-speed experience, GPU cost or phone behavior. My score is unaffected.",
+  "remainingDisagreements": [
+    "Numerical scores remain different and have different narrow emphasis: A 8.2 for static emotional staging/attribution; B 8.3 for visual association/research readiness. This is not a substantive objection.",
+    "B treats absence of a neutral research wrapper and matched exposure as readiness deductions, not missing production requirements. A emphasizes static cue and scale compromises. Both accept local use with those distinctions visible."
+  ],
+  "acceptedJointRecommendation": "Keep hypotheses separate from owner preference and expert craft. Audience outcomes remain unscored; authoring labels are not neutral research stimuli.",
+  "practicalSkillsWorkflowAgreement": [
+    "Use the 17-entry catalog for routing, then read relevant complete instructions; both audience reviewers read emil-design-eng, prototype and mobile-native in full.",
+    "Name the decision before building a variant: owner personal fit, static craft, action comprehension, name attribution or delayed recall. Prototype divergence must answer that decision, with one realistic full-size direction shown at a time and immediate switching for expert/owner comparison.",
+    "Separate the authoring picker from first-exposure research. For research, specify neutral prompts, free-response order and whether randomization/counterbalancing is warranted. For natural branded exposure retain real context and log viewport/scroll, version, theme, duration and playback.",
+    "Keep owner choice, craft judgments, source/mechanical checks, human usability observations and memory outcomes in separate fields; an AI consensus or target score fills none of the missing fields.",
+    "Future engineers apply immediate accessible UI feedback independently of intentional character playback. Source/capability checks do not graduate into phone, spoken-AT or continuous-motion claims without the relevant evidence."
+  ],
+  "skillsExceptions": [
+    "No new prototype or permission pause: owner selection already exists and this is a review. Preserve historical studies despite generic prototype cleanup guidance.",
+    "Do not apply sub-300ms UI budgets or no-keyboard-animation rules to intentional Play content.",
+    "Do not erase SVG expressive anatomy to satisfy transform/opacity advice; measure the relevant workload.",
+    "Do not lock document scroll, zoom or body selection or remove useful link feedback by copying a global mobile baseline.",
+    "Do not remove useful authoring labels or accessible descriptions solely to create a research stimulus; use a separate, appropriate exposure design."
+  ],
+  "personalScore": {
+    "value": 8.3,
+    "outOf": 10,
+    "meaning": "Strong, coherent visual association material and unusually clear evidence boundaries; not yet a neutral, exposure-controlled audience research stimulus. Ordinal specialist judgment within this narrow inspected scope, not an empirical success rate."
+  },
+  "audienceOutcomes": {
+    "unprimedComprehension": null,
+    "nameAttribution": null,
+    "delayedRecall": null,
+    "attachment": null,
+    "populationPreference": null,
+    "reason": "No unfamiliar human participants or measured memory outcomes. Nag choosing Investigate & share establishes personal fit only."
+  },
+  "substantiveObjections": [],
+  "conclusion": "Agree with the exact v2 audience recommendation and implemented local foundation, with named nonblocking limits. No source edits or recruitment requested in this round.",
+  "partnerDiscussionRead": "pairs/audience-a-discussion.json",
+  "directResponseToPartnerDiscussion": {
+    "record": "Audience A discussion and direct message read after this B draft.",
+    "confirmation": "A directly agreed that branded attribution/recall exposure must retain brand/project context, whereas a neutral isolated clip answers action comprehension. A retained 8.2, accepted the exact audience recommendation and v2 phone-eyeline limitation, and reported no substantive objection.",
+    "bResponse": "I explicitly agree with A’s five evidence resolutions and practical skills workflow, including accessibility-appropriate research modality. I preserve A’s remaining night-stem and adjacent-owner-cue craft deductions without importing them as measured outcomes or harmonizing scores. My own 8.3 and original readiness deductions remain unchanged.",
+    "jointStatus": "Both audience reviewers have explicitly confirmed the exact shared recommendation; this does not establish all-team consensus."
+  }
+}

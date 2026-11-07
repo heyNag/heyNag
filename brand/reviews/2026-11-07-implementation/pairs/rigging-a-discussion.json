@@ -1,0 +1,60 @@
+{
+  "reviewer": "Technical character animator and rigger A — articulation and contact",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "partnerRecordRead": "independent/rigging-b.json",
+  "partnerDiscussionRead": null,
+  "partnerDiscussionStatus": "No pairs/rigging-b-discussion.json existed when this response was prepared. This records A's own acceptance and challenges; it does not vote for B.",
+  "proposalFile": "team-proposal-v2.json",
+  "proposalSha256": "4eef022ccecba73621ca188b29c13cbc41d08b5268ffeaa6e98e2c4c5ea08c5c",
+  "sourceManifest": "review-source-v4.json",
+  "sourceManifestSha256": "4b70d40e6c6fed47936377ff71d915379cbe84bc2a23020ac2ab2fb9696b2caa",
+  "verification": {
+    "proposalAndManifestHashes": "Independently recomputed and matched the immutable expected hashes.",
+    "manifestFiles": "Independently checked all 18 v4 source/export hashes; zero mismatches.",
+    "v2ToV4": "Only signature.css, signature.html and signature.js differ. Character.js and motion.js remain identical to the source underlying my independent 8.7 review.",
+    "cadence": "Parsed all 120 records in desktop-performance-active.json and independently recomputed the 119 playing=true intervals, excluding the final settled record: mean 34.45378151260505ms, maximum 67ms and four intervals over 50ms. All active records are visible and focused. Read desktop-performance-focused.json, including paused-control max 1008.7ms.",
+    "additionalVisualEvidence": "Viewed signature-final-390-stage.png, signature-final-390-night.png and signature-final-320.png using view_image. Read description-and-reduced-motion.json and relevant final signature source."
+  },
+  "meaningfulChallenges": [
+    {
+      "partnerFinding": "RIG-B-PERF: active cadence is approximately 30Hz and residual longer intervals need attribution.",
+      "challenge": "Keep this as callback cadence in the recorded local environment, not presented-frame rate, a causal renderer diagnosis or proof of acceptable smoothness. One Thinking run does not cover the hop, other clips, both themes under load, or the eventual website integration.",
+      "resolution": "B's revised record appropriately retracts any attribution of mixed one-second gaps to active SVG animation. I agree with retaining the measured active numbers and requesting an attributed trace plus intended physical hardware before performance claims. No optimization or anatomy change follows from these numbers alone."
+    },
+    {
+      "partnerFinding": "RIG-B-CONTOUR and the larger portrait signature improve the presenting mitten's visibility.",
+      "challenge": "More display area is a useful mitigation, not a complete resolution of contact or gesture semantics. At the larger portrait size the small mitten is visible, yet it can still read as a general raised hand; thinking and gathered-hand poses retain ruff/jaw contour crowding at 96–128px. The stacked question also does not literally align with the authored screen-right investigation glance.",
+      "resolution": "Retain the minor contour deduction and the proposal's explicit phone-eyeline limitation. Keep the larger portrait layout for legibility. A future bounded pose/staging comparison may change wrist position or orientation and composition, without enlarging hands, lengthening arms or changing anatomy."
+    },
+    {
+      "partnerFinding": "RIG-B-COVERAGE: numeric/geometry tests do not prove every intermediate contact or consumer crop.",
+      "challenge": "Distinguish a contact guarantee from the narrower evidence we actually have: continuous connected arm construction, bounded reach, visually coherent sampled chin/ruff overlaps, and contact ordering in the authored hop. There is no general collision/contact solver here, nor should one be introduced merely to make the review sound stronger.",
+      "resolution": "Our sampled no-detachment findings agree. Preserve exact-frame checks at material changes and inspect the final integration's crop, repeated instances and interruption sequence. Existing finite tests remain valuable, but no blanket all-pairs or all-frames approval is claimed."
+    }
+  ],
+  "evidenceBasedResolution": "The immutable v4 local foundation retains the same intact constrained rig and authored contact order reviewed independently. B's additional reuse/export evidence and my articulation evidence support accepting the local implementation with the named contour, callback-cadence and temporal/device limits. The updated portrait and 320px wrapping supersede earlier phone-layout criticisms; they do not erase the unresolved eyeline relationship. The new accessible-description evidence supports the stated v4 semantics, while spoken AT remains a separate limit.",
+  "remainingDisagreements": [
+    "A retains 8.7/10 for constrained rig, sampled articulation/contact and interruption engineering; B retains 8.5/10 for rendering integrity and reuse. These are different scoped judgments, not an unresolved blocking objection.",
+    "No substantive disagreement with B's revised causal restraint or the exact proposed rigging recommendation. Continuous normal-speed feel and real-device performance remain unanswered rather than presumed satisfactory."
+  ],
+  "acceptedJointRecommendation": "Accept the intact constrained rig and static exports with explicit contact-density and live-cadence limits. Do not attribute mixed idle one-second gaps to SVG without evidence.",
+  "practicalSkillsWorkflowAgreement": [
+    "Before a website motion change, record purpose/frequency, driver and animated properties. Separate immediate UI response from requested character content; apply review-animations to both with explicit purpose-based exceptions.",
+    "Use choreograph to map causal moments and supporting channels before editing: antenna notices, gaze/head attend, feet contact, head recovers, mitten offers. Sequence only when that relationship carries meaning; preserve still consideration beats.",
+    "Use animate's retarget-from-current-state reasoning and the existing finite scheduler for character interruptions. Keep a small set of meaningful regression cases: rest entry, replay, mid-hop switching, reflective-to-joy, reduced-motion changes, pause/resume, hidden/offscreen state and teardown.",
+    "Use animation-performance to compare an active run with an appropriate control and capture a rendering trace before assigning cause. Treat path writes and the night filter as candidates to measure, not established culprits; do not add blanket will-change.",
+    "For material character changes, pair exact numeric samples with actual-size PNG/contact sheets and continuous playback at the same source version. For website integration, add physical-device/crop/lifecycle checks. Keep source invariants, sample images, live cadence, subjective playback and human research as distinct evidence categories.",
+    "Hand future engineers specific source/evidence findings and acceptance cases. Both independent numbers remain visible; skills checklists and pair agreement do not replace craft judgment."
+  ],
+  "skillsExceptions": [
+    "Sub-300ms UI budgets and no-keyboard-feedback animation rules do not remove a requested multi-second character performance activated by keyboard. Its controls still need prompt, equivalent access.",
+    "Transform/opacity preferences do not authorize replacing expressive SVG deformation, flattening wing layers or enlarging tiny anatomy. Optimize measured costs while preserving geometry and authored trajectories.",
+    "A static expressive reduced-motion state is valid here; no extra fade or decorative stagger is required.",
+    "The independent-review protocol determines JSON output and prohibits source edits; construction-skill output requirements do not override it."
+  ],
+  "personalScore": {"value": 8.7, "outOf": 10, "unchanged": true},
+  "scoreReason": "The new evidence narrows the cadence uncertainty and improves phone presentation. It does not resolve the existing contact-density deduction or provide continuous-motion/device evidence, so my scoped score is unchanged.",
+  "substantiveObjections": [],
+  "position": "agree_with_named_nonblocking_limits"
+}

@@ -1,0 +1,224 @@
+{
+  "reviewer": "Technical character animator and rigger B — rendering integrity and production reuse",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "independent": true,
+  "independence": "Saved before reading Rigging A's new independent review, new pair discussion or new score. The previous implementation review, pair discussion and final vote are the continuity baseline.",
+  "sourceManifest": "review-source-v1.json",
+  "sourceManifestSha256": "d5abc24f90f9539bfddb0223da42392fb31c9321ab7c962aa98c893ff3789e0e",
+  "scope": "Updated local V5 rendering integrity and practical production reuse: six hand families, the investigation/wry studies, composition-aware attention, constrained rig and final contextual presentation. Same local-foundation scope as my prior review; no continuous-perception, physical-device or audience-outcome certification.",
+  "previousScoreAndScope": {
+    "value": 8.5,
+    "outOf": 10,
+    "record": "../2026-11-07-implementation/team-votes/rigging-b.json",
+    "scope": "Local rendering integrity and practical reuse with sampled attachment/export evidence; residual compact hand/ruff density and incomplete continuous/device verification.",
+    "comparison": "The new score credits visible hand separation and a contained, tested composition mapping. It does not narrow away the prior small-scale or production-validation limits."
+  },
+  "score": {
+    "value": 8.8,
+    "outOf": 10,
+    "meaning": "A stronger local rig and study implementation: hand contact is less congested and phone attention is tied to the measured heading while preserving geometry, replay and still-state behavior. Small gesture specificity and continuous/device verification still prevent an exceptional fully demonstrated reuse assessment."
+  },
+  "evidenceActuallyInspected": [
+    "Standing AGENTS.md/team role and prior own implementation independent, pair discussion and final vote retained from this conversation; new reviewer-instructions.txt and brief.json read.",
+    "review-source-v1.json: recomputed the expected manifest hash and all 12 current file hashes, zero mismatches. Independently compared character.js bytes with before/animation-v5/character.js: identical.",
+    "Full before/current motion.js diff: only the named hand poses, preparation and offering rotations changed; engine and neutral contract unchanged. Full current staging.js and signature.js read, including cached measurement, map window, five-channel restriction, retargeting, replay correction, pause, theme and reduced-motion handling.",
+    "motion.test.mjs added/changed assertions; full staging.test.mjs controller/geometry/retarget/replay tests. all-tests.txt records 23 passes; did not rerun the existing suite.",
+    "geometry.json: 567 reported frozen/day/night structural geometry comparisons, no mismatch or invalid values; paint/defs excluded. Byte identity provides separate source support.",
+    "Parsed all browser-checks.json rows: 108 cases across 320,390,650,651,768,1440 widths; matching theme poses, no reported overflow or false return/control checks. Resize is recorded frozen, replay exact and reduced mode not playing.",
+    "keyboard-controls.json: recorded desktop keyboard Play/Pause/Resume and range behavior; evidence-index.json and comparison/full-reel export metadata.",
+    "view_image: hands-day.png, hands-night.png, offer-sequence-day.png and offer-sequence-night.png, including preparation through the held offer.",
+    "view_image: sizes-curious-investigate.png, sizes-thinking.png, sizes-grateful.png, sizes-shy.png and sizes-worried.png with matched before/current 96,128,160,240px samples in both themes.",
+    "view_image: baseline-attention-390-day.png; current attention-390-day at330,790,1190,1900,2350,2720ms; current attention-390-night at790,1190,2350,2720ms.",
+    "view_image: baseline-attention-320-night.png and attention-320-night-790.png; baseline-attention-1440-day.png and current attention-1440-day/night-790.png.",
+    "view_image: all-current.png and decoded-phone-night.png. The latter is one exact-engine frame in a simplified measured-bearing composition, not the actual phone DOM.",
+    "Additional numeric replay-envelope diagnostic reused the existing controller test harness with the source files: two studies, seek positions at50ms intervals, first400ms of replay at2ms steps. Maximum absolute gaze was5.0689145, inside the unchanged renderer's6-unit gaze clamp; no visual or browser inference is drawn. Initial helper attempt lacked its fixture rectangles and failed before executing cases; the corrected diagnostic supplied them."
+  ],
+  "strengths": [
+    {
+      "finding": "The hand changes solve actual contour crowding through posing. Thinking's free mitten now sits away from the chin contact; focused separates its low mittens; grateful preserves an intentional lower clasp instead of packing it into the ruff; worried has a clearer diagonal relationship. Both themes retain the same compact character.",
+      "evidence": [
+        "motion.js before/current diff",
+        "hands-day.png",
+        "hands-night.png",
+        "sizes-thinking.png",
+        "sizes-grateful.png",
+        "sizes-worried.png"
+      ]
+    },
+    {
+      "finding": "The offering mitten moves outward and turns after the return toward the visitor, then holds. The sampled sequence reads as one change of hand orientation rather than a repeating wave, and the unchanged short arm remains connected. The larger final portrait makes this change visible without growing the hand or torso.",
+      "evidence": [
+        "motion.js sharingPose and investigationFrames",
+        "motion.test.mjs offering-turn assertion",
+        "offer-sequence-day.png",
+        "offer-sequence-night.png",
+        "attention-390-day-2350.png",
+        "attention-390-day-2720.png"
+      ]
+    },
+    {
+      "finding": "Composition mapping is narrow and reusable within this study: measured heading bearing accounts for SVG letterboxing, only gaze/head channels change during investigation, and the authored visitor return is restored by2350ms. Current phone samples have upward attention rather than the previous fixed sideways address, while the desktop pose stays close to the authored composition.",
+      "evidence": [
+        "staging.js measureDirection/mapPose/attention",
+        "staging.test.mjs",
+        "browser-checks.json",
+        "baseline/current attention PNGs at320,390,1440"
+      ]
+    },
+    {
+      "finding": "The new layout-dependent state respects the existing playback model. Layout reads are isolated from character frames; paused resize stays frozen; replay carries the displayed correction; staging advances only with the clip; theme changes reuse the same rendered pose. These address likely integration faults rather than merely checking fixed constants.",
+      "evidence": [
+        "signature.js measureLayout/render/play/pause handlers",
+        "staging.test.mjs controller cases",
+        "browser-checks.json resize/replay/reduced records"
+      ]
+    },
+    {
+      "finding": "The preserved renderer and constrained poses still produce coherent wings, antennae, feet and mitten connections in the inspected sheets. There is no sampled clipping or detached-part regression. Existing neutral application construction remains supported by the unchanged character and neutral pose; this review does not invent a new export drawing.",
+      "evidence": [
+        "verified identical character.js bytes",
+        "motion.js diff",
+        "geometry.json",
+        "all-current.png",
+        "hands-day.png",
+        "hands-night.png"
+      ]
+    }
+  ],
+  "deductions": [
+    {
+      "id": "RIGB-GS-01",
+      "kind": "remaining observed craft limitation",
+      "severity": "minor",
+      "confidence": "High for visible size dependence; medium for meaning in motion",
+      "finding": "The revised mitten positions are cleaner, but at96–128px the invitation and gathered-hand distinctions still rely heavily on face/glasses and context. Thinking intentionally retains a dense chin/ruff contact, and shy's small offset is subtle. The240px and contextual portrait versions communicate the hand shape more clearly than the compact ladder samples.",
+      "evidence": [
+        "sizes-curious-investigate.png",
+        "sizes-thinking.png",
+        "sizes-shy.png",
+        "sizes-grateful.png"
+      ],
+      "implication": "Reduce the prior contour deduction, do not erase it. Use an adequate display size when hand meaning matters; no anatomical enlargement is justified."
+    },
+    {
+      "id": "RIGB-GS-02",
+      "kind": "validation limit",
+      "severity": "moderate confidence ceiling for production reuse; nonblocking locally",
+      "confidence": "High",
+      "finding": "The phone correction establishes a coherent measured bearing and improved still staging, not proof that viewers follow the question or perceive the retarget/replay as smooth. No new physical-device rendering trace or uninterrupted normal-speed observation was inspected. The previous active-callback evidence remains historical and must not be presented as a fresh benchmark of this controller.",
+      "evidence": [
+        "staging.js",
+        "signature.js",
+        "browser-checks.json scope",
+        "evidence-index.json",
+        "comparison-export.json"
+      ],
+      "implication": "Keep the prior continuous/device limits. Deterministic30fps export and cached layout improve inspectability and engineering confidence; they do not establish display cadence or human interpretation."
+    },
+    {
+      "id": "RIGB-GS-03",
+      "kind": "bounded integration limit",
+      "severity": "minor",
+      "confidence": "High",
+      "finding": "The staging helper is deliberately for the two project-question studies and an above/right question relationship. It is not a general target-tracking or contact system, and the standalone page controller is not yet an arbitrary mount/unmount component. Future consumers need their own composition, crop, repeated-instance and lifecycle review.",
+      "evidence": [
+        "staging.js supported set and upward weighting",
+        "signature.js observer/event setup",
+        "prior production-reuse review scope"
+      ],
+      "implication": "Accept the present local implementation without turning this into a blanket approval of future integrations. No extra abstraction is required for this page."
+    }
+  ],
+  "diagnosticNuance": {
+    "finding": "The replay correction can exceed the engine's nominal5-unit gaze range slightly: gazeY=-5.0689145 at326ms after replay from Investigate1200ms in the test fixture.",
+    "classification": "Nonblocking numerical nuance, not a demonstrated visible defect. The contract says roughly±5 and the unchanged renderer clamps at±6.",
+    "claimBoundary": "Do not describe the final composed replay pose as strictly clamped to±5. No anatomy or source change is recommended from this diagnostic alone.",
+    "communicatedToRoot": true
+  },
+  "improvementCriteria": [
+    "Inspect continuous normal-speed and slowed playback of the hand turn, phone reading/return, mid-play resize and repeated replay at the final composition. Change timing only for an identified unwanted motion.",
+    "Choose and document an intended expressive minimum size using the current ladders; retain larger portrait display where invitation meaning matters. Any further posing trial must show a visible gain while preserving chin/clasp intent and anatomy.",
+    "Profile the exact future website integration on intended hardware under realistic work. Attribute scripting/paint/scheduling costs before optimization; preserve theme geometry and do not reuse old mixed idle gaps as rig cost evidence.",
+    "For component reuse, verify resize, preference changes, visibility, repeated instances, crop and teardown in that consumer rather than inheriting this page's acceptance as universal."
+  ],
+  "confidence": {
+    "sourceAndGeometry": "high",
+    "sampledRenderedIntegrity": "high for inspected poses and compositions",
+    "handReadabilityImprovement": "medium-high",
+    "coveredControllerBehavior": "high for source and recorded/tested cases, not arbitrary-browser proof",
+    "continuousFeelAndPhysicalPerformance": "not verified",
+    "unprimedGestureComprehension": "not scored"
+  },
+  "implementedAssessment": "Accept the current local refinement with named nonblocking limits. It improves the actual prior hand-density and phone-direction findings without redrawing the character. No substantive rendering/rigging defect was found in the inspected evidence.",
+  "objections": [],
+  "limits": [
+    "No browser operation by this reviewer; browser JSONs are recorded evidence from the shared task.",
+    "Films were not watched continuously. Metadata, the decoded frame and authored/contact sheets support reproducibility and sampled rendering only.",
+    "No physical phone, GPU trace, spoken screen-reader output or native OS select-menu commit verification.",
+    "No new unfamiliar-human comprehension, attachment or recall study. Owner preference remains Investigate & share and is not audience evidence.",
+    "Renderer and neutral construction are unchanged; static application exports retain the previous review scope. Night32px stem weakness is not resolved by this hand/staging pass.",
+    "No public publication, remote push or deployment is covered."
+  ],
+  "skillsApplied": {
+    "priorIntake": "All17 installed Emil catalog entries were inspected in the preceding review; full relevant skill texts already read in this conversation were not reread needlessly.",
+    "fullTextsPreviouslyRead": [
+      "emil-design-eng",
+      "animate",
+      "review-animations",
+      "improve-animations",
+      "choreograph",
+      "animation-performance"
+    ],
+    "actualUse": [
+      "choreograph: check that visitor return precedes the single offering turn and that the free hand remains quiet.",
+      "animation-performance: inspect cached layout versus per-frame reads and preserve causal restraint on performance claims.",
+      "animate/review-animations: challenge current-displayed-pose replay, interrupted layout retargeting and reduced-motion behavior rather than only settled poses.",
+      "emil-design-eng/improve-animations: use matched before/current evidence at actual sizes and report precise scope, remaining defects and meaningful verification."
+    ],
+    "newSkillReading": "None needed for this rendering-integrity refinement. No design-taste or native-app implementation claim is made."
+  },
+  "workflowChanges": [
+    "Treat layout-aware character staging as a second state layer: inspect raw and displayed pose separately, then exercise replay, seek, resize and preference changes so one layer cannot snap back to the other.",
+    "Keep a before/current ladder for each materially changed gesture and inspect both themes plus the actual destination composition. A large isolated pose is insufficient evidence for compact reuse.",
+    "Record the sequence's causal milestones and quiet channels before implementation, then verify monotonic hand motion and a genuine hold in source and rendered samples.",
+    "Carry source hashes and the frozen control into pair review. Preserve independent scores and distinguish numeric diagnostics from visible defects or device-performance evidence."
+  ],
+  "rulesNotApplicableWithReason": [
+    "Sub-300ms UI budgets do not govern the authored character performance or its380ms pose handoff; controls still need immediate response and equivalent keyboard access.",
+    "Transform/opacity guidance does not authorize changing antenna/eye/mouth geometry or the tiny anatomy. Cached layout is a concrete improvement; hardware smoothness still needs measurement.",
+    "A fully still reduced-motion pose and frozen paused resize are appropriate. Do not add a fade, independent staging tween or idle motion to satisfy a generic animation rule.",
+    "The explicit independent-review JSON and no-source-edit protocol govern output; skill construction templates do not add an approval gate or authorize edits."
+  ],
+  "scoreHistory": [
+    {
+      "review": "2026-11-07-implementation final vote",
+      "value": 8.5,
+      "scope": "same local rendering-integrity/production-reuse foundation lens"
+    },
+    {
+      "review": "2026-11-07-gesture-staging independent",
+      "value": 8.8,
+      "reason": "visible hand separation and contained tested composition mapping; remaining size/perception/device limits retained"
+    }
+  ],
+  "followupDiagnostic": {
+    "record": "evidence/rigging-b-replay-envelope.json",
+    "timing": "After independent review was saved; requested by root to assess the numerical nuance. Partner review was subsequently read for pair discussion; independent judgment remains unchanged.",
+    "method": "Existing deterministic controller fixture, six measured browser bearings, both studies, seek and active starts at50ms phases, first400ms replay at2ms steps; one isolated controller per bearing with explicit resets between cases.",
+    "cases": 2136,
+    "numericSamples": 429336,
+    "maximumAbsoluteGaze": 5.140108514480664,
+    "worstCase": {
+      "bearingWidth": 650,
+      "id": "curious-investigate",
+      "startMode": "active",
+      "phaseMs": 250,
+      "afterReplayMs": 82
+    },
+    "rendererLimit": 6,
+    "nonfiniteOrRendererBoundViolations": 0,
+    "conclusion": "The composed replay pose can slightly exceed nominal engine±5 but stayed inside unchanged renderer±6 in this diagnostic. No clamp or source change warranted; continuity remains important. This is sampled numeric evidence, not exhaustive interval proof, a browser run, visual quality or performance evidence.",
+    "scoreUnchanged": 8.8
+  }
+}

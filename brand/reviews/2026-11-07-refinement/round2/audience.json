@@ -1,0 +1,46 @@
+{
+  "role": "Audience and character-perception researcher — refinement cross-review",
+  "challenges": [
+    {
+      "role": "Brand director",
+      "claimId": "verdict / resolvedIssues: Nag remains clear",
+      "decision": "accept with bounded meaning",
+      "reason": "The large name, immediate first-person sentence and named projects visibly preserve attribution opportunities. 'Keeps Nag prominent' is supported as hierarchy; it should not become a claim that unfamiliar readers correctly remember Nag or his work. Those outcomes remain distinct from remembering the moth.",
+      "evidence": ["evidence/readme-390-day.png", "evidence/readme-390-night.png", "round1/brand.json"],
+      "implication": "Keep the substantial moth and existing hierarchy. No placement reduction is justified. Describe attribution cues as present, with recall untested."
+    },
+    {
+      "role": "Performance director",
+      "claimId": "verdict: mitten intentions separate / PERF-R3",
+      "decision": "revise wording; accept restraint",
+      "reason": "The supporting mitten is lower and Focused's hands are separated: these are visible changes. Clearer intention is an expert interpretation until viewers encounter the unlabelled action. PERF-R3 correctly prevents further hand separation from becoming a general rule; gratitude can need joining hands.",
+      "evidence": ["evidence/poses.png", "evidence/all-24.png", "round1/performance.json: PERF-R3"],
+      "implication": "Report improved visible staging and preserved anatomy. Keep the current poses; test only contrasts needed in a real placement, accepting reasonable emotional synonyms."
+    },
+    {
+      "role": "Performance director",
+      "claimId": "PERF-R1",
+      "decision": "accept with application scope",
+      "reason": "Two inspected transition pairs cannot validate the reported 42-pair compatibility rule. Equally, the number of pairs does not establish a new defect or justify broad reworking. The known smile defect is absent in the sampled sad↔worried directions; other intended transitions need their own evidence when selected for use.",
+      "evidence": ["evidence/sad-worried.png", "evidence/worried-sad.png", "round1/performance.json: PERF-R1"],
+      "implication": "Retain the local fix and describe its verified scope. Review relevant pairings at normal speed before claiming general narrative correctness; do not turn exhaustive emotion testing into a static-header gate."
+    },
+    {
+      "role": "Brand director",
+      "claimId": "BR-R1",
+      "decision": "accept",
+      "reason": "Explicit vector provenance is useful because visual coherence does not mean pixel identity. The cleaner application remains compatible with the intended tiny character to this reviewer. Neither texture differences nor expert agreement demonstrate a recognition problem.",
+      "evidence": ["evidence/identity.png", "round1/brand.json: BR-R1"],
+      "implication": "Document the derivation and preserve the reference. No texture addition, geometry reconstruction or maturity change is supported."
+    }
+  ],
+  "ownPositionChanged": [
+    "No substantive reversal: peer evidence reinforces the boundary between resolved sampled defects and untested audience outcomes.",
+    "I adopt the performance review's sharper wording: visible staging improves; exact intention recognition is not established."
+  ],
+  "finalVerdict": "The inspected local refinement preserves innocence, strengthens application consistency and removes the demonstrated sampled smile defect. No audience-specific blocker or further geometry change is justified. These are bounded visual findings, not proof of emotional connection or delayed recall. Research can guide later iteration without becoming an absolute gate for the four authorized fixes.",
+  "openQuestions": [
+    "What do unfamiliar readers recall about Nag and an actual project after 24–48 hours?",
+    "Do the few reactions chosen for a real application communicate their intended broad actions without labels?"
+  ]
+}

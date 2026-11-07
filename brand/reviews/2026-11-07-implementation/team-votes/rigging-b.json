@@ -1,0 +1,29 @@
+{
+  "reviewer": "Technical character animator and rigger B — rendering integrity and production reuse",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "proposalFile": "team-proposal-v2.json",
+  "proposalSha256": "4eef022ccecba73621ca188b29c13cbc41d08b5268ffeaa6e98e2c4c5ea08c5c",
+  "sourceManifest": "review-source-v4.json",
+  "sourceManifestSha256": "4b70d40e6c6fed47936377ff71d915379cbe84bc2a23020ac2ab2fb9696b2caa",
+  "decision": "agree_with_named_nonblocking_limits",
+  "acceptedScope": "Accept the implemented LOCAL v4 foundation described by proposal v2 for continued design and future website work: the native constrained SVG rig and 27 performances, owner-selected Investigate & share portrait study, current supported avatar/header exports and deterministic films, and documented control/description improvements. This is not publication, deployment, universal 9/10 certification, proof of audience outcomes or continuous-motion/physical-device validation.",
+  "personalScore": {"value": 8.5, "outOf": 10, "unchanged": true},
+  "scoreMeaning": "Strong implemented local rendering integrity and practical reuse with coherent sampled attachment and exports. Residual contact-density and incomplete continuous/device verification remain; the score does not certify presented-frame rate or normal-speed acting appeal.",
+  "namedLimits": [
+    "Mitten, jaw, ruff and glasses contours remain dense at compact expressive sizes. A larger portrait makes the mitten visible but does not prove a specific invitation reading.",
+    "The stacked phone question is less literally aligned with the authored screen-right investigation glance; its extra vertical height also keeps the whole scene and controls outside the initial viewport.",
+    "Night antenna connections remain weak at 32px; use the day avatar as the universal 32px asset and give night more room.",
+    "Active Thinking callback evidence is local desktop only: 119 intervals, mean 34.45 ms, p95 35 ms, maximum 67 ms and four above 50 ms. This is not a presented-frame, physical-phone or GPU trace. Mixed idle/playback one-second gaps must not be attributed to SVG cost.",
+    "Sampled PNGs, numeric tests and deterministic 30fps films do not certify continuous perceived motion or all transition/crop combinations. The final website integration needs its own lifecycle, crop and intended-device validation.",
+    "Recorded accessible descriptions and reduced-motion state do not establish spoken screen-reader output or native OS menu keyboard commit.",
+    "Owner preference and AI craft review are separate from unfamiliar-human comprehension, attribution, attachment and delayed recall. Those outcomes remain unmeasured."
+  ],
+  "substantiveObjections": [],
+  "pairRecommendationConfirmed": true,
+  "acceptedJointRecommendation": "Accept the intact constrained rig and static exports with explicit contact-density and live-cadence limits. Do not attribute mixed idle one-second gaps to SVG without evidence.",
+  "pairDiscussion": "pairs/rigging-b-discussion.json",
+  "skillsMessageAcknowledged": true,
+  "skillsIntake": "All 17 catalog entries reviewed and six relevant SKILL.md files read in full during the independent review. Pair agreement records the practical purpose/driver inventory, causal choreography, trace-based performance diagnosis, layered evidence and purpose-based exceptions.",
+  "verification": "Recomputed the immutable proposal and source-manifest hashes and all 18 current file hashes; no mismatch. No source files changed by this reviewer."
+}

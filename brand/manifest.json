@@ -1,0 +1,996 @@
+{
+  "schemaVersion": 1,
+  "brand": "heyNag",
+  "version": "0.4.0",
+  "status": "draft",
+  "generatedBy": "brand/source/manifest.mjs",
+  "checksumAlgorithm": "sha256",
+  "notes": [
+    "Paths are relative to the repository root.",
+    "Canonical assets, fonts and source records are separate from derived previews.",
+    "The manifest and its generator are excluded from the checksum inventory.",
+    "Checksums verify file identity; source records describe provenance and creative intent."
+  ],
+  "assets": [
+    {
+      "path": "assets/brand/Schibsted-Grotesk-OFL.txt",
+      "mediaType": "text/plain",
+      "bytes": 4406,
+      "sha256": "3b4f3063b6ac7c1e403e2c4a5e8ef3a58190ff83ed7b15af66511858699139ce"
+    },
+    {
+      "path": "assets/brand/banner-park/park-day-study-01.png",
+      "mediaType": "image/png",
+      "bytes": 2653922,
+      "sha256": "7da876e96f7968dc43325b7a6d9ccd961b0b433ee3d205d16a2822a59037fbc8",
+      "dimensions": {
+        "width": 2172,
+        "height": 724,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/banner-park/park-day-study-02-macbook.png",
+      "mediaType": "image/png",
+      "bytes": 2507154,
+      "sha256": "a0483d82792bb3681753638fa53ac06fe6efbbbfffd68402f850d886fd52466e",
+      "dimensions": {
+        "width": 2172,
+        "height": 724,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/banner-park/park-film-study-01-moth-only.png",
+      "mediaType": "image/png",
+      "bytes": 2368175,
+      "sha256": "5ff9786323063ef0a0704b21a4e9573d07b2129f58ae5dd681224e43bf876543",
+      "dimensions": {
+        "width": 2172,
+        "height": 724,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/banner-park/park-film-study-02-two-guests.png",
+      "mediaType": "image/png",
+      "bytes": 2322869,
+      "sha256": "1a1e410f52ae8f5b11e2dce068f60b530fc21cf929bdb06d62367c877c0113f2",
+      "dimensions": {
+        "width": 2172,
+        "height": 724,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/banner-park/park-film-study-03-four-guests.png",
+      "mediaType": "image/png",
+      "bytes": 2327505,
+      "sha256": "509e1892ede2a115014d4d5c359fad9527757f889c40b152f67f1a04126f6387",
+      "dimensions": {
+        "width": 2172,
+        "height": 724,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/banner-park/park-film-study-04-stools-and-play.png",
+      "mediaType": "image/png",
+      "bytes": 2358990,
+      "sha256": "8a26a421bb9a252871dfc8e1a46c56c44307ee9648884e73d4304b92348f661f",
+      "dimensions": {
+        "width": 2172,
+        "height": 724,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/banner-park/park-film-study-05-clawd-seated.png",
+      "mediaType": "image/png",
+      "bytes": 2402087,
+      "sha256": "ca2c91c191081b0a097dbb66aa681e9eab6256eea6593571a267889de96ee771",
+      "dimensions": {
+        "width": 2172,
+        "height": 724,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/banner-park/park-film-study-06-clawd-recognition.png",
+      "mediaType": "image/png",
+      "bytes": 2433826,
+      "sha256": "4096bb11e58e630a7acc44d9c10b098714b2d2124849ac5a1dd29e94b37fe24f",
+      "dimensions": {
+        "width": 2172,
+        "height": 724,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/banner-park/park-film-study-07-clawd-plush.png",
+      "mediaType": "image/png",
+      "bytes": 2441808,
+      "sha256": "8a79349e46ed39fca6d375d405d67eba66cce251187d89b44b119c82da3dfa1a",
+      "dimensions": {
+        "width": 2172,
+        "height": 724,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/banner-park/park-film-study-08-story-and-light.png",
+      "mediaType": "image/png",
+      "bytes": 2447597,
+      "sha256": "0794cfb0ac392c688c9e453a954a7602436dde6ac98f360292c6e2a7dd22ad5a",
+      "dimensions": {
+        "width": 2172,
+        "height": 724,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/banner-park/park-film-study-09-companion-refinement.png",
+      "mediaType": "image/png",
+      "bytes": 2464012,
+      "sha256": "2797db3692eccda1b9e37ab2c82272162942c79b5241d5a07bf29183fdcb5371",
+      "dimensions": {
+        "width": 2172,
+        "height": 724,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/banner-park/park-film-study-10-clean-companion-eyes.png",
+      "mediaType": "image/png",
+      "bytes": 2497595,
+      "sha256": "667cabad45f56cd9ce585570dae2f57d444777e57d154c2fb78b85aaf4b7fd3f",
+      "dimensions": {
+        "width": 2172,
+        "height": 724,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/banner-park/park-film-study-11-flat-grok-eyes.png",
+      "mediaType": "image/png",
+      "bytes": 2554635,
+      "sha256": "87943e3c1452d40b1ac535ea5bbcefa6e7676cee77165eef2d77ce5c67a32569",
+      "dimensions": {
+        "width": 2172,
+        "height": 724,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/banner-park/park-film-study-12-materials-and-grip.png",
+      "mediaType": "image/png",
+      "bytes": 2552461,
+      "sha256": "f43b5c7053f9fc3017c651e9ba4628a862ffbe1fd76d706f145a88f75f2e3e70",
+      "dimensions": {
+        "width": 2172,
+        "height": 724,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/banner-park/park-film-study-13-muse-face-cleanup.png",
+      "mediaType": "image/png",
+      "bytes": 4457274,
+      "sha256": "32ce62c11e533fcd3a7ab1856a102c7a31b9111d96c3fbf16df8d469b8f08469",
+      "dimensions": {
+        "width": 2172,
+        "height": 724,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/expressions-v5/anchors-day-r2.png",
+      "mediaType": "image/png",
+      "bytes": 1779547,
+      "sha256": "82d33a460546b346b4bef8915bf5feb701e9eb311c1eaec832490396eeef0354",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/expressions-v5/anchors-day-r3.png",
+      "mediaType": "image/png",
+      "bytes": 1731962,
+      "sha256": "c24b53500f9af7b8a7aed5e0db5af8bfcfe8c8983f0a43fc99257f797ecd5c37",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/expressions-v5/anchors-day.png",
+      "mediaType": "image/png",
+      "bytes": 1714727,
+      "sha256": "9e590c3c91472c31c83315db9b0ca583140d7d9e991db87c79acc3b8b4e7b807",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/expressions-v5/anchors-night.png",
+      "mediaType": "image/png",
+      "bytes": 1797234,
+      "sha256": "affbf2a8d4d326eb87de74a0a945661b5ca6e15bf4aa9926b4ca0e109ccf4380",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/expressions-v5/joy-day.png",
+      "mediaType": "image/png",
+      "bytes": 1708946,
+      "sha256": "403f4aa66bebba3544382dcac75a28e8dbc5e906559c358e12aa931cd320d85f",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/expressions-v5/joy-night-r2.png",
+      "mediaType": "image/png",
+      "bytes": 1765356,
+      "sha256": "f869c85a29f768e2178388561a3213d5bbf137d41a5d2008a9e4a50d1d278d37",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/expressions-v5/joy-night.png",
+      "mediaType": "image/png",
+      "bytes": 1908272,
+      "sha256": "17c1e4da21e4fe13a5cc593c73a72a05c4848d787a86000c7096e19a19ae9a77",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/expressions-v5/mind-day-r2.png",
+      "mediaType": "image/png",
+      "bytes": 1730085,
+      "sha256": "799c63aeeb085c13a1d5eddc57b2fe127d659742fa0c78c17e68943b5071c9a3",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/expressions-v5/mind-day.png",
+      "mediaType": "image/png",
+      "bytes": 1710225,
+      "sha256": "c843db9694bc93cb9360e4fd3da9c854822cd2a2ec87c9454678932bde7947af",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/expressions-v5/mind-night.png",
+      "mediaType": "image/png",
+      "bytes": 1784902,
+      "sha256": "3d944d5f948ad4ae6713b8d8e8e224c602f68354bd51f64fb12b45c6dfb99d09",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/expressions-v5/tender-day.png",
+      "mediaType": "image/png",
+      "bytes": 1691475,
+      "sha256": "4c24dc0f36251bba5465e8b981e591eec30bda8d0af800f049865b24dee3e574",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/expressions-v5/tender-night.png",
+      "mediaType": "image/png",
+      "bytes": 1720831,
+      "sha256": "6fbf164008cdffba9c91dc9630b16df38944795d1c749a9272807b19e7276999",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/header-dark.png",
+      "mediaType": "image/png",
+      "bytes": 121466,
+      "sha256": "f52bcc2a57ad685abc55acc71ab49665b4fd32ffa1bc5de206935137f106ce2e",
+      "dimensions": {
+        "width": 1200,
+        "height": 360,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/header-dark.svg",
+      "mediaType": "image/svg+xml",
+      "bytes": 994686,
+      "sha256": "3a9b7a1ea064dc490247ec2b147da1f9074309fecc45c55ac8040503d8d726e0",
+      "dimensions": {
+        "width": 1200,
+        "height": 360,
+        "unit": "px",
+        "viewBox": [
+          0,
+          0,
+          1200,
+          360
+        ]
+      }
+    },
+    {
+      "path": "assets/brand/header-light.png",
+      "mediaType": "image/png",
+      "bytes": 127292,
+      "sha256": "9603782b00aba12e7f12137c0a5bd9f9a4474c00de9d2309ff27a1faec0fc322",
+      "dimensions": {
+        "width": 1200,
+        "height": 360,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/header-light.svg",
+      "mediaType": "image/svg+xml",
+      "bytes": 994686,
+      "sha256": "a7a5db43672991ddeaa49a91784230fc9fed3a06fade28810e3d09fb2a4740a7",
+      "dimensions": {
+        "width": 1200,
+        "height": 360,
+        "unit": "px",
+        "viewBox": [
+          0,
+          0,
+          1200,
+          360
+        ]
+      }
+    },
+    {
+      "path": "assets/brand/header-v5-dark.png",
+      "mediaType": "image/png",
+      "bytes": 73905,
+      "sha256": "daac3c4a6c9c27adad1ee591fb36e1c3733fa70dee1baa4ffafebc90b246c8e9",
+      "dimensions": {
+        "width": 1200,
+        "height": 360,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/header-v5-dark.svg",
+      "mediaType": "image/svg+xml",
+      "bytes": 17824,
+      "sha256": "da0af111440c0c28ccdcd26f5d1780c51ec4675288bd8c1f4cc5135f57fb479f",
+      "dimensions": {
+        "width": 1200,
+        "height": 360,
+        "unit": "px",
+        "viewBox": [
+          0,
+          0,
+          1200,
+          360
+        ]
+      }
+    },
+    {
+      "path": "assets/brand/header-v5-light.png",
+      "mediaType": "image/png",
+      "bytes": 67194,
+      "sha256": "9a30a46f7a50f21daa4bbbbc38863e5f3552c8cea239859be7cff99198e033d9",
+      "dimensions": {
+        "width": 1200,
+        "height": 360,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/header-v5-light.svg",
+      "mediaType": "image/svg+xml",
+      "bytes": 17711,
+      "sha256": "f099bd2987d2ffc518905c9e39bcd91fa4202324c32397dec6ad890f4cbf784f",
+      "dimensions": {
+        "width": 1200,
+        "height": 360,
+        "unit": "px",
+        "viewBox": [
+          0,
+          0,
+          1200,
+          360
+        ]
+      }
+    },
+    {
+      "path": "assets/brand/heynag-moth-avatar-v2.png",
+      "mediaType": "image/png",
+      "bytes": 874135,
+      "sha256": "9e115da4ad6961a9f8e215c264fbe2708d88a729c7dc3822f16a26e4feb119d3",
+      "dimensions": {
+        "width": 1254,
+        "height": 1254,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/heynag-moth-avatar-v5-day.png",
+      "mediaType": "image/png",
+      "bytes": 68294,
+      "sha256": "9322ce46806ec584c03cf8fb34126ff6a73b4e1c930fb8de5ead9ea8c79dafe7",
+      "dimensions": {
+        "width": 512,
+        "height": 512,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/heynag-moth-avatar-v5-day.svg",
+      "mediaType": "image/svg+xml",
+      "bytes": 7110,
+      "sha256": "cebead28f1e383c3ad9c216188e12e6924befb1b93c36ae799612dcf1567d8b2",
+      "dimensions": {
+        "width": 512,
+        "height": 512,
+        "unit": "px",
+        "viewBox": [
+          0,
+          0,
+          512,
+          512
+        ]
+      }
+    },
+    {
+      "path": "assets/brand/heynag-moth-avatar-v5-night.png",
+      "mediaType": "image/png",
+      "bytes": 75323,
+      "sha256": "033c73324b12fe0632c4c7bb0673770b1798202c32d071945e610a49240dbe4d",
+      "dimensions": {
+        "width": 512,
+        "height": 512,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/heynag-moth-avatar-v5-night.svg",
+      "mediaType": "image/svg+xml",
+      "bytes": 7156,
+      "sha256": "8a9e0b454d004736d5db42be4195f01335415288ca0edb6b719a2665067cea03",
+      "dimensions": {
+        "width": 512,
+        "height": 512,
+        "unit": "px",
+        "viewBox": [
+          0,
+          0,
+          512,
+          512
+        ]
+      }
+    },
+    {
+      "path": "assets/brand/heynag-moth-avatar.png",
+      "mediaType": "image/png",
+      "bytes": 450050,
+      "sha256": "ec00e08a6a7a9effec43638925df64a773d467530b52a8ea674b9d8fdcd63962",
+      "dimensions": {
+        "width": 1254,
+        "height": 1254,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/heynag-moth-v2-night.png",
+      "mediaType": "image/png",
+      "bytes": 797125,
+      "sha256": "b1eb98c287410aace904cd04762f4f2034be1b26aa74a1ae7d5a34c61ca2c0f1",
+      "dimensions": {
+        "width": 1254,
+        "height": 1254,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/heynag-moth-v2.png",
+      "mediaType": "image/png",
+      "bytes": 741960,
+      "sha256": "32632a3da976a7fecb1ead5abee1d61cb622f9f5c9a681daec44ef3dbeb377c9",
+      "dimensions": {
+        "width": 1254,
+        "height": 1254,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/heynag-moth-v5-night.png",
+      "mediaType": "image/png",
+      "bytes": 786697,
+      "sha256": "bc38880ac40abefd3dde92ba576e8e92c316db8ad9b2ddf0a4365e9b4caded11",
+      "dimensions": {
+        "width": 1254,
+        "height": 1254,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/heynag-moth-v5-refined.png",
+      "mediaType": "image/png",
+      "bytes": 811843,
+      "sha256": "6d58e2dd7a901b618c62b07c25dece05f5c512ed5ee8250531b203e531978502",
+      "dimensions": {
+        "width": 1254,
+        "height": 1254,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/heynag-moth-v5.png",
+      "mediaType": "image/png",
+      "bytes": 787506,
+      "sha256": "2675709620eaef4121634eb1088e80a90653caa011c6d4d925762078b091735a",
+      "dimensions": {
+        "width": 1254,
+        "height": 1254,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/heynag-moth.png",
+      "mediaType": "image/png",
+      "bytes": 724199,
+      "sha256": "cd750f3e5445e9902fd8cbf9f8f1b0ce231d266a288f8d6231ff02b70264f65d",
+      "dimensions": {
+        "width": 1254,
+        "height": 1254,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/moth-anatomy-study-v4.png",
+      "mediaType": "image/png",
+      "bytes": 748216,
+      "sha256": "668ef24b7d929ff309f9b3e361920b8d6ca28ab0c74919232d921e73b5a7e056",
+      "dimensions": {
+        "width": 1199,
+        "height": 1312,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/moth-comic-study-v3.png",
+      "mediaType": "image/png",
+      "bytes": 1745770,
+      "sha256": "e939abd27025472051d2dd6d4aabddcbe196207ce32e6725e1ff0a3aeb6a78bd",
+      "dimensions": {
+        "width": 1774,
+        "height": 887,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/moth-expressions-study.png",
+      "mediaType": "image/png",
+      "bytes": 1553865,
+      "sha256": "aca7c39881f44ef6e07bf8c6d090fbc7d87de11ab0dd888330241479667788da",
+      "dimensions": {
+        "width": 1216,
+        "height": 1293,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/moth-poses-v2.png",
+      "mediaType": "image/png",
+      "bytes": 1689483,
+      "sha256": "92093d123a0e0b4e26a9eed5ecb50ee78442fc45acdb45264093a579dfb85bdd",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/moth-poses.png",
+      "mediaType": "image/png",
+      "bytes": 1677909,
+      "sha256": "9688aa163a5b49d4df8300a06169d3c4f68ab02f3a68ded2c04535fcba3fb43e",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/wordmark-ink.svg",
+      "mediaType": "image/svg+xml",
+      "bytes": 4990,
+      "sha256": "b769c9028ed4991034f2086e5a040988d66a9660ae27e2899031be881ca8b825",
+      "dimensions": {
+        "width": 633,
+        "height": 202,
+        "unit": "px",
+        "viewBox": [
+          0,
+          0,
+          633,
+          202
+        ]
+      }
+    },
+    {
+      "path": "assets/brand/wordmark-paper.svg",
+      "mediaType": "image/svg+xml",
+      "bytes": 4990,
+      "sha256": "7ebab40c9e7df365ab595115b02664fa5e4d4511df06034db15fc6d8e98a9b2b",
+      "dimensions": {
+        "width": 633,
+        "height": 202,
+        "unit": "px",
+        "viewBox": [
+          0,
+          0,
+          633,
+          202
+        ]
+      }
+    }
+  ],
+  "fonts": [
+    {
+      "path": "brand/fonts/OFL.txt",
+      "mediaType": "text/plain",
+      "bytes": 4406,
+      "sha256": "3b4f3063b6ac7c1e403e2c4a5e8ef3a58190ff83ed7b15af66511858699139ce"
+    },
+    {
+      "path": "brand/fonts/SchibstedGrotesk-Medium.ttf",
+      "mediaType": "font/ttf",
+      "bytes": 94224,
+      "sha256": "2a1f8dfe43d3024b439f1abc0812150b13f792744c2699f068dbae7aeef9eaa1"
+    },
+    {
+      "path": "brand/fonts/SchibstedGrotesk-Regular.ttf",
+      "mediaType": "font/ttf",
+      "bytes": 93936,
+      "sha256": "357651a7214aa7f518688f3f0deefff8432890825336a75df64185fc3103c965"
+    }
+  ],
+  "sources": [
+    {
+      "path": "brand/animation-v5/README.md",
+      "mediaType": "text/markdown",
+      "bytes": 7197,
+      "sha256": "ff0bcaa944f08ae194dde5e8085aa4fe8247631bb73a3af639d32bc60adf6373"
+    },
+    {
+      "path": "brand/animation-v5/acting-review.md",
+      "mediaType": "text/markdown",
+      "bytes": 12303,
+      "sha256": "e40a52c5da6e0f741f5fef40943f362d8d39c8fa6ff4393ad076c3d17db4e7c4"
+    },
+    {
+      "path": "brand/animation-v5/character.js",
+      "mediaType": "text/javascript",
+      "bytes": 25989,
+      "sha256": "b93400daeaa43af99e4b8c30942b80d4d69aba545a808863dd92ebe1830a97fa"
+    },
+    {
+      "path": "brand/animation-v5/contract.json",
+      "mediaType": "application/json",
+      "bytes": 1781,
+      "sha256": "627adea4249a68ee8f81a0135ee1af6864b8f9ddbb1bbdcb481a7a37c89b9f8c"
+    },
+    {
+      "path": "brand/animation-v5/index.html",
+      "mediaType": "text/html",
+      "bytes": 4804,
+      "sha256": "f380b41c1c512283d04ef30c783567b279ac559c0356afc93d6fdc441bccb7e3"
+    },
+    {
+      "path": "brand/animation-v5/motion.js",
+      "mediaType": "text/javascript",
+      "bytes": 41649,
+      "sha256": "45fd385756bbbe7ebbb4598f4f236b22c4fe641bd1476f6d88139f9b4b001bcb"
+    },
+    {
+      "path": "brand/animation-v5/motion.test.mjs",
+      "mediaType": "text/javascript",
+      "bytes": 16534,
+      "sha256": "4f240c78e13b631b1bb14ffd3f1a8bef62e167beefa651a09ab1961de077b8e7"
+    },
+    {
+      "path": "brand/animation-v5/reel.js",
+      "mediaType": "text/javascript",
+      "bytes": 6356,
+      "sha256": "7af6dbdb9c5a95d2e72b2b73ffa309a22a10d30fa53c1dc73616586e3b4ef864"
+    },
+    {
+      "path": "brand/animation-v5/signature.css",
+      "mediaType": "text/css",
+      "bytes": 5343,
+      "sha256": "5032455c9ad8f6cd607b40a21f83652560432c171544040a86a59d8f29d1a059"
+    },
+    {
+      "path": "brand/animation-v5/signature.html",
+      "mediaType": "text/html",
+      "bytes": 2900,
+      "sha256": "fb57d8ecbd9ebead9d6fdbe799481eba6d840c3346aab86ba622b388f9e2a06e"
+    },
+    {
+      "path": "brand/animation-v5/signature.js",
+      "mediaType": "text/javascript",
+      "bytes": 6539,
+      "sha256": "193978baaeced60a7a4f953444c7acc0a3211fc028fa3385cdc0eb3941c0d0e3"
+    },
+    {
+      "path": "brand/animation-v5/staging.js",
+      "mediaType": "text/javascript",
+      "bytes": 4209,
+      "sha256": "6be8d37d4a77484397d64e7db8d3c86471b76e0c8ef1ecc3978e319c03403d9e"
+    },
+    {
+      "path": "brand/animation-v5/staging.test.mjs",
+      "mediaType": "text/javascript",
+      "bytes": 9622,
+      "sha256": "6713f3ad7264a0da5f1dc71e94735a7856fe11a1006b0a63a2661e699c6a4d57"
+    },
+    {
+      "path": "brand/animation-v5/studio.css",
+      "mediaType": "text/css",
+      "bytes": 8728,
+      "sha256": "a43848acd9bb41df4fd2c3c7c6015e74883d12ababd77489040f31f54acd18ca"
+    },
+    {
+      "path": "brand/animation-v5/studio.js",
+      "mediaType": "text/javascript",
+      "bytes": 9102,
+      "sha256": "cdde884a87090cb33b4f227367f301f5f5797ae22ee09e10d4b6ff4f78ffdbec"
+    },
+    {
+      "path": "brand/source/anatomy-study-v4.json",
+      "mediaType": "application/json",
+      "bytes": 3453,
+      "sha256": "a8a268936aa348f612c734520c2eaf32fd26ae81cf3527715b6bc3018fd2e9c5"
+    },
+    {
+      "path": "brand/source/animation-v5.json",
+      "mediaType": "application/json",
+      "bytes": 8722,
+      "sha256": "e6ec3ecfbab9ae0e85f6f30ae8a0639fc63164cc3e7bca4d4d0a7291bc5f2779"
+    },
+    {
+      "path": "brand/source/applications-v5.html",
+      "mediaType": "text/html",
+      "bytes": 293,
+      "sha256": "1a36ac2adfb3a9b88d12036aec556d6b86e6eb07119a4558d9c3dbd71312f501"
+    },
+    {
+      "path": "brand/source/applications-v5.js",
+      "mediaType": "text/javascript",
+      "bytes": 4075,
+      "sha256": "4fbc16806e17b196a6ee51ebf230c0331079862ca35492b66b04fff016cd3ef3"
+    },
+    {
+      "path": "brand/source/applications-v5.json",
+      "mediaType": "application/json",
+      "bytes": 3067,
+      "sha256": "be41885dae4f6a978663d24ea6adb7828a1495df36bbef5fcaae4cbd4a79fc17"
+    },
+    {
+      "path": "brand/source/avatar-v2.json",
+      "mediaType": "application/json",
+      "bytes": 1518,
+      "sha256": "978f53b6b59211a837438f9561d9fc0f55da5e71498da8b61e586d9917c1d64d"
+    },
+    {
+      "path": "brand/source/build-expression-data.mjs",
+      "mediaType": "text/javascript",
+      "bytes": 616,
+      "sha256": "e4fa243d70a493d6b0fa4e1abd9057a1cc66b6c122018ae68d3228c74bfec6ed"
+    },
+    {
+      "path": "brand/source/build.swift",
+      "mediaType": "text/x-swift",
+      "bytes": 10436,
+      "sha256": "19b40484c4144663c74ee57a1f4ada3adc81c6d97689de2e4a49846dfec8e2cb"
+    },
+    {
+      "path": "brand/source/character-review-v5.json",
+      "mediaType": "application/json",
+      "bytes": 2069,
+      "sha256": "60eeeb44d775e4665601a97d31173cda7d361ee05a72ece62d66a7216f8d6b7e"
+    },
+    {
+      "path": "brand/source/comic-study-v3.json",
+      "mediaType": "application/json",
+      "bytes": 4356,
+      "sha256": "6eed3761d463b8979b8b3d1769ef6e8923f83dbad6035d1466c9b98637fc04b3"
+    },
+    {
+      "path": "brand/source/expression-alpha-v5.json",
+      "mediaType": "application/json",
+      "bytes": 1802,
+      "sha256": "766154d72848e5a8abfc3094d5f5359f7853a2c9d21561e51979931ff9a33041"
+    },
+    {
+      "path": "brand/source/expression-review-v5.json",
+      "mediaType": "application/json",
+      "bytes": 2526,
+      "sha256": "b88ec9c8a2351807ce47cc4a7a322938bc977f7df16e3c795d995387b94102d1"
+    },
+    {
+      "path": "brand/source/expression-study.json",
+      "mediaType": "application/json",
+      "bytes": 2278,
+      "sha256": "41ef44088cf6c81625cbabb1a1ea073cbf9426312247ad90e2262c15320f8351"
+    },
+    {
+      "path": "brand/source/expressions-v5.json",
+      "mediaType": "application/json",
+      "bytes": 25926,
+      "sha256": "447a3db78e1187558378a61414e1484d831e1606f0ce2cad3d423150e62e2a86"
+    },
+    {
+      "path": "brand/source/mascot-prompts.json",
+      "mediaType": "application/json",
+      "bytes": 2950,
+      "sha256": "8cbf2c9dc327323b04fef6356f80437aada60c1fe2e097b720c5c34a0f948b83"
+    },
+    {
+      "path": "brand/source/mascot-v2.json",
+      "mediaType": "application/json",
+      "bytes": 3752,
+      "sha256": "7a19db987fbea4154c50ec1cb8a6e2ad6ab0157b1518da0efc6ea82a33e41b19"
+    },
+    {
+      "path": "brand/source/mascot-v5-refined.json",
+      "mediaType": "application/json",
+      "bytes": 1715,
+      "sha256": "bf5288c1318606ff7e6093a7162800dac9b71fda3cc47951e16ca159085fb1c5"
+    },
+    {
+      "path": "brand/source/mascot-v5.json",
+      "mediaType": "application/json",
+      "bytes": 4863,
+      "sha256": "0fa0d2147ce2d5e94a32387930ba0992a071dc8da202674ff55d5dfa1c3fcb2b"
+    },
+    {
+      "path": "brand/source/night-v2.json",
+      "mediaType": "application/json",
+      "bytes": 1858,
+      "sha256": "4b7f8da16e6b962acc04189d4eef6a44bb163187e11ea13ffe37c618c02e599c"
+    },
+    {
+      "path": "brand/source/night-v5.json",
+      "mediaType": "application/json",
+      "bytes": 2227,
+      "sha256": "3f99930a1ff96e9b10257515817160526b8168a007bc49074d988da57fe002a8"
+    },
+    {
+      "path": "brand/source/pose-atlas-v2.json",
+      "mediaType": "application/json",
+      "bytes": 2960,
+      "sha256": "6d0c37fa198df82fbe2dfe433cea0675819f330f2eb8ed36f3323c0cf1f94fd2"
+    },
+    {
+      "path": "brand/source/pose-atlas.json",
+      "mediaType": "application/json",
+      "bytes": 3581,
+      "sha256": "f4c6dc334a150ffb6e22844ce981e1a0f46d2ecaeea65e23a75592789a000b1e"
+    },
+    {
+      "path": "brand/source/retouch-park13.mjs",
+      "mediaType": "text/javascript",
+      "bytes": 5748,
+      "sha256": "6f69ce81e1006075657935e5d15dd7cd7c041186521ef001f220253032931cfc"
+    }
+  ],
+  "derived": [
+    {
+      "path": "assets/brand/preview/header-dark.png",
+      "mediaType": "image/png",
+      "bytes": 121466,
+      "sha256": "f52bcc2a57ad685abc55acc71ab49665b4fd32ffa1bc5de206935137f106ce2e",
+      "dimensions": {
+        "width": 1200,
+        "height": 360,
+        "unit": "px"
+      },
+      "role": "preview",
+      "derivedFrom": "assets/brand/header-dark.png"
+    },
+    {
+      "path": "assets/brand/preview/header-light.png",
+      "mediaType": "image/png",
+      "bytes": 127292,
+      "sha256": "9603782b00aba12e7f12137c0a5bd9f9a4474c00de9d2309ff27a1faec0fc322",
+      "dimensions": {
+        "width": 1200,
+        "height": 360,
+        "unit": "px"
+      },
+      "role": "preview",
+      "derivedFrom": "assets/brand/header-light.png"
+    },
+    {
+      "path": "assets/brand/preview/heynag-v5-current-emotions.mp4",
+      "mediaType": "video/mp4",
+      "bytes": 7787555,
+      "sha256": "676393adf4ce68cd23236736d3269c3503a04900a967619654a94f1ce38a0c88",
+      "role": "preview"
+    },
+    {
+      "path": "assets/brand/preview/heynag-v5-emotions.mp4",
+      "mediaType": "video/mp4",
+      "bytes": 7797026,
+      "sha256": "743e7c8a7d6311bed2f6ce0a76e331e534d7625c9b45d3972c1cd3fa371de45a",
+      "role": "preview"
+    },
+    {
+      "path": "assets/brand/preview/heynag-v5-gesture-emotions.mp4",
+      "mediaType": "video/mp4",
+      "bytes": 7781582,
+      "sha256": "a7de16d20d880b0f55e346c2acb0ee64857f471e304f2285974ebfe627c08bad",
+      "role": "preview"
+    },
+    {
+      "path": "assets/brand/preview/heynag-v5-refined-emotions.mp4",
+      "mediaType": "video/mp4",
+      "bytes": 8061449,
+      "sha256": "ade56c0c20dd2edcf92e8e199b906ca51ada5e45e3ed23d6cc0b6218334ddb6f",
+      "role": "preview"
+    },
+    {
+      "path": "assets/brand/preview/wordmark-ink.png",
+      "mediaType": "image/png",
+      "bytes": 22388,
+      "sha256": "b91f20cfa1fd0f2e0559b62df307cf4bacb2f320cd2c8951302d17d07884efbe",
+      "dimensions": {
+        "width": 633,
+        "height": 202,
+        "unit": "px"
+      },
+      "role": "preview",
+      "derivedFrom": "assets/brand/wordmark-ink.svg"
+    },
+    {
+      "path": "assets/brand/preview/wordmark-paper.png",
+      "mediaType": "image/png",
+      "bytes": 24057,
+      "sha256": "794a1082d46f82e2c41dc875793d86e053a1e64d5f85d0c3aea157e086b032ee",
+      "dimensions": {
+        "width": 633,
+        "height": 202,
+        "unit": "px"
+      },
+      "role": "preview",
+      "derivedFrom": "assets/brand/wordmark-paper.svg"
+    }
+  ]
+}

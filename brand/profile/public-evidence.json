@@ -1,0 +1,131 @@
+{
+  "observedDate": "2026-11-07",
+  "method": "Read-only GitHub source, metadata and release inspection; no runtime or adoption validation.",
+  "projects": [
+    {
+      "repository": "heyNag/charms",
+      "status": "Released, installable agent plugins; repository is a marketplace/monorepo, not a single plugin.",
+      "authorship": "Non-fork heyNag repository. Marketplace owner is Nagarjuna Boddu; recent implementation commits are attributed to heyNag. No claim of exclusive authorship or external adoption.",
+      "concrete_evidence": [
+        "README lists two independently versioned plugins: watch-video and x-bookmarks.",
+        "watch-video has Gemini and local paths, transcription and timestamped frames; source CLI imports matching frame, caption, transcription and model modules.",
+        "x-bookmarks fetches, searches and digests saved X/Twitter posts using Bird or X API v2.",
+        "Marketplace pins watch-video 1.3.2 and x-bookmarks 1.1.0 to release commits.",
+        "GitHub releases exist for both, with portable ZIPs and SHA-256 files."
+      ],
+      "limits_for_copy": [
+        "Do not imply all analysis stays local; Gemini and optional hosted transcription are supported routes.",
+        "Do not imply all agent hosts have identical installation support; README explicitly documents Claude Code/Codex marketplace installs and skill-only alternatives.",
+        "No usage/adoption claim."
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/heyNag/charms/blob/f76f99e578e7a6932e9ed34be71db6e858548d19/README.md",
+          "supports": "Purpose, two-plugin structure, installs and MIT license."
+        },
+        {
+          "url": "https://github.com/heyNag/charms/blob/f76f99e578e7a6932e9ed34be71db6e858548d19/.claude-plugin/marketplace.json",
+          "supports": "Nagarjuna Boddu owner and pinned released versions."
+        },
+        {
+          "url": "https://github.com/heyNag/charms/blob/f76f99e578e7a6932e9ed34be71db6e858548d19/packages/watch-video/README.md",
+          "supports": "Video evidence workflow and local/cloud distinctions."
+        },
+        {
+          "url": "https://github.com/heyNag/charms/blob/f76f99e578e7a6932e9ed34be71db6e858548d19/packages/watch-video/skills/watch-video/scripts/watch.py",
+          "supports": "Implemented Python evidence pipeline, inspected source only."
+        },
+        {
+          "url": "https://github.com/heyNag/charms/blob/f76f99e578e7a6932e9ed34be71db6e858548d19/packages/x-bookmarks/README.md",
+          "supports": "Saved-post search/digest workflow and backend prerequisites."
+        }
+      ]
+    },
+    {
+      "repository": "heyNag/codex-pet-grok-bot",
+      "status": "Publicly installable artifact at package version 1.3.0, with committed pet bundles and installer. No GitHub Releases currently listed.",
+      "authorship": "Non-fork heyNag repository. Recent implementation/installer commits are attributed to heyNag. Credit the Codex-format implementation, motion and packaging; do not imply Nag originated or owns the Grok identity.",
+      "concrete_evidence": [
+        "README offers installable dark/light editions and a guarded one-line installer.",
+        "Pet bundles, animated atlases, local Character Lab, code and tests are committed.",
+        "README distinguishes nine host-triggered behaviors and sixteen gaze directions from the wider Character Lab's expression/effect vocabulary.",
+        "DESIGN.md and grok-art.mjs show code-native vector geometry, theme pairing, expressive eyes and body acting.",
+        "NOTICE.md expressly says the project is independent and not affiliated with or endorsed by xAI or OpenAI."
+      ],
+      "limits_for_copy": [
+        "Always keep unofficial in the short project description.",
+        "Do not describe all 39 Character Lab states as host-triggered Codex states.",
+        "Do not claim an official xAI/OpenAI collaboration.",
+        "Avoid license or unrestricted redistribution claims.",
+        "Installable does not mean independently tested in this task."
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/heyNag/codex-pet-grok-bot/blob/e2d5cf1dc671106fc49e91c13fcd359374c49e4c/README.md",
+          "supports": "Purpose, two editions, installation, preview and scope of host behaviors."
+        },
+        {
+          "url": "https://github.com/heyNag/codex-pet-grok-bot/blob/e2d5cf1dc671106fc49e91c13fcd359374c49e4c/docs/DESIGN.md",
+          "supports": "Character/motion process, code-generated artwork and host-format constraints."
+        },
+        {
+          "url": "https://github.com/heyNag/codex-pet-grok-bot/blob/e2d5cf1dc671106fc49e91c13fcd359374c49e4c/src/grok-art.mjs",
+          "supports": "Implemented vector geometry and opposite-theme palettes, inspected source only."
+        },
+        {
+          "url": "https://github.com/heyNag/codex-pet-grok-bot/blob/e2d5cf1dc671106fc49e91c13fcd359374c49e4c/NOTICE.md",
+          "supports": "Unofficial status, attribution and rights limits."
+        },
+        {
+          "url": "https://github.com/heyNag/codex-pet-grok-bot/blob/e2d5cf1dc671106fc49e91c13fcd359374c49e4c/package.json",
+          "supports": "Package version 1.3.0 and local preview command."
+        },
+        {
+          "url": "https://api.github.com/repos/heyNag/codex-pet-grok-bot/releases?per_page=10",
+          "supports": "Empty releases collection on observation date."
+        }
+      ]
+    },
+    {
+      "repository": "heyNag/eva-md",
+      "status": "An actively developed, released tool with working capture/resume functionality and substantial offline-tested features; several live-use paths are explicitly unverified. 'Memory experiment' is an honest profile framing; 'production-proven memory platform' is not.",
+      "authorship": "Non-fork heyNag repository. Current implementation and documentation commits are attributed to heyNag. It uses dependencies including an Open Knowledge Format library; do not imply everything was invented from scratch.",
+      "concrete_evidence": [
+        "README describes a redacted local chat inbox, deterministic resume briefs and a separate private Markdown wiki in git.",
+        "Internal inbox source implements redacted append-only JSONL capture.",
+        "Verification docs report successful synthetic recall checks in Claude Code CLI and Codex CLI, including cross-host recall, clear and compaction; Claude desktop checks are narrower.",
+        "Public release 2026.11.6 has arm64/amd64 macOS binaries, install/uninstall scripts, licenses and SHA256SUMS.",
+        "README and verification docs explicitly say no live wiki update has run yet; desktop recall, daily maintenance, MCP and other paths still need live checks."
+      ],
+      "limits_for_copy": [
+        "Use developing, experiment, or a description of the intended interaction; avoid reliable/production-ready/proven claims.",
+        "Do not claim every memory feature has run successfully in the real host apps.",
+        "macOS is the supported runtime; Linux CI keeping code building is not Linux runtime support.",
+        "The source repo is public, while the user's memory wiki is private and separate.",
+        "Do not imply perfect secret redaction."
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/heyNag/eva-md/blob/1ac0f7ed3392b6560c0fc49f510b68e26ce00a76/README.md",
+          "supports": "Purpose, current built functionality, requirements and stated live-verification gaps."
+        },
+        {
+          "url": "https://github.com/heyNag/eva-md/blob/1ac0f7ed3392b6560c0fc49f510b68e26ce00a76/docs/verification.md",
+          "supports": "Exact live checks passed and not yet run."
+        },
+        {
+          "url": "https://github.com/heyNag/eva-md/blob/1ac0f7ed3392b6560c0fc49f510b68e26ce00a76/docs/known-limitations.md",
+          "supports": "Feature limits and no-live-update qualification."
+        },
+        {
+          "url": "https://github.com/heyNag/eva-md/blob/1ac0f7ed3392b6560c0fc49f510b68e26ce00a76/internal/inbox/inbox.go",
+          "supports": "Redacted append-only capture implementation, inspected source only."
+        },
+        {
+          "url": "https://github.com/heyNag/eva-md/releases/tag/2026.11.6",
+          "supports": "Published binaries and release assets."
+        }
+      ]
+    }
+  ]
+}

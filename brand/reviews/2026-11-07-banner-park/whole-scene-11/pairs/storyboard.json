@@ -1,0 +1,42 @@
+{
+  "discipline": "storyboard",
+  "scope": "Explicit paired correction recommendation for existing scene11; individual consolidated-plan votes remain separate.",
+  "reviewedAssetSha256": "87943e3c1452d40b1ac535ea5bbcefa6e7676cee77165eef2d77ce5c67a32569",
+  "proposalSha256": "f22147674c4537a20f89925d335e107abb9a8bc9e322559b92209c35981d40b4",
+  "members": [
+    {
+      "reviewer": "storyboard-a",
+      "initialRecord": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/storyboard-a.json",
+      "currentVerdict": "revise",
+      "currentScore": 8.3,
+      "explicitConfirmation": "Accepted B's exact shared recommendation and no-blur qualification by direct message and in A's pairDiscussion."
+    },
+    {
+      "reviewer": "storyboard-b",
+      "initialRecord": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/storyboard-b.json",
+      "currentVerdict": "revise",
+      "currentScore": 8.4,
+      "explicitConfirmation": "B's pairDiscussion records exactRecommendationAcceptedByB and reviewerExplicitlyAccepted=true; B's direct message explicitly accepts the same bounded recommendation and supplies the material-preservation challenge."
+    }
+  ],
+  "sharedRecommendation": "Preserve the selected composition, four guests and stools, solo foreground coder, tiny anatomy and corrected eyes. Recover clean material and contour differentiation using07 as a control, while retaining distinct materials and useful current story details. Keep further micro-acting optional.",
+  "bothExplicitlyConfirmed": true,
+  "challengeAndResolution": {
+    "BChallenge": "Do not interpret calmer surfaces as uniformly blurring or flattening a rich park. Retain wood, weave, foliage and useful leaf staging.",
+    "AAcceptance": "Agreed explicitly. Preserve differentiated materials and large-shape hierarchy; remove the observed uniform broken texture/edge rhythm without removing intentional detail.",
+    "scoreDifferenceRetained": "A8.3 and B8.4 remain unchanged. B weighs the still-legible activity groups slightly more favorably; no substantive recommendation disagreement follows."
+  },
+  "requiredVersusOptional": {
+    "sharedRequired": "Material-specific surface and contour repair across the whole frame, with07 as a quality control rather than a blanket rollback.",
+    "proposalRequiredGrip": "W2 requires a solid rounded tiny mitten enclosing the mallet handle and a short readable connection to the moth. This is construction/contact clarity, not a demand for a new acting pose or a hammer strike.",
+    "AConfirmationOfGrip": "A rechecked scene11-workshop-native.png and accepts W2 as bounded. The current hand/handle junction has an angular strap-like reading. Retain reach, raised mallet, prop scale and tiny anatomy; add no fingers or long arm.",
+    "optional": "Further builder invitation, coder/resting gaze or watcher orientation. These cannot be smuggled into the required grip repair, and accepted Clawd remains intact.",
+    "individualVoteBoundary": "The explicit pair recommendation is jointly confirmed above. A does not supply B's vote on the exact consolidated proposal or claim an additional B response to the grip clarification while B is inactive."
+  },
+  "remainingSubstantivePairDisagreements": [],
+  "limits": [
+    "No artwork was changed and no replacement was inspected or scored in this pairing step.",
+    "The current scores concern silent still-image craft; no animation, audio, audience or deployed-profile outcome is certified.",
+    "Agreement on the correction direction is not full-team consensus or finished-art approval."
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "role": "Character performance director — adversarial cross-review",
+  "challenges": [
+    {
+      "role": "Storyboard",
+      "claimId": "STORY-03",
+      "decision": "accept",
+      "reason": "The repeated mitten cluster is visible, but it warrants staging experiments before geometry changes. Thinking already achieves chin contact; lowering its supporting mitten could reveal the dominant action without making either arm longer. Similar silhouettes are sometimes appropriate for neighboring feelings.",
+      "evidence": ["evidence/thinking-sequence.png:1400,1730,1920ms", "character.js:250-258", "evidence/all-24.png"],
+      "implication": "Try spacing, asymmetry and head-to-hand contact at the intended size. Rebuild geometry only if these trials cannot communicate the required action."
+    },
+    {
+      "role": "Rigging",
+      "claimId": "RIG-01",
+      "decision": "revise",
+      "reason": "The audience-dependent part is how disruptive the reset feels. The unintended open green smile itself is reproducible rendered evidence, not merely a possible interpretation. Neither endpoint requests that cheerful mouth. Conversely, fixing this pair should not gate unrelated static assets.",
+      "evidence": ["evidence/sad-worried-transition.png:200,300,380ms", "motion.js:315-340,513-521", "character.js:292-305"],
+      "implication": "Treat it as a release blocker only for an application that uses this difficult-feeling transition. Otherwise retain it as a targeted refinement."
+    },
+    {
+      "role": "Audience",
+      "claimId": "AUD-02",
+      "decision": "revise",
+      "reason": "Neighboring interpretations are a research question before they are a refinement requirement. Concern versus sadness may need context rather than stronger face deformation. Similarly, uncertain gaze readability does not justify new eyeballs or pupils: antenna, head direction, timing and a visible target may already suffice.",
+      "evidence": ["evidence/all-24.png", "evidence/curious-sequence.png:320,1160,2000ms", "character.js:261-266"],
+      "implication": "Test unlabelled intentions in one actual placement. Change only cues linked to repeated misunderstanding; preserve reasonable synonyms."
+    },
+    {
+      "role": "Rigging",
+      "claimId": "RIG-03",
+      "decision": "accept",
+      "reason": "Rendered contact review is needed for the actual animated placement; passing numeric tests cannot replace it. This does not imply a general-purpose rig is required. Four rigid wing panels already communicate expansion, protection and asymmetric attention in the sampled reactions.",
+      "evidence": ["character.js:118-124,243-246", "evidence/all-24.png:Curious,Excited,Scared", "evidence/excited-sequence.png"],
+      "implication": "Keep the current hinges for reactions. Add deformation or perspective only when a commissioned flight, turn or interaction needs it."
+    },
+    {
+      "role": "Identity",
+      "claimId": "IDENTITY-03",
+      "decision": "accept",
+      "reason": "Night stem separation is also an acting issue: the audience must see the antenna as attached for its noticing gesture to carry intention. The dark video samples support the concern. This is specific to those grounds and sizes, not a reason to withhold daylight artwork.",
+      "evidence": ["heynag-v5-emotions.mp4:0.333346,1.166641s, inspected decoded frames", "character.js:26-29,100-101,224"],
+      "implication": "Check restrained edge separation in the exact dark application before release."
+    }
+  ],
+  "ownPositionChanged": [
+    "PERF-01's before-public-use label is now explicitly conditional on deploying the affected transition.",
+    "Mitten readability deserves a staging pass, but current evidence does not justify enlarging hands or rebuilding anatomy."
+  ],
+  "finalVerdict": "Keep the character and reaction rig. The strongest next advance is one motivated silent performance around Nag's real content, with reliable transitions and readable attention. Current evidence supports prototype quality; it does not establish continuous-motion polish or audience appeal.",
+  "openQuestions": [
+    "Does curiosity's sharing glance read beside a visible project fragment at the final size?",
+    "Is the mathematically interrupted hop descent perceptibly weightless during normal-speed playback?",
+    "Which few reactions will the first public application actually use?"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "fullReel": "HeyNagReel.start() on the updated studio; active browser capture, then H264CRF20faststart30fps. Current MP4 retained under assets/brand/preview. Source cadence recorded before raw WebM removal.",
+  "comparison": "Open transition-reel.html, call OfflineFrames.chunk(start,count) in order from0 through1259. Each result is base64PNG. Save numbered frame-%04d.png files. Encode using ffmpeg -framerate 30 -i frame-%04d.png -c:v libx264 -crf 18 -pix_fmt yuv420p -movflags +faststart transitions-exact.mp4.",
+  "comparisonClock": "Same motion engine with injected deterministic scheduler;30fps outputs, internal stepping at120Hz. Each case4.2seconds;10cases.",
+  "keptFrames": 88,
+  "discardedIntermediateFrames": 1172,
+  "cleanup": "Removed task-created full-reel and rejected transition WebM intermediates plus rejected transition MP4 after final encoding. Retained cadence records, selected source frames, decoded evidence and final videos.",
+  "sourceFiles": [
+    "transition-reel.html",
+    "offline-frames.js",
+    "exact-proof.html"
+  ],
+  "limitations": "Exact source frames and sampled decoded frames are not continuous perceptual audience evidence."
+}

@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en" data-hn-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>heyNag — a little moth, a lot of feelings</title>
+  <link rel="stylesheet" href="../design-system.css">
+  <link rel="stylesheet" href="expressions.css">
+  <script src="acting-data.js" defer></script>
+  <script src="expressions.js" defer></script>
+</head>
+<body class="hn-system">
+  <!-- Local expression review tool; artwork is a static pose library, not an animation rig. -->
+  <header class="wrap masthead"><a class="wordmark" href="../character-proof/index.html">heyNag<span>.</span></a><p>Expression studio / 24 feelings</p></header>
+  <main class="wrap">
+    <section class="intro"><h1>A little moth.<br>A lot of feelings.</h1><p>Curious, cheeky, occasionally a little cross.<br>The same tiny companion, in light and dark.</p></section>
+    <section id="selected" class="selected" aria-labelledby="state-name">
+      <div class="selection-bar"><div><p class="eyebrow" id="state-group">The familiar little moth</p><h2 id="state-name" tabindex="-1">Thinking</h2></div><div class="state-controls"><button type="button" id="previous" aria-label="Previous expression">←</button><label class="sr-only" for="state-select">Choose an expression</label><select id="state-select" aria-controls="selected"></select><button type="button" id="next" aria-label="Next expression">→</button></div></div>
+      <p class="sr-only" id="announcement" aria-live="polite"></p>
+      <div class="stages">
+        <figure class="stage day"><figcaption>Daylight</figcaption><div class="sprite hero-sprite" id="day-sprite" role="img" aria-label="Thinking moth in daylight" style="background-image:url('../../assets/brand/expressions-v5/anchors-day-r3.png');background-position:50% 0%"></div></figure>
+        <figure class="stage night"><figcaption>After dark</figcaption><div class="sprite hero-sprite" id="night-sprite" role="img" aria-label="Thinking moth in warm night lighting" style="background-image:url('../../assets/brand/expressions-v5/anchors-night.png');background-position:50% 0%"></div></figure>
+      </div>
+      <div class="acting-notes"><div><h3>The face</h3><p id="face-note"></p></div><div><h3>The little gesture</h3><p id="body-note"></p></div><div><h3>The telling detail</h3><p id="detail-note"></p></div></div>
+      <details class="motion-note"><summary>The original motion direction</summary><p id="motion-note"></p><p class="small">These drawings are static. Play the articulated studies in the <a href="../animation-v5/index.html">V5 motion studio</a>.</p></details>
+      <details class="scale-note"><summary>Compare this expression at 96 px</summary><div class="small-pair"><div class="day"><div class="sprite small-sprite" id="small-day" role="img"></div></div><div class="night"><div class="sprite small-sprite" id="small-night" role="img"></div></div></div><p id="contrast-note"></p><p class="small">Fine nuances still benefit from context; these are visual checks, not a blind recognition test.</p></details>
+    </section>
+    <section class="library" aria-labelledby="library-title"><div class="library-heading"><h2 id="library-title">Meet all 24.</h2><fieldset><legend class="sr-only">Gallery appearance</legend><label><input type="radio" name="gallery-theme" value="day" checked> Light</label><label><input type="radio" name="gallery-theme" value="night"> Dark</label></fieldset></div><div id="groups"></div></section>
+    <noscript><p>JavaScript is needed for the expression picker. View the sheets directly: <a href="../../assets/brand/expressions-v5/anchors-day-r3.png">Core expressions</a>, <a href="../../assets/brand/expressions-v5/joy-day.png">Joy</a>, <a href="../../assets/brand/expressions-v5/mind-day-r2.png">Thoughts</a>, <a href="../../assets/brand/expressions-v5/tender-day.png">Difficult feelings</a>.</p></noscript>
+  </main>
+  <footer class="wrap footer"><p>Nag / Nagarjuna Boddu</p><a href="../animation-v5/index.html">Play the motion studies</a><a href="../expressions.md">Expression guide</a><a href="../character-proof/index.html">Character foundation</a></footer>
+</body>
+</html>

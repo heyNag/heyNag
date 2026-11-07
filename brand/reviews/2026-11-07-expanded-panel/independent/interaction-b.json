@@ -1,0 +1,47 @@
+{
+  "reviewer": "interaction-b",
+  "discipline": "Interaction and accessibility",
+  "lens": "Discoverability, comfort and repeated visits",
+  "model": "GPT-6 Astra",
+  "reasoningEffort": "ultra",
+  "independent": true,
+  "scope": "Current V5 character studio and its 24 finite performances. Website and scenes are outside this review. Silent and reduced-motion baselines are intentional strengths.",
+  "evidence": [
+    "brand/animation-v5/index.html",
+    "brand/animation-v5/studio.js",
+    "brand/animation-v5/studio.css",
+    "brand/animation-v5/motion.js:614-642 (pause/rest clarification)",
+    "brand/reviews/2026-11-07-refinement/evidence/studio-390.png",
+    "brand/reviews/2026-11-07-refinement/evidence/keyboard-heading-ring.png",
+    "brand/reviews/2026-11-07-refinement/evidence/interaction-checks.json",
+    "brand/reviews/2026-11-07-refinement/evidence/interaction-extra.json"
+  ],
+  "strengths": [
+    "The 390px view keeps feeling name, selection, lighting and transport readable around a tiny, innocent character. Play feeling is the clearest action; the collection is optional. This makes the performance feel invited rather than demanded.",
+    "Gallery activation deliberately transfers viewport and focus to the player heading. The heading-ring screenshot and recorded next Tab to Both support coherent continuation for keyboard and mixed-input visitors. Native grouped selection and Previous/Next offer an efficient route through 24 feelings without repeatedly traversing the gallery.",
+    "Recorded checks demonstrate pause/resume, rest, collection cancellation, wraparound navigation and reduced-motion timeline endpoints. Source begins with a still pose, disables collection playback under reduced motion, pauses when hidden or offscreen and avoids per-frame live announcements. These are useful foundations for comfortable return visits."
+  ],
+  "concerns": [
+    {
+      "priority": "medium",
+      "finding": "Reading keys have an unexpectedly broad playback scope.",
+      "evidence": "studio.js:174-182 handles Space and Left/Right on document whenever the target is not one of the excluded interactive tags; it neither requires focus inside the player nor checks player visibility.",
+      "implication": "With body or a noninteractive heading targeted, Space is prevented from scrolling and instead changes playback. This is a source-demonstrable behavior; its frequency and perceived disruption have not been observed with people.",
+      "recommendation": "Scope shortcuts to the player or an explicit focused playback surface. Verify ordinary page scrolling outside it and retain native range/select key behavior."
+    },
+    {
+      "priority": "validation",
+      "finding": "The mobile default optimizes theme comparison; whether it also supports subtle feeling recognition remains open.",
+      "evidence": "studio-390.png shows two approximately half-width stages. Single-theme controls exist, but the interface does not explain that either produces a larger character. interaction-extra.json proves no horizontal overflow at 320px, not expression legibility or long-option readability.",
+      "recommendation": "Compare Both with a single-theme mobile starting view using quiet expressions. Change the default or add a hint only if observation shows a recognition or discovery benefit; do not enlarge the anatomy."
+    }
+  ],
+  "criteriaFor9": [
+    "Resolve and verify keyboard shortcut scope without disrupting the demonstrated focus handoff and native controls.",
+    "A small observed study shows newcomers can choose, replay, stop and enlarge a feeling without coaching; returning visitors can efficiently revisit a prior feeling.",
+    "Verify spoken selection/status order with a screen reader, zoom/reflow with long feeling names, and a live reduced-motion preference change. Record concrete outcomes, not a blanket compliance claim.",
+    "Preserve finite, opt-in motion, still inspection, tiny anatomy and matching theme poses. A higher score does not require more animation, audio or scenery."
+  ],
+  "highestValueExperiment": "Run a short keyboard-and-touch observation at 390px: find a quiet feeling, play/pause it, inspect a still moment, enlarge it, browse the gallery, then return to the same feeling. Compare Both against a single-theme start. Log unsolicited key interception, assistance needed, label-versus-pose recognition and comfort; repeat the revisit task after a delay.",
+  "limits": "Reviewed supplied screenshots, recorded interactions and source; no independent browser execution, screen-reader session or human study. No prior specialist reviews or scores were read. Static captures cannot establish motion comfort, emotional recognition, attachment or delayed recall. This is an independent AI specialist judgment, not audience evidence."
+}

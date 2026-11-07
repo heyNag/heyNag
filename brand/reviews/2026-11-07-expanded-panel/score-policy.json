@@ -1,0 +1,17 @@
+{
+  "purpose": "Make every quality judgment useful for improving the work. The desired score is a target, never an instruction to alter an honest assessment.",
+  "requiredForEveryScore": [
+    "Named scope and artifact version",
+    "Specific evidence actually inspected",
+    "Concrete strengths",
+    "Named deductions and their effect on the experience",
+    "What observable improvement could change the score",
+    "Confidence and unreviewed areas"
+  ],
+  "unknown": "Use null / not yet scored when evidence is insufficient. Missing evidence is not an invented defect; a technical pass is not proof of artistic excellence.",
+  "individuality": "Keep each of the 18 judgments. Pair and team agreement concerns the work plan and criteria, not mandatory identical numbers. Do not hide a lower score inside an average.",
+  "nineTarget": "A reviewer can award 9 or above only after relevant improvements and fresh evidence justify it in that reviewer\u2019s stated scope. A roadmap agreement does not award the future score.",
+  "audienceClaims": "Separate expert design judgment, usability observations, owner preference and actual human recognition/attachment/recall evidence. Do not claim one substitutes for another.",
+  "consensus": "Every reviewer explicitly agrees, agrees with named nonblocking limits, or objects with evidence. Investigate substantive objections. Record dissent if unresolved; never fabricate unanimity.",
+  "scope": "Current V5 character, motion, identity applications and review studio. Future website/world scenes remain later. Optional sound remains optional."
+}

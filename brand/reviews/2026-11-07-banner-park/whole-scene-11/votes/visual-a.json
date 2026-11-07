@@ -1,0 +1,38 @@
+{
+  "reviewerId": "visual-a",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "proposal": "brand/reviews/2026-11-07-banner-park/whole-scene-11/proposal-v1.json",
+  "proposalSha256": "f22147674c4537a20f89925d335e107abb9a8bc9e322559b92209c35981d40b4",
+  "hashVerification": "Independently computed; matches root's specified exact proposal hash. Entire proposal read.",
+  "reviewedAssetSha256": "87943e3c1452d40b1ac535ea5bbcefa6e7676cee77165eef2d77ce5c67a32569",
+  "position": "agree_with_named_limits",
+  "currentScore": 8.2,
+  "scoreMeaning": "Unchanged subjective actual11 whole-scene materials/light/depth judgment. No rescore of unbuilt work.",
+  "reasons": [
+    "W1 addresses the observed cumulative angular/cellular treatment across unrelated surfaces while retaining intentional wood grain, knitting, foliage and soft volume. It matches the confirmed visual pair recommendation.",
+    "W2 is a bounded construction repair: a tiny solid mitten encloses the raised mallet handle with a short connected wrist.07 supplies contact evidence without reverting11 staging or demanding hammer-to-box contact during anticipation.",
+    "The plan protects11's composition, tiny anatomy, four guests, corrected eyes, clearer glasses and exclusive coding foreground. It requires actual full-frame and magnified validation rather than treating the prompt as proof."
+  ],
+  "limits": [
+    "Keep incidental highlight restraint optional and only if needed after the required material correction. The execution prompt should not silently promote it into a compulsory additional pass.",
+    "Remove the repeated accidental surface network, not all texture or stylization. No blanket blur, plastic smoothing, added fur everywhere, cast/pose expansion or unrestricted composition regeneration.",
+    "Plan acceptance does not approve a future render, guarantee9/10, establish all18 artwork acceptance, or authorize publication. Native crops, enlarged final-integrated eyes/grip and supplied image scales must be inspected on the actual complete candidate."
+  ],
+  "pairConfirmation": {
+    "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/pairs/visual.json",
+    "AExplicitlyAccepts": true,
+    "BExplicitlyAccepts": true,
+    "evidence": "B directly confirmed the exact bounded recommendation after its saved independent review; updated pair record and B's vote record that confirmation.",
+    "scoresRetained": {"A": 8.2, "B": 8.3},
+    "remainingSubstantiveDisagreement": "None. A emphasizes broader material continuity; B emphasizes Clawd's squared divisions and contour/material readability."
+  },
+  "executionPromptReview": {
+    "path": "brand/reviews/2026-11-07-banner-park/film-whole-scene-repair-prompt.txt",
+    "overall": "Input-role separation correctly assigns11 composition/story,07 material control,07 grip construction and clean companion-eye detail. The grip exception is bounded, and the prompt explicitly preserves intentional texture and current identities.",
+    "concreteMismatch": "The sentence 'Let incidental tiny highlights and edge detail in supporting grass/path recede slightly' is unconditional. The exact plan makes this optional only if needed after material cleanup.",
+    "requiredPromptAdjustment": "Make that sentence conditional: 'Only if needed after material cleanup, quiet selected incidental grass/path highlights while preserving the established warm, lively park; otherwise retain them.'",
+    "otherContradictionsFound": [],
+    "boundary": "Reviewed the draft wording, not a future tool request's actual reference bindings or an unseen output. No prompt/source/art edit performed."
+  }
+}

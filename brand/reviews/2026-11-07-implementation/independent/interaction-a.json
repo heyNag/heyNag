@@ -1,0 +1,222 @@
+{
+  "reviewer": "Interaction and accessibility A — keyboard and accessible controls",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "scope": {
+    "version": "review-source-v3.json",
+    "manifestSha256": "bdb76b84f77f5e7c1d210da27059f3feec5cfe26fe3c319c6af8fe3ee65f3cbe",
+    "assessment": "Local studio and curiosity-study controls, keyboard scope, focus, reduced-motion handling, pause/visibility behavior and readable portrait controls. This is not a production accessibility certification or a human usability score.",
+    "independent": true,
+    "partnerReviewReadBeforeSaving": false,
+    "hashVerification": "All seven inspected HTML/CSS/JS interaction files, including motion.js, match v3.",
+    "currentVersion": "review-source-v4.json",
+    "currentManifestSha256": "4b70d40e6c6fed47936377ff71d915379cbe84bc2a23020ac2ab2fb9696b2caa"
+  },
+  "evidenceActuallyInspected": {
+    "governance": [
+      "AGENTS.md",
+      "brand/team.json interaction A lens",
+      "reviewer-instructions.txt",
+      "brief.json",
+      "installed-skills.json (all 17 entries)",
+      "owner-preference.json",
+      "review-source-v2.json",
+      "review-source-v3.json",
+      "../2026-11-07-expanded-panel/independent/interaction-a.json",
+      "../2026-11-07-refinement/round2/interaction.json"
+    ],
+    "source": [
+      "brand/animation-v5/index.html (full)",
+      "brand/animation-v5/studio.js (full)",
+      "brand/animation-v5/studio.css (full)",
+      "brand/animation-v5/signature.html (full)",
+      "brand/animation-v5/signature.js (full)",
+      "brand/animation-v5/signature.css (full, including 320px heading correction)",
+      "brand/animation-v5/motion.js:540-760 engine controls, scheduler, reduced-motion behavior",
+      "brand/design-system.css:1-50"
+    ],
+    "recordedChecks": [
+      "evidence/keyboard-before.json",
+      "evidence/keyboard-after.json",
+      "evidence/interaction.json",
+      "evidence/layout-and-collection.json",
+      "evidence/final-ui.json",
+      "evidence/desktop-performance.json",
+      "evidence/comparison-export.json",
+      "implementation/interaction-skills.json"
+    ],
+    "actualPNGsViewedWithViewImage": [
+      "evidence/signature-final-320.png",
+      "evidence/signature-final-390-stage.png",
+      "evidence/signature-final-390-night.png",
+      "evidence/signature-final-1440.png",
+      "evidence/studio-390-single.png",
+      "evidence/studio-320.png",
+      "evidence/native-select-open.png",
+      "evidence/decoded-day-5.png"
+    ],
+    "motionViewing": "Inspected one decoded 12-frame investigation/sharing sheet and comparison export metadata. Did not watch continuous motion or operate the browser. native-select-open.png shows the focused native select; the popup-opening observation comes from the AX record, not visible popup pixels in that image."
+  },
+  "score": {
+    "value": 8.8,
+    "outOf": 10,
+    "meaning": "Strong local interaction implementation. v4 resolves the sole demonstrated semantic defect and confirms truthful reduced-motion copy. Native menu keyboard commit, spoken AT and real-device behavior remain unverified, so this is a bounded local-study score rather than full accessibility validation."
+  },
+  "strengths": [
+    "The document-wide arrow/Space listener is removed. Before/after event evidence changes prevented=true to false and keeps Thinking selected. Ordinary reading keys no longer implicitly invoke this player.",
+    "Native buttons, grouped radios, labeled select and range remain the control foundation. Pointer-only hover is gated by hover:hover and pointer:fine; coarse-pointer input text is 16px, zoom remains enabled, and body text remains selectable.",
+    "Gallery activation deliberately scrolls to the player and focuses its heading. Recorded focus lands on feeling-name, and subsequent Tab reaches the appearance control. The heading exposes feeling position through aria-describedby.",
+    "Studio begins with a still, labels replay and pause/resume explicitly, and updates the polite status only when its string changes rather than rewriting it on every frame. Timeline value text gives seconds rather than an unexplained 0–1000 scale.",
+    "Reduced motion immediately cancels collection playback, disables the collection button, switches Play to Show, seeks a meaningful still, and permits manual pose inspection. The engine independently refuses scheduling/resume while reduced motion is active.",
+    "Visibility and intersection handlers pause motion, with no automatic resume. Studio also cancels a pending between-clip collection timer; recorded offscreen evidence shows the collection false at the settled first clip.",
+    "Portrait signature evidence presents legible project context and a substantially larger character than the cramped side-by-side phone study. The 320px heading no longer leaves an isolated final fragment. Controls have visible labels and generous spacing, and no horizontal overflow is recorded at 320/390/1440."
+  ],
+  "deductions": [
+    {
+      "id": "IXA-SEMANTICS-01",
+      "kind": "actual source defect",
+      "severity": "low",
+      "confidence": "high",
+      "basis": "signature.html:7 and signature.js:10",
+      "finding": "The single moth aria-label describes Investigate & share even after the performance selector switches to One more thought or Current curious feeling. The selected option remains discoverable, but the image description does not faithfully distinguish the comparison.",
+      "improvement": "Use a neutral image label linked to selected-performance text, or update a concise per-variant description on change.",
+      "status": "Found in v3; fixed and verified in v4. Retained as review history, no longer an open defect."
+    },
+    {
+      "id": "IXA-VALIDATION-01",
+      "kind": "validation limit, not demonstrated failure",
+      "severity": "moderate evidence limitation",
+      "confidence": "high about limit",
+      "basis": "evidence/interaction.json nativeMenu and screenReader",
+      "finding": "The actual native-menu keyboard commit is inconclusive and screen-reader spoken output was not captured. Source labels and selectOption success cannot establish these paths.",
+      "improvement": "Complete one native keyboard select/change/commit path and a bounded spoken traversal through selection, play/pause, scrub and status updates."
+    },
+    {
+      "id": "IXA-VALIDATION-02",
+      "kind": "validation limit, not demonstrated failure",
+      "severity": "moderate evidence limitation",
+      "confidence": "high about limit",
+      "basis": "evidence/final-ui.json plus supplied PNGs and mobile-native skill",
+      "finding": "Desktop coarse-pointer emulation and viewport images establish CSS/geometry but not physical-phone focus zoom, sticky hover, tap comfort or accessibility behavior.",
+      "improvement": "Perform a short real iOS/Android portrait and landscape check on the intended target before calling the future public component mobile-validated."
+    }
+  ],
+  "improvementCriteria": [
+    "Resolve the per-variant accessible description without changing the selected artwork or native-control architecture.",
+    "Capture native keyboard menu commit and screen-reader spoken output with actual outcomes; preserve inconclusive wording until then.",
+    "Use real-device checks for touch claims and distinguish them from viewport/coarse-pointer emulation.",
+    "Keep reading keys native, maintain coherent focus destination and live reduced-motion handling in future website integration; recheck these after material control changes."
+  ],
+  "confidence": {
+    "sourceAndRecordedStateBehavior": "high",
+    "visualControlHierarchy": "high within inspected viewport PNGs",
+    "fullAssistiveTechnologyAndPhoneUse": "unverified",
+    "overallScopedJudgment": "moderate-high"
+  },
+  "implementedAssessment": "Ready for local presentation of the v4 implemented study, with no demonstrated interaction blocker. The v3 accessible-description mismatch is corrected. Native keyboard-menu completion, spoken screen-reader behavior and real-device comfort remain validation limits, not assumed failures. No public deployment or accessibility-conformance approval is implied.",
+  "objections": [
+    {
+      "id": "IXA-SEMANTICS-01",
+      "blocking": false,
+      "position": "Resolved in v4 after inspecting per-variant descriptions and the recorded three-variant browser outcomes; no remaining source objection.",
+      "status": "resolved"
+    }
+  ],
+  "limits": [
+    "Browser owned by root; I independently inspected its saved evidence and source rather than reproducing live checks.",
+    "No native keyboard menu commit pass and no screen-reader spoken-output pass are claimed; neither is assumed broken.",
+    "No physical phone, low-end-device or continuous-motion perceptual validation. Desktop cadence has roughly one-second gaps with unknown cause; this review assigns no performance pass.",
+    "final-ui.json records an older signature reduced-motion status containing press play; the current v3 signature.js omits that phrase while reduced motion is active. I rely on current source for exact copy and the record only for stopped playback.",
+    "No unprimed human research, comprehension, recall or audience preference is inferred from AI review. Nag choosing Investigate & share is evidence of personal preference only."
+  ],
+  "skillsReviewed": {
+    "catalogue": "Read all 17 entries of installed-skills.json before selecting role-relevant material.",
+    "all17": [
+      "emil-design-eng",
+      "animate",
+      "animate-expo",
+      "review-animations",
+      "improve-animations",
+      "find-animation-opportunities",
+      "remove-animations",
+      "choreograph",
+      "animation-performance",
+      "animation-vocabulary",
+      "apple-design",
+      "write-swift",
+      "pick-ui-library",
+      "prototype",
+      "mobile-native",
+      "break-ui",
+      "ask-sonner"
+    ],
+    "readInFull": [
+      "/Users/nag/.agents/skills/emil-design-eng/SKILL.md",
+      "/Users/nag/.agents/skills/mobile-native/SKILL.md"
+    ],
+    "selectionReason": "These directly improve control feedback, frequent keyboard UI, motion preference handling and the distinction between emulated and physical touch behavior. Other catalog entries provide useful future routing without requiring irrelevant frameworks or mutation workflows in this independent review."
+  },
+  "workflowChanges": [
+    "Classify every animation as operational feedback or intentionally requested character content before judging duration or keyboard behavior.",
+    "Use a capability matrix (hover/fine/coarse, focus-visible, reduced motion) alongside viewport geometry; do not infer touch capability from width.",
+    "For each accessibility claim label evidence as source, recorded programmatic browser result, native input, spoken AT, or human/device observation. A successful tool selection must never silently become a native keyboard pass.",
+    "Run real-device verification for future mobile claims; keep missing evidence explicit without inventing a local-draft release gate.",
+    "Use a Before/After/Why table for design-engineering findings, with a reason for every applied or declined rule. Keep body copying, browser zoom and normal document scrolling unless a demonstrated component need requires a narrower change.",
+    "Recheck pause across the between-clip gap and live reduced-motion changes, not only during active frames."
+  ],
+  "rulesNotApplicableWithReason": [
+    {
+      "rule": "Never animate keyboard-initiated actions / UI timings under 300ms",
+      "reason": "Apply to operational feedback, not to Play intentionally starting the character performance. The inspected focus-visible controls remove transform feedback; the authored multi-second acting remains content."
+    },
+    {
+      "rule": "Only animate transform and opacity",
+      "reason": "Appropriate default for UI feedback; it does not authorize deleting SVG facial/articulation changes or the tiny character anatomy. Actual rendering cost needs measurement."
+    },
+    {
+      "rule": "Global transparent tap highlight, overscroll lock, viewport-fit cover and user-select none",
+      "reason": "These are scrolling review documents with ordinary links and readable copy, not immersive application shells. Preserve native feedback, scrolling, zoom and selection unless the specific cause warrants a change."
+    },
+    {
+      "rule": "mobile-native Apply the fixes",
+      "reason": "This assignment is an independent read-only review. Source-supported issues are sent to root; no unreviewed edits are made by this specialist."
+    },
+    {
+      "rule": "Native/React/library construction workflows",
+      "reason": "animate-expo, write-swift and ask-sonner do not match these plain HTML/SVG pages. pick-ui-library and prototype are explicit-invocation workflows, not justification to add dependencies or variants to an already selected study."
+    },
+    {
+      "rule": "Unconditional introductory skill readiness sentence",
+      "reason": "The skills were read for a specific assigned review; their no-question initialization condition does not apply."
+    }
+  ],
+  "findingsTableMarkdown": "| Before | After | Why |\n| --- | --- | --- |\n| Document-wide arrows and Space operated playback. | Current source has no global shortcut listener; recorded keys are not prevented. | Ordinary page reading should not change the player. |\n| Pointer hover and press motion also applied to keyboard-focused controls. | Capability-gated hover and no-transform focus-visible behavior. | Keep feedback immediate and appropriate to the active input. |\n| One accessible image description covers three signature performances. | Recommended: update the description with the selected variant or make it neutral. | The accessible description should match the chosen comparison. |",
+  "scoreHistory": [
+    {
+      "version": "v3",
+      "score": {
+        "value": 8.6,
+        "outOf": 10,
+        "meaning": "Strong, coherent local interaction implementation, supported by source and bounded recorded checks. The original keyboard-scope problem is resolved. Small accessible-description debt and important unverified native/AT/device paths keep this below an exceptionally complete interaction handoff. Missing evidence is not counted as proof of broken controls."
+      },
+      "recordedBeforePartnerReview": true
+    }
+  ],
+  "addenda": [
+    {
+      "version": "v4",
+      "partnerReviewStillUnread": true,
+      "evidenceActuallyInspected": [
+        "review-source-v4.json with verified SHA",
+        "brand/animation-v5/signature.js full updated file, hash matches v4",
+        "evidence/description-and-reduced-motion.json"
+      ],
+      "resolved": [
+        "IXA-SEMANTICS-01: still() updates the image label from selected performance; recorded outcomes show distinct investigation, wry-afterthought and ordinary-curious labels.",
+        "Current reduced-motion browser record now confirms Show the thought, Still pose · reduced motion, playing=false and active media preference, superseding the old copy record."
+      ],
+      "scoreChange": "8.6 to 8.8 for a verified semantic correction and removal of the stale-copy uncertainty; previous numerical judgment remains above.",
+      "remainingLimits": "No spoken AT or native keyboard menu commit inferred from these DOM/value checks."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "pair": "sound-A / sound-B",
+  "scope": "Quality-improvement plan for the current silent V5 foundation; no final-art approval or score uplift.",
+  "challenges": [
+    {
+      "target": "B concern: 380ms blend overlaps curious cues",
+      "decision": "Accept numerical observation; bound interpretation.",
+      "reason": "Engine._advance blends a moving sample against the source pose. The 160ms and 320ms cue times fall inside 380ms; that does not establish missed ordering or poor rhythm. Rest, held-pose replay and interruption have different source poses. Compare those entry conditions before selecting a local change."
+    },
+    {
+      "target": "B highestValueExperiment.decisionRule: change only a demonstrated weak cue",
+      "decision": "Revise the prerequisite for experimentation.",
+      "reason": "A reversible pause, gaze or peek alternative can seek stronger curiosity or mischief without declaring the baseline defective. Demonstrated benefit is required for adoption, not permission to explore. Preserve the unchanged control and allow a no-change result."
+    },
+    {
+      "target": "B concern: collection duration and uniform pacing",
+      "decision": "Retain as contextual hypothesis, not current deduction.",
+      "reason": "studio.js confirms a common 600ms interval; clip durations differ. The collection is an explicit inspection tool. Neither that interval nor capture metadata's roughly 30fps full reel establishes experienced monotony, fluency or fatigue. Future ambient playback is not an existing defect."
+    }
+  ],
+  "agreements": [
+    "Silence is complete; optional audio contributes no missing-work penalty and is outside these experiments.",
+    "Inspect continuous silent ordering, interruption and settled rest; contact sheets support poses, not perceived comic timing.",
+    "Preserve current anatomy, shared theme geometry, explicit replay, reduced-motion stills and accessible status text."
+  ],
+  "differences": [
+    "A supports creative comparison before a diagnosed cue failure; B's original decision rule restricts changes to demonstrated weakness. B confirmation of the revised experiment/adoption distinction is pending."
+  ],
+  "prioritizedExperiments": [
+    {
+      "priority": 1,
+      "proposal": "Prepare a short continuous silent comparison at declared intended size: curious from rest and replay, thinking replay, mischievous, excited, plus one interruption. Repeat once. Log entry conditions and capture timing; observe intention without reading descriptions first."
+    },
+    {
+      "priority": 2,
+      "proposal": "Against the unchanged control, audition one local curious cue or mischievous pause/peek alternative. State the personality hypothesis first. Keep timing/posing changes reversible; no anatomy, global acceleration or sound addition."
+    }
+  ],
+  "acceptanceCriteria": [
+    "Record observed cue ordering, payoff and continuity separately from numerical timing and capture quality.",
+    "Adopt an alternative only for a named visible gain in intention or comic readability, with no observed entry/interruption regression or increased unwanted repetition. If the comparison is inconclusive, retain the baseline.",
+    "Retain indefinitely settled rest, reduced-motion meaning and theme parity; semantic announcements remain available.",
+    "Keep both scores null until each reviewer independently inspects enough continuous evidence. Label expert preference separately from human comprehension, attachment or recall evidence."
+  ],
+  "remainingObjections": [
+    "No substantive implementation blocker established. Experiment/adoption distinction requires B's explicit response before joint agreement."
+  ],
+  "ADecision": "agree_with_named_nonblocking_limits: plan only; continuous perception and audience outcomes remain unmeasured",
+  "BDecision": "pending"
+}

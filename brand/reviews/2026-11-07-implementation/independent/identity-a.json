@@ -1,0 +1,109 @@
+{
+  "reviewer": "Identity systems designer A — silhouette and cross-surface identity",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "independence": "Saved before reading the partner's new implementation review or score. Prior own-role review and historical pair proposal/resolution were read for continuity.",
+  "scope": "Implemented native-vector V5 static identity and its continuity into the local signature study: current regenerated day/night avatar and header PNGs, actual-size renderer samples, matched paint alternatives and sampled Investigate & share poses. This is local application craft, not publication approval, normal-speed motion appraisal, or measured recognition.",
+  "evidenceActuallyInspected": [
+    "AGENTS.md; reviewer-instructions.txt; brief.json; installed-skills.json full 17-skill catalog; review-source-v1.json; owner-preference.json; brand/team.json identity role",
+    "2026-11-07-expanded-panel/independent/identity-a.json and historical pairs/identity-proposal.json and identity-resolution.json",
+    "view_image original: evidence/sizes.png and sizes-refined.png; compared the avatar/full-figure rows at displayed native resolution. Header strips in these sheets are earlier export controls.",
+    "view_image original: evidence/paint.png; all five same-pose day/night paint variants",
+    "view_image original: evidence/signature-1440.png and signature-390.png; these captures predate the final UI polish",
+    "view_image original: current assets/brand/header-v5-light.png and header-v5-dark.png at 1200×360; heynag-moth-avatar-v5-day.png and heynag-moth-avatar-v5-night.png at 512×512",
+    "view_image original: evidence/curious-investigate.png and poses.png, plus decoded-day-5.png and decoded-night-5.png from the engine comparison film",
+    "Read applications-v5.js and applications-v5.json; character.js paint, construction and rendering sections; signature.html and signature.css; evidence/harness.html",
+    "Read evidence/geometry.json, layout-and-collection.json, interaction.json and comparison-export.json; read implementation/visual.json as implementer claims, independently checked against actual images",
+    "Full installed SKILL.md: emil-design-eng and mobile-native"
+  ],
+  "inspectedAssetSha256": {
+    "assets/brand/header-v5-light.png": "9a30a46f7a50f21daa4bbbbc38863e5f3552c8cea239859be7cff99198e033d9",
+    "assets/brand/header-v5-dark.png": "daac3c4a6c9c27adad1ee591fb36e1c3733fa70dee1baa4ffafebc90b246c8e9",
+    "assets/brand/heynag-moth-avatar-v5-day.png": "9322ce46806ec584c03cf8fb34126ff6a73b4e1c930fb8de5ead9ea8c79dafe7",
+    "assets/brand/heynag-moth-avatar-v5-night.png": "033c73324b12fe0632c4c7bb0673770b1798202c32d071945e610a49240dbe4d"
+  },
+  "score": {
+    "value": 8.4,
+    "outOf": 10,
+    "meaning": "Strong, coherent local identity application. The large soft head, unequal paddles and restrained palette bind avatar, header and character study convincingly. Small optical losses remain in the owned night avatar and phone-scale expressive detail. This number does not rate audience recall, whole-site readiness, or continuous animation quality."
+  },
+  "strengths": [
+    "The asymmetric paddle silhouette survives both the complete figure and head-only crop. All four refreshed PNGs preserve complete tips and facial contours; the headers retain the compact body, tiny attached feet and layered wings without making the character compete with the name.",
+    "The outlined heyNag header wordmark remains dominant and unambiguous. The bright green day ground and dark night ground share a clear palette relationship, while the quieter cream face remains the character's visual anchor.",
+    "The documented universal day avatar is a sensible actual-size choice: at 32/48/64px its paper circle preserves a connected dark stem/face structure on the inspected grounds. Restricting the night use is an honest system decision rather than pretending every variant performs equally.",
+    "The refined paint reduces the insistence of the night antenna keyline modestly while retaining the family. The change is restrained; the image comparison does not suggest a new character, additional anatomical mass, or an identity reset.",
+    "The signature pairs the familiar character with a concrete eva.md question. The head remains identifiable with glasses on, and the sampled study preserves the small-body silhouette across investigation and return-to-viewer poses. Nag's explicit preference supports personal fit within that stated scope."
+  ],
+  "deductions": [
+    {
+      "id": "IDA-OPTICAL-NIGHT",
+      "severity": "minor",
+      "kind": "observed optical limitation",
+      "observation": "The night avatar's fine antenna connections are less assertive than the face at the 48px owned-surface sample; at 32px they become especially weak. The day mark reads as a more connected shape at the same scales.",
+      "basis": "sizes-refined.png actual-size rows, paint.png, and current 512px night avatar",
+      "confidence": "high for the inspected samples; no claim about all displays",
+      "consequence": "Use guidance correctly removes night 32px from the recommendation, but the remaining night minimum still trades some silhouette continuity for the quiet edge. This is not a request to enlarge anatomy or reverse the whole paint refinement."
+    },
+    {
+      "id": "IDA-PHONE-GESTURE",
+      "severity": "minor",
+      "kind": "observed optical limitation",
+      "observation": "At the 390px signature composition the glasses, head and wings read readily, while the tiny presenting mitten and ruff form a dense cluster. The page's explanatory copy communicates more of the sharing idea than the static gesture does at that size.",
+      "basis": "signature-390.png compared with signature-1440.png, sizes-refined.png 96/128px samples, and curious-investigate.png",
+      "confidence": "moderate; screenshots establish size and separation, not the visitor's interpretation or live motion perception",
+      "consequence": "The character remains coherent, but the small application carries less expressive specificity than the desktop view. The response should be staging or application guidance, if needed, rather than larger hands."
+    }
+  ],
+  "improvementCriteria": [
+    "Preserve shared day/night geometry, complete unequal paddles, the head/body proportion, tiny mittens and attached feet. Keep the current universal day avatar and original rasters.",
+    "For a higher optical-craft judgment, show a matched same-anatomy night-48 treatment or supported minimum that improves perceived stem continuity without an enlarged rim or a regression in larger applications. Keeping the baseline is acceptable if alternatives do not improve it.",
+    "Inspect the final polished signature and refreshed headers at the intended phone width. If the gesture is expected to communicate independently, compare a composition with more character area while keeping the project question readable. Do not infer a comprehension failure merely from a subtle still.",
+    "Keep application minimums, intended grounds and provenance explicit. Human association or recall claims require separate unprimed observations; a higher craft score does not establish them."
+  ],
+  "confidence": {
+    "overall": "moderate-high for static local identity craft",
+    "strong": "Direct original-resolution image inspection plus shared source supports crop, silhouette, hierarchy and palette judgments.",
+    "weaker": "One renderer, limited backgrounds and sampled poses; final UI manifest and refreshed phone header capture were pending at this independent save."
+  },
+  "implementedAssessment": {
+    "decision": "Accept the implemented identity direction for the documented local scope with named nonblocking optical limits. No blocking crop or silhouette defect found.",
+    "changeFromPriorReview": "The prior minimum-size concern was answered by matched paint comparisons, clearer use limits and a retained universal day avatar. The paint gain is small, and the remaining optical limits remain visible; the score increase is modest rather than a target-driven jump.",
+    "themeInvariants": "Source and 567-sample browser report support equal geometric attributes for identical numeric inputs. Actual day/night images separately show a consistent character. Numeric equality is not treated as proof of equal perceptual clarity.",
+    "ownerPreference": "Investigate & share is the explicit personal-fit lead. This supports selection for Nag, not claims about unfamiliar viewers.",
+    "sourceVersion": "Character SHA256 b93400daeaa43af99e4b8c30942b80d4d69aba545a808863dd92ebe1830a97fa, matching review-source-v1; UI polish continues separately and needs final-scope confirmation."
+  },
+  "objections": [],
+  "limits": [
+    "No new unprimed human recognition, owner association or delayed recall evidence. These are validation limits, not deductions for a demonstrated audience failure.",
+    "No continuous normal-speed motion was watched. comparison-export.json describes an 88.8-second, 2664-frame, 30fps exact-engine export; decoded sheets support sampled shape and sequence observations only.",
+    "The signature-390 capture is desktop-browser evidence at a narrow viewport, not physical-phone validation. No touch feel, safe-area, input zoom or browser-chrome claim is made.",
+    "No screen-reader spoken-output review. AX labels and incomplete native-menu keyboard evidence are reported by the interaction record, not independently performed here.",
+    "The current refreshed headers were inspected at native 1200×360. The inspected 390px size-sheet header strips are earlier controls, so fresh phone-width export confirmation remains a specific final evidence item.",
+    "No GitHub deployment, arbitrary backgrounds, below-minimum use or future complete website approval."
+  ],
+  "skillsReviewed": {
+    "all17SummariesRead": ["emil-design-eng", "animate", "animate-expo", "review-animations", "improve-animations", "find-animation-opportunities", "remove-animations", "choreograph", "animation-performance", "animation-vocabulary", "apple-design", "write-swift", "pick-ui-library", "prototype", "mobile-native", "break-ui", "ask-sonner"],
+    "fullSkillsRead": [
+      {"name": "emil-design-eng", "path": "/Users/nag/.config/skillshare/skills/emil-design-eng/SKILL.md", "use": "Cohesion, good defaults, restrained purposeful motion, actual visual inspection and UI feedback checks around the identity."},
+      {"name": "mobile-native", "path": "/Users/nag/.config/skillshare/skills/mobile-native/SKILL.md", "use": "Separate phone-width optical review from real-device evidence; keep capability-based control feedback and source-of-truth limits explicit."}
+    ]
+  },
+  "workflowChanges": [
+    "At each future website identity milestone, retain a versioned actual-size application matrix: universal avatar, owned-theme variant, header, wordmark and character-in-content, on intended grounds. Associate image evidence with current asset hashes.",
+    "Review the whole experience's defaults and typography alongside the character. Choose the personality lead first, then give it a clear project cue and restrained surrounding controls; do not add motion only to make a page busier.",
+    "Use emil-design-eng for concrete UI polish and mobile-native for capability and physical-device checks. The identity reviewer checks small-scale silhouette and hierarchy; interaction/performance specialists validate the corresponding platform behavior.",
+    "Carry three evidence labels into pair and team decisions: source/static-browser verified, physical-device or assistive-technology verified, and unprimed-human observed. Never collapse them into a single tested claim.",
+    "Keep independent scores before pair discussion. Compare the final same immutable asset set, record any remaining optical tradeoff, and treat a future prototype as an experiment until its built result is inspected."
+  ],
+  "uiReviewTable": "| Before | After / next evidence | Why |\n| --- | --- | --- |\n| Small-size night-avatar concern without a firm universal-use distinction | Current application guidance selects the paper-ground day avatar at 32/48/64px and excludes night 32px | A clear supported default protects the identity without changing anatomy |\n| Narrow-viewport screenshot could be mistaken for mobile validation | Retain optical findings and require physical-phone evidence only for platform claims | Desktop layout evidence does not establish touch behavior |\n| Size-sheet headers captured before export refresh | Fresh 390px capture of current hashed header PNGs | Final application review must follow the actual deliverables |",
+  "rulesNotApplicableWithReason": [
+    "The skills' under-300ms UI guidance does not cap the intentional multi-second character performance; acting beats and functional control feedback serve different purposes.",
+    "Transform/opacity optimization does not authorize removal of tiny anatomy, deforming facial paths or identity cues. Performance changes require actual measurement and must preserve the selected character.",
+    "mobile-native's implementation posture does not authorize this independent reviewer to edit source or operate the browser. Root owns implementation and browser evidence; no invented extra approval gate is needed.",
+    "Global overscroll suppression, edge-to-edge safe-area setup and PWA chrome changes are not automatic requirements for this scrolling local document. Apply only where the actual application needs them.",
+    "animate-expo and write-swift target absent platforms; ask-sonner targets an absent toast library. No reason to add these dependencies or workflows.",
+    "pick-ui-library and prototype are opt-in execution skills; reading their catalog summaries for the user's team-wide request does not require launching their build workflows.",
+    "The animation audit/removal/opportunity skills and choreograph remain useful for the motion specialists or a later material motion task; this silhouette review does not invent a motion rewrite. animation-vocabulary addresses naming, not an unanswered requirement here.",
+    "break-ui is appropriate when future dynamic identity-bearing components have variable content, not an instruction to manufacture a worst-case data toggle in this fixed identity proof. apple-design's gesture and material prescriptions are not automatically relevant to this static cross-surface identity pass."
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "discipline": "rigging",
+  "proposalSha256": "f22147674c4537a20f89925d335e107abb9a8bc9e322559b92209c35981d40b4",
+  "reviewedAssetSha256": "87943e3c1452d40b1ac535ea5bbcefa6e7676cee77165eef2d77ce5c67a32569",
+  "status": "Both reviewers explicitly confirm the same scoped correction recommendation; current image remains revise.",
+  "jointRecommendation": "Revise 11 before final presentation. Preserve the composition, four guests, three compact V5 moth appearances, Muse-leaf interaction and flat Grok eyes. Restore material-specific surfaces and continuous contours throughout the frame, and one clear rounded mitten gripping the mallet with a short wrist connection. Use 07 as a control for retained qualities rather than a wholesale rollback. Keep individual scores and do not approve an unseen replacement.",
+  "positions": [
+    {
+      "reviewer": "rigging-a",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/rigging-a.json",
+      "verdict": "revise",
+      "score": 8.3,
+      "confirmation": "Explicit direct response to B accepted the exact proposed joint recommendation after reading B and the consolidated plan. This record is authored by A."
+    },
+    {
+      "reviewer": "rigging-b",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/rigging-b.json",
+      "verdict": "revise",
+      "score": 7.8,
+      "confirmation": "B proposed this exact joint recommendation in its saved pairDiscussion with ownRecommendationAccepted=true and sent A an explicit matching direct message. This records B’s stated position; it is not a proxy vote on the consolidated proposal."
+    }
+  ],
+  "challengeResolution": {
+    "materialScope": "B challenged any hero-only reading of the surface correction. A explicitly confirms the required scope includes hero, paddles/glasses, bench, workshop, tree, path and foliage. The existing A deduction already names whole-frame material coherence; its higher score does not lower the required repair.",
+    "contactPrecision": "Both interpret the hammer-grip defect as ambiguous visible raster contact, not proof that hidden geometry is disconnected. Restore one solid short mitten wrapping the handle; do not require impact contact during anticipation.",
+    "optionalScope": "Observer orientation and selective dapple quieting remain optional. Do not re-pose accepted characters or enlarge guests merely to chase small-size identity.",
+    "scoreDifference": "A retains 8.3 and B retains 7.8. B weights the broad rendering/material regression more heavily. Scores are not averaged and do not alter the shared revise verdict.",
+    "remainingSubstantiveObjections": []
+  },
+  "acceptanceBounds": [
+    "Whole-frame material-specific recovery, not global blur or uniform plastic smoothing.",
+    "Preserve corrected eyes, existing composition/cast and compact anatomy.",
+    "Inspect any actual replacement as a complete image at native and scaled sizes; no unseen 9 or artwork approval."
+  ],
+  "authorship": "Written by Rigging A at root’s request from both saved independent positions and the direct challenge exchange. Individual consolidated-plan votes remain each reviewer’s own responsibility."
+}

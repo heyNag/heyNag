@@ -1,0 +1,138 @@
+{
+  "reviewerId": "audience-b",
+  "role": "Audience and character-perception researcher",
+  "lens": "Research design and memory hypotheses",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "scope": "Independent review of the current GitHub-native LOCAL PREVIEW and written heyNag.com continuity plan. Assesses static communication, owner/name/character association cues and the specificity of the continuity approach. This is a new application judgment, not a carryover of mascot-motion approval or a rating of a built website.",
+  "independence": "Saved before reading Audience A’s new GitHub review or any new partner discussion.",
+  "sourceManifestSha256": "7b23e48c7555ab1abca2a81923bb526411043350c092e352ef42efd106b468d2",
+  "inspectedEvidence": [
+    "AGENTS.md and brand/workflow.json: retained full reading from this conversation; current role/lens in brand/team.json rechecked",
+    "README.md",
+    "brand/profile/profile.json",
+    "brand/profile/continuity.json",
+    "brand/reviews/2026-11-07-github/review-instructions.txt",
+    "brand/reviews/2026-11-07-github/brief.json",
+    "brand/reviews/2026-11-07-github/review-source-v1.json: all nine listed file hashes matched current files",
+    "evidence/render-checks.json: all ten light/dark width records, reported 320–1440px widths without horizontal overflow, selected theme and three proposed project links",
+    "evidence/profile-light-1440.png: viewed with view_image",
+    "evidence/profile-dark-1440.png: viewed with view_image",
+    "evidence/profile-light-320-top.png: viewed with view_image",
+    "evidence/profile-dark-320-top.png: viewed with view_image",
+    "evidence/readme-light-320-scroll.png: viewed with view_image",
+    "evidence/readme-dark-320-scroll.png: viewed with view_image",
+    "evidence/pins-light-320-scroll.png: viewed with view_image",
+    "assets/brand/heynag-moth-avatar-v5-day.png: 512px source viewed with view_image"
+  ],
+  "skillsReviewed": {
+    "newFullRead": "/Users/nag/.agents/skills/taste-skill/SKILL.md (design-taste-frontend 2.5)",
+    "reusedFullReads": [
+      "/Users/nag/.agents/skills/emil-design-eng/SKILL.md",
+      "/Users/nag/.agents/skills/prototype/SKILL.md",
+      "/Users/nag/.agents/skills/mobile-native/SKILL.md"
+    ],
+    "catalogContinuity": "All 17 Emil catalog summaries were read earlier in this conversation. No full reading of all 17 or unneeded skill references is claimed.",
+    "application": "Applied grounded copy, real work, coherent reuse, actual-context rendering and evidence boundaries. Prototype informed future comparison design only; no picker/build workflow invoked."
+  },
+  "workflowChanges": [
+    "Judge the native profile as its own communication surface. Do not import a prior motion score, require the small avatar to communicate an emotion, or assume website animation is needed to connect the identity.",
+    "For future recognition work, expose the real profile naturally and record actual name, avatar, header and project exposure; ask free recall before showing recognition alternatives. Measure name recall, visual recall, maker association and work-category recall separately.",
+    "Treat desktop and phone as different exposure paths: the phone begins with a small avatar/name/bio and reaches the large wordmark later. Use actual wheel-scrolled captures; exclude known full-page sticky-navigation artifacts.",
+    "When the website exists, compare the same versioned identity in actual GitHub and website contexts. A shared source file is implementation continuity; cross-surface recognition is a separate hypothesis.",
+    "Carry only factual public project descriptions and owner-cleared future stories forward. Do not compensate for private work with invented outcomes or an unrequested disclosure."
+  ],
+  "rulesNotApplicableWithReason": [
+    {
+      "rule": "Design-taste dealt layouts, fonts, palettes, starter, one section per screen and mandatory hover/loop treatment.",
+      "reason": "GitHub controls the native layout, type and interactions. The selected static identity is already established. These commercial-page construction recipes cannot define the acceptance bar for this profile."
+    },
+    {
+      "rule": "Design-taste requires no caption/description below visuals and no fact twice.",
+      "reason": "Native accessible text below the header is the useful introduction, while matching pinned descriptions reinforce destination identity. Removing them to satisfy a recipe would weaken the profile."
+    },
+    {
+      "rule": "Design-taste requires the kit headless checker and asset-family references before construction.",
+      "reason": "No website or kit asset is being constructed. Root owns the browser and supplies explicit local-preview evidence. I did not run a browser or claim a checker pass."
+    },
+    {
+      "rule": "Add motion, immediate custom press effects, springs or hover decoration.",
+      "reason": "This is a static GitHub-native application with native controls. Character motion is a future website option, not missing current profile functionality."
+    },
+    {
+      "rule": "Prototype new variants, pause for owner selection and delete the old exploration.",
+      "reason": "The user has an established identity and owner-selected behavior; this is independent review. Historical evidence stays preserved."
+    },
+    {
+      "rule": "Call emulated narrow renders physical-phone validation.",
+      "reason": "The supplied captures establish inspected layout only, not touch behavior, real browser chrome or screen-reader speech."
+    }
+  ],
+  "score": 8.8,
+  "scoreMeaning": "Out of 10: subjective expert judgment of this static local profile’s visual/copy association craft and the written continuity plan. Strong, clear and coherent, with limited distinctive maker evidence and one overconfident recognition phrase. It is not a human recognition/comprehension rate, deployment approval or future website score.",
+  "confidence": "Moderate-high for visible name hierarchy, copy, thematic consistency and scoped plan quality; moderate for distinctiveness hypotheses. No empirical audience confidence and no live-account verification.",
+  "strengths": [
+    "Nagarjuna Boddu, the heyNag handle/wordmark and “Hey, I’m Nag” form an explicit three-name bridge. At 320px the small avatar is directly beside the full name/handle, with the software bio visible before the README; the association does not depend on the header or a tiny hand gesture.",
+    "The universal day avatar retains one face across light and dark GitHub, while the paired headers repeat the same character and wordmark. The desktop and phone previews show a coherent cue system rather than unrelated profile and banner illustrations.",
+    "The copy explains software/systems work and three concrete public projects in native readable text. It explicitly describes the public work as a small window, acknowledges private repositories without exposing them, and identifies Grok Bot as unofficial and eva.md as evolving.",
+    "The wheel-scrolled 320px README and pins remain readable and consistently name the same destinations. The repeated pin descriptions help connect the conversational project names to their repository slugs; no custom interaction is required to understand or follow them.",
+    "The website contract preserves name roles, anatomy, palette, voice, project facts and the chosen Investigate & share behavior. Its planned real-work-first opening, still/reduced-motion paths and absence of a mascot interaction gate are sensible continuity decisions.",
+    "The preview is visibly marked unpublished; the unfinished website has no live profile link. The proposal makes no fabricated experience title, numerical impact or private-work showcase claim."
+  ],
+  "deductions": [
+    {
+      "id": "GITHUB-AB1",
+      "severity": "low to moderate craft opportunity; nonblocking",
+      "classification": "Observed content specificity limit; memory effect remains a hypothesis",
+      "finding": "The project list communicates what each tool does, but offers little specific evidence of a choice Nag made or a problem he personally pursued. The repeated useful/curious/feel-good framing is coherent but broad. The current page therefore gives stronger category and project-name cues than a distinctive maker story.",
+      "evidence": [
+        "README.md project descriptions and introduction",
+        "evidence/profile-light-1440.png",
+        "evidence/readme-light-320-scroll.png"
+      ],
+      "improvementCriterion": "If verified public material supports it, add one short concrete reason or design choice to a project, or let its linked repository supply that story. The future website can deepen it through an owner-cleared case study. Do not invent an outcome or disclose private work to satisfy this criterion.",
+      "confidence": "High for what the copy contains; moderate for expert distinctiveness judgment; no claim that visitors currently forget Nag."
+    },
+    {
+      "id": "GITHUB-AB2",
+      "severity": "low wording issue in the plan; nonblocking",
+      "classification": "Design intention phrased more strongly than its evidence",
+      "finding": "The continuity plan says the avatar, header and wordmark “establish the shared identity immediately.” The inspected assets provide consistent association cues, but immediacy and cross-surface recognition have not been observed; the future website does not yet exist.",
+      "evidence": [
+        "brand/profile/continuity.json: github.recognition",
+        "brand/profile/continuity.json: status and website.firstVisit"
+      ],
+      "improvementCriterion": "Treat that sentence explicitly as intended identity signaling, and keep actual recognition/transfer unscored until there is a built website and suitable observation. No research recruitment is required for accepting the current local profile.",
+      "confidence": "High for the evidence/claim distinction."
+    }
+  ],
+  "blockers": [],
+  "recommendations": [
+    "Accept this local profile application as a coherent native GitHub introduction with the named nonblocking limits. Do not infer publication or live account changes from these previews.",
+    "Keep the universal avatar, paired headers, native text and three matched public destinations; no new motion or stronger tiny gesture is required for this surface.",
+    "Use the future website to add verified personal decisions and richer work evidence while preserving the same name/character relationship. Assess its first visit, reduced-motion path and cross-surface identity only after implementation.",
+    "If audience testing is later requested, separate natural branded profile/website memory exposure from isolated unlabeled emotion tests. A profile is supposed to name its maker; its identity copy is not an invalid contaminant for that question."
+  ],
+  "continuityAssessment": {
+    "currentProfile": "The inspected local preview visibly associates the maker’s names, avatar, wordmark and public work. The claims are appropriately bounded, and native GitHub controls carry the reading/navigation.",
+    "futurePlan": "A credible continuity contract with specific assets, language and behavior to reuse. It is not built artwork, validated first-visit flow or evidence that the two surfaces will be recognized as one maker.",
+    "hypotheses": [
+      "The shared face/unequal antennae and heyNag wordmark will help visitors connect GitHub and the website.",
+      "A concrete project decision may create a more distinctive memory of Nag than broad trait language alone.",
+      "Investigate & share can elaborate the static curiosity already communicated without taking authorship away from Nag."
+    ],
+    "status": "Accept direction; future website quality remains unscored."
+  },
+  "unscoredOutcomes": {
+    "humanNameRecognition": null,
+    "crossSurfaceRecognition": null,
+    "unaidedNameRecall": null,
+    "delayedRecall": null,
+    "unprimedEmotionComprehension": null,
+    "affectionOrAttachment": null,
+    "populationPreference": null,
+    "futureWebsiteQuality": null,
+    "reason": "No unfamiliar-human observations or memory outcomes; website is only a plan. No physical-phone, spoken-screen-reader or live account-state certification is implied."
+  },
+  "reviewTableMarkdown": "| Before | After / criterion | Why |\n| --- | --- | --- |\n| Project capabilities plus broad curiosity language | When verified material exists, one concise maker decision or reason | Adds specific authorship evidence without inventing impact |\n| Continuity plan states immediate identity establishment | State intended consistent identity cues; recognition remains a hypothesis | Matches the claim to local-preview and unbuilt-website evidence |"
+}

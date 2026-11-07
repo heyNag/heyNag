@@ -1,0 +1,180 @@
+{
+  "status": "Partial intake only, not all18 consensus",
+  "sourceSha256": "87943e3c1452d40b1ac535ea5bbcefa6e7676cee77165eef2d77ce5c67a32569",
+  "reviews": [
+    {
+      "reviewer": "brand-a",
+      "score": 8.2,
+      "verdict": "revise",
+      "mustFix": [
+        {
+          "id": "brand-a-whole11-materials",
+          "action": "Repair the cross-material faceting/crackle, prioritizing the foreground moth and bench and checking the trunk/path for the same treatment. Use07's quieter material separation as a finish reference while retaining11's intentional story/identity corrections.",
+          "acceptance": "At native and1280, soft face and paddles read as soft forms, timber reads as timber and stone as stone; no single etched texture visually spreads across all of them. Recheck the complete image and crops so cleanup does not erase eyes, markings, contact or detail elsewhere.",
+          "notRequired": "No anatomy redraw, guest removal, extra props, text or composition restart. I do not prescribe a generation technique or claim the exact cause."
+        }
+      ]
+    },
+    {
+      "reviewer": "brand-b",
+      "score": 8.4,
+      "verdict": "revise",
+      "mustFix": [
+        {
+          "priority": "before calling the whole image finished",
+          "location": "Hero head/antennae/wing and bench; workshop surfaces; tree/path/foliage across the frame",
+          "problem": "Visible irregular patch/crease treatment weakens material differentiation compared with 07. It is not confined to a tiny companion crop.",
+          "request": "Repair the cross-material finish using 07 as a material-quality control while retaining 11's intended story and exact eye constraints. Keep the existing composition and original anatomy. Assess the resulting whole frame again rather than approving only the repaired area.",
+          "verification": "Native crops plus matched full-frame 1280/880/420 evidence. The hero should read soft, bench as wood and path as stone without the same surface pattern running through them."
+        }
+      ]
+    },
+    {
+      "reviewer": "identity-a",
+      "score": 8.1,
+      "verdict": "revise",
+      "mustFix": [
+        {
+          "id": "WHOLE-IDA-01",
+          "action": "Restore soft, coherent material rendering across the character and environment, using07's cleaner separation as the quality control while preserving11's corrected companion eyes and accepted scene arrangement.",
+          "acceptance": "No distracting polygon/crackle network crossing cream/plush, wood and foliage in native hero/workshop/tree crops; the whole image reads as one dimensional scene at1280/880. Do not solve this with indiscriminate blur or a mascot anatomy redesign."
+        }
+      ]
+    },
+    {
+      "reviewer": "identity-b",
+      "score": 8.3,
+      "verdict": "revise",
+      "mustFix": [
+        {
+          "id": "identity-b-1",
+          "location": "Whole-frame finish, especially native hero and workshop crops",
+          "action": "Resolve the visible surface/contour breakup before presenting the entire image as polished. Use07\u2019s softer material handling as a control while retaining11\u2019s approved local eye/identity corrections; do not treat all surfaces with the same faceted texture.",
+          "why": "The requested finish concerns the entire animated-film world. Correct eyes and recognizable silhouettes alone do not resolve the inconsistent material language."
+        }
+      ]
+    },
+    {
+      "reviewer": "interaction-a",
+      "score": 8.4,
+      "verdict": "revise",
+      "mustFix": [
+        {
+          "id": "IXA11-SURFACE",
+          "action": "Reduce the visible surface breakup introduced relative to 07, especially on the hero face/antennae and broad wood surfaces. Preserve natural texture and lighting; recover material clarity rather than smoothing the entire image indiscriminately.",
+          "why": "The current cross-material crackling is a whole-image finish regression against the requested soft cinematic craft."
+        },
+        {
+          "id": "IXA11-GRIP",
+          "action": "Clarify the workshop mitten-to-hammer connection while leaving the established vignette and tiny proportions intact.",
+          "why": "A convincing held tool supports the central building story when the scene is viewed at native or large presentation sizes."
+        }
+      ]
+    },
+    {
+      "reviewer": "performance-a",
+      "score": 8.2,
+      "verdict": "revise",
+      "mustFix": [
+        {
+          "issue": "Material-crossing surface degradation",
+          "action": "Recover the cleaner soft-face, wing, wood and metal separation evident in 07; preserve the intentional 11 acting/eye corrections. This is one whole-image finish issue, not an invitation to redesign the scene.",
+          "acceptance": "Native hero/workshop comparison no longer shows the extra crackle pattern or faceted patches overriding material identity; the same improvements survive the full 1280px view."
+        }
+      ]
+    },
+    {
+      "reviewer": "performance-b",
+      "score": 8.2,
+      "verdict": "revise",
+      "mustFix": [
+        {
+          "issue": "Remove the widespread cellular/patch-like finish that weakens material identity and the soft face.",
+          "location": "Hero cream face/wing/antennae, bench wood and metal, workshop and path.",
+          "requiredOutcome": "Restore smooth readable form and material-specific detail comparable to07, while retaining current intended poses, original anatomy, guest arrangement and corrected eyes. Do not call the current 11 final film-quality artwork until the revised whole image and these crops are checked."
+        }
+      ]
+    },
+    {
+      "reviewer": "rigging-a",
+      "score": 8.3,
+      "verdict": "revise",
+      "mustFix": [
+        {
+          "id": "surface-coherence",
+          "priority": "must-fix",
+          "location": "Hero cream head and lime wing; bench slats and arm; workshop timber; left tree and adjacent foliage.",
+          "observation": "11 has stronger angular/scaly contour patches than 07 across unrelated materials. The hero crop shows cream, wing and wood sharing an embossed surface treatment; the workshop boards and tree repeat it. This remains visible in the full image and 1280px view, so it is not merely a magnified-eye artifact.",
+          "effect": "The form shading still establishes volume, but repetitive surface segmentation reduces the distinction between soft character, fabric, timber and foliage. It pulls the whole frame toward a processed illustration instead of the intended coherent animated-feature still.",
+          "evidence": [
+            "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-hero-native.png",
+            "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene07-hero-native.png",
+            "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-workshop-native.png",
+            "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene07-workshop-native.png",
+            "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-width-1280.png"
+          ],
+          "improvementCriterion": "Retain intentional fine material texture while restoring calm gradients and material-specific detail at least as coherent as 07. The cream face must read soft, the bench as continuous wood and the wing as a clean form in native and 1280px views. Preserve the scene, guest placement and corrected flat Grok eyes; no anatomy redesign is indicated.",
+          "confidence": "High for the visible difference; its technical cause is not established."
+        },
+        {
+          "id": "hammer-grip",
+          "priority": "must-fix-local",
+          "location": "Workshop, raised hand just below the hammer head and above the left side of the toolbox; approximately 41\u201343% across, 34\u201342% down the complete frame.",
+          "observation": "The 11 native workshop crop resolves the raised grip as an angular cream/black loop or linkage; 07 has a clearer rounded cream mitten around the handle. The hand-to-handle boundary in 11 is ambiguous, even though the raised-hammer action remains recognizable at reduced scale.",
+          "effect": "This is the workshop\u2019s defining contact. The angular gap weakens the otherwise compact, soft character construction and makes the tool connection less convincing.",
+          "evidence": [
+            "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-workshop-native.png",
+            "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene07-workshop-native.png"
+          ],
+          "improvementCriterion": "Show one solid rounded mitten contacting and wrapping the handle, with a short continuous wrist and no hollow strap reading. Keep the existing tiny reach and hammer pose; do not add human fingers or lengthen the arm.",
+          "confidence": "Moderate: a small raster contact, not proof of physically detached geometry."
+        }
+      ]
+    },
+    {
+      "reviewer": "rigging-b",
+      "score": 7.8,
+      "verdict": "revise",
+      "mustFix": [
+        {
+          "id": "RB-01",
+          "priority": "high for final still-image approval",
+          "action": "Repair the workshop grip/readable short wrist connection, using 07's clearer contact as a construction reference. Keep mitten anatomy and prop scale.",
+          "acceptance": "The hand visibly encloses the handle and belongs to the moth at native size; the mallet reads as held in the full composition. No elongated fingers or limb workaround."
+        },
+        {
+          "id": "RB-02",
+          "priority": "high for the requested film-like finish",
+          "action": "Recover material separation and clean hero contours from the cleaner baseline rather than carrying the crinkled/faceted look forward as finished polish.",
+          "acceptance": "Face and paddles read as soft rounded forms, glasses as continuous constructed rims, and the bench as wood with coherent grain. Native hero inspection and 1280 px full-frame inspection must both improve without losing the corrected companion eyes."
+        }
+      ]
+    },
+    {
+      "reviewer": "visual-a",
+      "score": 8.2,
+      "verdict": "revise",
+      "mustFix": [
+        {
+          "id": "VA-W11-01",
+          "request": "Address the accumulated cross-material etched/faceted finish before calling the whole image finished at the requested film-like bar. Prioritize the large cream head and pale wing, then the adjoining bench and repeated environmental surface pattern.",
+          "guardrail": "This is a controlled material-cleanup request, not permission for another unrestricted whole-scene regeneration, new props or different composition. Preserve the accepted small faces, plush Clawd, source proportions, warm light and actual eye correction.",
+          "acceptance": "Matched native crops visibly recover soft continuous form and distinct material structure; the full frame retains its depth and current storytelling without new anatomy/contact artifacts."
+        }
+      ]
+    },
+    {
+      "reviewer": "visual-b",
+      "score": 8.3,
+      "verdict": "revise",
+      "mustFix": [
+        {
+          "priority": "high for finished film-still claim",
+          "location": "Clawd face/body and representative hero/environment surfaces",
+          "problem": "Material drift from07 is visible across the scene, not merely a hypothetical consequence of rerendering. Clawd particularly loses the requested plush read through squared surface divisions; the hero and furniture show related etched/faceted treatment.",
+          "requiredOutcome": "Restore material-specific softness and texture restraint while preserving11 composition, poses, identity and repaired eyes. Do not solve by blurring the whole image, adding fur everywhere, changing the cast or enlarging anatomy."
+        }
+      ]
+    }
+  ]
+}

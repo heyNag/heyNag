@@ -1,0 +1,247 @@
+{
+  "reviewer": "visual-b",
+  "standingRole": "Visual development and lighting artist",
+  "lens": "Drawing appeal, contour and scale simplification",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "independence": "Saved before reading the new Visual A review, pair proposal or cross-disciplinary resolution. Prior own-role expanded review was read for continuity.",
+  "scope": "Frozen v4 native SVG interpretation: static drawing appeal, silhouette, contour hierarchy, hand/ruff overlaps, paint alternatives, day/night small-size applications and rendered portrait composition. Does not score continuous acting, physical-device behavior, audience attachment or deployment readiness.",
+  "reviewSource": "review-source-v4.json",
+  "evidenceActuallyInspected": [
+    {
+      "kind": "instructions_and_history",
+      "paths": [
+        "AGENTS.md",
+        "brand/team.json (Visual role/lenses)",
+        "brand/workflow.json",
+        "brand/reviews/2026-11-07-implementation/reviewer-instructions.txt",
+        "brand/reviews/2026-11-07-implementation/brief.json",
+        "brand/reviews/2026-11-07-implementation/review-source-v4.json",
+        "brand/reviews/2026-11-07-implementation/owner-preference.json",
+        "brand/reviews/2026-11-07-expanded-panel/independent/visual-b.json"
+      ]
+    },
+    {
+      "kind": "actual_png_view_image",
+      "paths": [
+        "assets/brand/heynag-moth-v5-refined.png",
+        "brand/reviews/2026-11-07-implementation/evidence/paint.png",
+        "brand/reviews/2026-11-07-implementation/evidence/sizes-final.png",
+        "brand/reviews/2026-11-07-implementation/evidence/poses.png",
+        "brand/reviews/2026-11-07-implementation/evidence/all-final.png",
+        "brand/reviews/2026-11-07-implementation/evidence/signature-final-390-stage.png",
+        "brand/reviews/2026-11-07-implementation/evidence/signature-final-390-night.png",
+        "brand/reviews/2026-11-07-implementation/evidence/signature-final-320.png",
+        "brand/reviews/2026-11-07-implementation/evidence/decoded-day-5.png",
+        "brand/reviews/2026-11-07-implementation/evidence/decoded-night-5.png"
+      ]
+    },
+    {
+      "kind": "source_read",
+      "paths": [
+        "brand/animation-v5/character.js (full file)",
+        "brand/animation-v5/motion.js (thinking, focused, grateful, shy, worried, investigation/share definitions and adjacent transition-family excerpt)",
+        "brand/reviews/2026-11-07-implementation/evidence/harness.html (paint/pose/size rendering definitions)"
+      ]
+    },
+    {
+      "kind": "record_read_not_independently_rerun",
+      "paths": [
+        "brand/reviews/2026-11-07-implementation/evidence/geometry.json",
+        "brand/reviews/2026-11-07-implementation/evidence/comparison-export.json"
+      ],
+      "observation": "Geometry record reports 567 numeric-input samples and zero mismatches; film export records 2664 frames at 30fps/88.8s. Neither record proves perceptual smoothness. Film itself was not watched continuously."
+    }
+  ],
+  "score": {
+    "value": 8.5,
+    "outOf": 10,
+    "meaning": "Strong, coherent static drawing and scale treatment, with clear appeal and materially improved presentation. Remaining overlap density and minimum-size night-contour compromises keep this below exceptional across every advertised scale. This is a scoped AI craft judgment, not an audience score."
+  },
+  "strengths": [
+    "The oversized soft cream head remains the leading shape, with compact torso, short mitten gestures, attached stub feet, unequal paddle antennae and four layered wings. The actual raster master and native interpretation remain recognizably related; no extra anatomy is needed.",
+    "The updated thinking and focused staging opens more torso around the free mitten. Worried gains a useful stagger between the hands. The before/after pose sheet supports a restrained pose-level improvement rather than a proportion change.",
+    "At 96, 128 and 160 CSS pixels the broad head/body/wing grouping survives; glasses and head angle remain legible. Head-only 48/64px applications are an appropriate simplification of content rather than a miniature full-body drawing.",
+    "The refined night paint lowers the antenna edge emphasis relative to baseline while retaining visible stems at stage and full-body application sizes. Softer falloff remains broad and quiet; it does not add texture or a competing highlight.",
+    "The 390px portrait stage gives the character meaningful drawing area below the project question. Both themes retain the same pose and clear face/mitten hierarchy; the 320px top-page capture shows a clean two-line heading rather than a broken word.",
+    "The 24-emotion day/night sheet keeps one coherent character through open, closed and half-lidded eyes, glasses, tucked and open wings. The drawn anger/sadness variants preserve the small innocent construction."
+  ],
+  "deductions": [
+    {
+      "id": "VB-D1",
+      "severity": "minor",
+      "type": "observed_craft_limitation",
+      "scoreDeduction": 0.6,
+      "confidence": "high",
+      "basis": "poses.png and all-final.png: grateful still places similarly weighted mitten/ruff loops along one compact horizontal band; shy and worried remain dense near the chest at the contact-sheet scale. The cleanup is visible but does not fully separate the gesture from ruff decoration.",
+      "implication": "Keep the short hands and torso. Any later refinement should change overlap/pose staging or local contour hierarchy, then compare at 96/128/160px; do not enlarge anatomy."
+    },
+    {
+      "id": "VB-D2",
+      "severity": "minor",
+      "type": "observed_scale_limitation",
+      "scoreDeduction": 0.5,
+      "confidence": "medium",
+      "basis": "sizes-final.png at the actual 32px night avatar cell: the face remains a useful cue, but the thin antenna connections become intermittent and the paddles read more separately than at 48/64px. This is a visual reading at supplied raster scale, not a claim that paths are disconnected.",
+      "implication": "Do not claim equal contour fidelity at every scale. Prefer 48px or above where the antenna connection is important, or evaluate a dedicated 32px paint/antialias treatment while holding source geometry fixed."
+    },
+    {
+      "id": "VB-D3",
+      "severity": "minor",
+      "type": "craft_tradeoff_partly_taste",
+      "scoreDeduction": 0.4,
+      "confidence": "medium-high",
+      "basis": "paint.png and signature-final-390-night.png: refined lowers the antenna keyline, but the night figure still has a fine double contour around the paddles and a soft perimeter around head/wing edges. The day contour has a cleaner single-stroke reading. Reduced-rim is cleaner locally but is not uniformly superior as a whole character at small scale.",
+      "implication": "Accept the current readability tradeoff locally. A future material pass needs paired actual-size evidence showing that quieter edges retain connected stems and wing/body separation; more texture or glow is not justified."
+    }
+  ],
+  "improvementCriteria": [
+    "Demonstrate distinct mitten intention in grateful, shy and worried at 96/128/160px through a controlled pose/overlap comparison, without longer arms, larger mittens or changed torso proportion.",
+    "Show 32px night avatar stems consistently connected at intended raster density, or explicitly restrict that fidelity claim to 48px+ applications.",
+    "If revisiting the night rim, show a better contour hierarchy at both portrait-stage and small application scales while preserving attached antennae and the same geometry.",
+    "Keep actual-size views alongside large comparisons; a pretty enlargement does not settle the small-size decision."
+  ],
+  "confidence": {
+    "overall": "medium-high",
+    "drawing_and_static_composition": "high",
+    "minimum_size_contours": "medium",
+    "continuous_perceptual_motion": "not assessed",
+    "human_comprehension_or_attachment": "not assessed"
+  },
+  "implementedAssessment": {
+    "recommendation": "Accept v4 as the implemented local visual study with the recorded scale/craft limitations. No blocking drawing defect found and no anatomy change requested.",
+    "paintPreference": "Retain refined for this scope; it is a controlled, modest improvement over baseline, not proof that every alternative was inferior at every size.",
+    "ownerPreference": "Investigate & share is the recorded owner preference. The observed portrait pose supports its quiet curious direction; owner preference is not stranger comprehension evidence.",
+    "planVersusArtwork": "This position concerns rendered v4 artwork and source actually inspected. It does not approve an unbuilt refinement or a future public website."
+  },
+  "objections": [
+    {
+      "id": "VB-O1",
+      "severity": "nonblocking",
+      "type": "claim_boundary",
+      "position": "Do not describe 32px night antenna fidelity as equal to the 48/64px examples. The face works, but the connection is visually less reliable at the smallest shown size.",
+      "resolutionNeeded": "Retain this limit in usage/review claims; any fix needs actual-size rendered evidence."
+    },
+    {
+      "id": "VB-O2",
+      "severity": "nonblocking",
+      "type": "claim_boundary",
+      "position": "Static and decoded evidence cannot establish normal-speed continuity, native phone rendering quality or human affection.",
+      "resolutionNeeded": "Keep those claims outside this score and the local-study approval."
+    }
+  ],
+  "limits": [
+    "No browser operated; root owns the Task Space. No source or image edits performed.",
+    "Images were viewed through view_image. Contact-sheet display can be rescaled by the viewer; the harness source confirms the nominal CSS-size cells, but physical display density was not measured.",
+    "Only selected decoded investigation/share frame sheets were inspected; comparison.mp4 was not watched as continuous playback.",
+    "No physical phone, screen-reader spoken output, unprimed observer or delayed recall test was performed.",
+    "Geometry and film metadata were read as recorded evidence; I did not rerun the 567-sample comparison."
+  ],
+  "skillsReviewed": {
+    "catalog": {
+      "path": "brand/reviews/2026-11-07-implementation/installed-skills.json",
+      "count": 17,
+      "entriesInspected": [
+        "emil-design-eng",
+        "animate",
+        "animate-expo",
+        "review-animations",
+        "improve-animations",
+        "find-animation-opportunities",
+        "remove-animations",
+        "choreograph",
+        "animation-performance",
+        "animation-vocabulary",
+        "apple-design",
+        "write-swift",
+        "pick-ui-library",
+        "prototype",
+        "mobile-native",
+        "break-ui",
+        "ask-sonner"
+      ],
+      "level": "All 17 names, descriptions, paths and declared scope reviewed; this is catalog intake, not a claim to have read every full skill."
+    },
+    "fullInstructionsRead": [
+      {
+        "name": "emil-design-eng",
+        "path": "/Users/nag/.config/skillshare/skills/emil-design-eng/SKILL.md",
+        "application": "Cohesion, quiet detail hierarchy, actual rendered comparison, and separating intentional character performance from frequent UI feedback."
+      },
+      {
+        "name": "apple-design",
+        "path": "/Users/nag/.config/skillshare/skills/apple-design/SKILL.md",
+        "application": "Purpose, restraint, legible light/dark hierarchy, adaptation to context, and explicit limits on static versus physical/real-person evidence."
+      },
+      {
+        "name": "prototype",
+        "path": "/Users/nag/.config/skillshare/skills/prototype/SKILL.md",
+        "application": "Read for comparison discipline only: name the axis, preserve production, compare realistic context at intended size, state tradeoffs. No prototype workflow or picker was invoked."
+      }
+    ]
+  },
+  "workflowChanges": [
+    {
+      "change": "Every visual refinement gets a named hypothesis and a matched actual-size comparison before adoption.",
+      "concreteUse": "For night contours, isolate antenna opacity, whole-character rim and tonal falloff; compare 32/48/64 avatars, 96/128/160 full body and portrait-stage scale.",
+      "skillBasis": [
+        "emil-design-eng",
+        "prototype"
+      ]
+    },
+    {
+      "change": "Record scale-specific wins and costs rather than one all-purpose visual approval.",
+      "concreteUse": "Maintain separate conclusions for head-only avatars, full body, large stage and light/dark paint; leave a lower 32px judgment visible.",
+      "skillBasis": [
+        "apple-design",
+        "prototype"
+      ]
+    },
+    {
+      "change": "Preserve character hierarchy during future website engineering.",
+      "concreteUse": "Keep interface controls visually quiet, retain the head as the principal shape, and solve tiny-gesture clarity through room and posing before adding detail or new anatomy.",
+      "skillBasis": [
+        "emil-design-eng",
+        "apple-design"
+      ]
+    },
+    {
+      "change": "Separate reviewed modalities in the record.",
+      "concreteUse": "Mark image inspection, decoded samples, continuous playback, physical-device use and human response separately; no single technical pass is visual approval.",
+      "skillBasis": [
+        "emil-design-eng",
+        "apple-design"
+      ]
+    }
+  ],
+  "rulesNotApplicableWithReason": [
+    {
+      "rule": "Apply a sub-300ms UI duration to every animation.",
+      "reason": "This review is a character performance study with an intentional multi-second notice/read/offer scene; UI response budgets govern controls, not the acting content."
+    },
+    {
+      "rule": "Never animate keyboard-initiated actions.",
+      "reason": "Keyboard activation of Play must still play the requested content; immediate control feedback is separate from deliberate playback."
+    },
+    {
+      "rule": "Only transform and opacity; replace expressive SVG morphing.",
+      "reason": "A compositor preference is not grounds to erase expressive eyes, mouth or attached antenna bending. Performance needs measured relevant workload and must preserve the chosen drawing."
+    },
+    {
+      "rule": "Adopt Apple glass, blur and springs throughout.",
+      "reason": "The current flat character study has no need for translucent chrome or gesture physics. Adding these would change hierarchy without solving the reviewed contour issue."
+    },
+    {
+      "rule": "Run prototype picker/selection/cleanup workflow now.",
+      "reason": "The user asked the team to inspect skills and review an implemented frozen version. No new divergent prototype or picker is requested here; the existing comparison evidence must stay archived for review provenance."
+    },
+    {
+      "rule": "Use the emil-design-eng Before/After markdown table as the review artifact.",
+      "reason": "The assigned review contract explicitly requires a JSON independent record, and this lens reviews drawing evidence rather than proposing UI code edits. The explicit task format takes precedence; before/after observations are retained inside strengths/deductions."
+    },
+    {
+      "rule": "Use Expo, Swift, Sonner or choose an extra UI library.",
+      "reason": "Those catalog entries were inspected for routing and do not materially apply to this plain-JavaScript SVG drawing review; full instructions were not claimed read."
+    }
+  ]
+}

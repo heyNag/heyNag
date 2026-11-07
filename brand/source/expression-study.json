@@ -1,0 +1,14 @@
+{
+  "asset": "assets/brand/moth-expressions-study.png",
+  "method": "OpenAI built-in image generation",
+  "prompt": "Create an expressive character model sheet for the EXACT selected heyNag moth mascot in the reference. Preserve character identity: cream-white fluffy round head and small body, charcoal outline, large black oval eyes, TWO flexible green leaf-tipped antennae, pale green moth wings each with ONE darker teardrop marking, short green feet. The brand should be warm, super curious, fun, creative and emotionally engaging. It must be this same recognizable moth in every pose, not new characters. Show SIX lively FULL-BODY poses on a pure white background, in a clean spacious 3-column by 2-row arrangement, with the character large in each slot and no borders or boxes. Top row: 'Hello' — enthusiastic friendly wave with a tiny foreleg, open smile, wings slightly raised; 'Curious' — body leaning, head tilted, one antenna raised, eyes looking toward an unseen interesting thing; 'Thinking' — one tiny foreleg at chin, gently uneven eyebrows, thoughtful mouth, relaxed wings. Bottom row: 'Focused' — intent expression with slightly lowered brows, leaning forward with purpose but never angry; 'Delighted' — joyful closed smiling eyes, open happy mouth, wings lifted, feet slightly off the ground; 'Oops' — endearing sheepish expression, a small apologetic smile, one antenna drooping while the other perks up, conveys recovery without sadness. Use only these exact six short labels in a clean charcoal sans-serif, placed consistently with ample space. Flat 2D contemporary comic style, confident clean contour, solid cream and pale/fresh-green fills, tiny purposeful motion strokes only on the waving and delighted poses. No new accessories, no clothes, no laptop, no robot motifs, no 3D, no retro texture, no shadows, no gradients, no scenery. All antenna tips, wings, feet and tiny forelegs must remain clearly inside each pose area. Production-quality, consistent proportions, attractive silhouette, delightful expressive personality, no copying existing mascots.",
+  "role": "Expression exploration, not separate final production sprites",
+  "states": [
+    "Hello",
+    "Curious",
+    "Thinking",
+    "Focused",
+    "Delighted",
+    "Oops"
+  ]
+}

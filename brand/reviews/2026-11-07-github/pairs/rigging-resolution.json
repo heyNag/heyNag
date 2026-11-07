@@ -1,0 +1,160 @@
+{
+  "discipline": "rigging",
+  "proposalSha256": "5a062f65c993eadec03c5b218b4903c9f05ca6bf1ec51c3eedf9d4c52e030f54",
+  "sourceManifestSha256": "ac469332a20a2638e3d9e926334100ca83d7554af935a0ed427203c6ae40d702",
+  "bothExplicitlyAccept": true,
+  "recommendation": "Keep the verified current renderer and exported geometry. Reuse source and manifests; website acting belongs to the articulated rig, without stacked legacy CSS gesture/scaling animations.",
+  "individualPositions": [
+    {
+      "reviewerId": "rigging-a",
+      "proposalSha256": "5a062f65c993eadec03c5b218b4903c9f05ca6bf1ec51c3eedf9d4c52e030f54",
+      "sourceManifestSha256": "ac469332a20a2638e3d9e926334100ca83d7554af935a0ed427203c6ae40d702",
+      "position": "agree_with_named_nonblocking_limits",
+      "score": 9.0,
+      "scoreMeaning": "9.0/10 retained for static GitHub articulation/contact integrity and faithful use of the shared rig. This is a personal scoped craft judgment, not a whole-brand score, renewed motion approval, published-profile certificate or website/audience score.",
+      "confidence": {
+        "sourceAndGeometry": "High: independently verified all 13 v2 manifest files; character.js, exporter, stylesheet and all three delivered rasters remain unchanged from v1.",
+        "staticPresentation": "High for the inspected desktop and 320px local viewport captures; fine-detail interpretation at the smallest size remains limited.",
+        "reuseContract": "High that the document now explicitly separates UI tokens, artwork paints and articulated motion. No built website implementation was reviewed.",
+        "bounds": "GitHub DOM local previews use data-URL assets and proposed fields. No physical-device, live-settings, rebuild-equivalence or human-recognition evidence is claimed."
+      },
+      "partnerReview": "brand/reviews/2026-11-07-github/independent/rigging-b.json",
+      "partnerChallenge": {
+        "agreement": "B and I agree that the current renderer/exported geometry should remain unchanged, that the small header has a nonblocking optical-detail limit, and that legacy CSS whole-character gesture/scaling animations must not be stacked onto the articulated rig. We also agree that recording manifest dependencies is a handoff guardrail, not a defect in the current static profile.",
+        "difference": "I challenged B\u2019s wording that the narrow header loses hand/wing separation: this describes reduced visible separation, not missing paths, detached contact or broken four-wing construction. B confirmed that interpretation and challenged me to distinguish preserved construction from visibly distinguishable anatomy. I accept that distinction: source integrity does not prove tiny-gesture readability. My 9.0 and B\u2019s retained 8.9 reflect different scoped craft weighting; neither requires score convergence.",
+        "sharedRecommendationAccepted": true,
+        "exactRecommendation": "Keep the verified current renderer and exported geometry. Reuse source and manifests; website acting belongs to the articulated rig, without stacked legacy CSS gesture/scaling animations.",
+        "remainingObjections": [],
+        "exchange": "Direct messages exchanged with /root/panel_rigging_b_implementation before this vote. B accepted the exact recommendation and confirmed no substantive disagreement; A explicitly accepted the optical-versus-geometric distinction."
+      },
+      "inspectedUpdatedEvidence": [
+        "brand/reviews/2026-11-07-github/pair-vote-instructions.txt",
+        "brand/reviews/2026-11-07-github/team-proposal-v2.json",
+        "brand/reviews/2026-11-07-github/review-source-v2.json",
+        "brand/reviews/2026-11-07-github/independent/rigging-a.json",
+        "brand/reviews/2026-11-07-github/independent/rigging-b.json",
+        "README.md",
+        "brand/profile/profile.json",
+        "brand/profile/continuity.json",
+        "brand/profile/public-evidence.json",
+        "brand/profile/README.md",
+        "brand/story.md",
+        "brand/README.md",
+        "brand/design-system.css \u2014 legacy opt-in gesture selectors and nonuniform scale keyframes inspected; file unchanged",
+        "brand/reviews/2026-11-07-github/evidence/render-checks.json",
+        "brand/reviews/2026-11-07-github/evidence/profile-light-1440.png",
+        "brand/reviews/2026-11-07-github/evidence/profile-dark-1440.png",
+        "brand/reviews/2026-11-07-github/evidence/profile-light-320-top.png",
+        "brand/reviews/2026-11-07-github/evidence/profile-dark-320-top.png",
+        "brand/reviews/2026-11-07-github/evidence/readme-dark-320-scroll.png",
+        "brand/reviews/2026-11-07-github/evidence/pins-light-320-scroll.png"
+      ],
+      "changedJudgment": "Score stays 9.0 because the source geometry, exports and actual displayed sizes are unchanged, and the fresh captures preserve the same static strengths and small-size limitation. The shorter copy keeps native text useful without asking tiny hands to carry meaning. The v2 contract improves future handoff precision by separating UI tokens from character paints and banning stacked legacy CSS gestures. That resolves a reuse ambiguity, but it neither changes the current artwork nor earns unimplemented website credit.",
+      "deductions": [
+        {
+          "severity": "Minor, nonblocking; retained",
+          "finding": "At the 238px header width in the 320px viewport, mittens/collar remain optically dense and dark antenna stems become faint. The face, wordmark and overall silhouette remain readable. Preserved rig paths do not establish that each wing or a fine contact gesture is visibly distinguishable at this scale.",
+          "evidence": [
+            "brand/reviews/2026-11-07-github/evidence/profile-light-320-top.png",
+            "brand/reviews/2026-11-07-github/evidence/profile-dark-320-top.png",
+            "brand/reviews/2026-11-07-github/evidence/readme-dark-320-scroll.png",
+            "brand/reviews/2026-11-07-github/evidence/render-checks.json"
+          ],
+          "improvementCriterion": "Keep this compact full-body lockup nonessential to meaning. If a future surface depends on hand contact, wing distinction or acting, give the unchanged full rig enough displayed area and verify it at its minimum actual size; do not redraw anatomy or assume these narrow previews demonstrate fine gestures."
+        }
+      ],
+      "skillsApplied": {
+        "previousFullReadingsReused": [
+          "emil-design-eng",
+          "design-taste-frontend",
+          "animate",
+          "animation-performance",
+          "review-animations"
+        ],
+        "newInstructionsRead": "The current pair-vote-instructions.txt was read in full; no additional skill full-reading is claimed.",
+        "practicalWorkflow": "Read own and partner independent findings, inspect changed public files and fresh viewport PNGs, verify proposal/source/file hashes, exchange the optical-versus-geometric challenge, then write an individual vote. Native GitHub restraint, real content and actual-size inspection remain the applicable skill principles.",
+        "exceptions": [
+          "Native GitHub cannot take custom CSS/JS, commercial-site layout recipes or animation implementation.",
+          "PNG captures cannot establish runtime timing, smoothness, interruption or future reduced-motion behavior.",
+          "Root owns browser capture; no browser, source edit, rebuild, web research or publication was performed.",
+          "The compact decorative header is not evidence that a full-body semantic performance is legible below the general character-size guidance."
+        ]
+      },
+      "unscoredOutcomes": [
+        "Published GitHub README, account/avatar settings, image proxy behavior and live appearance preferences.",
+        "A built heyNag.com website, its responsiveness, articulated acting, interruption, quiet route or performance.",
+        "Human recognition, recall, affection, emotional interpretation or conversion.",
+        "Physical-device behavior, screen-reader output and cross-browser byte-identical export regeneration.",
+        "The existing mascot\u2019s whole motion system, replay envelopes and frame pacing."
+      ]
+    },
+    {
+      "reviewerId": "rigging-b",
+      "proposalSha256": "5a062f65c993eadec03c5b218b4903c9f05ca6bf1ec51c3eedf9d4c52e030f54",
+      "sourceManifestSha256": "ac469332a20a2638e3d9e926334100ca83d7554af935a0ed427203c6ae40d702",
+      "position": "agree_with_named_nonblocking_limits",
+      "score": 8.9,
+      "scoreMeaning": "8.9/10 for observed static GitHub rendering and production source reuse readiness. This remains an application-specific craft judgment, not a whole-brand, website, audience-recognition or motion-performance score.",
+      "confidence": {
+        "level": "High for the inspected local static presentation and verified source identity; moderate for independent rebuild equivalence.",
+        "basis": "Independently calculated both vote hashes, verified all 13 source-manifest entries, read all seven changed/new public files, viewed all five required fresh captures, and read all ten updated render-check records.",
+        "limits": "The local preview substitutes proposed account fields and data-URL images into GitHub's DOM. This does not establish saved account settings, served image-proxy behavior or physical-device output. PNGs were not independently regenerated in this review."
+      },
+      "partnerReview": "brand/reviews/2026-11-07-github/independent/rigging-a.json",
+      "partnerChallenge": {
+        "agreement": "Both reviewers support the same unchanged renderer, static paired headers and universal day avatar. Both see a compact-detail limitation at the 238 px banner, without a geometry, attachment or crop failure. The dependency-manifest point is a production handoff guardrail rather than a current static defect.",
+        "difference": "A challenged my phrase 'loses hand/wing separation'; I clarified that it describes reduced optical separation, not missing paths or detached parts. I challenged A to distinguish preserved four-wing construction from visibly distinguishable anatomy or tiny-gesture legibility at this size. A explicitly accepted that distinction and retained the optical-detail deduction. A's 9.0 and my 8.9 are independent scoped judgments; neither score is a condition of agreement.",
+        "sharedRecommendation": "Keep the verified current renderer and exported geometry. Reuse source and manifests; website acting belongs to the articulated rig, without stacked legacy CSS gesture/scaling animations.",
+        "sharedRecommendationAccepted": true,
+        "remainingObjections": [],
+        "exchange": "Direct messages exchanged with rigging-a after reading the independently saved reviews. A confirmed acceptance of the same exact recommendation and no remaining substantive objection."
+      },
+      "inspectedUpdatedEvidence": [
+        "brand/reviews/2026-11-07-github/pair-vote-instructions.txt",
+        "brand/reviews/2026-11-07-github/team-proposal-v2.json \u2014 complete proposal read and SHA256 calculated",
+        "brand/reviews/2026-11-07-github/review-source-v2.json \u2014 SHA256 calculated and all 13 listed file hashes matched",
+        "brand/reviews/2026-11-07-github/independent/rigging-b.json \u2014 prior findings revisited; initial visual evidence is archived under before/evidence-v1",
+        "brand/reviews/2026-11-07-github/independent/rigging-a.json \u2014 full partner review read after my independent was saved",
+        "README.md \u2014 full changed source read",
+        "brand/profile/profile.json \u2014 full changed source read",
+        "brand/profile/continuity.json \u2014 full changed source read",
+        "brand/profile/public-evidence.json \u2014 full new source-evidence record read; external project execution not independently certified",
+        "brand/profile/README.md \u2014 full new maintenance/handoff instructions read",
+        "brand/story.md \u2014 full changed source read",
+        "brand/README.md \u2014 full changed source read",
+        "brand/reviews/2026-11-07-github/evidence/profile-light-1440.png \u2014 viewed",
+        "brand/reviews/2026-11-07-github/evidence/profile-dark-1440.png \u2014 viewed",
+        "brand/reviews/2026-11-07-github/evidence/profile-light-320-top.png \u2014 viewed",
+        "brand/reviews/2026-11-07-github/evidence/readme-dark-320-scroll.png \u2014 viewed",
+        "brand/reviews/2026-11-07-github/evidence/pins-light-320-scroll.png \u2014 viewed",
+        "brand/reviews/2026-11-07-github/evidence/render-checks.json \u2014 complete version 2 records read"
+      ],
+      "changedJudgment": {
+        "score": "Retained at 8.9. Hash comparison establishes that renderer, exporter, stylesheet and all three profile images are unchanged. Fresh captures show the same intact static presentation and the same small-detail limit; clearer prose does not by itself improve the rigging craft score.",
+        "reuseContract": "The updated continuity contract resolves the ambiguity identified in my independent review: UI tokens do not recolor the character's authoritative paints or header grounds, and legacy whole-character CSS gestures/scaling must not be stacked onto the articulated rig. The maintenance instructions now explicitly require a versioned asset copy with source commit and manifest recorded.",
+        "renderedApplication": "The shorter bio and updated live-text project entries fit the inspected native layouts. The ten recorded theme/width cases still report correct theme selection and document width equal to viewport width. The five fresh PNGs I viewed show no new clipping or export-integrity defect.",
+        "approvalBoundary": "I accept the exact rigging recommendation on this proposal hash. The future implementation must still demonstrate its own rendering, ID isolation, quiet path and motion behavior; the present contract does not supply that evidence.",
+        "skills": "Applied the previously fully read emil-design-eng and design-taste-frontend principles for actual rendered evidence, coherent owned assets and plain copy, plus the retained rigging routing of animate, animation-performance and review-animations. Newly read the pair-vote instructions. No unnecessary skill rereading, animation work, browser session, source modification or publication. Native GitHub continues to exclude custom-site CSS, typography and motion recipes."
+      },
+      "deductions": [
+        {
+          "severity": "minor, nonblocking",
+          "finding": "At the 238 px banner width, mittens/collar and overlapping wing details are optically dense, while the dark antenna connections are subtle. Preserved construction and complete silhouettes do not establish fine anatomical differentiation or gesture recognition at that display size.",
+          "evidence": [
+            "brand/reviews/2026-11-07-github/evidence/profile-light-320-top.png",
+            "brand/reviews/2026-11-07-github/evidence/readme-dark-320-scroll.png",
+            "brand/reviews/2026-11-07-github/evidence/render-checks.json"
+          ],
+          "improvementCriterion": "Keep this compact full-body lockup decorative and native text authoritative. A future surface requiring finer detail should give the unchanged rig more displayed area or use its existing head crop, then verify the actual minimum size in both themes. No anatomy redraw or current-profile blocker is warranted."
+        }
+      ],
+      "unscoredOutcomes": [
+        "Published GitHub README, account bio/avatar/pins, saved appearance settings and served image-proxy behavior.",
+        "Built heyNag.com layout, asset integration, SVG ID isolation, motion, interruption, reduced-motion behavior and browser performance.",
+        "Physical-device and assistive-technology behavior.",
+        "Human identity recognition, recall, affection, trust, audience preference or website effectiveness.",
+        "Cross-browser byte-identical PNG regeneration or runtime/adoption validation of the three public projects."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "reviewer": "Storyboard A — visual storytelling and setup/payoff",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "ownIndependentSavedBeforePartnerRead": true,
+  "partnerRecordRead": "independent/storyboard-b.json",
+  "partnerDiscussionRead": "pairs/storyboard-b-discussion.json",
+  "proposalFile": "team-proposal-v1.json",
+  "proposalSha256": "db064ee23559e695e350ddc47e86c77380776554e6bb3a5a43eeadd8b18bd5f3",
+  "sourceManifestSha256": "d5abc24f90f9539bfddb0223da42392fb31c9321ab7c962aa98c893ff3789e0e",
+  "verification": {
+    "proposalAndManifest": "Both SHA256 values independently recomputed and matched for this vote.",
+    "currentSource": "All 12 files in review-source-v1.json independently rehashed with zero mismatches.",
+    "newPerceptualEvidence": "None. The partner exchange supplies a complementary judgment, not new continuous playback or human observation.",
+    "sourceOrBrowserChangesMade": false
+  },
+  "challengesAndResolutions": [
+    {
+      "topic": "Corrected phone direction does not require amplification",
+      "partnerChallenge": "B accepts the corrected upward attention but cautions that quietness is not an observed failure and a stronger tilt could compete with the consideration hand or add an unintended action.",
+      "response": "I agree. My independent record explicitly marks the old downward/lateral conflict corrected. The remaining 0.4 is my judgment of how strongly the full composition identifies the heading as the subject, not evidence that the mapper still points the wrong way. I do not require a stronger tilt or new gesture to accept this implementation.",
+      "resolution": "Keep the current bounded correction, static question and exact release by 2350 ms. Observe the complete scene in its eventual website composition before changing emphasis. A retains the limited specificity deduction, while B treats quietness primarily as an appropriate subtlety and future observation. This difference does not block the shared recommendation.",
+      "evidence": ["staging.js:35–57", "attention-390-day-330/790/1190/1900/2350/2720.png", "corresponding night frames", "matched 320 and 1440 px DOM views"]
+    },
+    {
+      "topic": "The cup participates in a sentence, not a standalone icon",
+      "partnerChallenge": "B agrees the cup is clearer but notes that its meaning comes partly from the preceding return and the project context, including at larger sizes.",
+      "response": "Agreed. The outward cup earns the score improvement because it now completes a visibly different action after the face returns. That does not require it to communicate the entire invitation in isolation. At 96–128 px it remains a small accent, so compact reuse needs adequate staging rather than a larger mitten.",
+      "resolution": "Keep the current offer, quiet opposite hand and single ending. Review the complete consideration/return/turn/hold at intended size before further posing. Do not add a wave, enlarge anatomy, or pursue isolated semantic clarity at the expense of the selected restrained performance.",
+      "evidence": ["hands-day.png", "hands-night.png", "sizes-curious-investigate.png", "offer-sequence-day.png", "offer-sequence-night.png", "attention-390-day-2720.png", "attention-390-night-2720.png"]
+    },
+    {
+      "topic": "Compact hand families remain within the same foundation scope",
+      "partnerChallenge": "B retains small-size gathered-hand differentiation as a limitation despite better hierarchy; Grateful and Shy still rely on face and sequence.",
+      "response": "I accept that limitation. My credit for a lower clasp, quieter Thinking hand and distinct Worried diagonal is relative to the before images, not a claim that all six hands have become self-describing emotional icons. Shy's small adjustment is intentionally modest, and Grateful's contact should remain meaningful.",
+      "resolution": "Keep all six refinements and preserve chin/clasp contact. Retain compact-family differentiation as a foundation limit, with B assigning it more numerical weight. Any further change must follow a concrete ambiguity in the gather/bow or glance/dip, rather than a universal demand for separated silhouettes.",
+      "evidence": ["hands-day.png", "hands-night.png", "sizes-thinking.png", "sizes-grateful.png", "sizes-shy.png", "sizes-worried.png", "all-current.png"]
+    },
+    {
+      "topic": "First viewport and peek questions are unchanged",
+      "partnerChallenge": "B explicitly carries delayed initial character exposure and the isolated half-eye ambiguity into the same overall lens, rather than scoring only the successful patch.",
+      "response": "Agreed. Both remain in A's independent priorConcernDisposition and limits. The unchanged signature.css does not establish a better first viewport, and fresh scrolled scenes cannot stand in for that claim. The hand/eyeline changes also do not decide one peek versus two. A weighs these as retained nonblocking foundation limits; B gives them separate score deductions.",
+      "resolution": "Carry first-view hierarchy into website design without shrinking the character to fit the study's controls above the fold. Retain both peek alternatives. Neither a sleepy-looking isolated endpoint nor fewer authored repetitions establishes which complete joke works better.",
+      "evidence": ["unchanged signature.css hash", "prior signature-final-320.png", "current scrolled 320/390 px captures", "unchanged peek definitions in motion.js", "all-current.png", "previous decoded one/two-peek comparison"]
+    },
+    {
+      "topic": "Monotonic hand travel does not prove felt rhythm",
+      "partnerChallenge": "B agrees that the offer-versus-flick question and comic timing require continuous inspection; the 2350–2720 ms samples only establish one outward/upward turn and its hold.",
+      "response": "Agreed. The numeric tests prevent an extra authored wave, and the sheets show coherent key moments. They cannot certify the perceived wrist turn, the pause, the read of a clasp during a bow, or the joke's punctuation. B's additional numeric replay diagnostic likewise does not add perceptual evidence to this lens.",
+      "resolution": "Keep continuous rhythm unscored. Ask normal-speed observation the specific offer/flick and second-peek questions; use frames and source afterward to diagnose a named issue. No new feel defect is invented from the missing evidence.",
+      "evidence": ["motion.test.mjs:174–193", "offer-sequence-day.png", "offer-sequence-night.png", "comparison-export.json", "full-reel-export.json"]
+    }
+  ],
+  "acceptedJointRecommendation": "Keep Investigate & share as the lead: question, consideration, visitor return, then offering hand. Accept phone attention correction while preserving subtlety and later comic-timing challenges.",
+  "jointRecommendationConfirmedByThisReviewer": true,
+  "evidenceBasedResolution": "Accept the implemented gesture/staging v1 local foundation with the named limits. The offer and phone direction improve the same two prior concerns without an anatomy redraw or an extra narrative beat. Preserve the small character's restraint and observe remaining semantic/temporal questions before changing the performance again.",
+  "remainingDisagreements": [
+    "A retains 8.9, up from 8.2; B retains 8.7, up from 8.4. The scores are independent and are neither averaged nor negotiated.",
+    "A retains 0.4 for the quiet strength of the phone subject cue as a visual-specificity judgment. B cautions that this quietness can be appropriate and is not itself a demonstrated defect. Both accept the corrected axis and oppose automatic amplification.",
+    "B gives compact-family differentiation, initial exposure and isolated peek ambiguity more numerical weight. A retains them as the same foundation's named nonblocking limits. Neither reviewer claims those matters were resolved by the hand patch.",
+    "No substantive disagreement with the exact shared recommendation; continuous offer and comic rhythm remain undecided."
+  ],
+  "personalScore": {"value": 8.9, "outOf": 10},
+  "scoreHistory": [
+    {"round": "implementation final", "value": 8.2, "record": "../2026-11-07-implementation/team-votes/storyboard-a.json"},
+    {"round": "gesture/staging independent", "value": 8.9, "record": "independent/storyboard-a.json"},
+    {"round": "gesture/staging pair and vote", "value": 8.9, "reason": "The pair challenge clarifies how to interpret the remaining deductions; it supplies no new visual evidence requiring a numerical revision."}
+  ],
+  "practicalSkillsWorkflowAgreement": {
+    "confirmation": "A explicitly confirms B's proposed shared process, with the purpose-based exceptions below. B's existing discussion independently confirms the same process.",
+    "actualIntake": "Reuse the full choreograph, review-animations and animation-vocabulary instructions and prior all-17 catalog intake. A also previously read review-animations/STANDARDS.md. No new full skill reading or new design-taste implementation workflow is claimed in this bounded pair review.",
+    "process": [
+      "Carry each prior deduction forward with a matched before/current view and a corrected, reduced, retained or unmeasured disposition. Keep the same foundation scope even when the patch succeeds.",
+      "Cast gaze as lead, head as support, and require adaptive attention to release before the authored visitor return and offer. Keep the free hand, question and layout quiet when they carry no active beat.",
+      "Review preparation/return/turn/hold together, then inspect the endpoint at intended sizes. Treat purposeful chin/clasp contact differently from incidental crowding.",
+      "Check interruption against the displayed staged pose, not only the raw engine pose. Separate control responsiveness from the deliberate character timeline.",
+      "Use actual DOM scenes for eyeline, first-view captures for exposure, and simplified films for controlled comparison. State which evidence supports each conclusion.",
+      "Use normal-speed observation to judge the offer/flick and repeated-peek questions; use decoded frames and source to locate a failure once observed. Shared vocabulary must not be mistaken for a quality result."
+    ],
+    "exceptions": [
+      "Do not compress intentional character content into the sub-300 ms control-feedback budget.",
+      "Keep keyboard Play available; the no-keyboard-animation heuristic does not prohibit requested performance content.",
+      "Do not replace expressive SVG anatomy merely to satisfy compositor guidance; measure a relevant workload first.",
+      "Different subject placements may use different attention directions while anatomy and per-composition light/dark numeric poses remain identical.",
+      "Do not automatically delete the second peek, enlarge a mitten, add a wave, exaggerate a corrected gaze, or break an intentional clasp to make an isolated still more explicit.",
+      "Do not use website hero rules to erase local review controls during this bounded gesture pass; design the future first view for its actual purpose."
+    ]
+  },
+  "substantiveObjections": [],
+  "limits": [
+    "The pair exchange adds no continuous perceptual, physical-phone or unfamiliar-human result.",
+    "Tests, browser cases and same-input geometry checks establish their specified mechanics, not live feel or semantic comprehension.",
+    "The complete 24-emotion live reel was not watched by A; current source differences, selected sequences and all-current still evidence support the scoped judgment.",
+    "Acceptance concerns the implemented local foundation only, without publication or a unanimous 9/10 claim."
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "reviewerId": "visual-a",
+  "role": "Visual development and lighting artist A",
+  "lens": "Materials and light/dark continuity",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "independence": "Saved before partner discussion; no other new Muse review read.",
+  "verdict": "Muse can improve through a small facial correction, not a wholesale redesign. Study08's pale ringed eyes are a concrete regression from07 and the reference's simple dark eyes. The latest unapproved repair restores filled dark eyes and a calmer, more coherent face. Its remaining hood/material differences are optional refinements, not reasons to keep regenerating an otherwise effective small cameo.",
+  "evidenceInspected": [
+    "/Users/nag/projects/personal/heyNag/assets/brand/banner-park/park-film-study-07-clawd-plush.png",
+    "/Users/nag/projects/personal/heyNag/assets/brand/banner-park/park-film-study-08-story-and-light.png",
+    "/Users/nag/.codex/generated_images/01a1b473-8621-7941-ba03-4b47867c136c/exec-234a1f3b-c3c0-4d21-a2fb-0e2a5cad97f6.png",
+    "/Users/nag/projects/personal/.heynag-profile-work/references/owner-muse-lineup.jpg"
+  ],
+  "inspectionMethod": "All four actual images viewed with view_image at original detail; source scene size, not native GitHub phone rendering.",
+  "findings": {
+    "face": "07 has small dark eyes;08 introduces pale centers with dark rings, giving a more diagrammatic, startled reading. The latest repair's solid dark eyes better match the supplied hooded Muse examples. Keep the small smile and broad uncluttered face; larger eyes or new facial features are unnecessary.",
+    "hood": "The park adaptation uses a round, segmented bonnet with a pronounced face-opening rim. The supplied cream Muse examples have a softer rounded-rectangular face window integrated into the plush head. That is a real design difference, but the current baby adaptation remains readable and innocent.",
+    "materials": "Cream suit and warm face fit the sunlit park. The smoother, peachier face inset and strong hood seam are slightly more doll-like than the reference's continuous textile softness. A restrained reduction of rim-shadow contrast and a drier matte face could help; extra fur detail, gloss or strong cheek color would not.",
+    "proportionsAndHierarchy": "The oversized hood, compact seated body and tiny limbs already support the baby role. Muse remains below the resting moth, shares the leaf with Grok and stays clear of the coding foreground. Do not enlarge it or change its seat/hand relationship to the leaf to force more expression."
+  },
+  "mustFix": [
+    "Do not carry08's hollow/ringed Muse eyes forward. The latest repair appears to resolve this visible issue; retain simple filled dark eyes.",
+    "Apply the owner's separate Grok correction: two clean white ovals without dark inner dots. Small darker centers still appear present in the supplied repair; inspect that local detail before claiming it resolved. Do not add pupils to convey gaze."
+  ],
+  "optional": "If one further Muse-only pass is justified, test only softer hood-rim contrast and less skin-like face sheen against the latest repair at identical size. Adopt only an evident material benefit. The reference supports plush softness, not a need to reproduce adult costumes or enlarge the cameo.",
+  "rerenderRisk": "A broad scene regeneration could alter liked Clawd, the moths, glasses, guest grouping or light. Treat the latest repair as an unapproved candidate; do not equate an improved Muse face with a verified unchanged scene or owner acceptance.",
+  "confidence": "High in the relative eye-treatment comparison and overall hierarchy; moderate in fine textile/hood and Grok-center judgments because these are small details within full-scene images. No claim about phone readability, human recognition or preference.",
+  "skillsReviewed": {
+    "newFullRead": [],
+    "fullReadReused": ["emil-design-eng", "apple-design", "prototype", "design-taste-frontend"],
+    "actualUse": "Compare the real reference and rendered alternatives, protect hierarchy, distinguish a concrete regression from optional polish, and require a named visible benefit before adopting a variant.",
+    "exceptions": "No UI timing, commercial page template, mandatory animation or new prototype implementation is applicable to this read-only static-art review. AGENTS.md's evidence, anatomy and independent-judgment rules are reused."
+  },
+  "pairDiscussion": {
+    "status": "Visual A and Visual B explicitly agree on bounded recommendation.",
+    "jointRecommendation": "Keep the repaired dark Muse eyes, body, pose and small scale. One optional local comparison may soften hood-rim/crown-seam contrast and subtly broaden the face opening toward the reference's rounded-square shape within the same footprint. Correct Grok to two clean white ovals without dark centers. Inspect the actual candidate before any adoption; preserve the moth focal hierarchy and all other scene elements.",
+    "challengeAccepted": "B finds the current smooth warm face defensible. A agrees that a drier or more textile face is not required for acceptance; do not add texture or noise merely to match the reference. Any matte-face change already being generated must earn its place through visible improvement.",
+    "remainingSubstantiveDifferences": [],
+    "processLimit": "A saved before partner discussion. B disclosed that A's synopsis arrived before B's inspection/save, although A's review file remained unread. This agreement is not represented as two fully blind judgments.",
+    "candidateStatus": "Root reports a bounded comparison generating; this discussion does not approve its unseen result."
+  },
+  "candidate09": {
+    "scope": "Actual Muse-only comparison with the unapproved dark-eye intermediate; no global09 approval.",
+    "verdict": "Negligible to slight improvement, not materially better.09's face opening is a little broader and more regular, but the padded rim and crown divisions still read as a bonnet. The material itself is not substantially softer than the intermediate.",
+    "preserved": "Filled dark eyes, gentle smile, compact body, leaf contact and small cameo scale remain effective. No new Muse material defect or hierarchy problem is evident. The foreground moth remains dominant.",
+    "recommendation": "No further Muse regeneration is justified by this small difference alone. Either face is serviceable;09's modest opening refinement may be retained on a stable base, subject to the separate Grok repair and actual result inspection.",
+    "evidence": [
+      "assets/brand/banner-park/park-film-study-09-companion-refinement.png via view_image",
+      "brand/reviews/2026-11-07-banner-park/muse-review/evidence/09-companion-inspection.png via view_image",
+      "/Users/nag/.codex/generated_images/01a1b473-8621-7941-ba03-4b47867c136c/exec-234a1f3b-c3c0-4d21-a2fb-0e2a5cad97f6.png via view_image",
+      "Matched 200x125 native-coordinate inspection crops of09/intermediate, generated in memory only at x300,y430; JPEG previews supplemented the original PNG inspections."
+    ],
+    "evidenceCaveat": "The existing evidence/muse-only-intermediate.png showed foliage rather than Muse and was not used as facial comparison evidence. No source images or evidence files were modified.",
+    "confidence": "Moderate-high for the small relative opening change and retained material/scale; no native GitHub phone claim."
+  },
+  "candidate10": {
+    "scope": "Fresh inspection of carried-forward Muse and the separate Grok eye correction only.",
+    "status": "REOPENED: owner identified a remaining interior spot; prior clean-eye acceptance retracted.",
+    "decision": "10 remains incomplete. Grok's viewer-right eye still needs its interior spot removed; Muse does not need further work.",
+    "priorAssessment": {
+      "decision": "The bounded companion correction is acceptable on the inspected evidence. No remaining must-fix in these faces/materials.",
+      "grokClaim": "Both ovals now read as clean warm-white shapes without dark inner dots in the actual native crop. This resolves the concrete owner-requested eye issue visible in09.",
+      "status": "RETRACTED after enlarged-source inspection. Preserved as history, not current acceptance.",
+      "error": "I missed the small interior spot at native crop size and overstated both cleanliness and confidence. The owner's observation is supported by the enlarged evidence."
+    },
+    "muse": "The native crop retains09's filled dark eyes, small smile, soft cream hood, compact seated body and leaf contact. The modestly broader opening is carried forward without enlarging Muse or hardening its material. The refinement remains small, not a transformative improvement over the intermediate.",
+    "grok": "A distinct brown-peach circular spot remains inside the viewer-right white oval, below center and separate from the perimeter. The viewer-left oval is substantially cleaner. This is not merely warm edge shading; it violates the requested uninterrupted flat white interior.",
+    "hierarchy": "At the supplied full-scene scale, the pair stays subordinate to the resting and foreground coding moths. Foreground exclusivity remains. This does not establish pixel-identical surroundings or approve the entire regenerated scene.",
+    "evidence": [
+      "assets/brand/banner-park/park-film-study-10-clean-companion-eyes.png via view_image",
+      "brand/reviews/2026-11-07-banner-park/muse-review/evidence/10-companion-inspection.png via view_image",
+      "Compared with actual09 and its native inspection crop from the same review turn.",
+      "/tmp/heynag-companions10-inspection-enlarged.png via view_image after owner correction",
+      "/tmp/heynag-vb-10-companion-enlarged.png via view_image after owner correction"
+    ],
+    "confidence": "High that the enlarged actual10 evidence shows a remaining interior spot. Prior confidence in complete removal was unjustified. Retained Muse judgment does not establish phone or human response.",
+    "recommendation": "No further Muse polish. Correct only Grok's eye interiors to uninterrupted flat white, preserving oval boundaries and character scale. Inspect the actual magnified source and native context before closing; do not preapprove a generating repair.",
+    "pairResolution": "Visual A and B explicitly agree:10 incomplete, Muse unchanged, isolated Grok interior correction required, then magnified actual-result inspection.",
+    "workflowCorrection": "Tiny-eye QA now requires both native context and enlarged source detail; native viewing alone cannot certify absence of a small interior mark."
+  },
+  "candidate11": {
+    "scope": "Actual11 Grok interior correction, carried-forward Muse and incremental material continuity against10; independent of a new B judgment.",
+    "decision": "The inspected Grok eye-interior defect is resolved. No new Muse or incremental material must-fix found within this narrow comparison.",
+    "grok": "Both ovals are uninterrupted warm-white shapes in the native crop and supplied5x enlargement. I do not see10's discrete brown-peach spot below center in the viewer-right oval, or an analogous mark in the left. Dark perimeter/antialiasing remains outside the light interiors.",
+    "muse": "The small dark eyes, mild smile, padded hood, compact seated body, short limbs and leaf relationship remain intact. Softness and cameo scale are preserved; no further Muse adjustment is warranted.",
+    "materialContinuity": "The full scene has incremental surface redraw, especially in bark/wood detail; it is not pixel-identical. Matched native-coordinate crops of the foreground moth's face do not show a meaningful new hardening or loss of softness from10 to11. The visible differences do not justify another broad render. This is not a certification of every surface or cumulative changes from earlier liked versions.",
+    "hierarchy": "The coding moth remains the dominant foreground figure, with the companion pair small and locally grouped beneath the resting moth. No new foreground cameo or scale drift is apparent at the supplied scene size.",
+    "evidence": [
+      "assets/brand/banner-park/park-film-study-11-flat-grok-eyes.png via view_image",
+      "brand/reviews/2026-11-07-banner-park/muse-review/evidence/11-companion-inspection.png via view_image",
+      "brand/reviews/2026-11-07-banner-park/muse-review/evidence/11-companion-inspection-enlarged.png via view_image",
+      "assets/brand/banner-park/park-film-study-10-clean-companion-eyes.png re-viewed",
+      "Matched10/11 foreground-face inspection crops at x1410,y195,w380,h270, rendered in memory as JPEG previews; no image files changed."
+    ],
+    "confidence": "High for absence of the previously visible interior spots in the actual5x evidence and retained Muse geometry; moderate for broader incremental material comparison. No phone, owner-acceptance or full-team claim.",
+    "recommendation": "Retain11's corrected companion eyes for the next scoped review. Stop further art generation on this issue; full-banner acceptance remains separate.",
+    "skillsUse": "Reuse prior full skill intake: actual-scale hierarchy plus enlarged defect inspection, named-benefit comparison, and avoidance of unearned whole-scene claims. No new skill read.",
+    "pairResolution": {
+      "status": "Visual A and Visual B explicitly agree after each saved actual11 findings before this exchange.",
+      "jointRecommendation": "Companion repair passes; scene texture is not pixel-identical, with no newly identified blocking material defect in this narrow comparison; no whole-banner approval.",
+      "agreedEvidence": "Both final-export5x Grok interiors are uninterrupted ivory-white and10's viewer-right interior spot is absent. Muse's dark eyes, tiny body and leaf relationship remain intact.",
+      "materialCaveat": "B notes subtly stronger/faceted definition in parts of the cream head and wing; A accepts this as incremental retexturing. Neither identifies a meaningful new material regression warranting another broad render within this comparison.",
+      "remainingSubstantiveDifferences": [],
+      "nextStep": "No further creative passes on Muse/Grok. Preserve the corrected companions; wider banner acceptance remains separately scoped."
+    }
+  },
+  "limits": "No image edits, numerical score, whole-scene approval, owner acceptance or full-team consensus."
+}

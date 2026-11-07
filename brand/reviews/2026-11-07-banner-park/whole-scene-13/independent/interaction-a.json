@@ -1,0 +1,120 @@
+{
+  "reviewer": "interaction-a",
+  "role": "Interaction and accessibility designer",
+  "lens": "Static-image reading comfort, visual hierarchy and clear story; no nonexistent controls are scored.",
+  "assetSha256": "32ce62c11e533fcd3a7ab1856a102c7a31b9111d96c3fbf16df8d469b8f08469",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "evidenceInspected": [
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/brief.json",
+    "assets/brand/banner-park/park-film-study-13-muse-face-cleanup.png",
+    "assets/brand/banner-park/park-film-study-11-flat-grok-eyes.png",
+    "assets/brand/banner-park/park-film-study-07-clawd-plush.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-width-1280.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-width-880.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-width-420.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-hero-native.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-workshop-native.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-tree-play-native.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-companions-native.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-companions-5x.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-grip-native.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-grip-5x.png"
+  ],
+  "evidenceMethod": "Freshly viewed exact complete13,11 and07 with view_image at original detail, then all ten listed current13 scale/native/5x images. Exact13 SHA256 independently verified. Prior actual V5 and 11/07 native-reference inspections are reused; no newly viewed companion source-reference or live application is claimed.",
+  "readiness": "ready_for_owner_review",
+  "readinessMeaning": "Ready from this reviewer's bounded whole-still reading/craft lens. No remaining must-fix defect found. This individual finding is not a substitute for the scheduled paired/all18 decision or owner preference, and is not publication authorization.",
+  "score": {
+    "value": 9.0,
+    "previous": 8.4,
+    "scope": "Whole still-image craft within the interaction lens: ease of scanning, focal hierarchy, scene comprehension and surface clarity at native and supplied local banner scales. Not a keyboard, accessibility-conformance, motion, audience or device score.",
+    "confidence": "high for inspected material/contact and scale comparisons; moderate for inferred reading comfort and story interpretation",
+    "changeReason": "The two concrete deductions behind my11 revise verdict are visibly addressed in actual13: the broad material breakup is substantially reduced while different materials retain character, and the raised mallet now has a solid readable hand connection. The established foreground hierarchy survives. The increase follows these inspected changes and the previously stated criteria, not the desired9 target or approval of the plan.",
+    "deductions": [
+      {
+        "id": "IXA13-NATIVE-TEXTURE",
+        "severity": "minor optional finish preference",
+        "location": "Hero antenna paddles, upper cream face and large pale wing at native size.",
+        "finding": "A faint looping/embossed texture remains more apparent here than on the quieter central moth. It is considerably subtler than11's angular breakup and does not obscure the broad soft forms or spread indiscriminately across wood, cloth and metal. I would still prefer a slightly quieter treatment for especially large presentation, but it is not a remaining W1 blocker or a reason for another required edit."
+      }
+    ],
+    "criteriaForNine": [
+      "Met within this lens: native and1280 views show cleaner, materially distinct soft character surfaces, wood boards, fabric weave and constructed contours, without blanket blur.",
+      "Met: the workshop mitten encloses a continuous handle and visibly connects to the moth at native and5x inspection.",
+      "Met: the clearer finish preserves the exclusive foreground coder, three activity groupings, four supporting guests, warm depth and strong hero reading at1280/880/420. Fine optional detail is not required to survive420."
+    ]
+  },
+  "correctionAssessment": {
+    "W1": {
+      "status": "fixed",
+      "evidence": "Fresh complete13 versus11/07; current native hero/workshop/tree and1280 images.",
+      "assessment": "13 restores clear bench boards/grain, smooth metal/glass/laptop edges, intentional blanket weave, controlled workshop wood and more readable path/foliage. The moth and Clawd read as soft continuous volumes. Unlike11, angular cross-material crackling no longer dominates the native face/bench or large whole-frame view. Texture remains; materials have not been flattened into a uniform plastic finish."
+    },
+    "W2": {
+      "status": "fixed",
+      "evidence": "Current native workshop, native grip and final integrated5x grip crops.",
+      "assessment": "One rounded hand wraps the mallet shaft, with a short continuous wrist/arm from the moth. The black hollow/strap-like interpretation in11 is gone. The raised pose still reads as anticipation; impact contact with the box is neither shown nor required."
+    },
+    "MuseCleanup": {
+      "status": "visibly clean in final export",
+      "evidence": "Current native and5x companion crops.",
+      "assessment": "Muse shows two small dark eyes and one simple smile; no separate dark curve below it is visible. Grok retains two flat pale pupil-free ovals. This judges the integrated pixels only; the supplied54-pixel edit/provenance claim was not independently recomputed."
+    }
+  },
+  "preservation": [
+    "The original moth remains the dominant foreground grouping: large cream face, dark glasses, compact body, marked wings, unequal antennae, tiny hands/feet and silver laptop on an exclusive bench.",
+    "The three appearances keep their laptop-work, making and resting groupings. Clawd and Dot remain on two workshop stools; Muse and Grok remain near the left leaf scene. No new cast, foreground guest or added text appears.",
+    "Canopy framing, curved path, softer pond/bridge distance and directional warm light still join the whole world. The brighter face/laptop grouping leads without requiring every background detail to be decoded.",
+    "At420 the foreground laptop activity stays legible; small guest identity and leaf/grip specifics compress into secondary detail. At880/1280 the supporting activities become easier to inspect. This is a useful hierarchy rather than a requirement to zoom.",
+    "The hero hand-to-keyboard, seated body/feet, workshop/stool supports and leaf grouping show no new visible contact failure in the inspected whole image and crops.",
+    "Warmth and fine garden detail remain after cleanup; the frame does not look like a softened character pasted into an unrelated scene."
+  ],
+  "baselineComparison": "13 is substantially quieter and more coherent than11 across the full frame, particularly bench wood, tabletop/toolbox, path edges and hero contours. It reaches the cleaner material separation that made07 a useful control while retaining the intended later flat Grok eyes, dark Muse eyes and current story grouping. The13 mallet grip is more explicit than the problematic11 join. This is a comparison of viewed artwork, not a claim that the renderer or scene geometry is identical.",
+  "newRegressions": [],
+  "mustFix": [],
+  "optional": [
+    "The faint decorative texture on the hero paddles/upper face/wing could be quieter in a future deliberately larger presentation. Do not reopen the whole frame or apply uniform smoothing merely to pursue this small preference.",
+    "Keep the friendly outward gaze and occasional bright garden flecks unless a separate art decision calls for change. Prior gaze/acting preferences remain optional, not new prerequisites.",
+    "Keep background identity and play details optional at narrow scales; do not enlarge guests or add labels/interactions to force recognition."
+  ],
+  "skillsReviewed": [
+    {
+      "skill": "/Users/nag/.agents/skills/emil-design-eng/SKILL.md",
+      "intake": "Previously read in full; reused.",
+      "application": "Judge the whole visual hierarchy and concrete detail before treating a local correction as complete."
+    },
+    {
+      "skill": "/Users/nag/.agents/skills/mobile-native/SKILL.md",
+      "intake": "Previously read in full; selectively reused.",
+      "application": "Preserve the evidence boundary between scaled images and an actual mobile/device application."
+    },
+    {
+      "skill": "/Users/nag/.agents/skills/taste-skill/SKILL.md",
+      "intake": "Previously read full main instructions; selectively reused.",
+      "application": "Require a coherent material/visual system and restraint, without imposing commercial-page recipes on a still."
+    },
+    {
+      "skill": "17-skill Emil catalog and brand/workflow.json",
+      "intake": "Actual prior catalog/routing intake reused; no new full skill reads or all-17 full-read claim."
+    }
+  ],
+  "workflowChanges": [
+    "Inspect fresh complete13 beside11/07 before reviewing the corrected pixels; score the actual resulting world rather than the implementation promise.",
+    "Check native and magnified final-export companions/grip as well as whole-frame scales, so a successful isolated patch cannot hide an integrated regression.",
+    "Close the named previous defects when evidence supports closure. Do not create new mandatory redesign work from formerly optional taste preferences or a numeric target."
+  ],
+  "rulesNotApplicableWithReason": [
+    "Keyboard/focus, hover, pause, reduced-motion and compositor rules do not create defects in a static PNG with no authored controls or animation.",
+    "Commercial site typography/section recipes and data-stress UI toggles are outside this fixed-image review.",
+    "Image scales and AI visual inspection do not establish native GitHub layout, physical-phone handling or audience outcomes."
+  ],
+  "limits": [
+    "No browser, live GitHub placement, physical-device, calibrated-display or screen-reader validation was performed.",
+    "No actual animation, audio, frame cadence, future website behavior or night rendering is judged.",
+    "No unprimed human attention order, same-person attribution, parent/kids interpretation, recognition, recall, affection or repeat-visit comfort is established. These remain interpretations or unmeasured outcomes.",
+    "Prior V5/reference familiarity is reused; this review does not newly certify exact third-party companion likeness.",
+    "Ready for owner review is a scoped still-image craft judgment on this exact hash, not a claim of studio-equivalent production or permission to publish."
+  ],
+  "findingsTableMarkdown": "| Before11 | Actual13 | Why |\n| --- | --- | --- |\n| Angular breakup spread across unrelated materials. | Wood, cloth, soft character surfaces and constructed contours read distinctly. | The whole scene becomes calmer and more coherent without losing detail. |\n| Workshop grip resembled a dark strap. | Rounded attached hand encloses a continuous mallet handle. | The making action now has clear contact. |\n| Fine background actions compress at narrow size. | Strong foreground hierarchy remains; details stay optional. | No forced enlargement or interaction is needed to understand the scene. |",
+  "independence": "Saved before reading any peer13 findings or sending substantive findings to peers. Root schedules later paired challenge; no peer wait or self-scheduled review round."
+}

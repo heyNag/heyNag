@@ -1,0 +1,253 @@
+{
+  "reviewer": "interaction-b",
+  "discipline": "Interaction and accessibility",
+  "lens": "Discoverability, comfort and repeat visits",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "independent": true,
+  "scope": "Implemented local character studio and curiosity study: selection, playback, still inspection, reading comfort and return-use prospects. V4 source is the scored scope. This is not a deployed-portfolio approval or a claim about audience response.",
+  "sourceVersion": {
+    "manifest": "review-source-v4.json",
+    "sha256": "4b70d40e6c6fed47936377ff71d915379cbe84bc2a23020ac2ab2fb9696b2caa",
+    "verification": "All listed source hashes matched on independent filesystem check. Initially reviewed V3, then inspected the narrow per-performance accessible-description update and its browser record before saving this independent review."
+  },
+  "evidenceActuallyInspected": {
+    "governance": [
+      "AGENTS.md",
+      "brand/team.json",
+      "reviewer-instructions.txt",
+      "brief.json",
+      "owner-preference.json",
+      "installed-skills.json",
+      "review-source-v3.json",
+      "review-source-v4.json",
+      "brand/reviews/2026-11-07-expanded-panel/independent/interaction-b.json (own prior history)"
+    ],
+    "source": [
+      "brand/animation-v5/index.html",
+      "brand/animation-v5/studio.css",
+      "brand/animation-v5/studio.js",
+      "brand/animation-v5/signature.html",
+      "brand/animation-v5/signature.css",
+      "brand/animation-v5/signature.js (V3 and V4)"
+    ],
+    "actualImagesViewed": [
+      "evidence/studio-1440.png",
+      "evidence/studio-390.png",
+      "evidence/studio-390-single.png",
+      "evidence/studio-320.png",
+      "evidence/signature-final-1440.png",
+      "evidence/signature-final-390.png",
+      "evidence/signature-final-390-stage.png",
+      "evidence/signature-final-390-night.png",
+      "evidence/signature-final-320.png",
+      "evidence/native-select-open.png",
+      "evidence/decoded-day-5.png",
+      "evidence/decoded-night-5.png"
+    ],
+    "recordedBrowserAndExportData": [
+      "evidence/final-ui.json",
+      "evidence/interaction.json",
+      "evidence/keyboard-after.json",
+      "evidence/layout-and-collection.json",
+      "evidence/description-and-reduced-motion.json",
+      "evidence/comparison-export.json",
+      "evidence/full-reel-export.json",
+      "evidence/desktop-performance.json"
+    ],
+    "notDone": "No browser operation, physical-phone test, screen-reader speech capture, newcomer observation, delayed revisit study or continuous normal-speed film viewing. The decoded sheets are sampled motion evidence; 30fps export metadata does not establish live smoothness."
+  },
+  "score": {
+    "value": 8.5,
+    "outOf": 10,
+    "meaning": "Strong, considered local-study interaction with clear invitation and sensible comfort defaults. The number includes assurance withheld for unobserved discovery/return journeys, mobile hardware and spoken output; those gaps are not asserted product failures. It does not rate the future website or prove recognition, attachment, motion comfort or compliance."
+  },
+  "strengths": [
+    "The prior page-wide reading-key interception is gone. Native controls own keyboard interaction, the heading focus handoff remains deliberate, and the recorded external ArrowRight/Space events were not prevented. This removes a concrete reading-comfort defect without adding shortcut chrome.",
+    "Motion begins from a still pose, remains finite and optional, and offers Play, Pause/Resume, Rest and direct timeline inspection. Source cancels collection playback when hidden or offscreen, including the between-clip timer. These defaults respect repeated visits better than ambient looping or autoplay.",
+    "The mobile hint explicitly teaches Light/Dark enlargement. Actual 390px screenshots show a larger single character when Light is chosen, while the 320px view keeps selection and transport inside the page width. The tiny proportions survive; the interface changes display space rather than anatomy.",
+    "The portrait signature stage gives the real question an understandable position above the character. Its 390px stage captures show readable project copy, a visible presenting mitten, adjacent playback controls and a restrained static resting state in both themes.",
+    "UI feedback is small and bounded: pointer hover is capability-gated; buttons use 100/140ms transform feedback; focused keyboard controls suppress transforms; coarse-pointer selects use 16px type; document content remains selectable and pinch zoom is not disabled.",
+    "Reduced-motion handling changes the action labels to Show feeling/Show the thought, presents still poses, disables collection playback and preserves timeline inspection. Status updates change by state rather than every animation frame. V4 additionally matches the signature image description to each selected performance."
+  ],
+  "deductions": [
+    {
+      "id": "mobile-discovery",
+      "severity": "minor",
+      "kind": "observed layout tradeoff with untested usability consequence",
+      "confidence": "high for layout, medium for inferred discoverability cost",
+      "basis": "signature-final-390.png and signature-final-320.png show the performance selector and question in the first viewport while the character and Play action are further down. signature.js deliberately selects a still pose on version change.",
+      "deduction": "A first-time phone visitor can choose a performance before seeing the stage or its playback action. The arrangement reads comfortably once scrolled, but discovery of the requested action is less immediate than the desktop layout. This is acceptable for a local study, not evidence that newcomers actually fail.",
+      "improvement": "Observe a phone user asked to compare the three performances. If scrolling or playback discovery requires coaching, move or repeat a small Play/view-performance affordance without compressing the anatomy or restoring the narrow side-by-side scene."
+    },
+    {
+      "id": "mobile-comparison-default",
+      "severity": "minor",
+      "kind": "design tradeoff",
+      "confidence": "high for visible scale, medium for usability implication",
+      "basis": "studio-320.png and studio-390.png default to Both; studio-390-single.png demonstrates the larger view.",
+      "deduction": "Both lighting previews still make small gestures subordinate to theme comparison at narrow widths. The enlargement hint substantially improves discovery, so this is a remaining comparison-versus-expression tradeoff, not an overflow defect or a demand to enlarge hands and feet.",
+      "improvement": "Compare first-visit performance recognition and the enlarge action with Both versus a single-theme starting view. Keep the current default unless observation supports changing it."
+    },
+    {
+      "id": "assurance-gap",
+      "severity": "validation limit",
+      "kind": "confidence withheld, not a confirmed defect",
+      "confidence": "high",
+      "basis": "interaction.json marks native menu keyboard commit inconclusive and screen-reader spoken output absent; final-ui.json is emulation; desktop-performance.json records unexplained roughly one-second rAF gaps.",
+      "deduction": "The available evidence does not earn a stronger claim about comfortable live playback, real touch use, native menu navigation or spoken state ordering. No unprimed or return-visit task has been observed. These limits keep this below a nine-level interaction recommendation.",
+      "improvement": "Complete the focused hardware, assistive-technology and newcomer/revisit checks below; diagnose the desktop timing gaps before making a smoothness claim."
+    }
+  ],
+  "improvementCriteria": [
+    "On a physical phone, a newcomer chooses a quiet feeling, discovers the larger view, plays, pauses, seeks, rests and returns to a previously chosen feeling without coaching. Include a repeat attempt after a delay; record hesitation and assistance rather than inventing success.",
+    "Exercise real native dropdown keyboard commit, focus continuation, 200% text/zoom reflow and the longest supplied labels. Preserve ordinary page scrolling and immediate focused-control feedback.",
+    "Capture screen-reader spoken output for selection, gallery-to-player focus, pause/resume, seek and reduced-motion changes. Native AX labels alone do not establish announcement order or comfort.",
+    "Observe continuous live motion on the supported desktop/phone targets and investigate the recorded frame gaps. Do not substitute export cadence for runtime evidence.",
+    "Keep finite opt-in performances, the static baseline, readable project context, same theme geometry and tiny anatomy. A higher interaction score does not require more motion or persistence features."
+  ],
+  "confidence": {
+    "overall": "moderate-high for the local-study recommendation; moderate for real visitor comfort",
+    "sourceAndStaticLayout": "high",
+    "recordedOperability": "moderate-high within the explicitly recorded cases",
+    "humanAndPhysicalDeviceOutcomes": "not established"
+  },
+  "implementedAssessment": {
+    "recommendation": "Accept the implemented local study with the named validation limits. No high-impact interaction defect found in the inspected V4 controls and layout.",
+    "oldConcernResolved": "The prior broad reading-key playback scope has been removed; recorded non-prevented keys corroborate the source change.",
+    "ownerChoice": "Investigate & share is the selected personal-fit lead. I accept its presentation as the owner-selected study, without treating that preference as unfamiliar-visitor research.",
+    "beforeAfterTable": "| Before | After | Why |\n| Page-wide Space/arrow playback shortcuts | Native controls own their keyboard behavior | Ordinary reading keys no longer change a distant player. |\n| Narrow phone comparison with no enlargement explanation | Visible Light/Dark enlargement hint and larger single-stage view | The display-space option is discoverable without changing the character. |\n| Signature image label fixed to the first performance | V4 supplies a description for each selected performance | Selection no longer leaves a misleading accessible image description. |\n| Phone signature scene squeezes question and character side by side | Portrait scene places question above the character | The subject and presenting mitten receive readable space. |",
+    "motionReviewVerdict": "Approve the inspected UI-motion boundary for this local study. Deliberately requested character performances are content, not slow interface transitions. Runtime smoothness remains unverified."
+  },
+  "objections": [
+    {
+      "id": "review-link",
+      "severity": "low",
+      "status": "resolved during pair review",
+      "substantiveBlocker": false,
+      "basis": "signature.html:12 points to ../reviews/2026-11-07-implementation/index.html, which was absent during independent inspection. Root reports that the index is being assembled.",
+      "resolutionRequired": "Ensure the link resolves in the finished local review package; do not present the current absence as a completed navigation check.",
+      "resolution": "The exact index.html target exists; root reports local links verified. Original absence is retained as assembly history only."
+    }
+  ],
+  "limits": [
+    "This is an independent AI specialist judgment, not audience research. No partner new review or score was read before this file was saved.",
+    "Root supplied browser recordings; I inspected those records and actual PNGs but did not independently operate the browser.",
+    "The native-select-open image itself shows the focused control, not the OS popup; the separate AX record supports menu opening, while keyboard commit remains explicitly inconclusive.",
+    "No continuous normal-speed motion was watched. Selected decoded sheets support pose progression only.",
+    "Phone viewport screenshots do not establish physical-device tap feel, scrolling chrome, landscape behavior or pinch-zoom behavior.",
+    "Repeated-use comfort, newcomer comprehension and preference persistence needs have not been tested. Resetting the local study on reload is not treated as a defect without such a requirement."
+  ],
+  "skillsReviewed": {
+    "all17SummariesInspected": [
+      "emil-design-eng",
+      "animate",
+      "animate-expo",
+      "review-animations",
+      "improve-animations",
+      "find-animation-opportunities",
+      "remove-animations",
+      "choreograph",
+      "animation-performance",
+      "animation-vocabulary",
+      "apple-design",
+      "write-swift",
+      "pick-ui-library",
+      "prototype",
+      "mobile-native",
+      "break-ui",
+      "ask-sonner"
+    ],
+    "fullSkillMdRead": [
+      "emil-design-eng",
+      "review-animations",
+      "mobile-native",
+      "remove-animations",
+      "break-ui"
+    ],
+    "source": "Installed paths in installed-skills.json, under /Users/nag/.config/skillshare/skills; actual SKILL.md files read for the five relevant workflows.",
+    "selectionRationale": "Design-engineering covers defaults and control polish; motion review separates UI latency from performance content; mobile-native defines capability and hardware checks; remove-animations introduces a repeat-frequency gate; break-ui supplies realistic width/content/zoom adversarial testing for future implementation."
+  },
+  "workflowChanges": [
+    {
+      "skill": "emil-design-eng",
+      "adoption": "For each interaction review, write a compact Before/After/Why table, assess good defaults before optional controls, and inspect press/focus/state feedback against repeated use. Require source plus an actual visual state."
+    },
+    {
+      "skill": "review-animations",
+      "adoption": "Separate interface transitions from deliberate character performances; review purpose, frequency, interruptibility, focus behavior and reduced-motion outcomes. Record a scoped verdict with runtime/perception limits."
+    },
+    {
+      "skill": "mobile-native",
+      "adoption": "Use capability queries, native controls, 16px coarse-pointer input text and preserved zoom as implementation checks. Add a physical-phone pass as a distinct evidence tier before calling mobile behavior finished."
+    },
+    {
+      "skill": "remove-animations",
+      "adoption": "Create a surface frequency map during future website work. Remove unmotivated repeated interface motion before adding polish; explicitly preserve motion whose content purpose is the reason for the visit."
+    },
+    {
+      "skill": "break-ui",
+      "adoption": "In future mutable UI tasks, use plausible longest labels, missing/empty content where the actual data permits it, 320px and 200% text/zoom views through a dev-only fixture boundary. Keep source-inferred risks separate from screenshot-proven breaks."
+    },
+    {
+      "skill": "pair process",
+      "adoption": "Pair discussion should retain separate scores and combine keyboard/AT review with discovery/revisit tasks. Skills guide practical checks; they do not create human evidence or an extra permission gate."
+    }
+  ],
+  "rulesNotApplicableWithReason": [
+    {
+      "rule": "Universal sub-300ms and never-animate-keyboard-action rules",
+      "reason": "Apply them to interface chrome and focus/navigation feedback. A person deliberately using keyboard Play or selecting a performance may request animated character content. Compressing that performance to UI timing or stripping it from keyboard users would defeat the task; preserve reduced-motion alternatives."
+    },
+    {
+      "rule": "GPU-only transforms and opacity as a universal artwork rule",
+      "reason": "The rig uses expressive SVG geometry and the user requires tiny anatomy. Do not delete face, hands, wing articulation or their geometry for a blanket compositing rule. Profile before optimizing; the current runtime timing evidence is limited."
+    },
+    {
+      "rule": "Reduced motion must retain some animation",
+      "reason": "Static stills and scrubbing are meaningful content alternatives here; adding a fade solely to satisfy a general skill sentence is unnecessary."
+    },
+    {
+      "rule": "Mobile app-shell overscroll suppression, safe-area chrome and viewport-height baseline everywhere",
+      "reason": "This is a naturally scrolling local document with no fixed app shell. Preserve native document scrolling and zoom. Apply safe-area or viewport units only when a future fixed/edge-to-edge surface needs them."
+    },
+    {
+      "rule": "break-ui fixture/toggle implementation and remove-animations edits in this turn",
+      "reason": "This assignment freezes source and requests an independent review. Adopt their methods for future engineering work; do not mutate the current reviewed implementation or claim stress cases that were not executed."
+    },
+    {
+      "rule": "animate, choreograph, improve-animations, find-animation-opportunities and animation-performance full execution",
+      "reason": "Those are implementation, choreography, broad audit, opportunity or profiling workflows. Their summaries informed routing; the current lens is control discovery and comfort, and other standing specialists cover acting and rendering. No broad motion rewrite is authorized by this reviewer role."
+    },
+    {
+      "rule": "animate-expo and write-swift",
+      "reason": "The inspected surface is plain web HTML/CSS/JavaScript; no Expo or Swift implementation is present."
+    },
+    {
+      "rule": "apple-design full gesture/spring workflow",
+      "reason": "There are no custom swipe, drag, sheet or physical spring controls to assess; the relevant reduced-motion and control-restraint requirements are covered directly by the full skills read."
+    },
+    {
+      "rule": "animation-vocabulary",
+      "reason": "No unnamed effect needs terminology lookup in this review."
+    },
+    {
+      "rule": "pick-ui-library and prototype",
+      "reason": "No library choice or multi-variant component prototype was requested; both are explicit-invocation tools and the source is frozen."
+    },
+    {
+      "rule": "ask-sonner",
+      "reason": "No toast system or Sonner integration exists in the inspected local study."
+    }
+  ],
+  "addenda": [
+    {
+      "phase": "pair-vote",
+      "sourceVersion": "v4",
+      "scoreUnchanged": 8.5,
+      "resolved": "Review index link now exists; no remaining substantive objection.",
+      "updatedCadence": "Focused active-only desktop sample: 119 intervals, mean 34.45ms, p95 35ms, max 67ms, four above 50ms. Do not attribute earlier mixed-idle one-second gaps to SVG. Live phone and subjective smoothness remain unverified.",
+      "partnerReadAfterIndependentSaved": true
+    }
+  ]
+}

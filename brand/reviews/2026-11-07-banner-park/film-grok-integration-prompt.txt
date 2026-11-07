@@ -1,0 +1,7 @@
+Use case: compositing / precise-object-edit.
+IMAGE 1 is the full 3:1 park banner EDIT TARGET. Return the full banner.
+IMAGE 2 is the CORRECTED CLOSE-UP of the little companions beneath the tree. It is an eye-paint reference only.
+
+Transfer ONLY the corrected two flat cream-white eyes from Grok in Image 2 onto the SAME charcoal spherical Grok in Image 1. Grok is the small charcoal ball at the lower left beside the cream hooded baby Muse and a golden leaf. Keep its existing exact scale, placement and silhouette in the full scene. Both oval interiors must be smooth, flat, UNIFORM warm white as in Image 2. No pupil, black/brown/gray dot, central speck, peach patch, dimple, texture, highlight or interior shading. Copy the flat filled oval treatment; do not reinterpret them as eyeballs. Retain the two existing oval footprints and their tilt; only their interior paint changes.
+
+Do not transplant the rest of the close-up or change Muse, the leaf, body poses, light or background. Do not add any new material detail in the two white shapes. Preserve everything else in Image 1: cream/green original tiny moths, foreground moth with glasses coding at Apple MacBook, workshop and two stools with plush Clawd and blue Dot, resting moth, park, trees, grass, textures and warm sunlight. No framing or overall style changes, no text. Full 3:1 banner only. The requested difference is two tiny uniform white filled ovals, exactly consistent with the corrected close-up.

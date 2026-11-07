@@ -1,0 +1,18 @@
+{
+  "reviewer": "sound-A",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "position": "agree_with_limits",
+  "scope": "Independent art-direction TEST position; not artwork acceptance.",
+  "evidence": [
+    "animated-film-proposal.json",
+    "assets/brand/banner-park/park-film-study-01-moth-only.png",
+    "assets/brand/banner-park/park-film-study-02-two-guests.png",
+    "Supplied Clawd pixel, OpenAI Dots, Muse lineup and Grok Bot references, directly inspected with view_image."
+  ],
+  "finding": "The dimensional park preserves a readable silent hierarchy: coding moth leads; crafting and resting moths supply secondary activities. In the two-guest image, Clawd and blue Dot remain small behind the root scene and leave the bench exclusive to Nag. The unified light/material direction supports testing further integration.",
+  "guardrail": "Keep the laptop task as the strongest action. Guest play must stay deeper, smaller and lower-contrast, without extra foreground props, attention marks or implied dialogue. Preserve simple graphic faces and recognizable silhouettes while matching soft lighting and ground contact; do not turn the rear group into a row of glossy badges.",
+  "failureCriterion": "Reject a candidate if the four guests create a competing activity center that obscures the resting/crafting distinction, or any guest enters the bench/foreground zone. Compare actual banner-scale renders against the uncluttered base.",
+  "skills": "Reused full choreograph, remove-animations, review-animations, emil-design-eng and design-taste-frontend: lead/support hierarchy, purposeful restraint and cohesive materials. No new full reading.",
+  "limits": "No four-guest artwork inspected or approved. No motion, listening, audience or phone-size claim. Current GitHub banner remains static and silent; no soundtrack is needed. Night treatment remains untested."
+}

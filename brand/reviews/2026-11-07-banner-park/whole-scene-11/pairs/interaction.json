@@ -1,0 +1,30 @@
+{
+  "discipline": "interaction",
+  "reviewedAssetSha256": "87943e3c1452d40b1ac535ea5bbcefa6e7676cee77165eef2d77ce5c67a32569",
+  "scope": "Whole-scene 11 still-image hierarchy, reading comfort and visible craft; paired correction recommendation, not unseen-art approval.",
+  "jointRecommendation": "Revise the material finish and workshop grip locally, preserving scene composition, foreground exclusivity, cast, tiny anatomy, warm light and corrected eyes. Compare native/1280 finish and retain the 880/420 hierarchy. No full-scene finished claim or unseen-correction approval.",
+  "positions": [
+    {
+      "reviewer": "interaction-a",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/interaction-a.json",
+      "initialVerdict": "revise",
+      "score": 8.4,
+      "confirmation": "Explicitly accepted B's exact proposed joint after reading B's saved record; reciprocal message sent. Requires material cleanup and clearer workshop grip; retains all named bounds."
+    },
+    {
+      "reviewer": "interaction-b",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/interaction-b.json",
+      "initialVerdict": "revise",
+      "score": 8.4,
+      "confirmation": "B's saved pairDiscussion explicitly proposes this recommendation and accepts A's workshop-grip finding. B's direct message confirms the same two fixes and limits. This records B's actual stated position, not a proxy vote on the cross-disciplinary plan."
+    }
+  ],
+  "differencesResolved": [
+    "A initially classified the workshop grip as must-fix; B initially made material finish its only must-fix, then explicitly accepted the native-evidence grip correction.",
+    "B's coding gaze concern stays optional. A does not require it, and neither reviewer makes it a condition for the shared correction.",
+    "Both reject blanket blur, uniform smoothing, enlarged guests and mandatory identification of every tiny cameo. Maintain rich scenery and hero-first hierarchy."
+  ],
+  "verification": "Compare updated native hero/workshop/tree regions and full1280 frame against 11 with 07 as quality control; retain 880/420 hierarchy and inspect corrected integrated eyes/grip at magnification. These image scales are not actual GitHub or physical-device evidence.",
+  "remainingSubstantiveObjections": [],
+  "status": "Both members explicitly support this pair recommendation; current scores remain 8.4/8.4. Individual cross-disciplinary plan votes are separate files."
+}

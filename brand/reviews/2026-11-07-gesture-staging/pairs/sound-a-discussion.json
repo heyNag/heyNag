@@ -1,0 +1,104 @@
+{
+  "reviewer": "sound-A",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "partnerRecordRead": "independent/sound-b.json",
+  "partnerDiscussionRead": "pairs/sound-b-discussion.json",
+  "directPartnerMessageRead": true,
+  "independentSavedBeforePartnerRead": true,
+  "proposalFile": "team-proposal-v1.json",
+  "proposalSha256": "db064ee23559e695e350ddc47e86c77380776554e6bb3a5a43eeadd8b18bd5f3",
+  "sourceManifestSha256": "d5abc24f90f9539bfddb0223da42392fb31c9321ab7c962aa98c893ff3789e0e",
+  "sourceHashesVerified": [
+    "brand/animation-v5/character.js",
+    "brand/animation-v5/motion.js",
+    "brand/animation-v5/staging.js",
+    "brand/animation-v5/signature.js",
+    "brand/animation-v5/signature.css",
+    "brand/animation-v5/studio.js"
+  ],
+  "meaningfulChallenges": [
+    {
+      "topic": "Early quiet gaze: craft deduction versus semantic uncertainty",
+      "response": "B correctly challenges the inference that a subtle cue necessarily needs amplification. My G2 deduction is a limited specialist preference about the first signal\u2019s strength in the inspected stills. It is not a remaining wrong-axis defect, a measured comprehension failure, or a mandate to make the gaze conspicuous. The eyes-before-head order is purposeful and should remain. Keep the existing hierarchy unless a matched rendered comparison establishes a gain without competing with consideration and the offer. I retain the deduction and 9.1 as independent craft judgment, while keeping semantic understanding unscored."
+    },
+    {
+      "topic": "Retiring the previous phone objection",
+      "response": "Agree with B that source plus actual 390 day/night reading/return samples, with 320/1440 context, close the specific old direction mismatch. This is stronger than the previous layout-only size improvement. It does not establish every-device behavior or how unfamiliar viewers interpret the scene."
+    },
+    {
+      "topic": "Tiny offering endpoint and Grateful/Shy proximity",
+      "response": "I agree the current offer is clearer at scene size and that the isolated startup/reduced-motion still cannot borrow preceding movement. B\u2019s Grateful/Shy proximity is visible in the small-size sheets I inspected: both are pale hand lobes below a ruff, and contact/asymmetry needs more space to read. I accept this as a valid additional nuance of the small-size vocabulary, not measured audience confusion. It does not supply new evidence requiring an additive deduction or a numerical change in my existing assessment. Preserve B\u2019s separate weighting and score."
+    },
+    {
+      "topic": "Source continuity versus perceived rhythm",
+      "response": "I accept B\u2019s reading of the proposal\u2019s smooth active retargeting as implementation continuity, bounded by the explicit continuous-perception limit. Source and frames establish return at 2350 ms and offer by 2720 ms; tests/replay records establish bounded numerical behavior. They do not establish that the wrist turn feels like one offer rather than a flick, and no rhythm score is supplied."
+    },
+    {
+      "topic": "Silence and optional sonic identity",
+      "response": "The character remains complete as a silent study. The recommendation that the sequence must communicate without audio is a design criterion and a bounded specialist judgment, not claimed unfamiliar-viewer comprehension. No sound or mute control is required now. Future sound needs a separate reversible choice and actual listening evidence; the current silent Play button does not grant that consent."
+    }
+  ],
+  "evidenceBasedResolution": "Accept unchanged gesture/staging v1 as the implemented local foundation with the former phone direction defect closed in inspected compositions and the minor size/cue-strength differences retained. Keep both scores and all unsupported outcomes separate. No extra cue, anatomy change or audio is required to accept this scope.",
+  "remainingDisagreements": [
+    {
+      "topic": "Early cue strength",
+      "position": "A keeps a minor quiet-cue craft deduction; B gives greater weight to restraint and does not treat subtlety itself as a deduction. Both oppose automatic exaggeration and agree no semantic failure has been demonstrated."
+    },
+    {
+      "topic": "Small hand-family vocabulary",
+      "position": "B separately deducts Grateful/Shy proximity. A accepts the observation within the already bounded small-size semantic limits without applying a new additive penalty."
+    },
+    {
+      "topic": "Scores",
+      "position": "A remains 9.1, B remains 9.0. No averaging or convergence is required for the shared bounded recommendation."
+    }
+  ],
+  "acceptedJointRecommendation": "Keep the character silent and visually self-contained. The corrected attention and offering sequence must communicate without audio; any future sound remains optional and subordinate.",
+  "jointRecommendationConfirmedByThisReviewer": true,
+  "practicalSkillsWorkflowAgreement": [
+    "Use an explicit silent cause map before sound: visible question, antenna/eyes lead, delayed head support, consideration, visitor return, then one small offer. Mark text, background and controls as static unless functional feedback requires change.",
+    "Keep purposeful finite character action and indefinite settled rest. Use remove-animations frequency/purpose reasoning to reject extra waves, idle loops, pulses or audio added only to showcase a refinement.",
+    "Review the initial/reduced-motion endpoint alongside the full sampled sequence; retain actual-size ladders so a strong 240 px silhouette is not promoted into a 96 px semantic claim.",
+    "Use matched before/current actual DOM phone phases for responsive causality. Simplified film composition may support pose comparison but must not replace real layout evidence.",
+    "Check displayed pose corrections and raw engine state separately for replay/resize; exercise paused/reduced-motion states and collection-wait cancellation. Keep numeric continuity separate from felt motion.",
+    "If optional sound is commissioned, create separate reversible opt-in, keep cues subordinate to visual cause, and obtain real listening/retrigger/repeat-listening evidence before audio judgments."
+  ],
+  "exceptions": [
+    "Keyboard Play intentionally requests character content; preserve access instead of applying a blanket no-keyboard-animation rule.",
+    "Narrative acting retains multi-second timing; sub-300 ms UI budgets apply to feedback, not the whole character scene.",
+    "Expressive SVG anatomy and equal numeric theme poses remain; do not replace them solely to satisfy a GPU-only heuristic.",
+    "Reduced-motion stills and silent indefinite rest are valid complete presentations; no opacity effect, idle loop or soundtrack is required.",
+    "Read-only JSON review does not execute source edits, remove dependencies or replace the required review format.",
+    "Actual full skill intake is three reused Emil skills: choreograph, remove-animations, review-animations. All 17 catalog summaries were previously read; no new full design-taste, Swift, Expo or Sonner reading is claimed."
+  ],
+  "skillsMessageAcknowledged": true,
+  "skillIntakeReference": "independent/sound-a.json and prior implementation intake: 17 summaries plus full choreograph/remove-animations/review-animations reused, no unnecessary rereading.",
+  "personalScore": 9.1,
+  "scoreHistory": [
+    {
+      "stage": "Implementation final v4",
+      "value": 8.6
+    },
+    {
+      "stage": "Gesture-staging independent v1",
+      "value": 9.1,
+      "reason": "Rendered before/current phone attention and hand samples plus current source support a real correction to the prior spatial mismatch and clearer offer contour. Remaining ambiguity is retained, and unsupported outcomes remain null."
+    },
+    {
+      "stage": "Gesture-staging v1 reciprocal pair vote",
+      "value": 9.1,
+      "reason": "Partner challenge refines the meaning of the quiet-cue deduction without contradicting inspected evidence or changing the existing scope."
+    }
+  ],
+  "limits": [
+    "Small 96/128 px offering mittens remain accents; isolated tiny stills do not establish invitation semantics. Grateful/shy hand differences also remain subtle at these sizes.",
+    "The old phone wrong-axis defect is corrected for inspected compositions. The early gaze remains a quiet signal; A retains a minor craft preference about its strength, not a demonstrated semantic failure or a demand to exaggerate it.",
+    "Continuous felt motion, wrist-turn fluency, audio quality, listening comfort and unfamiliar-human outcomes remain unsupported/unscored.",
+    "No physical-phone, GPU workload or spoken assistive-output validation. Browser/test records support bounded implementation facts.",
+    "Simplified phone-film staging is not actual DOM layout evidence. Actual phone PNGs carry the layout judgment.",
+    "Replay envelope remains inside renderer \u00b16 but can exceed nominal engine \u00b15; no strict final \u00b15 claim or subjective replay-smoothness claim.",
+    "Accepting this implemented local foundation does not authorize publication/deployment or certify every specialist at 9/10."
+  ],
+  "substantiveObjectionsToThisBoundedProposal": []
+}

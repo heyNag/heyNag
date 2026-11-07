@@ -1,0 +1,20 @@
+{
+  "discipline": "audience",
+  "state": "Both reviewers explicitly confirmed the same scoped recommendation.",
+  "recommendation": "Keep hypotheses separate from owner preference and expert craft. Audience outcomes remain unscored; authoring labels are not neutral research stimuli.",
+  "discussionRecords": [
+    "pairs/audience-a-discussion.json",
+    "pairs/audience-b-discussion.json"
+  ],
+  "independentReviews": [
+    "independent/audience-a.json",
+    "independent/audience-b.json"
+  ],
+  "explicitConfirmations": [
+    "team-votes/audience-a.json",
+    "team-votes/audience-b.json"
+  ],
+  "proposal": "team-proposal-v2.json",
+  "proposalSha256": "4eef022ccecba73621ca188b29c13cbc41d08b5268ffeaa6e98e2c4c5ea08c5c",
+  "scorePolicy": "Individual scores remain separate; acceptance does not imply a 9/10 rating."
+}

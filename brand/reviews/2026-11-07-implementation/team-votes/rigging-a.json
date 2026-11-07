@@ -1,0 +1,29 @@
+{
+  "reviewer": "Technical character animator and rigger A — articulation and contact",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "proposalFile": "team-proposal-v2.json",
+  "proposalSha256": "4eef022ccecba73621ca188b29c13cbc41d08b5268ffeaa6e98e2c4c5ea08c5c",
+  "sourceManifestSha256": "4b70d40e6c6fed47936377ff71d915379cbe84bc2a23020ac2ab2fb9696b2caa",
+  "decision": "agree_with_named_nonblocking_limits",
+  "acceptedScope": "The immutable v4 implemented LOCAL foundation for continued design and future website work: native V5 rig, 24 emotions plus three studies, owner-selected Investigate & share portrait signature, current supported static exports, deterministic films and the stated control/semantic refinements. This is not publication, deployment, 9/10 certification, human research or continuous-motion/device proof.",
+  "personalScore": {"value": 8.7, "outOf": 10, "unchanged": true},
+  "scoreMeaning": "Strong implemented constrained-rig craft supported by source, recorded meaningful tests and actual sampled articulation/contact. Residual hand/ruff density and incomplete temporal/device verification remain. The score does not certify presented-frame rate, subjective landing weight or audience interpretation.",
+  "namedLimits": [
+    "Mitten/ruff/jaw contact silhouettes remain crowded in several poses, particularly at 96–128px. Larger portrait staging improves visibility without proving invitational meaning.",
+    "The screen-right investigation glance is not literally aligned with the question in the stacked phone layout. Preserve this staging limitation for the next bounded study.",
+    "Active local desktop Thinking callback intervals: 119 samples, mean 34.45ms, p95 35ms, maximum 67ms, four over 50ms. These do not establish a renderer cause, sustained 60fps, perceptual smoothness or physical-device performance. Paused-control one-second gaps prevent treating historical mixed gaps as proven active rig stalls.",
+    "No uninterrupted normal-speed motion observation by this reviewer; sampled contact sheets and deterministic exports do not prove every intermediate pose, every transition or arbitrary future crop.",
+    "Day remains the universal 32px avatar recommendation; the smaller night antenna connection is weaker. Preserve supported-size restrictions.",
+    "Owner preference and expert review are not unprimed human emotion/attribution/recall evidence. Native-menu keyboard commit and spoken AT remain unverified.",
+    "The 320px screenshot verifies upper-layout wrapping, not simultaneous visibility of the entire scene and controls. Future integration must recheck crop, lifecycle and device behavior."
+  ],
+  "substantiveObjections": [],
+  "pairRecommendationConfirmed": true,
+  "acceptedPairRecommendation": "Accept the intact constrained rig and static exports with explicit contact-density and live-cadence limits. Do not attribute mixed idle one-second gaps to SVG without evidence.",
+  "skillsMessageAcknowledged": true,
+  "skillsWorkflowRecord": "pairs/rigging-a-discussion.json",
+  "independentReview": "independent/rigging-a.json",
+  "verification": "Independently verified the proposal hash, source-manifest hash and all 18 current manifest files with zero mismatches; parsed active cadence records and viewed final portrait/320px PNGs.",
+  "individualVoteOnly": "This file records Rigging A's position only. No unanimity or partner vote is inferred."
+}

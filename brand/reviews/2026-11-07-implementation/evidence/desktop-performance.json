@@ -1,0 +1,27 @@
+{
+  "scope": "Local desktop rAF observation, paired real SVG studio.4x CPU throttle is not physical-phone/GPU evidence. Not a perceptual rhythm judgment.",
+  "records": [
+    {
+      "cpuRate": 1,
+      "frames": 124,
+      "duration": 5200.500000011921,
+      "meanMs": 41.733870967741936,
+      "p95Ms": 34.09999999999991,
+      "maxMs": 1008,
+      "gapsOver50": 3,
+      "longTasks": [],
+      "ended": true
+    },
+    {
+      "cpuRate": 4,
+      "frames": 94,
+      "duration": 5152.300000011921,
+      "meanMs": 44.50212765957447,
+      "p95Ms": 34.30000000000018,
+      "maxMs": 1000.1000000000004,
+      "gapsOver50": 3,
+      "longTasks": [],
+      "ended": true
+    }
+  ]
+}

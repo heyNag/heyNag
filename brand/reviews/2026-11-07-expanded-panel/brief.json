@@ -1,0 +1,32 @@
+{
+  "task": "Expand the standing review team from 9 to 18, two per discipline; discuss within pairs, then seek explicit full-team agreement on a concrete quality-improvement plan.",
+  "owner": "Nag / Nagarjuna Boddu; heyNag.com",
+  "personality": [
+    "fun",
+    "talkative",
+    "curious",
+    "geeky",
+    "wry and mischievous"
+  ],
+  "invariants": [
+    "Tiny innocent anatomy preserved",
+    "Geometry and numeric poses shared across themes",
+    "Actual project evidence and first-person authorship",
+    "No automatic requirement for extra detail, continuous wing flutter, sound or scenery",
+    "AI consensus is not human audience evidence"
+  ],
+  "currentBuild": "Refined V5 native SVG character, 24 emotional performances, matching GitHub applications. Original raster masters preserved.",
+  "currentEvidence": "brand/reviews/2026-11-07-refinement/evidence/",
+  "currentSource": [
+    "brand/animation-v5/character.js",
+    "brand/animation-v5/motion.js",
+    "brand/animation-v5/studio.js",
+    "README.md"
+  ],
+  "evaluationScope": "Current character/identity/motion foundation. Website/scenes not yet built; do not treat their planned absence as a defect. Silent baseline intentional.",
+  "independentRule": "B reviewers do not read A\u2019s reviews or scores until independent observation is recorded. A preserves their existing evidence-based judgments.",
+  "decisionScope": "First expanded-team consensus is about priority work and acceptance criteria, not a higher score or final-art approval.",
+  "output": "independent/<role>-b.json then pairs/<role>-proposal.json and explicit A/B confirmations; final consensus proposal and 18 team votes.",
+  "limits": "Human attachment, unaided recognition and delayed recall remain unmeasured. These are 18 AI-agent specialists, not a human audience panel.",
+  "modelRequirement": "All 18 specialists: GPT-6 Astra, ultra reasoning. Quality first."
+}

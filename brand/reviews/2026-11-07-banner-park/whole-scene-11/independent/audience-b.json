@@ -1,0 +1,122 @@
+{
+  "reviewer": "audience-b",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "lens": "Research design and memory hypotheses",
+  "referenceAsset": "assets/brand/banner-park/park-film-study-11-flat-grok-eyes.png",
+  "referenceSha256": "87943e3c1452d40b1ac535ea5bbcefa6e7676cee77165eef2d77ce5c67a32569",
+  "hashVerified": true,
+  "evidenceInspected": [
+    "Full scene11 and full scene07 via view_image; full images displayed at 2048px from 2172px source.",
+    "Original assets/brand/heynag-moth-v5-refined.png.",
+    "whole-scene-11/evidence/scene11-width-1280.png; scene11-width-880.png; scene11-width-420.png.",
+    "Native scene11 hero/tree-play/workshop crops; native scene07 hero/workshop comparison crops.",
+    "muse-review/evidence/11-companion-inspection-enlarged.png (5x).",
+    "Original companion references owner-muse-lineup.jpg, owner-clawd-plush.jpg and nag-grok-bot-reference.webp in .heynag-profile-work/references; blue Dot source reused from prior direct inspection."
+  ],
+  "initialWholeSceneVerdict": "revise",
+  "score": {
+    "value": 8.4,
+    "scope": "Expert still-image craft within audience lens: readable emotion/identity cues, hierarchy and coherent visual storytelling across the entire scene. No score for recognition, recall, affection, motion or a published application.",
+    "confidence": "High for visible relative size, texture and silhouette comparisons; moderate for aesthetic and narrative interpretation; no human-outcome evidence.",
+    "deductions": [
+      {
+        "id": "AB11-material",
+        "severity": "must-fix for finished film-still target",
+        "location": "Foreground cream face/antennae and bench; left trunk; middle workshop/table.",
+        "finding": "11 has conspicuous angular/cellular seams and mottled patches across unrelated materials. Native hero/workshop comparisons show softer differentiated surfaces in 07. At 1280, this gives parts of 11 a crinkled illustrated finish and competes with soft facial planes.",
+        "effect": "Weakens cohesive dimensional film craft and the gentle material cues supporting character appeal. This is expert judgment, not measured emotional loss."
+      },
+      {
+        "id": "AB11-side-story",
+        "severity": "optional",
+        "location": "Rear workshop watchers and lower-left leaf play at 880/420.",
+        "finding": "The coder remains clear, but watcher orientation and the tiny shared-leaf action become much less specific as the image shrinks.",
+        "effect": "Secondary storytelling is available mainly at larger scales; a precise watching/playing or one-moth-through-three-moments interpretation cannot be promised."
+      }
+    ],
+    "criteriaForNine": [
+      "Recover soft, distinct cream plush, wood, fabric and foliage treatment without the cross-material cellular pattern visible in 11, preserving existing composition and corrected companion eyes.",
+      "Keep the coding moth and MacBook clearly primary at supplied scales, retain separate guest silhouettes and the original marked-wing/antenna identity cues.",
+      "At 880 and native scale retain enough clear hand/prop/gaze separation for the intended secondary actions; at 420 accept a readable overall scene rather than demand every micro-story. Human research is not a condition for a craft nine."
+    ]
+  },
+  "strengths": [
+    "A single continuous park, curving path, tree canopy and warm upper-right light unite the bench, workshop and rest vignette. Background softness gives the foreground coder plausible depth.",
+    "Largest cream face, glasses, hand-to-laptop arrangement and isolated right bench keep personal mascot dominance at 1280/880/420. Four guests remain subordinate; no foreground guest enters the coding bench.",
+    "Repeated cream head, unequal green paddle antennae and marked wings plausibly link the three moth appearances. No visibly aged moth is needed for the owner’s metaphor.",
+    "Muse has dark eyes and Grok has two flat pupil-free white ovals in the enlarged crop; neither needs another eye redesign. Clawd’s two square eyes and the blue beret Dot remain separate silhouettes."
+  ],
+  "mustFix": [
+    {
+      "id": "AB11-material",
+      "action": "Restore coherent soft material separation in the visibly affected regions before claiming this whole image finished. Preserve approved staging, foreground exclusivity and the corrected eye designs. Do not replace the composition to address a surface-quality defect.",
+      "priority": "Must fix for stated film-still craft target."
+    }
+  ],
+  "optional": [
+    "Clarify rear attention/leaf contact only if it can be done without enlarging the guests, adding props or compromising the primary coding scene.",
+    "When applying the art, retain native Nag/heyNag context outside the image. The still itself contains no name; do not infer unaided owner-name recall from repeated moth appearances."
+  ],
+  "baselineComparison": "07 and 11 share the dominant composition and subordinated four-cameo layout. 11 supplies the requested flat Grok ovals and dark Muse eyes. In native hero/workshop crops, 07 has smoother cream facial planes, finer Clawd plush and cleaner table/bench material; 11 introduces a stronger cellular pattern and uneven highlights. That makes 07 a useful material-quality control, not a complete replacement for 11’s corrected details.",
+  "skillsReviewed": [
+    {
+      "skill": "emil-design-eng",
+      "intake": "Full prior read reused",
+      "application": "Purposeful hierarchy and inspect actual rendered details."
+    },
+    {
+      "skill": "prototype",
+      "intake": "Full prior read reused",
+      "application": "Compare 07/11 under matched crop and scale; preserve control evidence."
+    },
+    {
+      "skill": "mobile-native",
+      "intake": "Full prior read reused",
+      "application": "Separate reduced-image legibility from actual phone evidence."
+    },
+    {
+      "skill": "design-taste-frontend",
+      "intake": "Full prior read reused",
+      "application": "Ground recommendations in actual assets and one coherent visual system; owner-requested stylization governs this artwork."
+    }
+  ],
+  "workflowChanges": [
+    "Check full frame, native crops, representative scales and enlarged delicate details together; a clean eye crop cannot certify the whole scene.",
+    "Distinguish observed texture/scale changes from conjecture about which edit caused them.",
+    "Preserve independent scores and separate AI craft judgments from future research hypotheses. No recruitment or new acceptance gate."
+  ],
+  "rulesNotApplicableWithReason": [
+    "UI timing, hover, touch, compositor and runtime prototype recipes do not apply to this static raster review.",
+    "Commercial webpage layout/photography prescriptions do not override the owner’s requested animated-film artwork.",
+    "Local scaled images are not GitHub browser, physical mobile or accessibility validation."
+  ],
+  "limits": [
+    "No human viewers, fixation measures, name attribution trials, delayed recall, emotion interviews or population preference data.",
+    "No motion, sound, night edition, implementation or publication approval.",
+    "The still supports plausible friendly focus, making and resting; precise causal narratives and emotional response remain hypotheses.",
+    "This is a new whole-scene judgment, not inherited approval from an earlier eye-only review."
+  ],
+  "unscoredHumanOutcomes": {
+    "emotionComprehension": null,
+    "nameAttribution": null,
+    "immediateRecognition": null,
+    "delayedRecall": null,
+    "affection": null
+  },
+  "independenceNote": "Own full-image/crop inspection and 8.4 judgment were formed before partner contact; no new peer file was read. An unsolicited A message arrived after inspection but before this file was saved, so strict message-blindness through the save was interrupted and is not claimed.",
+  "pairDiscussion": {
+    "partnerReviewReadAfterOwnSave": "whole-scene-11/independent/audience-a.json",
+    "agreement": "Both recommend revise for broad visible material regression; dominant coder and subordinate guests work, corrected eye crop passes, secondary narrative specificity stays optional.",
+    "challenge": "Recover differentiated materials, not uniform smoothing or a global 07 revert. Preserve intentional cloth weave, wood grain, depth and current eye/leaf corrections; do not enlarge guests to force every tiny action to read at 420.",
+    "exactProposedRecommendation": "Revise 11’s visible cross-material surface regression while preserving its composition, exclusive foreground coder, moth identity and corrected companion eyes. Use 07 as a material-quality control, not a full revert; keep secondary-story refinements optional and all human attribution, emotion and recall outcomes unmeasured.",
+    "audienceBExplicitAcceptance": true,
+    "audienceAExactConfirmation": "Explicitly accepted in direct message and saved in pairs/audience.json. A accepts differentiated materials rather than uniform smoothing or a full 07 revert; no substantive objection.",
+    "scoresRetained": {
+      "audienceA": 8.5,
+      "audienceB": 8.4
+    },
+    "remainingDifference": "Minor independent weighting of the same material and narrative limits; no score harmonization.",
+    "workflowAcceptedByB": "Hash verification; whole frame, scaled views, native crops and critical magnification; compare material control; do not treat detailed inspection as human research."
+  }
+}

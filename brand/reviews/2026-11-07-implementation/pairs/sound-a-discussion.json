@@ -1,0 +1,95 @@
+{
+  "reviewer": "sound-A",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "partnerRecordRead": "independent/sound-b.json",
+  "partnerDiscussionRead": "pairs/sound-b-discussion.json",
+  "independentSavedBeforePartnerRead": true,
+  "proposalFile": "team-proposal-v2.json",
+  "proposalSha256": "4eef022ccecba73621ca188b29c13cbc41d08b5268ffeaa6e98e2c4c5ea08c5c",
+  "sourceManifestSha256": "4b70d40e6c6fed47936377ff71d915379cbe84bc2a23020ac2ab2fb9696b2caa",
+  "sourceHashesVerified": [
+    "brand/animation-v5/motion.js",
+    "brand/animation-v5/signature.js",
+    "brand/animation-v5/signature.css",
+    "brand/animation-v5/studio.js",
+    "brand/reviews/2026-11-07-implementation/evidence/comparison.mp4"
+  ],
+  "newEvidenceActuallyInspected": [
+    "team-proposal-v2.json in full",
+    "evidence/desktop-performance-active.json",
+    "sound-B independent and pair discussion"
+  ],
+  "meaningfulChallenges": [
+    {
+      "topic": "Responding to B on the sharing endpoint",
+      "response": "B is right that the hand moving out of consideration and the return-to-viewer context give the full sampled sequence more meaning than an isolated endpoint. I retain my 0.5 deduction because signature initialization and reduced motion present precisely the still endpoint, without that preceding travel. In those presentations the mitten remains close to the shoulder/collar and can mean a generic welcome. This is a bounded still-image craft judgment, not evidence that viewers fail to understand the sequence."
+    },
+    {
+      "topic": "Phone visibility versus silent cause",
+      "response": "I agree with B that the improved portrait size is a real benefit but cannot resolve the source/layout eye-line mismatch. The moderate deduction remains. Version 2 names that limitation rather than hiding it, which makes acceptance of the local foundation reasonable without granting finished-phone staging approval."
+    },
+    {
+      "topic": "Silence and future consent",
+      "response": "I accept B\u2019s specific clarification that pressing an already-silent Play button is not consent to future added audio. Silence needs no mute control now. If audio is commissioned later, separate reversible opt-in and audible retrigger/listening checks belong in the new implementation scope."
+    },
+    {
+      "topic": "Active-only cadence",
+      "response": "The newer Thinking sample narrows the observation to active playback and removes grounds for treating the old one-second mixed-idle gaps as a direct SVG diagnosis. Its 119 intervals and 67 ms maximum still do not supply normal-speed perception or physical-phone evidence. No score update or rhythm certification follows."
+    },
+    {
+      "topic": "Practical skill adoption",
+      "response": "B\u2019s proposed cancellation check during the between-clip wait is more specific than a generic interruption check and should be retained in future engineering review. We agree to combine it with the cause map, frequency inventory and actual portrait-phase evidence rather than merely citing skill names."
+    }
+  ],
+  "evidenceBasedResolution": "Accept the implemented silent local foundation under v2 with the phone cue and endpoint-specificity reservations preserved. Keep the owner-selected Investigate & share lead, finite intentional playback, static startup/settle, and reduced-motion stills. No sound is added or required.",
+  "remainingDisagreements": [
+    {
+      "topic": "Weight of isolated sharing-pose specificity",
+      "position": "A retains a 0.5 craft deduction because the still is a real initial/reduced-motion presentation; B gives the full sampled sequence sufficient contextual credit and does not separately deduct it. Both readings remain scoped, and neither proves human comprehension."
+    },
+    {
+      "topic": "Independent scores",
+      "position": "A remains 8.6 and B remains 8.5. These are not averaged or adjusted to manufacture consensus."
+    }
+  ],
+  "acceptedJointRecommendation": "Keep motion silent and self-contained. Optional future audio should reinforce an already readable visual cause, never mask the unresolved phone eyeline relation.",
+  "jointRecommendationConfirmedByThisReviewer": true,
+  "practicalSkillsWorkflowAgreement": [
+    "Before motion or sound implementation, map the visible stimulus, lead antenna/gaze action, supporting head/hand/wing response, and settle. Mark project text, backgrounds and controls static unless feedback has a specific purpose.",
+    "Apply remove-animations purpose/frequency reasoning to repeated attention demands and UI flourishes. Preserve explicitly requested finite character content, static startup, and indefinite settled rest.",
+    "Check interruption and cancellation during the collection wait as well as inside a clip; hidden/offscreen scenes should not resume without a new intentional action.",
+    "Capture actual intended-size desktop and portrait notice/read/return sequences. Separate source timing, sampled render evidence, continuous perception, physical-device behavior and unprimed human response in each review.",
+    "If audio is separately commissioned, establish explicit reversible opt-in distinct from the existing silent Play control. Use sparse event-based cues only after visual cause is legible, and test repeated listening and retrigger behavior before claiming comfort."
+  ],
+  "exceptions": [
+    "Keyboard activation of Play must retain access to the intentional character content; the no-keyboard-animation heuristic applies to unnecessary interface flourishes.",
+    "The 4.1 second investigation is narrative content, not delayed UI feedback. Do not mechanically impose the sub-300 ms UI budget on its authored beats.",
+    "Expressive SVG changes preserve the tiny anatomy and identical numerical day/night poses. Measure a relevant workload before pursuing compositor-driven simplification.",
+    "Reduced-motion stills are an appropriate presentation here; no opacity animation is required merely to satisfy a generic rule.",
+    "These are read-only reviewer records in the requested JSON format; remove-animations does not authorize source/dependency edits in this assignment.",
+    "The 17 catalog summaries inform routing; Swift, Expo, Sonner and library-selection implementation are not needed for the present plain-JavaScript study."
+  ],
+  "skillsMessageAcknowledged": true,
+  "skillIntakeReference": "independent/sound-a.json: all 17 catalog summaries and full choreograph/remove-animations/review-animations; no redundant rereading in pair stage.",
+  "personalScore": 8.6,
+  "scoreHistory": [
+    {
+      "stage": "independent v4",
+      "value": 8.6
+    },
+    {
+      "stage": "v2 pair discussion",
+      "value": 8.6,
+      "reason": "No inspected new evidence resolves the retained craft deductions; updated cadence narrows only a validation limit."
+    }
+  ],
+  "limits": [
+    "The portrait question/eyeline relation remains unresolved. Better size and readability do not establish fully resolved phone storytelling.",
+    "The small sharing mitten can read as generic welcome in an isolated endpoint. This retained craft deduction matters especially to initial and reduced-motion still presentation; it is not an unprimed-observer result.",
+    "Continuous perceived rhythm, audio quality, listening comfort, real-device performance, spoken assistive output and human audience outcomes remain unscored.",
+    "The active-only Thinking cadence record is local desktop evidence: 119 intervals, mean 34.45 ms, p95 35 ms, max 67 ms and four above 50 ms. It neither diagnoses old mixed-idle gaps nor certifies subjective smoothness.",
+    "Acceptance is for the implemented local foundation with named limitations, not publication, deployment, all-reviewer 9/10 certification or unbuilt future artwork."
+  ],
+  "substantiveObjectionsToThisBoundedProposal": []
+}

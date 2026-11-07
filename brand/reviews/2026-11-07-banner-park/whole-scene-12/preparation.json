@@ -1,0 +1,180 @@
+{
+  "status": "Awaiting generated candidate; no review or approval of unseen art.",
+  "ownerScope": "Entire Pixar/Disney-inspired scene, reviewed by all18 before finished presentation.",
+  "approvedCorrectionPlan": "brand/reviews/2026-11-07-banner-park/whole-scene-11/proposal-v1.json",
+  "planSha256": "f22147674c4537a20f89925d335e107abb9a8bc9e322559b92209c35981d40b4",
+  "planConsensus": "brand/reviews/2026-11-07-banner-park/whole-scene-11/consensus.json",
+  "candidateIntendedPath": "assets/brand/banner-park/park-film-study-12-materials-and-grip.png",
+  "prompt": "brand/reviews/2026-11-07-banner-park/film-whole-scene-repair-prompt.txt",
+  "sourceAssets": [
+    "assets/brand/banner-park/park-film-study-11-flat-grok-eyes.png",
+    "assets/brand/banner-park/park-film-study-07-clawd-plush.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene07-workshop-native.png",
+    "brand/reviews/2026-11-07-banner-park/muse-review/evidence/grok-flat-eyes-detail.png"
+  ],
+  "reviewers": [
+    {
+      "id": "brand-a",
+      "discipline": "brand",
+      "role": "Character brand director",
+      "lens": "Personal voice and authentic work",
+      "agent": "/root/panel_brand_a_implementation",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra"
+    },
+    {
+      "id": "brand-b",
+      "discipline": "brand",
+      "role": "Character brand director",
+      "lens": "Long-term recognition and distinctive brand behavior",
+      "agent": "/root/panel_brand_b_implementation",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra"
+    },
+    {
+      "id": "performance-a",
+      "discipline": "performance",
+      "role": "Character performance director",
+      "lens": "Intention and comic acting",
+      "agent": "/root/panel_performance_a_implementation",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra"
+    },
+    {
+      "id": "performance-b",
+      "discipline": "performance",
+      "role": "Character performance director",
+      "lens": "Timing, weight and emotional clarity",
+      "agent": "/root/panel_performance_b_implementation",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra"
+    },
+    {
+      "id": "identity-a",
+      "discipline": "identity",
+      "role": "Identity systems designer",
+      "lens": "Silhouette and cross-surface identity",
+      "agent": "/root/panel_identity_a_implementation",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra"
+    },
+    {
+      "id": "identity-b",
+      "discipline": "identity",
+      "role": "Identity systems designer",
+      "lens": "Small-size recognition and typography hierarchy",
+      "agent": "/root/panel_identity_b_implementation",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra"
+    },
+    {
+      "id": "rigging-a",
+      "discipline": "rigging",
+      "role": "Technical character animator and rigger",
+      "lens": "Articulation and contact",
+      "agent": "/root/panel_rigging_a_implementation",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra"
+    },
+    {
+      "id": "rigging-b",
+      "discipline": "rigging",
+      "role": "Technical character animator and rigger",
+      "lens": "Rendering integrity and production reuse",
+      "agent": "/root/panel_rigging_b_implementation",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra"
+    },
+    {
+      "id": "interaction-a",
+      "discipline": "interaction",
+      "role": "Interaction and accessibility designer",
+      "lens": "Keyboard and accessible controls",
+      "agent": "/root/panel_interaction_a_implementation",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra"
+    },
+    {
+      "id": "interaction-b",
+      "discipline": "interaction",
+      "role": "Interaction and accessibility designer",
+      "lens": "Discoverability, comfort and repeat visits",
+      "agent": "/root/panel_interaction_b_implementation",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra"
+    },
+    {
+      "id": "audience-a",
+      "discipline": "audience",
+      "role": "Audience and character-perception researcher",
+      "lens": "Emotion comprehension and attribution",
+      "agent": "/root/panel_audience_a_implementation",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra"
+    },
+    {
+      "id": "audience-b",
+      "discipline": "audience",
+      "role": "Audience and character-perception researcher",
+      "lens": "Research design and memory hypotheses",
+      "agent": "/root/panel_audience_b_implementation",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra"
+    },
+    {
+      "id": "storyboard-a",
+      "discipline": "storyboard",
+      "role": "Storyboard, animatic and comic staging director",
+      "lens": "Visual storytelling and setup/payoff",
+      "agent": "/root/panel_storyboard_a_implementation",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra"
+    },
+    {
+      "id": "storyboard-b",
+      "discipline": "storyboard",
+      "role": "Storyboard, animatic and comic staging director",
+      "lens": "Editing rhythm and comic economy",
+      "agent": "/root/panel_storyboard_b_implementation",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra"
+    },
+    {
+      "id": "visual-a",
+      "discipline": "visual",
+      "role": "Visual development and lighting artist",
+      "lens": "Materials and light/dark continuity",
+      "agent": "/root/panel_visual_development_astra",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra"
+    },
+    {
+      "id": "visual-b",
+      "discipline": "visual",
+      "role": "Visual development and lighting artist",
+      "lens": "Drawing appeal, contour and scale simplification",
+      "agent": "/root/panel_visual_b_implementation",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra"
+    },
+    {
+      "id": "sound-a",
+      "discipline": "sound",
+      "role": "Sound designer",
+      "lens": "Silent legibility and restraint",
+      "agent": "/root/panel_sound_a_implementation",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra"
+    },
+    {
+      "id": "sound-b",
+      "discipline": "sound",
+      "role": "Sound designer",
+      "lens": "Rhythm, optional audio and repeat-listening comfort",
+      "agent": "/root/panel_sound_b_implementation",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra"
+    }
+  ],
+  "presentation": "Keep next render a review candidate until actual export receives full18 review; no score prediction or publication."
+}

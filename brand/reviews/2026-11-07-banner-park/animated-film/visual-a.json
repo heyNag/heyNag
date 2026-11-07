@@ -1,0 +1,21 @@
+{
+  "reviewerId": "visual-a",
+  "position": "agree_with_limits",
+  "independence": "Saved before partner discussion.",
+  "recommendation": "Test the whole-scene animated-feature treatment. Shared matte materials and cinematic lighting could integrate companions better than inserting plush toys into the painted park.",
+  "styleGuardrails": [
+    "Model cream forms softly, while eyes, mouth and wing markings remain graphic. Preserve the broad head, tiny torso, short mittens, attached feet, unequal paddles and four thin layered wings. No spherical eyeballs, muzzle, fur or thick plush wings.",
+    "Keep warm directional light, gentle contact shadows and quieter background values. Avoid glossy candy surfaces, universal rim glow and exaggerated laptop spill.",
+    "Exactly two small observers behind the rear-left workshop; no foreground companions. Coding moth, bench and silver Apple MacBook remain dominant. Preserve the continuous path and three activity depths."
+  ],
+  "failureCriterion": "Reject a result where dimensional rendering changes the moth's silhouette or the orange/white cameo faces attract attention before Nag. Small logos may disappear at phone size; never enlarge them to compensate.",
+  "evidence": [
+    "animated-film-proposal.json read",
+    "assets/brand/heynag-moth-v5-refined.png inspected via view_image now",
+    "park-day-study-02-macbook.png and supplied picnic JPG: reused actual view_image inspections from this conversation"
+  ],
+  "skills": {"new": [], "fullReadReused": ["emil-design-eng", "apple-design", "prototype", "design-taste-frontend"]},
+  "workflowLimit": "Compare actual banner sizes and named integration benefits. Commercial-site recipes and UI animation budgets do not govern this still.",
+  "limits": "No rendered variation, night adaptation or audience evidence; no score, replacement approval or publication.",
+  "pairResult": "A and B explicitly agree with limits: environmental sun haze allowed, character-wide glow rejected. No substantive disagreement."
+}

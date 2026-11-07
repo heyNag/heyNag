@@ -1,0 +1,26 @@
+{
+  "reviewer": "Technical character animator and rigger A",
+  "scope": "Refined V5 renderer, motion continuity and rig preservation; improvement plan, not final artwork approval.",
+  "independence": "Recorded before reading rigging-b.json; preserves predecessor refinement judgments.",
+  "inspectedEvidence": [
+    "AGENTS.md; expanded-panel brief.json and score-policy.json; refinement round1/rigging.json and round2/rigging.json.",
+    "Current character.js renderer: matching antenna-edge paths, shared transforms, hand reach limited to 48 units; motion.js transitionFamilies/continuityKeys and Engine interruption blend; motion.test.mjs relevant assertions read, not rerun.",
+    "refinement/evidence/geometry-checks.json: 504 matched samples, zero theme geometry mismatches, anatomy mismatches or invalid SVG; paint excluded and two new antenna-edge paths excluded from before/after comparison.",
+    "Viewed refinement/evidence/exact-case-9.png: selected exact-frame samples of interrupted hop→angry→worried; tiny proportions and attached parts persist. This is a contact sheet, not observed uninterrupted playback."
+  ],
+  "position": "Keep the current rig. Neither existing evidence nor this inspection demonstrates a need to redraw anatomy, alter landing curves or replace family inheritance. Improve the precision of animation evidence and test selected intended sequences before any targeted adjustment.",
+  "strengths": [
+    "Shared numeric poses and renderer geometry protect theme parity; the night antenna fix changes paint coverage without replacing anatomical paths.",
+    "Short reach, limited rotations and attached parts preserve the tiny character; concern transitions and the intermediate hop descent have explicit regression assertions.",
+    "Exact-case-9 extends interrupted-hop visual evidence beyond the earlier round-two pending-capture limit."
+  ],
+  "score": null,
+  "scoreStatus": "Not yet scored. Technical validity is supported; no calibrated artistic nine follows from numeric checks or selected stills.",
+  "namedDeductions": [],
+  "criteriaForImprovement": [
+    "Tie a bounded set of intended sequences to exact frame times and actual renderer output, then inspect normal-speed playback for purposeful anticipation, interruption continuity and landing weight.",
+    "Only reproduced visible defects authorize pose/timing/channel changes; rerun geometry invariance and the relevant regression checks after such changes."
+  ],
+  "confidence": "High on scoped anatomy preservation; moderate on sampled transition integrity; insufficient on perceived timing excellence.",
+  "unreviewed": ["Uninterrupted current playback, all transition combinations, human emotion recognition and attachment."]
+}

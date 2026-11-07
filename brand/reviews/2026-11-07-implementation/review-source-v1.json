@@ -1,0 +1,13 @@
+{
+  "scope": "Current implemented native character,27 performances(24 emotions and3 studies),studio/signature UI. Export files regenerated separately without source change.",
+  "files": {
+    "brand/animation-v5/character.js": "b93400daeaa43af99e4b8c30942b80d4d69aba545a808863dd92ebe1830a97fa",
+    "brand/animation-v5/index.html": "95a7f55036e00f77dbfb6a9f0ab30dba7a778329d12195659ef3bc156a6d90c4",
+    "brand/animation-v5/motion.js": "1027502ecbe9c43a067d09c819842c3876d307a7fa737e4064bebd386ee65a04",
+    "brand/animation-v5/signature.css": "3460d83ec665d394fb9a3b859bc3d30dccd0a4164cfe396ff9ffc7c055038875",
+    "brand/animation-v5/signature.html": "fb6df2f3a40a3a6f88a83ed7af45b46196da8bb3dbfa399da94840859cf58b57",
+    "brand/animation-v5/signature.js": "7efb80a5059c7854bc8f7a9d93f8047524fdc03266477db0d83d1f29a123f260",
+    "brand/animation-v5/studio.css": "7d9a4e2138c36351e829af4592e31625f0e3c4181d096b9a881d0ffc04b8ead2",
+    "brand/animation-v5/studio.js": "cdde884a87090cb33b4f227367f301f5f5797ae22ee09e10d4b6ff4f78ffdbec"
+  }
+}

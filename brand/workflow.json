@@ -1,0 +1,115 @@
+{
+  "brand": "heyNag",
+  "request": "Nag explicitly asked the entire 18-specialist team and engineers to inspect the installed Emil Kowalski skills and improve their workflow.",
+  "catalog": "brand/reviews/2026-11-07-implementation/installed-skills.json",
+  "catalogCount": 17,
+  "routing": {
+    "brand": [
+      "emil-design-eng",
+      "prototype",
+      "choreograph"
+    ],
+    "performance": [
+      "animate",
+      "choreograph",
+      "review-animations"
+    ],
+    "identity": [
+      "emil-design-eng",
+      "apple-design",
+      "mobile-native"
+    ],
+    "rigging": [
+      "animate",
+      "animation-performance",
+      "review-animations"
+    ],
+    "interaction": [
+      "emil-design-eng",
+      "mobile-native",
+      "review-animations",
+      "break-ui"
+    ],
+    "audience": [
+      "emil-design-eng",
+      "prototype",
+      "mobile-native"
+    ],
+    "storyboard": [
+      "choreograph",
+      "review-animations",
+      "animation-vocabulary"
+    ],
+    "visual": [
+      "emil-design-eng",
+      "apple-design",
+      "prototype"
+    ],
+    "sound": [
+      "choreograph",
+      "remove-animations",
+      "review-animations"
+    ]
+  },
+  "routingMeaning": "Suggested relevant reading, not a claim that every listed skill has been read. Individual review records contain actual intake. Read full relevant instructions before use.",
+  "teamProtocol": [
+    "Every specialist reads the catalog and full relevant skills before review.",
+    "Record skillsReviewed, workflowChanges and rulesNotApplicableWithReason.",
+    "Pair partners challenge the proposed use of each skill against actual character and product goals.",
+    "Preserve the same practice for future website engineers; skills do not substitute for rendered evidence or reviewer judgment."
+  ],
+  "adoptedNow": [
+    "Native input keyboard behavior is preserved; page-wide playback shortcuts removed.",
+    "Hover styles follow hover/pointer capabilities; coarse-pointer fields use 16px text.",
+    "UI press and release have explicit short transform-only timings, while keyboard feedback stays immediate.",
+    "Tiny character actions retain their own purposeful lead, response and settle beats.",
+    "Phone staging gives the existing character more room without changing anatomy."
+  ],
+  "exceptions": [
+    "Short UI timing budgets do not compress intentionally requested character performances.",
+    "Keyboard Play still plays intentional content.",
+    "Expressive SVG path morphs have a different job from composited UI transitions; measure before simplifying.",
+    "No React Native, Swift, Sonner or extra UI library is required by the current plain-JavaScript study.",
+    "No root text-selection, scrolling or zoom lock; no unnecessary removal of native link feedback."
+  ],
+  "evidencePolicy": [
+    "Actual source and rendered images required; code checks alone do not prove visual quality.",
+    "Deterministic30fps films preserve playback for review but decoded frames alone do not establish perceived timing.",
+    "Desktop pointer emulation is not physical mobile-device validation.",
+    "Owner preference, specialist craft judgments and unprimed human response remain separate."
+  ],
+  "status": "All 18 specialists and the motion, visual and interaction engineering teams completed skill intake. All nine pairs confirmed practical workflow recommendations.",
+  "intakeRecord": "brand/reviews/2026-11-07-implementation/skills-intake.json",
+  "engineeringIntake": [
+    "brand/reviews/2026-11-07-implementation/implementation/motion-skills.json",
+    "brand/reviews/2026-11-07-implementation/implementation/visual-skills.json",
+    "brand/reviews/2026-11-07-implementation/implementation/interaction-skills.json"
+  ],
+  "pairConsensus": "brand/reviews/2026-11-07-implementation/consensus.json",
+  "githubApplicationReview": {
+    "record": "brand/reviews/2026-11-07-github/consensus.json",
+    "specialists": 18,
+    "application": "Native GitHub profile and future website continuity plan",
+    "adaptations": [
+      "Use actual GitHub Markdown rendering and viewport evidence.",
+      "Keep static images and native text/links; commercial website custom-CSS and motion recipes do not apply inside a README.",
+      "Separate the current profile craft score from an unbuilt website and unmeasured human outcomes."
+    ],
+    "intake": "Actual full/reused skill reading, workflow improvements and exceptions are recorded in each independent review."
+  },
+  "staticSceneReview": {
+    "source": "Owner required all18 review of the entire animated-film park scene, not only repaired characters.",
+    "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/brief.json",
+    "requirements": [
+      "Freeze and hash the exact complete export being reviewed.",
+      "Inspect full frame, matched native region crops, representative display widths and magnified small-feature details.",
+      "Judge all materials, light/depth, environment, staging, contact and identity together; a correct eye patch does not certify the whole picture.",
+      "Verify tiny-eye corrections in the final integrated image at native size and magnification; do not rely on patch/reference appearance or native size alone.",
+      "Compare cumulative changes against a clean earlier control, not only the immediately preceding version.",
+      "Both pair members save initial evidence and judgment before substantive findings are shared; before that, send only readiness/status. Record any accidental prior exposure honestly.",
+      "Every score retains its scope, evidence, deductions and confidence; no target-driven inflation.",
+      "Whole-scene material repairs preserve chosen composition, tiny anatomy, cast, corrected eyes and intentional material texture. No blanket blur or uniform plastic smoothing."
+    ],
+    "limits": "Local scaled images are not actual GitHub or physical-device evidence; agent consensus is not human audience validation."
+  }
+}

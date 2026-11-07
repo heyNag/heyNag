@@ -1,0 +1,34 @@
+{
+  "implementationSource": "review-source-v4.json",
+  "teamProposal": "team-proposal-v2.json",
+  "specialists": 18,
+  "pairs": 9,
+  "individualVotes": 18,
+  "skillsCatalogEntries": 17,
+  "engineeringSkillIntakes": 3,
+  "motionTests": "15 passed; see evidence/motion-tests.txt. Engine unchanged since those checks.",
+  "browserGeometrySamples": 567,
+  "geometryMismatches": 0,
+  "reportWidths": [
+    1440,
+    1024,
+    768,
+    390
+  ],
+  "reportHorizontalOverflow": false,
+  "reportFontsLoaded": true,
+  "reportImagesLoaded": true,
+  "reportVideoDurationSeconds": 88.5,
+  "reportVideoError": null,
+  "localArtifactReferences": 79,
+  "missingLocalReferences": 0,
+  "manifestFilesVerified": 85,
+  "limits": [
+    "No new unfamiliar-human emotion comprehension, personal attribution, attachment or delayed-recall results.",
+    "No subjective continuous-motion certification from sampled frames.",
+    "No physical-phone or GPU performance validation; measured cadence is local desktop evidence only.",
+    "Native OS menu keyboard commit and spoken screen-reader output remain unverified.",
+    "No public GitHub changes, remote commit/push or deployment.",
+    "Emotion labels and explanatory copy prime the intended interpretation. Any future comprehension study needs neutral prompts and recorded viewport/scroll exposure."
+  ]
+}

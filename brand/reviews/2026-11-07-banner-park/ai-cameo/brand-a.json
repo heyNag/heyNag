@@ -1,0 +1,79 @@
+{
+  "reviewerId": "brand-a",
+  "role": "Character brand director A — personal voice and authorship",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "stage": "Independent concept recommendation before partner review or a cameo render; no score or artwork approval",
+  "recommendedCount": 2,
+  "fallbackCount": 0,
+  "recommendation": "Test two small cameos as one background workshop interaction. Keep the moth-only image as the comparison and fallback. Do not distribute a full reference cast through the park.",
+  "evidence": [
+    "Read brand/reviews/2026-11-07-banner-park/ai-cameo-brief.json and brand/workflow.json.",
+    "Viewed assets/brand/banner-park/park-day-study-02-macbook.png with view_image; tool displayed a 2048x683 resize of the 2172x724 image.",
+    "Viewed the actual locally attached picnic reference with view_image: /tmp/codex-remote-attachments/01a1b473-8621-7941-ba03-4b47867c136c/D31EE005-F5E8-41CB-97E7-95E073243BDD/1-Photo-1.jpg.",
+    "Applied the latest owner constraint supplied by root: absolutely no companion on or near the foreground bench or path; foreground character remains only the moth coding on the MacBook."
+  ],
+  "observedComposition": "The park already has an authored relationship between a large foreground coder, a smaller workshop builder and a resting moth under the tree. They represent the same person in three activities. The curving open path and depth make the composition more than a nameplate. The picnic reference places a bright cast and logo-filled basket in the central focus; importing that arrangement would change the subject from Nag's world to a gathering of other identities.",
+  "placementAndStory": [
+    "Keep both cameos behind the workshop table, on its far side near the canopy or distant tree line. Let the table partly occlude their lower bodies to establish that they are behind the work. Neither may enter the foreground path, bench, coder silhouette or MacBook area.",
+    "Give them one shared reason to be there: both notice the same small thing the workshop moth is making, with one curious lean or exchanged reaction. Avoid two unrelated scenes, a spectator semicircle, advertising poses or a row of badges.",
+    "Begin around half the workshop moth's visible height or smaller, clearly much smaller than the foreground coder. This is a test range, not a proven pixel specification. Their lighting and material should belong to the park; bright contrasting shapes must not become the first visual stop.",
+    "Preserve the resting moth's quiet pocket and the open path. The background visitors are optional discoveries, not the banner's explanation. Keep existing tiny V5 anatomy and Nag's name/voice as the personal identity."
+  ],
+  "countRationale": "Two can suggest company and curiosity while reading as one supporting event. Three would add another face and usually a second action; the existing three moth appearances already provide narrative breadth. The full cast and branded basket would overload the personal story. Zero remains preferable if even two fail the hierarchy test. The specific product roster is not selected, and I do not identify every reference symbol as an AI product.",
+  "failureCriteria": [
+    "Any companion appears on or near the foreground bench/path, or overlaps the foreground moth/MacBook: reject that rendering against the owner's hard constraint.",
+    "At actual GitHub banner size, a cameo's shape, saturation or contrast pulls attention before the coder, or the scene reads primarily as a collection of product identities: remove or reduce the cameos; use zero if that remains unresolved.",
+    "The two visitors obscure the builder's action, fill the path's breathing room, or need enlargement and labels to be understood: remove them rather than making them another headline.",
+    "The illustration suggests official partnerships or ownership of the referenced products instead of optional tools/companions in Nag's scene: revise the framing; no unsupported affiliation claims."
+  ],
+  "skillsReviewed": [
+    {
+      "name": "emil-design-eng",
+      "path": "/Users/nag/.agents/skills/emil-design-eng/SKILL.md",
+      "intake": "Full skill read earlier in this same conversation; reused",
+      "use": "Purpose and whole-composition hierarchy; adding an element must earn its attention cost."
+    },
+    {
+      "name": "prototype",
+      "path": "/Users/nag/.agents/skills/prototype/SKILL.md",
+      "intake": "Full skill read earlier; comparison guidance reused, build workflow not invoked",
+      "use": "Compare the identical park at actual destination size with zero and two cameos before adopting an unbuilt idea."
+    },
+    {
+      "name": "choreograph",
+      "path": "/Users/nag/.agents/skills/choreograph/SKILL.md",
+      "intake": "Full skill read earlier; reused",
+      "use": "One lead and one supporting event; static eye-line, occlusion and shared action can establish their relationship without animation."
+    },
+    {
+      "name": "design-taste-frontend",
+      "path": "/Users/nag/.agents/skills/taste-skill/SKILL.md",
+      "intake": "Full skill and copy reference read during the preceding GitHub review; reused",
+      "use": "Use an authored illustration with a clear purpose; do not turn third-party logos into invented evidence about Nag's achievements or partnerships."
+    }
+  ],
+  "workflowChanges": [
+    "Judge the proposed additions against the existing three-activity composition and owner exclusion zones, not against the appealing picnic reference alone.",
+    "Test one supporting event before adding a cast; retain the same base art as a zero-cameo control.",
+    "Inspect desktop and narrow GitHub renderings before judging visual hierarchy. Small cameos may become optional texture on phones; essential identity must not depend on decoding them."
+  ],
+  "rulesNotApplicableWithReason": [
+    "Short UI timing, compositor rules, sound and interaction recipes do not apply to this static illustration concept.",
+    "A commercial-site ban on decoration does not override the owner's explicit request for an authored illustrated scene. The illustration still needs a clear attention hierarchy.",
+    "Prototype's explicit-only build workflow is not invoked by reviewing its comparison principles; no browser, image generation or implementation is authorized for this reviewer.",
+    "Public brand symbols are not a verified tool roster, endorsement or substitute for project evidence. No private project material belongs in the scene."
+  ],
+  "unproven": "No cameo variation has been rendered. Exact scale, legibility, depth, image consistency and first-look hierarchy remain unproven at GitHub sizes. Human recognition, preference and affiliation interpretation are unmeasured. This recommendation neither approves final artwork nor authorizes publication.",
+  "independence": "Saved before reading Brand B's new cameo review.",
+  "reviewTable": "| Before / actual evidence | After / proposed test | Why |\n| --- | --- | --- |\n| Three moth activities and an open foreground path | Two visitors behind one workshop interaction | Add company without creating another lead or blocking depth |\n| Picnic reference centers a bright product cast | Omit the cast/basket and keep cameos small and contextual | Preserve Nag as the subject |\n| No cameo render exists | Compare zero and two at real GitHub sizes | Concept fit is not approval of unseen artwork |",
+  "pairResolution": {
+    "partnerReview": "brand/reviews/2026-11-07-banner-park/ai-cameo/brand-b.json",
+    "independence": "Read Brand B only after saving my independent recommendation.",
+    "position": "Explicitly agree to the shared bounded concept test.",
+    "sharedRecommendation": "Test exactly two small background observers behind the workshop table, both engaged with the same workshop activity, against the unchanged zero-cameo baseline. No separate tree play group in this pass. Exclude all companions from the foreground bench, coder, MacBook and foreground path. Preserve the resting moth and open path. Visitors remain optional scene content, never permanent heyNag identity or a required website vendor roster.",
+    "challengeResolved": "Brand B retired the separate-leaf activity in favor of my shared-workshop-object direction. I accept B's long-term identity condition and agree that phone-size product recognition must not be forced by enlarging the visitors.",
+    "remainingSubstantiveObjections": [],
+    "limits": "This accepts an experiment only. Roster, rendered hierarchy and exact size remain unresolved; no final artwork, score, audience result or publication approval."
+  }
+}

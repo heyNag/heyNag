@@ -1,0 +1,157 @@
+{
+  "reviewer": "Audience A — emotion comprehension and Nag attribution; restored standing role /root/panel_audience_astra",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "scope": "Independent review of implemented v4: source-supported and visually inspected static emotional staging, Nag attribution in the local signature study, and suitability of the evidence for subsequent audience work. This is a scoped expert craft judgment, not a measured human response or a continuous-motion assessment.",
+  "version": "review-source-v4.json",
+  "independence": "Saved before reading Audience B's implementation review. Prior own-role history and the prior audience pair's plan resolution were read for continuity. No browser was opened; root owns the browser evidence.",
+  "sourceVerification": {"filesChecked": 18, "manifest": "review-source-v4.json", "sha256Mismatches": []},
+  "evidenceActuallyInspected": {
+    "instructionsAndHistory": [
+      "AGENTS.md",
+      "brand/team.json",
+      "brand/workflow.json",
+      "brand/reviews/2026-11-07-implementation/reviewer-instructions.txt",
+      "brand/reviews/2026-11-07-implementation/brief.json",
+      "brand/reviews/2026-11-07-implementation/review-source-v4.json",
+      "brand/reviews/2026-11-07-implementation/owner-preference.json",
+      "brand/reviews/2026-11-07-expanded-panel/independent/audience-a.json",
+      "brand/reviews/2026-11-07-expanded-panel/pairs/audience-resolution.json"
+    ],
+    "source": [
+      "brand/animation-v5/signature.html — complete",
+      "brand/animation-v5/signature.js — complete",
+      "brand/animation-v5/signature.css — complete, including final portrait override and 320px heading correction",
+      "brand/animation-v5/index.html — complete",
+      "brand/animation-v5/studio.js — lines 1–100, player labels, states and selection handling",
+      "brand/animation-v5/motion.js — lines 1–235, 395–530 and 700–762; neutral/pose constraints, selected clips, investigation variants, sampling and reduced-motion behavior",
+      "brand/animation-v5/character.js — lines 1–200, geometry/paint construction and semantic description"
+    ],
+    "pngsViewedWithViewImage": [
+      "evidence/paint.png",
+      "evidence/sizes-final.png",
+      "evidence/poses.png",
+      "evidence/all-final.png",
+      "evidence/signature-final-1440.png",
+      "evidence/signature-final-390-stage.png",
+      "evidence/signature-final-390-night.png",
+      "evidence/signature-final-320.png",
+      "evidence/curious-investigate.png",
+      "evidence/curious-wry.png",
+      "evidence/mischievous-one-peek.png",
+      "evidence/excited.png",
+      "evidence/surprised.png",
+      "evidence/decoded-day-5.png",
+      "evidence/decoded-night-5.png",
+      "evidence/decoded-day-2.png",
+      "evidence/decoded-day-8.png"
+    ],
+    "recordsRead": [
+      "evidence/comparison-export.json — 2664 frames, 30fps, 88.8 seconds; segment metadata and deterministic engine sampling provenance",
+      "evidence/full-reel-export.json — 2655 frames at 30fps, 24 catalogue segments",
+      "evidence/interaction.json",
+      "evidence/layout-and-collection.json — studio layouts, not final signature portrait evidence",
+      "evidence/description-and-reduced-motion.json",
+      "evidence/final-ui.json",
+      "evidence/keyboard-after.json"
+    ],
+    "notWatched": "I did not watch comparison.mp4 or the full reel continuously. Decoded frame sheets establish sampled staging only; output cadence does not establish felt timing, live smoothness or device performance."
+  },
+  "score": {
+    "value": 8.2,
+    "outOf": 10,
+    "meaning": "Subjective expert craft readiness of inspected static emotional staging and attribution in this local study. Strong, coherent and usable, with visible scale and semantic-separation compromises. This is neither an audience success rate nor an all-purpose brand score.",
+    "criteria": ["Character continuity and warmth in the inspected views", "Visible distinction of emotional cues at displayed sizes", "Connection between moth behavior, project context and Nag", "Honest separation of stimulus evidence from response evidence"]
+  },
+  "unsupportedAudienceOutcomes": {
+    "unprimedEmotionComprehension": {"value": null, "reason": "No new unfamiliar human responses. Labels, source descriptions and reviewer familiarity prime the present reading."},
+    "nagAttribution": {"value": null, "reason": "A visible name and project link are design evidence, not evidence that strangers attribute the character or work to Nag."},
+    "delayedRecall": {"value": null, "reason": "No unaided delayed participant evidence for Nag, eva.md, the question or the moth."},
+    "attachment": {"value": null, "reason": "No repeated human exposure or attachment evidence."},
+    "ownerPersonalFit": {"value": null, "reason": "Nag explicitly chose Investigate & share, warm and curious. Preserve that categorical preference without inventing a numeric satisfaction result."}
+  },
+  "strengths": [
+    "The final portrait stage makes the unchanged tiny anatomy substantial enough to inspect: the presenting mitten clears the ruff, the full wing family and attached feet remain visible, and the question occupies the upper-right region of the stage. Both supplied day and night portraits retain this relationship.",
+    "Investigate & share gives the attention a concrete subject: the eva.md question about software memory. Source and sampled poses show noticing, glasses/consideration, a return toward the viewer and an open mitten. This provides a better-defined hypothesis than treating generic curiosity as sufficient evidence of Nag attribution.",
+    "The desktop study visibly pairs the heyNag wordmark and NAG study label with the project question. The source links to the heyNag/eva-md repository and names Nagarjuna Boddu in the footer; it does not assert an unverified project outcome.",
+    "The 24 emotions preserve the same innocent head/body proportions and recognizable unequal paddles. Broad cues such as an open delighted mouth, an O-shaped surprise mouth, closed laughing eyes and the small sad tear create useful visible contrasts without enlarging the anatomy.",
+    "Before/updated pose evidence shows more intentional mitten placement, especially Thinking and Focused. The selected performance has a still default, explicit playback and a reduced-motion presentation; the per-performance descriptions now change with the selected study.",
+    "Frozen comparison material, authored-pose sheets, decoded film samples and the owner choice are separately identified. These are useful review materials so long as their labels are not mistaken for unprimed research stimuli."
+  ],
+  "deductions": [
+    {
+      "id": "A-AUD-1",
+      "points": 0.8,
+      "severity": "moderate craft limitation; nonblocking for local study",
+      "finding": "Some quiet held emotions remain close visual neighbors. Grateful and Shy share open eyes, a restrained smile and hands gathered under the ruff; Thinking and Focused share glasses and differ through relatively small head/hand cues. Their labels carry more semantic specificity than the inspected still silhouettes alone.",
+      "basis": ["evidence/all-final.png", "evidence/poses.png"],
+      "confidence": "Moderate for the static comparison; no claim that viewers actually confuse them.",
+      "classification": "Observed craft compromise, not an established comprehension defect"
+    },
+    {
+      "id": "A-AUD-2",
+      "points": 0.6,
+      "severity": "minor to moderate at the smallest avatar sizes",
+      "finding": "At 32–48px in the night size proof, the pale face and green paddle tips remain salient while their connecting stems are substantially less legible than in daylight. The silhouette reads less continuously at that scale even though the larger night character reads well.",
+      "basis": ["evidence/sizes-final.png"],
+      "confidence": "Moderate; inspected the supplied actual-CSS-size sheet, not physical displays or actual GitHub rendering.",
+      "classification": "Observed scale compromise; preserve geometry and avoid a blanket large-size contrast change"
+    },
+    {
+      "id": "A-AUD-3",
+      "points": 0.4,
+      "severity": "minor attribution-staging limitation",
+      "finding": "The complete document names Nag, but the scrolled portrait scene that contains the project question and moth does not itself state whose question/work it is. A viewer arriving at that region has an eva.md subject and generic curiosity language, while Nag's explicit attribution sits above or in the footer. This is acceptable for the local study but less self-contained as an attribution stimulus.",
+      "basis": ["evidence/signature-final-390-stage.png", "evidence/signature-final-390-night.png", "brand/animation-v5/signature.html"],
+      "confidence": "High for text placement; unknown effect on visitors.",
+      "classification": "Attribution craft limitation, not evidence of actual misattribution"
+    }
+  ],
+  "improvementCriteria": [
+    "For the small subset of emotions used in an actual application, compare full-size unlabelled stills and sequences before altering them. If needed, strengthen an existing head angle, mitten separation or held posture; retain the chosen tiny anatomy.",
+    "Compare a narrowly adjusted 32–48px night avatar edge at its intended CSS size beside the current version. Improve stem continuity without changing paths or making the larger character glow.",
+    "When turning the signature study into an attribution test or future site section, test a brief verified first-person/owner cue adjacent to the project question. Do not reopen the already selected Investigate & share preference merely to generate more variants.",
+    "Use an isolated unlabelled first-exposure stimulus for future comprehension work; ask what happened before offering emotion words. Ask who/what the page was about separately, then unaided delayed recall. Preserve original responses and distinguish owner preference, expert craft and human results.",
+    "Judge normal-speed timing and mobile comfort only with appropriate continuous-playback and physical-device evidence. Their absence is a validation limit, not a numerical deduction in this static score."
+  ],
+  "confidence": "Moderate overall. Strong confidence in inspected layout, copy, geometry continuity and source behavior; moderate confidence in scale-sensitive static distinctions; no empirical confidence claim for audience response.",
+  "implementedAssessment": "Accept v4 as a coherent implemented local character/signature study and a useful basis for further website work. Keep Investigate & share as Nag's selected direction. The final portrait composition supersedes the earlier side-by-side phone study. Preserve the 24-emotion catalogue and separate three study variants. No blocking defect in this role's inspected scope justifies changing the anatomy, reopening owner selection or requiring new human research before authorized local use.",
+  "objections": [],
+  "limits": [
+    "No new human observers, unprimed comprehension, attachment or delayed recall results exist.",
+    "The supplied evidence is labelled and I read authored intentions; my interpretations are primed expert readings.",
+    "I inspected selected frames rather than continuous motion. I do not approve normal-speed comic timing or claim smooth live playback.",
+    "The declared deterministic 30fps film is an export. The brief reports approximately one-second local rAF gaps of unestablished cause; this review does not resolve them.",
+    "No physical phone, installed browser mode or spoken screen-reader output was tested by me. Desktop capability emulation and native AX labels are separate evidence.",
+    "The native select keyboard commit remains inconclusive in the supplied interaction record. Programmatic selection is not a keyboard-navigation proof.",
+    "The final 320px screenshot shows a nonclipped heading and question within document flow; it is not a full-stage screenshot or proof of simultaneous first-screen character/name exposure.",
+    "No deployed website or live GitHub page was reviewed. Static header/avatar applications were viewed in the supplied size proof rather than in the final service."
+  ],
+  "skillsReviewed": {
+    "catalog": "brand/reviews/2026-11-07-implementation/installed-skills.json",
+    "catalogEntriesRead": ["emil-design-eng", "animate", "animate-expo", "review-animations", "improve-animations", "find-animation-opportunities", "remove-animations", "choreograph", "animation-performance", "animation-vocabulary", "apple-design", "write-swift", "pick-ui-library", "prototype", "mobile-native", "break-ui", "ask-sonner"],
+    "fullSkillInstructionsRead": [
+      {"name": "emil-design-eng", "path": "/Users/nag/.config/skillshare/skills/emil-design-eng/SKILL.md", "use": "Purpose/frequency distinctions, actual-size visual review, restraint and limits on what polish evidence proves."},
+      {"name": "prototype", "path": "/Users/nag/.config/skillshare/skills/prototype/SKILL.md", "use": "Workflow study only: named comparison axes, realistic context and full-size presentation. No prototype creation workflow was invoked or source modified."},
+      {"name": "mobile-native", "path": "/Users/nag/.config/skillshare/skills/mobile-native/SKILL.md", "use": "Capability-based UI evidence, preserved zoom/selection and explicit distinction between desktop evidence and hardware behavior."}
+    ],
+    "otherFourteen": "Catalog descriptions read; full instructions not read or claimed. No Swift, React Native, Sonner, new library, broad motion audit or implementation work was performed in this audience review."
+  },
+  "workflowChanges": [
+    "Use one realistic, full-size stimulus per first exposure. Reserve side-by-side sheets and named variants for later expert diagnosis, since they prime interpretation and distort attention.",
+    "Maintain separate records for owner choice, expert craft, mechanics, unprimed comprehension, attribution and delayed recall. A common score target never fills missing evidence.",
+    "Define each future variant's named question before building it. Keep the chosen direction stable unless new evidence challenges a concrete feature; avoid exploration for its own sake.",
+    "Future website engineers should ship immediate, accessible control feedback independently from expressive character playback, preserve native zoom/text selection and verify mobile-specific behavior on hardware before claiming it fixed.",
+    "Record the exact source version, actual images and viewed motion form for each review. Treat source, deterministic frames, continuous playback and human response as different evidence classes.",
+    "For any recommended UI change, use a Before/After/Why table and an evidence-linked rationale. This independent JSON retains the required format as a string below."
+  ],
+  "uiReviewTableMarkdown": "| Before | After | Why |\n| --- | --- | --- |\n| Scrolled portrait question and moth region names eva.md but omits an adjacent owner cue | For a future attribution stimulus, compare one brief verified Nag/first-person cue beside the question | Makes the research stimulus self-contained; any effect on attribution remains to be tested |\n| Labelled catalogue and named comparison variants used for craft review | For future unprimed work, show one full-size unlabelled stimulus before diagnostic labels or comparisons | Reduces priming while retaining the current studio as a useful expert tool |",
+  "rulesNotApplicableWithReason": [
+    {"rule": "Never animate keyboard-initiated actions / keep UI motion under 300ms", "reason": "Apply to control feedback, not to the intentional performance requested through keyboard Play. Compressing the 4.1-second narrative would erase the research subject and would conflict with project instructions."},
+    {"rule": "Only animate transform and opacity", "reason": "A compositor guideline for UI is not a mandate to erase expressive SVG eye, mouth or antenna anatomy. Performance must be assessed with a relevant measured workload by the responsible specialists."},
+    {"rule": "Run the prototype picker workflow and delete the exploratory surface after selection", "reason": "This is an independent review, not a request to create a new prototype. Nag already selected Investigate & share, and repository instructions require preserving historical evidence. The comparison-design lessons apply without reopening selection or deleting records."},
+    {"rule": "Disable root overscroll, suppress all tap highlights and selection, and add full-app viewport treatment", "reason": "This is a scrolling document study. Native scroll, zoom, content selection and link feedback remain appropriate; apply platform fixes only where their rationale is demonstrated."},
+    {"rule": "Claim mobile completion after applying a CSS baseline", "reason": "No hardware evidence is available. Source and desktop checks can support only their own claims; this is a named validation limit, not a new permission gate for local work."},
+    {"rule": "Apply every catalog skill", "reason": "Reading all 17 entries establishes routing awareness, not relevance. Unused platform, dependency, toast and implementation workflows would add noise and exceed this role's evidence-review task."}
+  ]
+}

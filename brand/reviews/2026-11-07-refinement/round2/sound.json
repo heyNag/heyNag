@@ -1,0 +1,50 @@
+{
+  "role": "Sound designer \u2014 refinement cross-challenge",
+  "challenges": [
+    {
+      "role": "Character performance",
+      "claimId": "PERF-R2",
+      "decision": "Accept measured correction; retain perceptual boundary",
+      "reason": "The nonzero descent tangent removes the authored stop at 900ms, and the new sampled poses preserve the tiny body and attached feet. That is sufficient to close the mathematical defect. It does not establish satisfying weight or comic rhythm; a landing tick would add another cue and cannot validate the underlying movement.",
+      "evidence": [
+        "round1/performance.json:PERF-R2",
+        "brand/animation-v5/motion.js:excited keyframes and sample()",
+        "evidence/excited.png:900,1000,1060,1160ms"
+      ],
+      "implication": "Review uninterrupted and interrupted silent playback before claiming polish. Keep any later audio audition separate from this fix\u2019s acceptance."
+    },
+    {
+      "role": "Character performance",
+      "claimId": "PERF-R1",
+      "decision": "Accept scope limit; reject treating compatibility breadth as a new defect",
+      "reason": "The concern correctly distinguishes 42 compatible directions from the two rendered transition proofs. No new sound or generalized expressive system is justified by the unreviewed combinations. A strong smile during scared-to-relieved may be meaningful release; the intended narrative cause must decide, not an assumption that negative feelings require subdued sound or face throughout.",
+      "evidence": [
+        "round1/performance.json:PERF-R1",
+        "brand/animation-v5/motion.js:transitionFamilies,entryPose",
+        "evidence/sad-worried.png:updated 200\u2013380ms"
+      ],
+      "implication": "Check the transitions an actual application uses. Preserve the resolved sad-to-worried behavior without claiming every combination approved or delaying unrelated static work."
+    },
+    {
+      "role": "Interaction",
+      "claimId": "resolvedIssues[5] \u2014 atomic polite status",
+      "decision": "Accept implementation claim; clarify meaning of silent baseline",
+      "reason": "The source exposes named playback status without frame-by-frame updates. An assistive technology may speak that information; this is user-controlled access to text, not an authored character soundtrack. Calling the work silent must not imply disabling those announcements, nor treating normal playback as consent to future decorative audio. Actual spoken output remains explicitly untested.",
+      "evidence": [
+        "round1/interaction.json:resolvedIssues[5] and limits",
+        "brand/animation-v5/index.html:playback-status",
+        "brand/animation-v5/studio.js:updateInfo status comparison"
+      ],
+      "implication": "Retain semantic announcements and their bounded update behavior. No decorative-audio control is needed while no such audio exists; screen-reader verification remains a separate scoped check."
+    }
+  ],
+  "ownPositionChanged": [
+    "Clarified that a complete silent baseline means no authored soundtrack; it does not suppress assistive technology speech.",
+    "Closed the specific visible smile and mathematical hop-stop concerns at their demonstrated scope; continuous timing quality remains unreviewed by this specialist."
+  ],
+  "finalVerdict": "The refinements improve silent visual communication and introduce no established sound-related blocker. Keep the complete silent experience. No audio production, sonic identity or mute interface is required for this release scope.",
+  "openQuestions": [
+    "Does the updated continuous hop read as one rise, descent and landing at the final size?",
+    "When a real narrative uses a new emotion pair, does its visual change preserve the intended thought?"
+  ]
+}

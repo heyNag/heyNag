@@ -1,0 +1,88 @@
+{
+  "reviewer": "brand-b",
+  "role": "Character brand director \u2014 long-term recognition and distinctive brand behavior",
+  "stage": "Independent concept note saved before reading Brand A; unbuilt cameo variation",
+  "evidence": [
+    {
+      "path": "assets/brand/banner-park/park-day-study-02-macbook.png",
+      "inspection": "Actual image viewed. Foreground coding moth, bench and MacBook dominate; workshop and resting moth already create two supporting story areas. Tree, winding path, flowers, bridge, tools, books and mug make the scene richly occupied."
+    },
+    {
+      "path": "/tmp/codex-remote-attachments/01a1b473-8621-7941-ba03-4b47867c136c/D31EE005-F5E8-41CB-97E7-95E073243BDD/1-Photo-1.jpg",
+      "inspection": "Actual reference viewed. Anthropomorphic symbols and bright product-like forms are the central foreground cast around a picnic basket. Borrowing its warmth is compatible; importing its foreground cast hierarchy is incompatible. Product identities are not assumed."
+    },
+    {
+      "path": "brand/reviews/2026-11-07-banner-park/ai-cameo-brief.json",
+      "inspection": "Read in full, including latest foreground exclusion."
+    },
+    {
+      "path": "brand/workflow.json",
+      "inspection": "Read in full; relevant prior full skill intake reused."
+    }
+  ],
+  "independentRecommendation": {
+    "recommendedCount": 2,
+    "scope": "One bounded two-cameo study compared with the unchanged zero-cameo baseline. This is permission to test a concept, not approval of artwork or publication.",
+    "fit": "Potentially fits as a small hint of the tools and company around Nag. The moth remains the author; cameos must not become the source of the banner's identity or a permanent requirement of heyNag.com.",
+    "positioning": "One compact group in the deeper workshop/tree plane, behind the workshop and clearly separated from the resting moth at the large near tree. Keep the entire foreground bench, coder, MacBook and surrounding foreground path free of companions. Do not distribute two figures to opposite ends of the banner.",
+    "scale": "Start each cameo around one third to one half the workshop moth's height, and below one fifth the foreground moth's height. These are trial proportions, not verified pixel requirements. Their combined colour mass must stay subordinate to the workshop moth; avoid bright isolated logo tiles.",
+    "story": "A quiet pair near the workshop: one notices the moth building while the other lightly engages with the same small activity or a nearby leaf. They occupy one secondary moment rather than becoming a row of spectators admiring the foreground coder. Preserve the builder, coder and resting moth as three expressions of the same person.",
+    "otherCounts": {
+      "0": "Valid fallback and baseline; current art already tells the intended story.",
+      "3": "Do not start here: a workshop watcher plus two tree players creates another separate story area before two cameos have earned their space.",
+      "full": "Reject for this composition: the reference's central product ensemble would overwhelm personal authorship and long-term independence from particular tools."
+    },
+    "failureCriteria": [
+      "Any companion enters, touches or overlaps the foreground bench/coder/MacBook zone or its surrounding foreground path.",
+      "The pair creates a fourth equally assertive focal area, occludes an existing moth action, or makes the resting moth look like a member of a product mascot cast.",
+      "At actual desktop banner size, bright companion shapes or recognizable symbols lead the composition ahead of the coding moth and its work.",
+      "At phone size, the added shapes become visual debris or can only be made intelligible by enlarging them into foreground competitors. Quiet disappearance at that size is preferable to forced logo recognition.",
+      "The concept only feels distinctive because viewers can name the external products. Remove cameos rather than making vendor recognition the personal brand's foundation."
+    ]
+  },
+  "skillsReviewed": [
+    {
+      "name": "emil-design-eng",
+      "intake": "Full prior reading reused; recorded in brand/reviews/2026-11-07-github/independent/brand-b.json.",
+      "use": "Judge hierarchy on the complete composition, and require rendered evidence before claiming the addition works."
+    },
+    {
+      "name": "choreograph",
+      "intake": "Full prior reading reused.",
+      "use": "Apply lead/support and single shared intention to the still image; keep the additional pair in one supporting story area."
+    },
+    {
+      "name": "design-taste-frontend",
+      "intake": "Full SKILL.md and references/copy.md previously read; reused selectively.",
+      "use": "Preserve one personal identity and meaningful detail; recognizable third-party marks are not evidence of Nag's authorship."
+    },
+    {
+      "name": "prototype",
+      "intake": "Catalog only, not invoked.",
+      "use": "No prototype implementation is requested or needed for this bounded concept judgment."
+    }
+  ],
+  "workflowChanges": [
+    "Compare a two-cameo render against the zero-cameo original at the actual GitHub desktop and narrow-phone display sizes before escalating the cast.",
+    "Treat cameo roster as optional scene content, separate from the permanent moth identity and future website continuity."
+  ],
+  "rulesNotApplicableWithReason": [
+    "Animation timing, GPU rules and UI component prescriptions do not apply to this still-image concept.",
+    "No mandatory commercial hero, product proof block, photographic style or logo roster is imposed on the owner's illustrated park.",
+    "No browser or generation performed; no third-party identity or claimed endorsement inferred from the reference."
+  ],
+  "limits": [
+    "No cameo variant exists in the inspected evidence. Placement, recognition, small-size legibility and visual hierarchy remain unproven until rendering.",
+    "No human audience response, continuous performance or publication approval is claimed.",
+    "No numerical score assigned to unbuilt artwork."
+  ],
+  "pairDiscussion": {
+    "status": "Brand A read after independent record saved; explicit Brand B agreement sent to Brand A, partner response pending.",
+    "partnerRecord": "brand/reviews/2026-11-07-banner-park/ai-cameo/brand-a.json",
+    "meaningfulNarrowing": "My independent note allowed a nearby leaf as the second visitor's activity. Brand A's single shared workshop object gives the pair a clearer common reason to be present. I accept that narrower direction and retire the separate-leaf possibility for this experiment.",
+    "explicitIndividualPosition": "Agree to test exactly two small visitors as one shared workshop interaction behind the table, with zero as the unchanged comparison and fallback. Preserve foreground exclusivity and the resting moth's quiet pocket. Do not test three or the full cast in this pass.",
+    "longTermCondition": "Visitors are optional scene content, not permanent identity or a required website vendor roster. Do not enlarge them to force phone-size product recognition.",
+    "remainingSubstantiveObjection": "None to this bounded concept test. Actual cameo rendering, hierarchy and product roster remain unresolved.",
+    "scopeLimits": "Neither final artwork approval nor publication approval. No score or human outcome claim."
+  }
+}

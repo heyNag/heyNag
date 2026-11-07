@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>heyNag · Earlier V2 motion study</title>
+  <link rel="stylesheet" href="motion.css">
+  <script src="rig.js" defer></script>
+</head>
+<body>
+  <main>
+    <header>
+      <a class="wordmark" href="../lab/index.html">heyNag<span aria-hidden="true">.</span></a>
+      <span class="edition">Earlier V2 articulation study · 01</span>
+      <button id="theme" class="quiet" type="button" aria-label="Switch to dark background">Night</button>
+    </header>
+    <section class="study" aria-labelledby="title">
+      <div class="stage-wrap">
+        <div class="stage" id="stage">
+          <svg id="mascot" viewBox="100 30 470 610" role="img" aria-labelledby="mascot-title mascot-desc" xmlns="http://www.w3.org/2000/svg">
+            <title id="mascot-title">The heyNag moth</title>
+            <desc id="mascot-desc">A cream, tufted moth with a short left antenna, a tall right antenna, chartreuse folded wings, two mitten hands, and green feet. Currently at rest.</desc>
+            <defs>
+              <linearGradient id="night-cream" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff5df"/><stop offset="1" stop-color="#f1e2c6"/></linearGradient>
+              <radialGradient id="bulb-glow"><stop offset="0" stop-color="#ffe4a0" stop-opacity=".35"/><stop offset="1" stop-color="#ffe4a0" stop-opacity="0"/></radialGradient>
+            </defs>
+            <g id="tree" class="tree" aria-hidden="true">
+              <path id="tree-trunk" d="M493 612 C482 553 493 484 489 410 L487 321 M490 435 Q468 405 461 370 M490 410 Q515 388 522 363"/>
+              <g id="tree-canopy">
+                <path d="M487 239 C454 226 431 254 443 279 C416 292 421 328 444 339 C433 366 460 387 487 375 C512 391 541 371 536 348 C560 331 555 303 539 295 C550 268 524 238 500 249 Z"/>
+                <path class="tree-branch" d="M488 374 L486 304 M487 341 L466 316 M488 353 L513 322"/>
+              </g>
+            </g>
+            <ellipse id="shadow" cx="320" cy="612" rx="102" ry="9"/>
+            <g id="ground-leaves" class="ground-leaves" aria-hidden="true">
+              <path d="M189 622 Q202 609 215 618 Q205 631 189 622 Z"/>
+              <path d="M319 627 Q329 616 343 624 Q333 634 319 627 Z"/>
+              <g id="wandering-leaf"><path d="M407 618 Q419 603 432 612 Q425 627 407 618 Z"/></g>
+            </g>
+            <g id="foot-l" class="green outline"><path d="M275 574 L270 594 C254 600 252 616 270 618 C287 621 304 617 306 605 L310 576 Z"/></g>
+            <g id="foot-r" class="green outline"><path d="M345 575 L348 603 C348 616 363 621 380 618 C398 616 398 603 380 596 L378 574 Z"/></g>
+            <g id="body-motion">
+              <g id="wing-l" class="green outline"><path d="M278 414 C229 430 184 492 163 557 C151 590 175 611 205 591 C222 612 248 601 265 571 C285 533 295 466 278 414 Z"/></g>
+              <g id="wing-r" class="green outline"><path d="M364 413 C410 427 455 490 478 555 C491 589 468 610 438 591 C420 612 394 600 378 571 C357 533 348 466 364 413 Z"/></g>
+              <path class="cream outline" d="M277 418 C254 447 247 496 251 533 C254 573 279 595 320 596 C360 595 386 570 390 531 C394 491 382 446 363 420 Z"/>
+              <g id="arm-l"><path id="arm-l-outline" class="arm-outline"/><path id="arm-l-fill" class="arm-fill"/></g>
+              <g id="arm-r"><path id="arm-r-outline" class="arm-outline"/><path id="arm-r-fill" class="arm-fill"/></g>
+              <path class="cream outline" d="M272 410 C259 419 259 435 269 444 C281 452 297 445 301 439 C304 459 334 465 345 441 C354 453 375 450 381 436 C387 423 374 413 365 409 Z"/>
+              <g id="head">
+                <g id="antenna-l" class="green outline"><path d="M302 219 C285 175 259 160 234 176 C212 192 184 182 186 161 C188 137 224 128 251 141 C278 154 294 185 302 219 Z"/></g>
+                <g id="antenna-r" class="green outline"><path d="M325 213 C333 166 351 128 388 98 C420 72 462 55 483 68 C505 81 499 110 477 120 C448 132 426 115 403 118 C367 122 343 164 325 213 Z"/></g>
+                <path class="cream outline" d="M210 280 C190 264 209 230 241 215 C264 204 285 204 306 211 C326 191 352 189 367 203 C379 214 366 219 358 227 C382 217 411 239 424 265 C449 273 470 295 466 315 C464 331 451 335 439 331 C451 355 439 382 417 383 C407 404 388 405 374 399 C344 424 292 426 262 407 C242 420 219 413 214 397 C195 405 179 393 182 376 C159 379 145 364 151 344 C158 319 179 296 201 288 Z"/>
+                <g id="eyes">
+                  <ellipse id="eye-l" class="ink" cx="283" cy="314" rx="17" ry="29"/>
+                  <ellipse id="eye-r" class="ink" cx="375" cy="306" rx="15" ry="27"/>
+                </g>
+                <path id="brow-l" class="face-line" d="M259 274 Q275 254 294 268"/>
+                <path id="brow-r" class="face-line" d="M358 262 Q375 246 391 263"/>
+                <path id="mouth" class="mouth"/>
+                <g id="glasses" fill="none" stroke="var(--ink)" stroke-width="6" stroke-linecap="round">
+                  <rect x="250" y="279" width="65" height="70" rx="19" transform="rotate(-5 282 313)"/>
+                  <rect x="343" y="271" width="62" height="68" rx="18" transform="rotate(-5 375 305)"/>
+                  <path d="M314 303 Q328 294 343 299 M247 301 L234 295 M405 294 L415 289"/>
+                  <path class="lens-light" d="M256 292 L263 286 M348 284 L355 278"/>
+                </g>
+              </g>
+            </g>
+            <g id="seated-legs" aria-hidden="true">
+              <path class="cream outline" d="M281 554 C257 548 236 561 226 579 C216 598 235 616 261 610 L350 586 C366 581 365 562 350 564 L265 589 C274 578 281 565 281 554 Z"/>
+              <path class="green outline" d="M347 563 C358 557 374 563 377 573 C378 585 366 592 353 587 L334 579 Z"/>
+              <path class="cream outline" d="M358 554 C382 549 407 562 416 580 C427 599 408 617 382 610 L289 587 C273 582 275 563 290 565 L378 590 C367 580 360 566 358 554 Z"/>
+              <path class="green outline" d="M286 565 C274 560 258 567 256 577 C254 590 267 596 280 591 L298 581 Z"/>
+            </g>
+            <g id="hands-motion">
+              <g id="hand-l" class="cream outline"><path d="M-10 -4 C-12 5 -15 15 -9 23 C-2 33 13 30 16 20 C23 24 29 18 24 11 L13 -4 Z"/></g>
+              <g id="hand-r" class="cream outline"><path d="M-10 -4 C-12 5 -15 15 -9 23 C-2 33 13 30 16 20 C23 24 29 18 24 11 L13 -4 Z"/></g>
+            </g>
+            <g id="bulb" transform="translate(512 204)" class="bulb">
+              <circle class="glow" r="56" fill="url(#bulb-glow)"/>
+              <g class="rays" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round"><path d="M0 -31 V-38 M24 -22 L29 -27 M33 0 H40 M-24 -22 L-29 -27 M-33 0 H-40"/></g>
+              <path d="M-9 17 V12 C-23 1 -16 -19 0 -19 C16 -19 23 1 9 12 V17 Z" fill="var(--bulb)" stroke="var(--ink)" stroke-width="4" stroke-linejoin="round"/>
+              <path d="M-8 22 H8 M-5 27 H5 M0 15 V3 L-5 -2 M0 3 L5 -2" fill="none" stroke="var(--ink)" stroke-width="3" stroke-linecap="round"/>
+            </g>
+          </svg>
+        </div>
+        <p class="stage-caption" id="stage-caption">At rest. Pick a performance.</p>
+        <div class="playback">
+          <button id="play" type="button">Play the thought</button>
+          <button id="stop" class="quiet" type="button" disabled>Pause</button>
+          <button id="rest" class="quiet" type="button">Rest</button>
+          <label class="motion-switch"><input id="still" type="checkbox"> Still poses</label>
+        </div>
+        <div class="timeline" aria-hidden="true"><span id="progress"></span></div>
+      </div>
+      <div class="notes">
+        <p class="eyebrow">An idea has a body language.</p>
+        <h1 id="title">Thinking.<br>Then telling you.</h1>
+        <p class="intro">Nag’s moth companion: absorbed, a little amused, and already looking forward to sharing what he found.</p>
+        <div id="performances" class="performances" aria-label="Choose a performance">
+          <button data-clip="thought" aria-pressed="true"><span>01</span> A thought → an idea <small>4.8 s</small></button>
+          <button data-clip="thinking" aria-pressed="false"><span>02</span> Working it out <small>4.6 s</small></button>
+          <button data-clip="hello" aria-pressed="false"><span>03</span> Oh, hey <small>3.2 s</small></button>
+          <button data-clip="curious" aria-pressed="false"><span>04</span> Wait. What’s that? <small>3.8 s</small></button>
+          <button data-clip="oops" aria-pressed="false"><span>05</span> Well. That happened. <small>3.6 s</small></button>
+          <button data-clip="frustrated" aria-pressed="false"><span>06</span> This again. <small>4.0 s</small></button>
+          <button data-clip="surprised" aria-pressed="false"><span>07</span> Oh! <small>2.8 s</small></button>
+          <button data-clip="sad" aria-pressed="false"><span>08</span> A quieter moment <small>4.2 s</small></button>
+          <button data-clip="fun" aria-pressed="false"><span>09</span> Couldn’t help it <small>3.5 s</small></button>
+          <button data-clip="peaceful" aria-pressed="false"><span>10</span> Very peaceful. Probably. <small>8.0 s</small></button>
+        </div>
+        <p id="beat" class="beat" aria-live="polite">Glasses on. Chin dip. One foot tap. A small idea, then an invitation.</p>
+        <p class="study-note">Retained V2-derived articulation and timing experiment. Current work is the tiny V5 character and light/dark review; expressions, motion, and scenes follow later. This rig is not the current production model. <a href="../character-proof/index.html">View the character proof.</a></p>
+      </div>
+    </section>
+    <footer><span>No autoplay. No sound. Each performance ends in a hold.</span><span>Keys: 1–9 choose · P peaceful · Space pause/resume · R replay · 0 rest</span></footer>
+  </main>
+</body>
+</html>

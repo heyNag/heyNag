@@ -1,0 +1,186 @@
+{
+  "version": 1,
+  "scope": "Consolidated WHOLE-SCENE correction plan for the owner-requested Pixar/Disney-inspired animated-feature picture. This is a plan vote, not approval of unbuilt art.",
+  "reviewedAsset": "assets/brand/banner-park/park-film-study-11-flat-grok-eyes.png",
+  "reviewedAssetSha256": "87943e3c1452d40b1ac535ea5bbcefa6e7676cee77165eef2d77ce5c67a32569",
+  "reviewCount": 18,
+  "currentVerdict": "All18 initial whole-scene reviews say revise. Current11 is not ready for finished-art presentation.",
+  "individualScores": [
+    {
+      "reviewer": "brand-a",
+      "score": 8.2,
+      "scope": "Whole-scene still-image craft within Brand A's lens: personal story, hierarchy, identity and cohesion of environment, light and materials. Fresh scope; earlier eye or concept verdicts are not inherited approval.",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/brand-a.json"
+    },
+    {
+      "reviewer": "brand-b",
+      "score": 8.4,
+      "scope": "Whole day still-image craft through personal identity, narrative hierarchy, material coherence and suitability for long-term heyNag application. No score for unbuilt animation, website, sound or audience response.",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/brand-b.json"
+    },
+    {
+      "reviewer": "performance-a",
+      "score": 8.2,
+      "scope": "The complete still's intention, emotional staging, support/contact, hierarchy and material/light coherence insofar as they sustain acting. Fresh whole-picture assessment, not inherited approval from earlier character passes.",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/performance-a.json"
+    },
+    {
+      "reviewer": "performance-b",
+      "score": 8.2,
+      "scope": "Whole still-image performance craft: staging, pantomime, gaze, apparent weight/contact, emotional clarity and material/environment coherence supporting the acting. No motion score.",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/performance-b.json"
+    },
+    {
+      "reviewer": "identity-a",
+      "score": 8.1,
+      "scope": "Whole still-image craft through identity coherence, silhouette, cameo hierarchy and communication across supplied image scales. This is neither an animation score nor a continuation of the earlier profile or eye-only judgment.",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/identity-a.json"
+    },
+    {
+      "reviewer": "identity-b",
+      "score": 8.3,
+      "scope": "Whole-frame still-image identity, hierarchy, scale readability and coherent animated-film finish; no animation or audience-outcome score.",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/identity-b.json"
+    },
+    {
+      "reviewer": "rigging-a",
+      "score": 8.3,
+      "scope": "Whole-scene still-image craft through the articulation/contact and rendering-integrity lens. Not a score for a 3D model, rig, animation, interaction or audience response.",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/rigging-a.json"
+    },
+    {
+      "reviewer": "rigging-b",
+      "score": 7.8,
+      "scope": "Still-image technical craft across the entire frame: visible construction, contact, material distinction, contours and coherent spatial integration. No score for an unbuilt 3D rig or animation.",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/rigging-b.json"
+    },
+    {
+      "reviewer": "interaction-a",
+      "score": 8.4,
+      "scope": "Whole still-image craft within the interaction lens: ease of scanning, focal hierarchy, scene comprehension and surface clarity at native and supplied local banner scales. Not a keyboard, accessibility-conformance, motion, audience or device score.",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/interaction-a.json"
+    },
+    {
+      "reviewer": "interaction-b",
+      "score": 8.4,
+      "scope": "Whole still-image craft within Interaction B\u2019s hierarchy and comfort lens; not animation or interface quality.",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/interaction-b.json"
+    },
+    {
+      "reviewer": "audience-a",
+      "score": 8.5,
+      "scope": "Ordinal expert still-image craft judgment for this complete scene's emotional staging, clear hero, identity cues and comfortable visual coherence. Not an audience result or animation score.",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/audience-a.json"
+    },
+    {
+      "reviewer": "audience-b",
+      "score": 8.4,
+      "scope": "Expert still-image craft within audience lens: readable emotion/identity cues, hierarchy and coherent visual storytelling across the entire scene. No score for recognition, recall, affection, motion or a published application.",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/audience-b.json"
+    },
+    {
+      "reviewer": "storyboard-a",
+      "score": 8.3,
+      "scope": "Current 11 as one silent animated-feature-inspired still: visual hierarchy, continuous park composition, action grouping, spatial storytelling and material clarity supporting those jobs. This is a fresh whole-scene craft score, not a revision of the earlier static GitHub profile score and not a motion score.",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/storyboard-a.json"
+    },
+    {
+      "reviewer": "storyboard-b",
+      "score": 8.4,
+      "scope": "Current 11 as one static animated-feature-inspired park composition: hierarchy, depth, economy, environmental coherence and action legibility. No score for actual animation, studio equivalence, GitHub deployment, audience response or an unbuilt replacement.",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/storyboard-b.json"
+    },
+    {
+      "reviewer": "visual-a",
+      "score": 8.2,
+      "scope": "Subjective still-image craft of the complete11 frame through material, lighting, color, depth and environmental integration. Not a precise measurement, studio-equivalence rating, animation score or continuation of the earlier GitHub application score.",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/visual-a.json"
+    },
+    {
+      "reviewer": "visual-b",
+      "score": 8.3,
+      "scope": "Whole still-image visual craft through drawing appeal, contour, material readability, composition and scale; no motion, sound or audience outcome score.",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/visual-b.json"
+    },
+    {
+      "reviewer": "sound-a",
+      "score": 8.2,
+      "scope": "Still-image craft within silent action legibility, hierarchy, atmosphere and visual rest across the entire frame. No audio or motion score.",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/sound-a.json"
+    },
+    {
+      "reviewer": "sound-b",
+      "score": 8.4,
+      "scope": "Silent still-image story hierarchy, coherent atmosphere and visual rhythm/rest across the inspected whole frame and local scales. This is not an audio, animation, audience or deployed-banner score.",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/sound-b.json"
+    }
+  ],
+  "scoreRange": [
+    7.8,
+    8.5
+  ],
+  "retain": [
+    "Same three appearances of original tiny innocent heyNag moth: exclusive foreground coding bench/MacBook, middle workshop, left-tree rest.",
+    "Same four supporting guests, same two workshop stools, same tree-local leaf play; no cast, props, text or composition expansion.",
+    "Current large-shape composition, warm motivated sunlight, park depth, lushness and hero-first hierarchy.",
+    "Original compact V5 anatomy, marked layered wings, asymmetric antennae, short mittens/stub feet. No aging/enlargement.",
+    "Current successful eye/identity corrections: Muse small dark filled eyes and modest hood refinement; Grok two flat pupil-free white ovals; Clawd orange plush with both square black eyes visible; blue beret Dot.",
+    "Readable clear glasses and 11 intentional story/leaf-contact refinements."
+  ],
+  "requiredCorrections": [
+    {
+      "id": "W1-materials-contours",
+      "action": "Recover coherent material-specific surfaces and stable contours throughout the entire frame, using07 as clean quality control without reverting all11 changes.",
+      "locations": [
+        "Hero cream head, antenna paddles and green wings",
+        "Glasses rims, laptop edges, wood/metal bench and blanket",
+        "Clawd plush body and face",
+        "Workshop toolbox/table/canopy",
+        "Tree bark, stone path and foliage"
+      ],
+      "materialTargets": [
+        "Cream moth and orange Clawd: soft continuous plush/velvet volume with restrained fine surface texture; no cracked/cellular/quilted network.",
+        "Wings/paddles: broad clear soft forms and established markings, not the same embossed treatment as wood.",
+        "Wood: controlled coherent grain and clean shaped boards; metal/glass: continuous constructed contours; fabric: intentional weave/knit.",
+        "Stone/foliage: broad readable planes and material-specific detail supporting depth; preserve intentional leaf shapes, bark and grain."
+      ],
+      "avoid": [
+        "No global blur",
+        "No uniform plastic smoothing or added fur everywhere",
+        "No unrestricted composition/cast restyle",
+        "No worsening eye shapes or hand contacts while fixing materials"
+      ],
+      "acceptance": "A visible improvement in matched native crops AND full-frame1280 view against11, with07 as control; entire picture must read as one soft dimensional animated-film world."
+    },
+    {
+      "id": "W2-workshop-grip",
+      "action": "Restore one solid rounded tiny mitten wrapping the mallet handle, connected by a short readable wrist/arm. Use07 clearer contact as a construction reference.",
+      "bounds": "Keep existing tiny reach, raised mallet pose, prop scale and character anatomy. No new fingers, stretched arm, or demand for hammer-to-box contact during anticipation.",
+      "acceptance": "At native crop the mitten clearly encloses handle and belongs to moth; at full frame tool reads held, with no hollow/angular strap interpretation."
+    }
+  ],
+  "optionalNotRequired": [
+    "Quiet selected incidental edge/highlight contrast around path/grass/bench only if needed after the material cleanup; keep lively garden and golden-hour lighting.",
+    "Further coder gaze, builder invitation, resting-eye direction or workshop watcher orientation remain optional preferences. Do not re-pose accepted Clawd or remodel Muse to chase them.",
+    "No extra jokes, decorative props, more characters or enlarged guests for420px recognition."
+  ],
+  "implementationBounds": [
+    "Preserve11 composition and intentional improvements.07 is a quality/construction reference, not a blanket version rollback.",
+    "A controlled image edit/reconstruction may be necessary for material cleanup, but its actual whole-frame result must be assessed; prompt promises do not prove preservation.",
+    "Keep candidate exports versioned and prior assets intact. No GitHub publication during this review."
+  ],
+  "verification": [
+    "Hash exact complete candidate export.",
+    "Check full frame and matched hero/workshop/tree regions at native size.",
+    "Inspect final integrated Muse/Grok eyes and tiny grip at magnification, not just a reference patch.",
+    "Compare1280/880/420 local image scales without claiming native GitHub or physical-device testing.",
+    "Check supports, feet/wings/antennae, stool/bench/laptop/tool contacts and scene/light/material continuity.",
+    "All18 specialists independently inspect actual updated whole image before finished-art presentation. Pair challenge follows saved independent judgments; no score inflation."
+  ],
+  "limits": [
+    "Scores are scoped AI still-image craft judgments, not measured audience attachment/recall or proof of real animation/rig/audio.",
+    "Some peer summaries reached reviewers after their provisional image judgment but before file save; individual records disclose that. Do not claim fully blinded human-style research.",
+    "Plan acceptance is not automatic9/10 and not approval of a future render."
+  ],
+  "voteInstruction": "Read own partner record and this entire proposal. Resolve/explicitly confirm your pair recommendation, then vote agree / agree_with_named_limits / object_with_specific_evidence on this exact plan. Preserve own current score; no rescore of unbuilt work."
+}

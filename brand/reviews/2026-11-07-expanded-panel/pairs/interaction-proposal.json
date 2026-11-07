@@ -1,0 +1,37 @@
+{
+  "scope": "Refined V5 studio improvement plan, not artwork approval or accessibility certification.",
+  "challenges": [
+    {
+      "claim": "B: reading keys have unexpectedly broad playback scope",
+      "decision": "Accept; distinguish it from native-control safety",
+      "evidence": "studio.js:174-182 excludes INPUT/SELECT/BUTTON and other tags, but handles BODY/H2/P. Recorded scrub Home/End succeeds; those controlled-input results cannot establish page-reading behavior. README:18 documents shortcuts, but the studio does not explain them in context.",
+      "correction": "Source establishes interception for eligible targets, not its frequency, human disruption or screen-reader behavior. Prior corrected-focus approval did not test this context. Merely checking visibility is insufficient when reading alongside a visible player."
+    },
+    {
+      "claim": "B: native grouped selection provides an efficient route",
+      "decision": "Accept structure; qualify demonstrated keyboard operation",
+      "evidence": "studio.js:136 wires change; interaction-checks.json records wraparound buttons and synchronization. interaction-extra.json native probe remains Angry after the attempted keys.",
+      "correction": "Neither programmatic selection nor focus retention proves physical native-option selection. The inconclusive probe also does not prove breakage; repeat the actual native interaction before any remediation."
+    },
+    {
+      "claim": "B: single-theme mobile view may improve subtle-feeling recognition",
+      "decision": "Accept experiment; reject inferred default change",
+      "evidence": "studio.css:32-35,70-71 supplies a wider single-theme stage with fixed mobile height. studio-320.png and overflow measurements show layout, not unaided recognition.",
+      "correction": "Measure rendered character size and discoverability first. Separate successful enlargement/control use from unlabeled expression interpretation. Neither is evidence of attachment or recall."
+    }
+  ],
+  "agreementsAndDifferences": "Preserve still arrival, finite motion, native controls, focus handoff and quiet status updates. A adds a newly examined reading-context risk while preserving prior demonstrated fixes. B prioritizes newcomer/revisit observation; A prioritizes bounded keyboard evidence first. A remains unscored; B supplied no numerical score. No score convergence is implied.",
+  "prioritizedExperiments": [
+    "First: capture Space/arrows/Escape from BODY, an outside reading paragraph and the player heading, with player visible/offscreen; log focus, scroll and playback. Remove document shortcuts or restrict retained shortcuts to an explicitly explained, deliberate player context. Retest controls and gallery handoff.",
+    "Next: genuinely open, navigate and commit nonadjacent native options; check selected value, heading, status and focus. Follow with a bounded screen-reader traversal, long-name zoom/reflow and live reduced-motion toggle.",
+    "Then: observe a small newcomer/revisit task using Both versus single-theme mobile views. Log assistance and interpretation separately. Change defaults only for observed benefit; preserve anatomy."
+  ],
+  "acceptanceCriteria": [
+    "Reading outside the opted-in player context preserves browser keys and does not change playback; native range/select/radio/button behavior remains intact.",
+    "Fresh evidence preserves visible gallery focus, next Tab, wraparound, pause/rest, manual collection cancellation and reduced-motion still inspection; native selection actually changes the intended option.",
+    "Record actual spoken/zoom/preference outcomes and research limits. Reassess toward nine only after relevant improvements and evidence; no automatic score or universal compliance claim."
+  ],
+  "remainingObjections": "Shortcut context remains unresolved. Native keyboard selection, spoken output and mobile recognition remain unproven, not presumed failures. Human research is a scoped quality experiment, not a gate on unrelated static identity work.",
+  "ADecision": "Agree with this plan and named limits; no approval of unbuilt changes or higher score.",
+  "BDecision": "pending"
+}

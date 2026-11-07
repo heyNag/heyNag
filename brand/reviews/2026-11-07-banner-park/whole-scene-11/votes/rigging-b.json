@@ -1,0 +1,32 @@
+{
+  "reviewer": "rigging-b",
+  "proposal": "brand/reviews/2026-11-07-banner-park/whole-scene-11/proposal-v1.json",
+  "proposalSha256": "f22147674c4537a20f89925d335e107abb9a8bc9e322559b92209c35981d40b4",
+  "hashVerification": "Independently calculated SHA256 and matched the exact requested proposal after reading it in full.",
+  "reviewedAssetSha256": "87943e3c1452d40b1ac535ea5bbcefa6e7676cee77165eef2d77ce5c67a32569",
+  "position": "agree_with_named_limits",
+  "scope": "Consolidated whole-scene correction plan only.",
+  "currentScore": 7.8,
+  "currentScoreMeaning": "Retained still-image technical craft score for current image 11 across visible construction, contact, material distinction, contours and spatial integration. Current image remains revise; no replacement is rescored or approved.",
+  "reasons": [
+    "W1 addresses the visible regression throughout the frame, including hero anatomy, glasses, laptop, bench, blanket, Clawd, workshop, tree, path and foliage. Material-specific surfaces and continuous contours are concrete repair criteria; global blur or uniform plastic smoothing would not satisfy them.",
+    "W2 precisely addresses the ambiguous mallet connection: a solid rounded mitten enclosing the handle with a short readable wrist/arm. It preserves compact anatomy and anticipation, without inventing human fingers, lengthening the limb or requiring hammer-to-box impact.",
+    "The plan preserves the current composition, cast, three moth appearances, Muse-leaf interaction and corrected eyes, using 07 as a quality control rather than discarding later improvements.",
+    "Optional orientation and texture-economy preferences remain optional. The required repairs do not justify a new cast, enlarged guests, extra props or changed story."
+  ],
+  "limits": [
+    "Acceptance applies only to this exact plan hash. The actual complete replacement must show the repairs at native and supplied local scales, with magnified inspection of its integrated eyes and grip.",
+    "No automatic 9, finished-art approval, publication authority or endorsement of unseen artwork follows from this vote.",
+    "A raster still cannot establish hidden topology, a working 3D rig, animation performance, physical-device behavior or audience recognition.",
+    "Material-change causes remain unestablished; the repair is justified by visible differences, not a claimed production diagnosis."
+  ],
+  "pairConfirmation": {
+    "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/pairs/rigging.json",
+    "recordRead": true,
+    "confirmed": true,
+    "jointRecommendation": "Revise 11 before final presentation. Preserve the composition, four guests, three compact V5 moth appearances, Muse-leaf interaction and flat Grok eyes. Restore material-specific surfaces and continuous contours throughout the frame, and one clear rounded mitten gripping the mallet with a short wrist connection. Use 07 as a control for retained qualities rather than a wholesale rollback. Keep individual scores and do not approve an unseen replacement.",
+    "basis": "I proposed and explicitly accepted this exact recommendation after both independent reviews were saved. A subsequently confirmed it in full by direct message and in the pair record. This supersedes the earlier pending acknowledgment status in my independent file.",
+    "differencePreserved": "A retains 8.3; B retains 7.8. B weights the broad material/contour regression more heavily. Both require the same whole-frame repair; scores are not averaged.",
+    "remainingSubstantiveObjections": []
+  }
+}

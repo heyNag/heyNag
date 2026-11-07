@@ -1,0 +1,66 @@
+body { margin: 0; }
+.wrap { width: min(1280px, calc(100% - 96px)); margin-inline: auto; }
+.masthead { display: flex; align-items: center; justify-content: space-between; padding-block: 28px; border-bottom: 1px solid #ccd0c5; }
+.brand { font-size: 28px; letter-spacing: -.06em; text-decoration: none; color: var(--hn-ink); }
+.brand span { color: var(--hn-forest); }
+.masthead p { color: var(--hn-muted); font-size: 14px; }
+.intro { display: grid; grid-template-columns: 1fr 1fr; gap: 48px; align-items: end; padding-block: 48px 40px; }
+h1 { font-size: clamp(44px, 5vw, 72px); line-height: 1.02; letter-spacing: -.05em; }
+.intro p { max-width: 37ch; font-size: 18px; line-height: 1.55; padding-bottom: 3px; color: #4b5146; }
+.comparison { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+.plate { border-radius: 20px; overflow: hidden; }
+.day { background: #e8eade; color: #1c1c1c; }
+.night { background: #1c1c1c; color: #f1f1ef; }
+.plate figcaption { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px 20px; font-size: 13px; padding: 22px 26px 0; }
+.plate figcaption span:last-child { opacity: .75; }
+.plate > img { width: 100%; padding: 18px 44px 34px; }
+h2 { font-size: clamp(25px, 2.5vw, 34px); line-height: 1.15; letter-spacing: -.035em; }
+.construction { display: grid; grid-template-columns: 1fr 2fr; gap: 48px; padding-block: 64px; border-bottom: 1px solid #ccd0c5; }
+dl { display: grid; grid-template-columns: repeat(3, 1fr); gap: 28px; margin: 0; }
+dt { font-weight: 500; margin-bottom: 8px; }
+dd { margin: 0; font-size: 15px; color: #555d52; line-height: 1.6; }
+.scale-section { padding-block: 52px; }
+.section-heading { display: flex; gap: 20px; justify-content: space-between; align-items: baseline; margin-bottom: 28px; }
+.section-heading p, .scale-note { font-size: 14px; color: #555d52; }
+.scale-pair { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+.scale-row { display: flex; gap: 28px; align-items: end; justify-content: center; padding: 24px; border-radius: 16px; }
+.scale-row figure { display: grid; justify-items: center; gap: 14px; flex-shrink: 0; }
+.scale-row img { max-width: none; }
+.scale-row figcaption { font-size: 12px; opacity: .8; }
+.scale-note { margin-top: 18px !important; }
+.refinement { border-block: 1px solid #ccd0c5; padding-block: 20px; }
+summary { font-size: 17px; min-height: 44px; display: list-item; align-content: center; cursor: pointer; }
+summary:hover { color: var(--hn-forest); }
+.refinement > p { margin-block: 12px 24px; color: #555d52; }
+.detail-pair { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; max-width: 800px; }
+.detail-crop { position: relative; overflow: hidden; aspect-ratio: 1.25; background: #e8eade; border-radius: 16px; }
+.detail-crop img { position: absolute; width: 400%; max-width: none; left: -198%; top: -300%; }
+.detail-pair figcaption { padding-block: 12px; font-size: 14px; }
+.footer { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 16px 28px; padding-block: 32px 40px; color: #555d52; font-size: 13px; }
+.footer a { color: var(--hn-forest); text-underline-offset: 4px; }
+.footer a:hover { text-underline-offset: 6px; }
+@media (max-width: 1023px) {
+  .wrap { width: calc(100% - 48px); }
+  .plate > img { padding: 20px; }
+  .plate figcaption { padding-inline: 20px; }
+  .construction { grid-template-columns: 1fr; gap: 28px; }
+  .scale-pair { grid-template-columns: 1fr; }
+}
+@media (max-width: 639px) {
+  .wrap { width: calc(100% - 32px); }
+  .masthead { padding-block: 20px; }
+  .masthead p { font-size: 12px; }
+  .intro { grid-template-columns: 1fr; gap: 24px; padding-block: 32px; }
+  .intro p { font-size: 16px; }
+  .comparison { grid-template-columns: 1fr; gap: 16px; }
+  .plate > img { padding: 12px 28px 24px; }
+  .plate figcaption { padding: 20px 20px 0; font-size: 12px; }
+  .construction { padding-block: 36px; }
+  dl { grid-template-columns: 1fr; gap: 22px; }
+  dt { margin-bottom: 4px; }
+  .section-heading { flex-direction: column; gap: 12px; }
+  .scale-row { padding: 20px 10px; gap: 6px; }
+  .scale-row { flex-wrap: wrap; }
+  .detail-pair { gap: 12px; }
+  .footer { padding-block: 28px; }
+}

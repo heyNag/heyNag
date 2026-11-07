@@ -1,0 +1,40 @@
+{
+  "request": "Implement agreed refinements, then all18 specialists independently challenge updated version with honest scores; preserve tiny innocent geometry in both themes.",
+  "plan": "../2026-11-07-expanded-panel/team-proposal-v1.json",
+  "scope": "Native SVG character, motion, local studio/signature study, refreshed application exports. No deployed website or published GitHub changes.",
+  "version": "review-source-v4.json",
+  "independence": "Read your role/history and actual evidence first; do not read a partner new review until your independent record is saved. Do not increase a score to meet9 target.",
+  "sourceEvidence": "567 identical numeric-input geometry samples in browser across frozen,day,night;15 meaningful deterministic tests.",
+  "visualEvidence": [
+    "evidence/paint.png",
+    "evidence/sizes-final.png",
+    "evidence/poses.png",
+    "evidence/all-final.png",
+    "evidence/signature-final-1440.png",
+    "evidence/signature-final-390-stage.png",
+    "evidence/signature-final-390-night.png",
+    "evidence/signature-final-320.png",
+    "evidence/curious-investigate.png",
+    "evidence/curious-wry.png",
+    "evidence/mischievous-one-peek.png",
+    "evidence/excited.png",
+    "evidence/surprised.png"
+  ],
+  "operabilityEvidence": [
+    "evidence/keyboard-before.json",
+    "evidence/keyboard-after.json",
+    "evidence/interaction.json",
+    "evidence/layout-and-collection.json"
+  ],
+  "motionEvidence": "comparison.html/js is an interactive exact-engine comparison; comparison-export.json and comparison.mp4 will contain30fps deterministic film with frozen/current andday/night. Do not equate sampled images or cadence with watching continuous motion. No agent should claim normal-speed perception unless its tool actually supports that.",
+  "limits": [
+    "No new unprimed human observers or memory outcomes.",
+    "Native dropdown visibly opened with24 options via CUA native AX; menu keyboard commit remains inconclusive, selectOption result verified.",
+    "Native AX labels checked; no screen-reader spoken-output capture.",
+    "Portrait phone composition supersedes the original side-by-side composition; screenshot checks do not establish physical-device behavior.",
+    "Local desktop rAF observation contains ~1s gaps; cause unestablished, no smoothness or real-phone performance claim."
+  ],
+  "output": "Write independent/<role>-<a|b>.json with reviewer,model,reasoning,scope,evidenceActuallyInspected,score(outOf10 ornull),scoreMeaning,strengths,deductions(confidence,severity,basis),improvementCriteria,confidence,implementedAssessment,objections,limits. Score only what you can support; include quality judgments beyond mechanical tests.",
+  "ownerPreference": "owner-preference.json: Nag selected Investigate & share, warm and curious.",
+  "entireTeamMessage": "Nag installed all emilkowalski/skills and explicitly asked EVERY TEAM to inspect them and improve workflow. Read installed-skills.json full catalog and relevant SKILL.md files. Record skillsReviewed,workflowChanges,rulesNotApplicableWithReason in EACH independent review; pair discussions must also agree how to use skills."
+}

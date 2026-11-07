@@ -1,0 +1,70 @@
+{
+  "reviewerId": "storyboard-b",
+  "lens": "Editing rhythm and comic economy",
+  "stage": "Independent concept guidance saved first; subsequent narrow pair confirmation appended",
+  "position": "Support a bounded two-cameo experiment against the unchanged moth-only baseline. Prefer one background workshop-watching group. Inclusion is conditional on an actual small-banner comparison; no score or approval of an unbuilt variant.",
+  "count": {
+    "preferredTest": 2,
+    "baseline": 0,
+    "zero": "The existing scene already has three useful beats: code in front, build deeper back, rest and peek under the tree. Zero cameos preserves the strongest economy and remains the fallback.",
+    "two": "Two small watchers clustered at the workshop can add sociability through one supporting action and one shared attention target. Treat them as one visual group, not two new stories.",
+    "three": "One watcher plus two tree players adds two new activity groups to the three existing moth beats. It spends more attention than the proposed story requires; do not use for the first test.",
+    "fullCast": "Do not test the full reference cast in this banner. The reference derives much of its composition from a central gathering of colorful figures and basket symbols. Distributing that many distinct forms through the existing scene would introduce numerous competing accents and identities. This is a predicted risk, not an observed failure of an unbuilt image."
+  },
+  "staging": {
+    "hardForegroundExclusion": "Reserve the foreground bench, coding moth, MacBook and surrounding path completely. No cameo on, beside, behind in apparent contact with, or overlapping the bench/coder/laptop silhouette; no cameo on the foreground path or among the foreground plants.",
+    "preferred": "Put both companions together in deeper workshop space, on the far side of the worktable and clear of the path, with their attention converging on the builder/toolbox. Keep both clearly smaller than the builder, subordinate in contrast, and clear of the hammer, face, wings and antennae. Do not make individual logo recognition a requirement.",
+    "action": "One shared quiet watching action is enough. Avoid pointing in opposing directions, cheering, large arm silhouettes, speech, extra text, a logo basket or additional props that create another narrative center.",
+    "treeAlternative": "Two quiet players are a separate alternative, not an addition to workshop watchers. They must remain deeper in the grove, behind the resting moth's depth plane, with a clear gap from its face and roots. This is less economical: it can turn the existing peaceful peek into a reaction to a new disturbance. Preserve the resting moth's quiet beat unless that causal change is deliberately wanted.",
+    "smallPresentation": "At the previously measured 238px README width, this 3:1 scene would be about 79px tall. Fine faces, logo interiors and interaction details will be extremely small. Code/build/rest and the main coder's silhouette must remain understandable without decoding the cameos. Compare the actual variant and zero-cameo baseline at 846px and 238px width."
+  },
+  "failure": [
+    "Any cameo occupies the excluded foreground or visually attaches to the bench, coder or MacBook: reject that composition regardless of count.",
+    "The cameo group becomes a stronger color/contrast focus than the foreground moth, or requires enlarging figures to make logos recognizable: remove or reduce it.",
+    "Watchers obscure the builder, toolbox, hammer action or path depth, making the existing building beat harder to identify: return to zero or restage deeper.",
+    "Tree play competes with the resting moth's face/peek or adds a second energetic incident: prefer the single workshop group or zero.",
+    "At 238px the additions become disconnected colored specks with no readable supporting relationship: retain the moth-only baseline rather than enlarging the cast into the foreground."
+  ],
+  "evidence": [
+    "Read brand/reviews/2026-11-07-banner-park/ai-cameo-brief.json and brand/workflow.json.",
+    "Direct view_image of assets/brand/banner-park/park-day-study-02-macbook.png: dominant right-front coder and MacBook, central deeper workshop with raised hammer/toolbox, left resting moth with one eye peeking, continuous winding path and leafy setting. Actual source is 2172x724; displayed inspection was resized to 2048x683.",
+    "Direct view_image of /tmp/codex-remote-attachments/01a1b473-8621-7941-ba03-4b47867c136c/D31EE005-F5E8-41CB-97E7-95E073243BDD/1-Photo-1.jpg: multiple anthropomorphic emblem-like forms gathered around a basket on a picnic blanket, with saturated purple/blue/red accents and a central ensemble composition. No uncertain product identities or all-AI roster asserted."
+  ],
+  "skillsReviewed": {
+    "newFullReads": [],
+    "previousFullInstructionsReused": [
+      "/Users/nag/.config/skillshare/skills/choreograph/SKILL.md",
+      "/Users/nag/.config/skillshare/skills/review-animations/SKILL.md",
+      "/Users/nag/.config/skillshare/skills/animation-vocabulary/SKILL.md",
+      "/Users/nag/.agents/skills/emil-design-eng/SKILL.md"
+    ],
+    "application": "Reuse lead/support hierarchy, one coherent action per supporting group, purpose before embellishment, and separation of static staging from perceived timing. Prior all-17 catalog intake remains recorded; no claim to have newly read the whole catalog or review-animations/STANDARDS.md in this pass."
+  },
+  "workflowChanges": [
+    "Compare zero and two with the existing scene held constant, then inspect actual GitHub-sized renders before accepting additional cast.",
+    "Use a hard foreground exclusion before evaluating style or charm; any candidate crossing it fails regardless of appealing details.",
+    "Judge attention groups and action count, not only the number of individual characters. Two watchers can function as one group; one watcher plus two players introduces two new groups."
+  ],
+  "rulesNotApplicableWithReason": [
+    "No motion is built or watched, so timing, staggering, spring, sound and continuous comic rhythm cannot be approved from these stills.",
+    "This is a bounded concept review, not a source implementation or browser test. Root supplies generation and browser evidence; this reviewer writes only its own review record.",
+    "No numeric score, publication approval, audience-recognition claim or inferred product endorsement follows from this concept judgment."
+  ],
+  "pairConfirmation": {
+    "partnerReview": "brand/reviews/2026-11-07-banner-park/ai-cameo/storyboard-a.json",
+    "independentSaveBeforePartnerRead": true,
+    "challenge": "B challenged the possible escalation from two cameos to three: a successful two-cameo render is not itself a storytelling reason to add tree play, which introduces another event and changes the existing quiet peek.",
+    "partnerResponse": "A explicitly accepted the challenge. Three and full cast are outside the first test; tree play needs a separate owner-supported storytelling reason and comparison.",
+    "exactJointRecommendation": "Test two small background companions watching the toolbox work as one supporting group; reserve the foreground entirely for Nag's coding scene, keep the moth-only baseline, and remove the cameos if they compete with the coder or obscure the three moth activities at banner size.",
+    "reviewerAccepted": true,
+    "partnerExplicitlyConfirmed": true,
+    "remainingSubstantiveDisagreement": [],
+    "boundary": "This confirms a bounded comparison to generate, not acceptance of cameos, a chosen product roster, an artwork score or publication approval."
+  },
+  "limits": [
+    "No cameo variant exists in the inspected evidence; predicted overload and proposed scale remain hypotheses until rendered.",
+    "The current park image was inspected at the supplied display size, not freshly rendered at 846px or 238px in this pass.",
+    "The foreground rule and preferred count are concept constraints, not a guarantee that an image generator will preserve anatomy or layout.",
+    "No partner review was read before this independent record was saved."
+  ]
+}

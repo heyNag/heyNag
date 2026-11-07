@@ -1,0 +1,39 @@
+{
+  "discipline": "Technical character animation and rigging",
+  "scope": "Concrete improvement plan toward nine; current art remains unscored by A.",
+  "challenges": [
+    {
+      "claim": "B: motion tests omit the renderer, leaving rendered integrity unestablished.",
+      "response": "Correct for that suite; narrow the overall gap. geometry-checks.json already compares actual renderer geometry across 504 poses with zero mismatches or invalid SVG. It excludes paint and two added antenna-edge paths; it does not measure occlusion or appeal. Reuse it instead of repeating a missing-renderer claim."
+    },
+    {
+      "claim": "B: airborne cross-family interruption lacks visual continuity evidence.",
+      "response": "Partly superseded: exact-case-9.png, viewed by A, shows excited interrupted into angry then worried with intact compact anatomy across selected exact frames. It cannot establish uninterrupted timing or every pair. Add only a distinct intended interruption, such as excited→sad, if needed; exhaustive cross-family certification is not required."
+    },
+    {
+      "claim": "B: thinking/grateful contour density is a minor refinement concern.",
+      "response": "After viewing poses.png, A sees intentional chin contact and gratitude gathering, with improved supporting-hand separation. Treat density as a size-dependent readability hypothesis, not an established defect or instruction to separate every contour."
+    }
+  ],
+  "agreements": [
+    "Preserve tiny anatomy, four layered wings, attached stub feet, unequal continuous antennae and identical theme poses.",
+    "Numeric tests cannot establish expressive distinction, perceived timing or audience attachment.",
+    "A compact application-size render/playback review is useful; change staging or timing only after identifying a visible problem."
+  ],
+  "differences": ["A considers existing renderer and interrupted-hop evidence stronger than B's initial inspected set; B has not yet confirmed this reconciliation."],
+  "prioritizedExperiments": [
+    "P1: Inventory existing renderer checks and exact captures against the intended applications; record size, theme, sequence and source revision so evidence gaps stay specific.",
+    "P2: Review thinking/focused/grateful at the minimum supported character size in both themes; inspect existing hop/interruption footage at normal speed, adding excited→sad and one reflective→joy switch only where existing evidence does not cover intended use.",
+    "P3: For a reproduced problem, compare one pose/timing adjustment against the baseline; retain it only if both rig reviewers accept improved readability without lost character."
+  ],
+  "acceptanceCriteria": [
+    "No newly clipped, detached or accidentally obscured parts in the bounded application-size cases; intentional hand contact is allowed.",
+    "No unintended snap, midair pause or cheerful reset in the selected intended narrative; landing weight judged in playback, not inferred from velocity assertions.",
+    "Any adopted adjustment preserves matched theme geometry, anatomical invariants, finite completion and reduced-motion stills, supported by relevant regression checks and fresh rendered evidence.",
+    "Each reviewer independently rescores only inspected improvements; agreeing to this plan awards no nine and makes no audience-recognition claim."
+  ],
+  "remainingObjections": [],
+  "remainingLimits": ["Normal-speed playback judgment and human audience evidence remain unmeasured by A; B response pending."],
+  "ADecision": "Agree with the stated nonblocking evidence limits.",
+  "BDecision": "pending"
+}

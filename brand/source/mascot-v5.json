@@ -1,0 +1,31 @@
+{
+  "asset": "assets/brand/heynag-moth-v5.png",
+  "method": "OpenAI built-in image generation",
+  "useCase": "identity-preserve",
+  "status": "User-favored character foundation; not a final public release.",
+  "userFeedback": "This is more like good. Continue challenging details, but do not make it adult-like.",
+  "referenceRoles": [
+    {
+      "asset": "assets/brand/heynag-moth.png",
+      "role": "Primary reference for original tiny, innocent proportions"
+    },
+    {
+      "asset": "assets/brand/moth-anatomy-study-v4.png",
+      "role": "Wing layering only; adult-like proportions rejected"
+    }
+  ],
+  "invariants": [
+    "Large soft head, tiny compact rounded body, no visible neck",
+    "Small mitten hands and stub feet without exposed shins",
+    "Open innocent oval eyes and small green smile",
+    "Unequal rounded antennae, viewer-right taller",
+    "Pale forewings overlapping richer green hindwings; subtle green markings",
+    "Exactly two arms, two feet and four wing panels",
+    "Same anatomy in light and dark"
+  ],
+  "focusedReview": {
+    "accepted": "Core proportions, stable stance, face, antenna asymmetry, wing layering",
+    "remaining": "Raised viewer-right wrist and inner wing seam form a dark junction; test moving seam termination below wrist without changing anatomy"
+  },
+  "prompt": "Use case: identity-preserve.\nAsset type: revised SMALL INNOCENT heyNag moth character master.\nInput image 1 is the PRIMARY identity and proportion reference: the original tiny, soft, childlike moth. Input image 2 is ONLY a reference for overlapping forewing/hindwing structure. DO NOT inherit image2's adult body, long limbs, confident human stance, or large hands.\nThe user says recent versions lost the original small innocent charm. Restore it decisively. Exactly ONE complete character, centered in a square canvas with comfortable margins and a genuinely transparent background.\nProportions: very large soft rounded cream head, tiny compact rounded cream body directly beneath it, almost no visible neck, tiny rounded hands, and two short stubby green feet immediately under the body. Head roughly1.7 times torso width. Head and cheek area should dominate the character. No long shins, visible human knee, long forearms, adult waist, hip sway, shoulder/hip contrapposto, shoes or glove cuffs. No stretched tall humanoid body. It is a little squishy moth companion.\nFace: preserve the original broad black oval eyes and gentle innocent open smile, small mouth with the familiar green accent. Softly attentive, easy warmth, a subtle head tilt. No sarcastic smirk, mature eyebrow expression, narrowed eyes, teeth, blush, or nose. Keep a few broad soft cheek tufts, not a complicated furry outline. A tiny soft ruff joins the head and body.\nAntennae: two flexible stems with rounded green tips; viewer-right longer and softly reaching, viewer-left short and low. Preserve the original playful uneven angles. Keep the tips rounded and compact enough that the face dominates. No veins, comb teeth, sharp points or extra ears.\nWINGS: preserve the ORIGINAL light, pale-green moth-wing feeling and restrained darker green interior marks, while correcting anatomy. Each side shows a broad soft tapered forewing overlapping a smaller rounded hindwing: four panels organized into two clearly coherent pairs. A short overlap seam and distinct tips should make them unmistakably wings. Forewings pale green #DCE8C2, hindwings a slightly richer soft green; one subdued darker green oval or tapered wing mark per forewing, with at most one subtle curved structural line. No staring eyespot pupils. Wings rest softly outward beside the tiny body, with visible layered structure. They must not become a solid bright green cape, cloak, cloth hem, or four identical petals. No long tails. Arms remain distinct in front.\nHands and stance: exactly two very small mitten-like hands with a simple thumb hint, attached to the tiny body; one lifted just a little in an innocent greeting, the other relaxed. Both tiny feet grounded with a softly open stance. No large explanatory adult hand gesture, no fingers splayed across the face. Its whole silhouette should look huggable, light, compact and endearing even without props.\nPalette/style: warm cream, charcoal contours and eyes, fresh chartreuse antenna tips/feet and wing markings, pale green wing membranes. Clean contemporary rounded 2D comic illustration, softly confident uniform outline, simple clear fills, no retro paper texture. Preserve the recognizable original identity; improve wing construction only as needed.\nNo props, glasses, scene, background, halo, lighting bloom, cast shadow, labels, lettering, or watermark. All antennae, wings and feet fully inside the square canvas. The result must feel younger, smaller and more innocent than input2—not a resized adult character."
+}

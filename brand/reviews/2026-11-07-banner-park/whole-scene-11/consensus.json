@@ -1,0 +1,487 @@
+{
+  "scope": "Exact whole-scene correction PLAN, not replacement art.",
+  "reviewedAsset": "assets/brand/banner-park/park-film-study-11-flat-grok-eyes.png",
+  "reviewedAssetSha256": "87943e3c1452d40b1ac535ea5bbcefa6e7676cee77165eef2d77ce5c67a32569",
+  "proposal": "brand/reviews/2026-11-07-banner-park/whole-scene-11/proposal-v1.json",
+  "proposalSha256": "f22147674c4537a20f89925d335e107abb9a8bc9e322559b92209c35981d40b4",
+  "specialists": 18,
+  "pairs": 9,
+  "all18PlanAgreement": true,
+  "currentArtVerdict": "revise",
+  "currentScoreRange": [
+    7.8,
+    8.5
+  ],
+  "allAtLeastNine": false,
+  "requiredCorrections": [
+    "Material-specific surfaces and stable contours throughout the entire scene",
+    "Solid rounded attached workshop mitten visibly holding the mallet"
+  ],
+  "remainingSubstantivePlanObjections": [],
+  "votes": [
+    {
+      "reviewer": "brand-a",
+      "vote": "agree_with_named_limits",
+      "currentScore": 8.2,
+      "limits": [
+        "Acceptance is of this correction plan only, not approval of replacement art, publication or a promised9.",
+        "Retain the distinction between required material/grip repairs and optional gaze, acting and incidental highlight preferences.",
+        "07 is a material/construction reference; preserve11's intended changes rather than roll the whole image back.",
+        "Local image scales, AI craft scores and panel agreement do not establish live GitHub behavior, physical-device quality, human recognition or actual animation."
+      ],
+      "pairConfirmation": {
+        "confirmed": true,
+        "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/pairs/brand.json",
+        "ownRecord": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/brand-a.json",
+        "partnerRecordRead": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/brand-b.json",
+        "scope": "Both explicitly confirmed preserving11's composition/story/identity corrections while recovering07-level material differentiation; retain intentional texture and graphic contours, with golden-edge restraint optional.",
+        "individualScores": {
+          "brand-a": 8.2,
+          "brand-b": 8.4
+        },
+        "remainingSubstantiveDisagreements": [],
+        "authority": "This file records only Brand A's exact-plan vote. Brand B's plan vote and all18 acceptance must be established by their own records."
+      },
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/votes/brand-a.json"
+    },
+    {
+      "reviewer": "brand-b",
+      "vote": "agree_with_named_limits",
+      "currentScore": 8.4,
+      "limits": [
+        "Agreement authorizes the stated correction direction only. No unseen replacement is approved, no automatic9 is earned, and current11 remains revise.",
+        "Preserve the exact plan boundaries: no composition/cast expansion, no blanket rollback to07 and no unnecessary re-posing of accepted guests.",
+        "Local scaled images are not live GitHub or physical-device evidence. Still-image judgments do not establish a rig, animation, audio or audience recognition.",
+        "No publication approval or additional work beyond this plan vote is claimed."
+      ],
+      "pairConfirmation": {
+        "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/pairs/brand.json",
+        "readAndVerified": true,
+        "explicitOwnConfirmation": "I confirm the exact brand joint recommendation and accepted qualification recorded in pairs/brand.json.",
+        "partnerConfirmation": "Brand A explicitly accepted the same recommendation and qualification in its saved pair record and direct message.",
+        "retainedScores": {
+          "brand-a": 8.2,
+          "brand-b": 8.4
+        },
+        "remainingSubstantiveDisagreements": []
+      },
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/votes/brand-b.json"
+    },
+    {
+      "reviewer": "performance-a",
+      "vote": "agree_with_named_limits",
+      "currentScore": 8.2,
+      "limits": [
+        "Material recovery and grip construction are required under this plan. No broader gesture redesign, longer limbs, new pupils, enlarged guests or forced clearer gaze is authorized by this vote.",
+        "The current 8.2 is retained for inspected image11. No future-render score, automatic nine or finished-art acceptance is supplied.",
+        "Any later candidate must demonstrate the requested preservation in the integrated full image and detail evidence; prompt promises and this plan vote are not that evidence.",
+        "This is my individual plan vote and confirmation of our recorded pair recommendation, not an assertion that all18 have accepted, nor a motion, night, publication, physical-device or audience claim."
+      ],
+      "pairConfirmation": {
+        "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/pairs/performance.json",
+        "confirmed": true,
+        "ownInitialVerdict": "revise",
+        "partnerInitialVerdict": "revise",
+        "individualScores": {
+          "performance-a": 8.2,
+          "performance-b": 8.2
+        },
+        "agreement": "Required material recovery; preserve identity/anatomy/cast/composition/corrected eyes. Attention, invitation and bracing refinements stay optional.",
+        "distinction": "W2 restores the holding mitten's legibility without converting optional working/bracing or attention changes into mandatory re-posing.",
+        "remainingOwnObjections": []
+      },
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/votes/performance-a.json"
+    },
+    {
+      "reviewer": "performance-b",
+      "vote": "agree",
+      "currentScore": 8.2,
+      "limits": [
+        "Plan vote only; current image 11 still requires revision. No new image inspected, rescored or approved.",
+        "Agreement does not promise a 9/10 result or imply all 18 votes from this individual position.",
+        "Fresh review must inspect the entire integrated candidate at native and local scaled sizes, including grip and magnified eyes; a correct patch alone is insufficient.",
+        "No continuous animation, built rig, matched night scene, live publication, physical-device behavior or human-response validation.",
+        "The disclosed pre-save summary timing in the independent review and confirmed pair record remains part of the evidence history."
+      ],
+      "pairConfirmation": {
+        "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/pairs/performance.json",
+        "confirmed": true,
+        "basis": "Read the confirmed pair record and received A's direct explicit acceptance. I explicitly reconfirm our joint material-recovery recommendation, with other attention/invitation/bracing refinements optional. Sent A confirmation of this consolidated plan and the distinction between required grip construction and optional acting.",
+        "individualScoresRetained": {
+          "performance-a": 8.2,
+          "performance-b": 8.2
+        },
+        "remainingObjections": []
+      },
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/votes/performance-b.json"
+    },
+    {
+      "reviewer": "identity-a",
+      "vote": "agree",
+      "currentScore": 8.1,
+      "limits": [
+        "Actual integrated replacement requires fresh full/scaled/native/magnified inspection; prompt promises and this vote do not establish preservation or quality.",
+        "Plan acceptance is not current11 finished-art approval, an automatic9, approval of unseen artwork, publication authorization or a full18 outcome.",
+        "Local420-width images do not establish physical-device or GitHub-layout behavior; no audience-recognition or animation claim."
+      ],
+      "pairConfirmation": {
+        "confirmed": true,
+        "records": [
+          "whole-scene-11/independent/identity-a.json: pairDiscussion",
+          "whole-scene-11/independent/identity-b.json: pairDiscussion"
+        ],
+        "meaning": "A and B explicitly agreed to revise material/contour coherence using07 as quality control, preserving11 anatomy/layout/eyes, intentional texture and guest scale. Raised-hammer anticipation remains valid; Clawd orientation and Muse redesign are not required.",
+        "individualScoresPreserved": {
+          "identity-a": 8.1,
+          "identity-b": 8.3
+        },
+        "myPlanAcceptance": "I also explicitly accept the consolidated W2 solid-grip repair within its stated bounds. This vote speaks only for Identity A's exact-plan acceptance."
+      },
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/votes/identity-a.json"
+    },
+    {
+      "reviewer": "identity-b",
+      "vote": "agree_with_named_limits",
+      "currentScore": 8.3,
+      "limits": [
+        "Plan acceptance only. Current11 remains revise; no approval or automatic9 for an unbuilt replacement.",
+        "Watcher orientation and further Muse refinement remain optional; do not enlarge guests to recover420px micro-stories.",
+        "Local image reductions do not establish native GitHub, physical-device or human-recognition outcomes.",
+        "Actual updated whole-image review is required before finished-art claims; no publication approval."
+      ],
+      "pairConfirmation": {
+        "partner": "identity-a",
+        "status": "Explicitly confirmed prior pair recommendation and exact-plan alignment; both separately accept this hash.",
+        "identityAScore": 8.1,
+        "identityBScore": 8.3,
+        "confirmedBounds": "Preserve meaningful material detail; no global blur, anatomy change or forced mallet impact. Accept bounded solid grip repair. Keep optional staging preferences optional.",
+        "unresolvedSubstantiveObjections": []
+      },
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/votes/identity-b.json"
+    },
+    {
+      "reviewer": "rigging-a",
+      "vote": "agree",
+      "currentScore": {
+        "value": 8.3,
+        "scope": "Whole-scene still-image craft through the articulation/contact and rendering-integrity lens. Not a score for a 3D model, rig, animation, interaction or audience response.",
+        "status": "Retained; no new artwork was reviewed."
+      },
+      "limits": [
+        "This vote changes no current score and assigns no score to future art. No automatic 9 follows from implementing the plan.",
+        "Visible contact and contour checks cannot certify a hidden 3D mesh, rig, motion, physical simulation or sound.",
+        "Local 1280/880/420 scales do not establish GitHub/browser, physical-device or audience outcomes.",
+        "Both required corrections must survive the final integrated full image; a successful local eye or grip patch alone is insufficient."
+      ],
+      "pairConfirmation": {
+        "confirmed": true,
+        "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/pairs/rigging.json",
+        "ownScore": 8.3,
+        "partnerScore": 7.8,
+        "recommendation": "Revise 11 before final presentation. Preserve the composition, four guests, three compact V5 moth appearances, Muse-leaf interaction and flat Grok eyes. Restore material-specific surfaces and continuous contours throughout the frame, and one clear rounded mitten gripping the mallet with a short wrist connection. Use 07 as a control for retained qualities rather than a wholesale rollback. Keep individual scores and do not approve an unseen replacement.",
+        "remainingObjections": []
+      },
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/votes/rigging-a.json"
+    },
+    {
+      "reviewer": "rigging-b",
+      "vote": "agree_with_named_limits",
+      "currentScore": 7.8,
+      "limits": [
+        "Acceptance applies only to this exact plan hash. The actual complete replacement must show the repairs at native and supplied local scales, with magnified inspection of its integrated eyes and grip.",
+        "No automatic 9, finished-art approval, publication authority or endorsement of unseen artwork follows from this vote.",
+        "A raster still cannot establish hidden topology, a working 3D rig, animation performance, physical-device behavior or audience recognition.",
+        "Material-change causes remain unestablished; the repair is justified by visible differences, not a claimed production diagnosis."
+      ],
+      "pairConfirmation": {
+        "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/pairs/rigging.json",
+        "recordRead": true,
+        "confirmed": true,
+        "jointRecommendation": "Revise 11 before final presentation. Preserve the composition, four guests, three compact V5 moth appearances, Muse-leaf interaction and flat Grok eyes. Restore material-specific surfaces and continuous contours throughout the frame, and one clear rounded mitten gripping the mallet with a short wrist connection. Use 07 as a control for retained qualities rather than a wholesale rollback. Keep individual scores and do not approve an unseen replacement.",
+        "basis": "I proposed and explicitly accepted this exact recommendation after both independent reviews were saved. A subsequently confirmed it in full by direct message and in the pair record. This supersedes the earlier pending acknowledgment status in my independent file.",
+        "differencePreserved": "A retains 8.3; B retains 7.8. B weights the broad material/contour regression more heavily. Both require the same whole-frame repair; scores are not averaged.",
+        "remainingSubstantiveObjections": []
+      },
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/votes/rigging-b.json"
+    },
+    {
+      "reviewer": "interaction-a",
+      "vote": "agree_with_named_limits",
+      "currentScore": 8.4,
+      "limits": [
+        "This vote accepts the exact correction plan, not the current 11 as finished and not any unbuilt replacement. Current 11 remains revise.",
+        "Material cleanup must not become blanket blur, uniform plastic smoothing, new fur everywhere, or unrestricted restyling. Preserve intentional material distinctions and coherent light.",
+        "420px loss of optional cameo detail is not an access defect. Do not enlarge guests or add interaction, labels or props to force their identification.",
+        "Local image scales do not establish GitHub placement, physical-device behavior, screen-reader output, human attention, recognition or repeat-visit comfort.",
+        "No score increase follows plan acceptance. Future still-image craft must be judged on the actual full export; animation, sound and website behavior remain outside this vote."
+      ],
+      "pairConfirmation": {
+        "confirmed": true,
+        "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/pairs/interaction.json",
+        "exactJointRecommendation": "Revise the material finish and workshop grip locally, preserving scene composition, foreground exclusivity, cast, tiny anatomy, warm light and corrected eyes. Compare native/1280 finish and retain the 880/420 hierarchy. No full-scene finished claim or unseen-correction approval.",
+        "ownCurrentScore": 8.4,
+        "partnerCurrentScore": 8.4,
+        "evidence": "B saved and messaged an explicit proposed joint; A read it and sent explicit reciprocal confirmation. B accepted the grip finding; both keep gaze optional and reject mandatory tiny-cameo recognition.",
+        "remainingObjections": []
+      },
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/votes/interaction-a.json"
+    },
+    {
+      "reviewer": "interaction-b",
+      "vote": "agree",
+      "currentScore": 8.4,
+      "limits": [
+        "This is explicit acceptance of the exact correction plan only. Current 11 remains revise; no replacement art, automatic nine or finished presentation is approved.",
+        "07 is a material/contact quality control, not authorization to revert all intentional 11 changes. Cleanup must preserve natural texture and already clear construction.",
+        "Fresh whole-frame, native, magnified and 1280/880/420 evidence must demonstrate the actual improvement; prompt intentions cannot establish preservation.",
+        "Local image scales do not establish native GitHub, physical-device, audience, interaction, animation or sound outcomes."
+      ],
+      "pairConfirmation": {
+        "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/pairs/interaction.json",
+        "readAndConfirmed": true,
+        "jointRecommendation": "Revise the material finish and workshop grip locally, preserving scene composition, foreground exclusivity, cast, tiny anatomy, warm light and corrected eyes. Compare native/1280 finish and retain the 880/420 hierarchy. No full-scene finished claim or unseen-correction approval.",
+        "bPosition": "I explicitly confirm this recorded joint recommendation after reading the completed pair record and receiving A\u2019s direct acknowledgment.",
+        "aAcknowledgment": "A explicitly accepted the exact proposed joint, including the no-blur/no-enlargement limits; stated no substantive objection remained.",
+        "preservedDifference": "My coding-gaze deduction remains optional; A does not require a gaze change. Both individual scores remain 8.4.",
+        "remainingSubstantiveObjection": null
+      },
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/votes/interaction-b.json"
+    },
+    {
+      "reviewer": "audience-a",
+      "vote": "agree_with_named_limits",
+      "currentScore": {
+        "value": 8.5,
+        "scope": "Current 11 whole-scene still-image craft through emotional staging, hero hierarchy, identity cues and visual coherence.",
+        "unchanged": true,
+        "confidence": "Moderate-high for visible composition/material comparisons; moderate for aesthetic significance. No empirical audience confidence."
+      },
+      "limits": [
+        "No new image has been inspected for this vote; no score is assigned to the unbuilt repair and no automatic 9/10 is implied.",
+        "Human attribution, emotion comprehension, comfort, affection and recall remain unmeasured. Scene interpretation is an expert hypothesis.",
+        "The 1280/880/420 evidence is local scaling, not GitHub deployment or physical-device testing.",
+        "Material correction must preserve useful differentiation; acceptance does not authorize global plastic smoothing or a full 07 revert.",
+        "The disclosed pre-save peer-message interruption remains in the review record. This was not blinded human research.",
+        "No publication, animation, sound, night edition or built-website approval is supplied."
+      ],
+      "pairConfirmation": {
+        "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/pairs/audience.json",
+        "exactJointRecommendation": "Revise 11\u2019s visible cross-material surface regression while preserving its composition, exclusive foreground coder, moth identity and corrected companion eyes. Use 07 as a material-quality control, not a full revert; keep secondary-story refinements optional and all human attribution, emotion and recall outcomes unmeasured.",
+        "audienceAExplicitAcceptance": true,
+        "audienceBExplicitAcceptance": "Recorded in B's own saved pairDiscussion and direct message; B supplies its own separate consolidated-plan vote.",
+        "remainingSubstantiveObjections": [],
+        "scoresRetained": {
+          "audienceA": 8.5,
+          "audienceB": 8.4
+        }
+      },
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/votes/audience-a.json"
+    },
+    {
+      "reviewer": "audience-b",
+      "vote": "agree_with_named_limits",
+      "currentScore": 8.4,
+      "limits": [
+        "Acceptance applies to the plan, not current finished-art readiness or a future render. Current 11 verdict remains revise and current score remains 8.4.",
+        "07 is a material/construction control, not a blanket rollback; retain 11\u2019s intended improvements.",
+        "No human attribution, emotion, recognition, affection or recall evidence is created by this vote. These outcomes remain unmeasured.",
+        "1280/880/420 local scales do not establish actual GitHub, physical-device or accessibility behavior. Motion, sound and night edition are unscored.",
+        "The disclosed pre-save peer-message interruption remains part of the record; no fully blinded research claim."
+      ],
+      "pairConfirmation": {
+        "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/pairs/audience.json",
+        "exactJointRecommendation": "Revise 11\u2019s visible cross-material surface regression while preserving its composition, exclusive foreground coder, moth identity and corrected companion eyes. Use 07 as a material-quality control, not a full revert; keep secondary-story refinements optional and all human attribution, emotion and recall outcomes unmeasured.",
+        "audienceBExplicitAcceptance": true,
+        "audienceAExplicitAcceptanceVerified": true,
+        "directExchangeCompleted": true,
+        "scoresRetained": {
+          "audienceA": 8.5,
+          "audienceB": 8.4
+        },
+        "remainingSubstantiveObjections": []
+      },
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/votes/audience-b.json"
+    },
+    {
+      "reviewer": "storyboard-a",
+      "vote": "agree",
+      "currentScore": 8.3,
+      "limits": [
+        "Existing11 remains revise at my recorded8.3. Plan agreement does not change that score or guarantee a9.",
+        "No global blur or blanket flattening: distinct wood, fabric, plush, metal, glass, stone and foliage must survive the repair.",
+        "Required hand/handle construction repair stays separate from optional micro-acting. Preserve short reach, mitten anatomy and the existing raised-mallet anticipation.",
+        "No new art, additional agents, extra review rounds or publication are initiated by this vote.",
+        "The supplied image scales are local raster evidence; no GitHub deployment, physical-device, human-response, audio or continuous-motion claim follows."
+      ],
+      "pairConfirmation": {
+        "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/pairs/storyboard.json",
+        "exactRecommendationAccepted": true,
+        "bothExplicitlyConfirmed": true,
+        "sharedRecommendation": "Preserve the selected composition, four guests and stools, solo foreground coder, tiny anatomy and corrected eyes. Recover clean material and contour differentiation using07 as a control, while retaining distinct materials and useful current story details. Keep further micro-acting optional.",
+        "challengeResolved": "Accepted B's no-blur/no-flattening qualification. Preserve different materials and useful leaf staging.",
+        "individualScoresRetained": {
+          "storyboard-a": 8.3,
+          "storyboard-b": 8.4
+        },
+        "remainingSubstantivePairDisagreements": [],
+        "voteBoundary": "This is A's exact-proposal vote only; B supplies its own."
+      },
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/votes/storyboard-a.json"
+    },
+    {
+      "reviewer": "storyboard-b",
+      "vote": "agree",
+      "currentScore": 8.4,
+      "limits": [
+        "Further acting adjustments remain optional and must not be introduced as hidden requirements of W2. Preserve accepted Clawd plush pose and both square eyes.",
+        "07 is a quality and construction control, not permission for a blanket rollback of current identity or story corrections.",
+        "Plan agreement does not award9, change the current8.4, certify studio equivalence or approve a future image before inspection.",
+        "The review concerns still-image craft. No animation, audio, audience response, night counterpart or deployed GitHub behavior is certified.",
+        "This vote supplies only B's individual position. It does not itself establish all18 votes or authorize publication."
+      ],
+      "pairConfirmation": {
+        "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/pairs/storyboard.json",
+        "read": true,
+        "bothExplicitlyConfirmed": true,
+        "sharedRecommendation": "Preserve the selected composition, four guests and stools, solo foreground coder, tiny anatomy and corrected eyes. Recover clean material and contour differentiation using07 as a control, while retaining distinct materials and useful current story details. Keep further micro-acting optional.",
+        "challengeResolved": "A explicitly accepted B's qualification that calming surfaces must preserve distinct wood, weave and foliage rather than globally blur or flatten the image. B explicitly accepts W2's construction-versus-acting distinction in this vote and sent that confirmation directly to A.",
+        "individualScoresRetained": {
+          "storyboard-a": 8.3,
+          "storyboard-b": 8.4
+        },
+        "remainingSubstantiveDisagreements": []
+      },
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/votes/storyboard-b.json"
+    },
+    {
+      "reviewer": "visual-a",
+      "vote": "agree_with_named_limits",
+      "currentScore": 8.2,
+      "limits": [
+        "Keep incidental highlight restraint optional and only if needed after the required material correction. The execution prompt should not silently promote it into a compulsory additional pass.",
+        "Remove the repeated accidental surface network, not all texture or stylization. No blanket blur, plastic smoothing, added fur everywhere, cast/pose expansion or unrestricted composition regeneration.",
+        "Plan acceptance does not approve a future render, guarantee9/10, establish all18 artwork acceptance, or authorize publication. Native crops, enlarged final-integrated eyes/grip and supplied image scales must be inspected on the actual complete candidate."
+      ],
+      "pairConfirmation": {
+        "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/pairs/visual.json",
+        "AExplicitlyAccepts": true,
+        "BExplicitlyAccepts": true,
+        "evidence": "B directly confirmed the exact bounded recommendation after its saved independent review; updated pair record and B's vote record that confirmation.",
+        "scoresRetained": {
+          "A": 8.2,
+          "B": 8.3
+        },
+        "remainingSubstantiveDisagreement": "None. A emphasizes broader material continuity; B emphasizes Clawd's squared divisions and contour/material readability."
+      },
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/votes/visual-a.json"
+    },
+    {
+      "reviewer": "visual-b",
+      "vote": "agree_with_named_limits",
+      "currentScore": {
+        "value": 8.3,
+        "scope": "Whole still-image visual craft through drawing appeal, contour, material readability, composition and scale; no motion, sound or audience outcome score.",
+        "status": "Unchanged; actual11 only. No rescore performed."
+      },
+      "limits": [
+        "Material cleanup must retain intentional grain, knit and foliage variation. No global blur, uniform smoothing, extra fur or unrestricted cast/composition restyle.",
+        "Path/grass highlight reduction and further acting/gaze changes remain optional, not prerequisites that expand the repair.",
+        "Current11 remains revise at8.3 through my whole-image visual lens. The plan does not earn9 or inherit artwork approval; actual replacement evidence must earn a new judgment.",
+        "Local resized images are not browser/physical-device evidence, and AI agreement is not audience research or owner acceptance."
+      ],
+      "pairConfirmation": {
+        "status": "Explicitly confirmed by both A and B",
+        "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/pairs/visual.json",
+        "BPosition": "Accept exact bounded recommendation",
+        "AEvidence": "A acceptance recorded in pair file and direct message; B sent explicit confirmation after reading partner findings.",
+        "scoresRetained": {
+          "A": 8.2,
+          "B": 8.3
+        },
+        "remainingSubstantiveDisagreement": false
+      },
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/votes/visual-b.json"
+    },
+    {
+      "reviewer": "sound-a",
+      "vote": "agree",
+      "currentScore": {
+        "value": 8.2,
+        "outOf": 10,
+        "scope": "Still-image craft within silent action legibility, hierarchy, atmosphere and visual rest across the entire frame. No audio or motion score.",
+        "confidence": "moderate-high",
+        "deductions": [
+          {
+            "id": "SOUND-A-W11-1",
+            "severity": "moderate",
+            "location": "Hero cream head/wing and bench across right half; canopy, support beams and ground around central workshop",
+            "finding": "11 spreads a sharper patch/facet-like edge network across otherwise soft or smoothly lit surfaces. The hero face and bench plank surfaces are visibly more broken up than07, and similar small patches recur on the canopy/beam. This reduces calm around the strongest face and makes different materials compete at the same detail frequency.",
+            "evidence": [
+              "11 full native image",
+              "scene11-hero-native.png versus scene07-hero-native.png",
+              "scene11-workshop-native.png versus scene07-workshop-native.png",
+              "scene11-width-1280.png"
+            ],
+            "basis": "Direct visual comparison, not an assumption that repeated edits must degrade art.07 also has handcrafted texture; the objection is the stronger edge network and material homogenization in11, not all texture.",
+            "improvementCriterion": "Quiet the unintended patch boundaries on the hero face and wood/fabric planes while retaining fur, grain and weave appropriate to each. Verify the whole native frame and1280/880 views still feel cohesive, not just the repaired area."
+          },
+          {
+            "id": "SOUND-A-W11-2",
+            "severity": "moderate/local",
+            "location": "Workshop moth hand and mallet handle, around x900,y275 in full frame",
+            "finding": "The mallet support in11 reads as a narrow angular pale/dark wedge around the handle.07 has a more immediately readable rounded mitten gripping it. The thin angular join makes the central making action less physically clear even though the broad mallet-and-box story survives.",
+            "evidence": [
+              "scene11-workshop-native.png",
+              "scene07-workshop-native.png",
+              "11 full native image"
+            ],
+            "basis": "Visible contact/silhouette readability judgment; not an animation, force or anatomical simulation result.",
+            "improvementCriterion": "Restore a small rounded attached mitten and unambiguous handle grip without lengthening the arm, changing the action or enlarging the workshop cast."
+          }
+        ],
+        "criteriaForNine": [
+          "Clean the two named visible weaknesses while preserving the warm composition, varied material cues and original tiny character proportions.",
+          "At native and1280/880 widths, keep the hero face as the clearest quiet shape; allow background texture to support depth rather than compete with it.",
+          "Keep bench coding dominant, workshop making readable, and the authorized leaf-play group visibly subordinate; do not add sound or attention marks to repair visual cause.",
+          "Reinspect the full finished candidate and magnified eye/contact details after any cleanup; isolated repair approval does not establish a9 whole-frame result."
+        ]
+      },
+      "limits": [
+        "Current 11 remains revise at 8.2 within the same still-image scope. Accepting the plan does not predict the next score or certify a 9.",
+        "Sound B retains 8.4 and its distinct optional watcher/small-scale deductions. Joint recommendation does not mean numeric convergence.",
+        "No audio, continuous motion, human recognition, repeat-visit comfort, browser deployment or physical-device outcome was tested or scored.",
+        "A completed edit must be assessed across the whole image, native crops and magnified integrated eyes/grip; prompt promises alone cannot prove preservation."
+      ],
+      "pairConfirmation": {
+        "status": "Confirmed",
+        "record": "pairs/sound.json",
+        "exactRecommendation": "Revise unintended surface patching and attached mitten/handle clarity. Preserve current composition, four authorized guests, tiny moth proportions and corrected Muse/Grok eyes. No required new audio, motion, props or guest enlargement. Retain 8.2 and 8.4 individually; no approval of an unseen cleanup.",
+        "ownPosition": "Explicit acceptance sent directly to Sound B.",
+        "partnerPosition": "B explicitly accepted the same recommendation in its saved pairDiscussion and proposed it directly; this is not a proxy vote for B on proposal v1."
+      },
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/votes/sound-a.json"
+    },
+    {
+      "reviewer": "sound-b",
+      "vote": "agree",
+      "currentScore": 8.4,
+      "limits": [
+        "Intentional silence remains complete; no required soundtrack, motion or extra attention effects. No unbuilt sound, motion or website outcome is scored.",
+        "8.4 remains my current bounded whole-still craft judgment. Sound A retains8.2. Neither plan agreement nor future repair guarantees9.",
+        "My minor watcher-staging and fine-story compression deductions remain distinct from A's weighting; neither becomes a required guest re-pose or enlargement.",
+        "Local1280/880/420 image scales do not establish deployed GitHub, physical-device, audience or repeat-visit outcomes.",
+        "No unseen-cleanup approval, finished-art approval or publication authorization is provided by this vote."
+      ],
+      "pairConfirmation": {
+        "record": "pairs/sound.json",
+        "status": "Explicitly confirmed by both Sound A and Sound B",
+        "sequence": "Both independent files existed before substantive pair exchange. B proposed the exact recommendation and A explicitly accepted it through direct message; B now confirms the recorded reciprocal recommendation.",
+        "recommendation": "Revise unintended surface patching and attached mitten/handle clarity. Preserve current composition, four authorized guests, tiny moth proportions and corrected Muse/Grok eyes. No required new audio, motion, props or guest enlargement. Retain8.2 and8.4 individually; no approval of an unseen cleanup.",
+        "skillApplication": "Spatial lead/support/rest and restraint from previously read skills; no temporal rhythm or listening claims."
+      },
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/votes/sound-b.json"
+    }
+  ],
+  "replacementArtApproved": false,
+  "next": "Execute bounded material/grip repair with composition, anatomy, lighting and corrected eyes protected; inspect actual result and obtain all18 whole-scene review before finished presentation."
+}

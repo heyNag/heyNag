@@ -1,0 +1,162 @@
+{
+  "fps": 30,
+  "frames": 2664,
+  "seconds": 88.8,
+  "source": "Deterministic browser canvas export, real playback engine sampled at120Hz, every output frame at30fps",
+  "segments": [
+    {
+      "theme": "day",
+      "index": 0,
+      "name": "Curious entry",
+      "startFrame": 0,
+      "frames": 108
+    },
+    {
+      "theme": "day",
+      "index": 1,
+      "name": "Thinking with glasses",
+      "startFrame": 108,
+      "frames": 138
+    },
+    {
+      "theme": "day",
+      "index": 2,
+      "name": "One peek / two peeks",
+      "startFrame": 246,
+      "frames": 108
+    },
+    {
+      "theme": "day",
+      "index": 3,
+      "name": "Surprise onset",
+      "startFrame": 354,
+      "frames": 96
+    },
+    {
+      "theme": "day",
+      "index": 4,
+      "name": "Hop contact and recovery",
+      "startFrame": 450,
+      "frames": 108
+    },
+    {
+      "theme": "day",
+      "index": 5,
+      "name": "Investigation & sharing",
+      "startFrame": 558,
+      "frames": 141
+    },
+    {
+      "theme": "day",
+      "index": 6,
+      "name": "A wry afterthought",
+      "startFrame": 699,
+      "frames": 156
+    },
+    {
+      "theme": "day",
+      "index": 7,
+      "name": "Worried gesture",
+      "startFrame": 855,
+      "frames": 120
+    },
+    {
+      "theme": "day",
+      "index": 8,
+      "name": "Sad → worried",
+      "startFrame": 975,
+      "frames": 120
+    },
+    {
+      "theme": "day",
+      "index": 9,
+      "name": "Airborne → curious",
+      "startFrame": 1095,
+      "frames": 141
+    },
+    {
+      "theme": "day",
+      "index": 10,
+      "name": "Thoughtful → happy",
+      "startFrame": 1236,
+      "frames": 96
+    },
+    {
+      "theme": "night",
+      "index": 0,
+      "name": "Curious entry",
+      "startFrame": 1332,
+      "frames": 108
+    },
+    {
+      "theme": "night",
+      "index": 1,
+      "name": "Thinking with glasses",
+      "startFrame": 1440,
+      "frames": 138
+    },
+    {
+      "theme": "night",
+      "index": 2,
+      "name": "One peek / two peeks",
+      "startFrame": 1578,
+      "frames": 108
+    },
+    {
+      "theme": "night",
+      "index": 3,
+      "name": "Surprise onset",
+      "startFrame": 1686,
+      "frames": 96
+    },
+    {
+      "theme": "night",
+      "index": 4,
+      "name": "Hop contact and recovery",
+      "startFrame": 1782,
+      "frames": 108
+    },
+    {
+      "theme": "night",
+      "index": 5,
+      "name": "Investigation & sharing",
+      "startFrame": 1890,
+      "frames": 141
+    },
+    {
+      "theme": "night",
+      "index": 6,
+      "name": "A wry afterthought",
+      "startFrame": 2031,
+      "frames": 156
+    },
+    {
+      "theme": "night",
+      "index": 7,
+      "name": "Worried gesture",
+      "startFrame": 2187,
+      "frames": 120
+    },
+    {
+      "theme": "night",
+      "index": 8,
+      "name": "Sad → worried",
+      "startFrame": 2307,
+      "frames": 120
+    },
+    {
+      "theme": "night",
+      "index": 9,
+      "name": "Airborne → curious",
+      "startFrame": 2427,
+      "frames": 141
+    },
+    {
+      "theme": "night",
+      "index": 10,
+      "name": "Thoughtful → happy",
+      "startFrame": 2568,
+      "frames": 96
+    }
+  ]
+}

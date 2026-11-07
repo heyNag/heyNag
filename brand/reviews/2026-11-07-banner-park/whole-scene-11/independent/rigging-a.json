@@ -1,0 +1,183 @@
+{
+  "reviewer": "rigging-a",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "lens": "Full-frame anatomy, contact, support, prop geometry and rendering cohesion within a still image.",
+  "referenceAsset": "assets/brand/banner-park/park-film-study-11-flat-grok-eyes.png",
+  "referenceAssetSha256": "87943e3c1452d40b1ac535ea5bbcefa6e7676cee77165eef2d77ce5c67a32569",
+  "evidenceInspected": [
+    "AGENTS.md",
+    "brand/workflow.json",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-11/brief.json",
+    "assets/brand/banner-park/park-film-study-11-flat-grok-eyes.png",
+    "assets/brand/banner-park/park-film-study-07-clawd-plush.png",
+    "assets/brand/heynag-moth-v5-refined.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-width-1280.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-width-880.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-width-420.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-hero-native.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene07-hero-native.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-workshop-native.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene07-workshop-native.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-tree-play-native.png",
+    "brand/reviews/2026-11-07-banner-park/muse-review/evidence/11-companion-inspection-enlarged.png",
+    "/Users/nag/projects/personal/.heynag-profile-work/references/owner-clawd-plush.jpg",
+    "/Users/nag/projects/personal/.heynag-profile-work/references/owner-muse-lineup.jpg",
+    "/Users/nag/projects/personal/.heynag-profile-work/references/nag-grok-bot-reference.webp"
+  ],
+  "initialWholeSceneVerdict": "revise",
+  "score": {
+    "value": 8.3,
+    "scope": "Whole-scene still-image craft through the articulation/contact and rendering-integrity lens. Not a score for a 3D model, rig, animation, interaction or audience response.",
+    "confidence": "High for overall construction, support and material comparison; moderate for the small hammer-grip interpretation.",
+    "deductions": [
+      {
+        "id": "surface-coherence",
+        "priority": "must-fix",
+        "location": "Hero cream head and lime wing; bench slats and arm; workshop timber; left tree and adjacent foliage.",
+        "observation": "11 has stronger angular/scaly contour patches than 07 across unrelated materials. The hero crop shows cream, wing and wood sharing an embossed surface treatment; the workshop boards and tree repeat it. This remains visible in the full image and 1280px view, so it is not merely a magnified-eye artifact.",
+        "effect": "The form shading still establishes volume, but repetitive surface segmentation reduces the distinction between soft character, fabric, timber and foliage. It pulls the whole frame toward a processed illustration instead of the intended coherent animated-feature still.",
+        "evidence": [
+          "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-hero-native.png",
+          "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene07-hero-native.png",
+          "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-workshop-native.png",
+          "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene07-workshop-native.png",
+          "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-width-1280.png"
+        ],
+        "improvementCriterion": "Retain intentional fine material texture while restoring calm gradients and material-specific detail at least as coherent as 07. The cream face must read soft, the bench as continuous wood and the wing as a clean form in native and 1280px views. Preserve the scene, guest placement and corrected flat Grok eyes; no anatomy redesign is indicated.",
+        "confidence": "High for the visible difference; its technical cause is not established."
+      },
+      {
+        "id": "hammer-grip",
+        "priority": "must-fix-local",
+        "location": "Workshop, raised hand just below the hammer head and above the left side of the toolbox; approximately 41–43% across, 34–42% down the complete frame.",
+        "observation": "The 11 native workshop crop resolves the raised grip as an angular cream/black loop or linkage; 07 has a clearer rounded cream mitten around the handle. The hand-to-handle boundary in 11 is ambiguous, even though the raised-hammer action remains recognizable at reduced scale.",
+        "effect": "This is the workshop’s defining contact. The angular gap weakens the otherwise compact, soft character construction and makes the tool connection less convincing.",
+        "evidence": [
+          "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-workshop-native.png",
+          "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene07-workshop-native.png"
+        ],
+        "improvementCriterion": "Show one solid rounded mitten contacting and wrapping the handle, with a short continuous wrist and no hollow strap reading. Keep the existing tiny reach and hammer pose; do not add human fingers or lengthen the arm.",
+        "confidence": "Moderate: a small raster contact, not proof of physically detached geometry."
+      }
+    ],
+    "criteriaForNine": [
+      "Resolve the two visible issues above without sacrificing the present proportions, seating, flat pupil-free Grok eyes or exclusive coding foreground.",
+      "At native and 1280px views, show distinct soft-character, fabric, timber and metal materials without a shared coarse etched texture; preserve readable forms and believable contact.",
+      "Keep the full composition coherent at 880px and the coding silhouette dominant at 420px. Do not pretend that every tiny guest action must remain distinguishable at 420px.",
+      "A stronger final rendering would earn reconsideration; these criteria do not automatically award a score to unseen work."
+    ]
+  },
+  "strengths": [
+    "The three moth appearances retain the large soft head, tiny seated body, short appendages and unequal paddle antennae. Visible wing layering and green markings preserve the identity; no stretched human limbs are needed for the poses.",
+    "The hero’s body settles into the bench, feet stay close, the visible hand meets the keyboard plane, and the laptop occupies the lap area. Its concealed underside and far-side hand are ordinary occlusions, not demonstrated floating or missing anatomy.",
+    "Clawd and Dot visibly occupy separate stools with body-to-seat contact and planted stool legs. Their eye height clears the table. Their compact forms do not acquire long legs to solve the staging.",
+    "The cup rests on the upper book, the books rest on the bench, and the canopy cloth has visible tied support. These contact cues join the environment to the characters rather than leaving props as isolated decoration.",
+    "Muse’s reach to the leaf and Grok’s grounded round body make the local tree vignette legible. The enlarged inspection shows Grok’s two flat white pupil-free eyes; Muse retains dark eyes. This does not establish human recognition.",
+    "The clear path, tree/canopy framing, foreground bench and distant bridge create continuous depth. Light generally comes from upper right, and no guest intrudes on the foreground coding bench."
+  ],
+  "mustFix": [
+    {
+      "id": "surface-coherence",
+      "priority": "must-fix",
+      "location": "Hero cream head and lime wing; bench slats and arm; workshop timber; left tree and adjacent foliage.",
+      "observation": "11 has stronger angular/scaly contour patches than 07 across unrelated materials. The hero crop shows cream, wing and wood sharing an embossed surface treatment; the workshop boards and tree repeat it. This remains visible in the full image and 1280px view, so it is not merely a magnified-eye artifact.",
+      "effect": "The form shading still establishes volume, but repetitive surface segmentation reduces the distinction between soft character, fabric, timber and foliage. It pulls the whole frame toward a processed illustration instead of the intended coherent animated-feature still.",
+      "evidence": [
+        "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-hero-native.png",
+        "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene07-hero-native.png",
+        "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-workshop-native.png",
+        "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene07-workshop-native.png",
+        "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-width-1280.png"
+      ],
+      "improvementCriterion": "Retain intentional fine material texture while restoring calm gradients and material-specific detail at least as coherent as 07. The cream face must read soft, the bench as continuous wood and the wing as a clean form in native and 1280px views. Preserve the scene, guest placement and corrected flat Grok eyes; no anatomy redesign is indicated.",
+      "confidence": "High for the visible difference; its technical cause is not established."
+    },
+    {
+      "id": "hammer-grip",
+      "priority": "must-fix-local",
+      "location": "Workshop, raised hand just below the hammer head and above the left side of the toolbox; approximately 41–43% across, 34–42% down the complete frame.",
+      "observation": "The 11 native workshop crop resolves the raised grip as an angular cream/black loop or linkage; 07 has a clearer rounded cream mitten around the handle. The hand-to-handle boundary in 11 is ambiguous, even though the raised-hammer action remains recognizable at reduced scale.",
+      "effect": "This is the workshop’s defining contact. The angular gap weakens the otherwise compact, soft character construction and makes the tool connection less convincing.",
+      "evidence": [
+        "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-workshop-native.png",
+        "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene07-workshop-native.png"
+      ],
+      "improvementCriterion": "Show one solid rounded mitten contacting and wrapping the handle, with a short continuous wrist and no hollow strap reading. Keep the existing tiny reach and hammer pose; do not add human fingers or lengthen the arm.",
+      "confidence": "Moderate: a small raster contact, not proof of physically detached geometry."
+    }
+  ],
+  "optional": [
+    {
+      "location": "Coder mitten",
+      "observation": "The dimensional fingertip grooves are more paw-like than the simplest V5 reference mitten; this already exists in 07 and does not demand a new pose.",
+      "guidance": "If retouching that region for another reason, simplify the grooves while retaining the current contact. Do not add independent human fingers."
+    },
+    {
+      "location": "Workshop seated observers",
+      "observation": "Clawd remains front-facing and Dot only subtly turns toward the work. Seating is credible; attentive watching is less explicit than seat placement alone suggests.",
+      "guidance": "A restrained orientation adjustment could strengthen the scene, provided both square Clawd eyes remain readable and the original compact silhouette is preserved. This is optional from the contact lens."
+    },
+    {
+      "location": "Far-side wings behind laptop/body",
+      "observation": "The still naturally hides some attachments.",
+      "guidance": "Do not force all four panels into the silhouette merely to count them. A future editable construction needs its own verification; this image cannot establish hidden topology."
+    }
+  ],
+  "baselineComparison": "07 and 11 share the scene’s essential composition and plausible seating. 11 brings Muse visibly to the leaf and presents clean pupil-free Grok eyes, while preserving the large coding silhouette. However, 07 has calmer, more continuous hero/bench/workshop surfaces and a clearer rounded hammer grip. 11 strengthens coarse contour texture across the image and weakens that small contact. The baseline is a control for specific retained qualities, not an instruction to discard the later staging or eye corrections.",
+  "skillsReviewed": [
+    {
+      "skill": "emil-design-eng",
+      "intake": "Reused prior full reading in this conversation.",
+      "application": "Evaluate actual rendered details and purposeful visual hierarchy; separate craft judgment from unsupported claims."
+    },
+    {
+      "skill": "animate",
+      "intake": "Reused prior full reading.",
+      "application": "Purpose and physically understandable contact inform the still; do not infer animation capability from a dimensional appearance."
+    },
+    {
+      "skill": "review-animations",
+      "intake": "Reused prior full reading.",
+      "application": "Keep an evidence-led high craft bar, explicit deductions and honest limitations; no inherited eye-only approval."
+    },
+    {
+      "skill": "animation-performance",
+      "intake": "Reused prior full reading.",
+      "application": "Separate visible raster quality from unmeasured runtime/compositor performance."
+    }
+  ],
+  "workflowChanges": [
+    "Verified the exact 11 source SHA256, then inspected the full frame, 07 control, identity reference, all three prescribed scales, native action crops and the enlarged eye crop.",
+    "Checked contact/support through the whole environment rather than repeating an eye-only verdict. Compared like regions in 07/11 before attributing a visible regression.",
+    "Distinguished current must-fix rendering/contact issues from optional pose preferences and hidden-topology limits. No new peers were read before saving this record.",
+    "No source/art edits, generation, browser operations, extra agents or publication."
+  ],
+  "rulesNotApplicableWithReason": [
+    "CSS compositor, frame budgets, easing, short UI durations, interruption and reduced-motion execution are not tested by a still PNG.",
+    "No commercial-site layout or UI implementation recipe should replace this owner-requested cinematic illustration.",
+    "Magnification is useful for validating the specified flat-eye construction, but interpolation artifacts alone are not full-size craft defects. The material concern is supported at native/full and 1280px sizes.",
+    "Existing numeric rig checks cannot certify a generated 3D-looking painting or its occluded anatomy."
+  ],
+  "limits": [
+    "This is a review of one raster still. There is no inspected 3D mesh, complete hidden construction, physical simulation, animation, sound or editable scene graph.",
+    "The 1280/880/420 images are local scales, not actual GitHub/mobile/browser or physical-device evidence.",
+    "The matte/soft dimensional direction is supported, but this review does not certify a studio-equivalent production pipeline or an external studio’s endorsement.",
+    "No audience recognition, emotional response, future night image, publication quality or unbuilt correction is approved."
+  ],
+  "pairDiscussion": {
+    "status": "Explicit joint recommendation confirmed after both independent records were saved.",
+    "partnerRead": true,
+    "partnerReview": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/rigging-b.json",
+    "partnerScore": 7.8,
+    "ownScoreRetained": 8.3,
+    "agreement": "Both require whole-frame material/contour recovery and a readable short mitten grip, with existing composition, anatomy, guest staging and corrected eyes retained.",
+    "challengeReceived": "B required the surface correction to remain whole-frame rather than hero-only and questioned whether the higher A score might soften that requirement.",
+    "response": "A explicitly accepts the whole-frame requirement, including hero/paddles/glasses, bench, workshop and tree/path/foliage. The 8.3 score is retained without reducing either must-fix. Both treat the grip as a readability defect rather than proven detached geometry; observer orientation remains optional.",
+    "jointRecommendation": "Revise 11 before final presentation. Preserve the composition, four guests, three compact V5 moth appearances, Muse-leaf interaction and flat Grok eyes. Restore material-specific surfaces and continuous contours throughout the frame, and one clear rounded mitten gripping the mallet with a short wrist connection. Use 07 as a control for retained qualities rather than a wholesale rollback. Keep individual scores and do not approve an unseen replacement.",
+    "ownRecommendationAccepted": true,
+    "partnerConfirmation": "B’s saved ownRecommendationAccepted=true and direct proposed-joint message establish B’s stated recommendation. A directly confirmed that same wording; no silence or proxy assent is used.",
+    "remainingObjections": [],
+    "pairRecord": "brand/reviews/2026-11-07-banner-park/whole-scene-11/pairs/rigging.json"
+  }
+}

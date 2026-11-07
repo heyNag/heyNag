@@ -1,0 +1,172 @@
+{
+  "reviewerId": "performance-b",
+  "role": "Character performance director",
+  "lens": "Timing, weight and emotional clarity; comic economy and character appeal counterpoint.",
+  "scope": "Fresh independent review of the locally prepared static GitHub profile and its proposed continuity with a future website. Assesses silent welcome, pose economy, expression at application size and coherent future behavior. No new partner review read before saving this file; no browser or source edits.",
+  "sourceManifestSha256": "7b23e48c7555ab1abca2a81923bb526411043350c092e352ef42efd106b468d2",
+  "inspectedEvidence": [
+    "AGENTS.md",
+    "brand/team.json (performance role and lens)",
+    "brand/workflow.json",
+    "brand/reviews/2026-11-07-implementation/installed-skills.json (all 17 catalog entries)",
+    "brand/reviews/2026-11-07-github/review-instructions.txt",
+    "brand/reviews/2026-11-07-github/brief.json",
+    "brand/reviews/2026-11-07-github/review-source-v1.json (all nine listed file hashes verified)",
+    "README.md",
+    "brand/profile/profile.json",
+    "brand/profile/continuity.json",
+    "brand/source/applications-v5.js",
+    "brand/reviews/2026-11-07-github/evidence/render-checks.json",
+    "brand/reviews/2026-11-07-github/evidence/profile-light-1440.png",
+    "brand/reviews/2026-11-07-github/evidence/profile-dark-1440.png",
+    "brand/reviews/2026-11-07-github/evidence/profile-light-320-top.png",
+    "brand/reviews/2026-11-07-github/evidence/profile-dark-320-top.png",
+    "brand/reviews/2026-11-07-github/evidence/readme-light-320-scroll.png",
+    "brand/reviews/2026-11-07-github/evidence/readme-dark-320-scroll.png",
+    "brand/reviews/2026-11-07-github/evidence/pins-light-320-scroll.png",
+    "brand/reviews/2026-11-07-github/evidence/profile-light-390.png",
+    "brand/reviews/2026-11-07-github/evidence/profile-dark-390.png",
+    "assets/brand/heynag-moth-avatar-v5-day.png",
+    "assets/brand/header-v5-light.png",
+    "assets/brand/header-v5-dark.png"
+  ],
+  "skillsReviewed": [
+    {
+      "name": "emil-design-eng",
+      "path": "/Users/nag/.agents/skills/emil-design-eng/SKILL.md",
+      "intake": "Full skill read for this review.",
+      "application": "Purpose before animation, restraint, consistent identity, actual rendered sizes and separation of craft judgment from device or audience evidence."
+    },
+    {
+      "name": "design-taste-frontend",
+      "path": "/Users/nag/.agents/skills/taste-skill/SKILL.md",
+      "intake": "Full 278-line skill read for this review in two bounded reads after an oversized read was truncated.",
+      "application": "Plain factual copy, existing authored assets, one coherent identity, useful work and links ahead of decoration. Commercial-site implementation recipes are not applied to GitHub."
+    },
+    {
+      "name": "review-animations",
+      "path": "/Users/nag/.config/skillshare/skills/review-animations/SKILL.md",
+      "intake": "Previously read in full during this standing review session; not unnecessarily reread.",
+      "application": "Do not convert authored intent or static evidence into a motion-quality claim."
+    },
+    {
+      "name": "choreograph",
+      "path": "/Users/nag/.config/skillshare/skills/choreograph/SKILL.md",
+      "intake": "Previously read in full during this standing review session; not unnecessarily reread.",
+      "application": "Future notice, inspect and offer should express one thought with a clear attention target and a quiet hierarchy."
+    },
+    {
+      "name": "animation-performance",
+      "path": "/Users/nag/.config/skillshare/skills/animation-performance/SKILL.md",
+      "intake": "Previously read in full; consulted as retained workflow guidance, not a fresh runtime audit.",
+      "application": "Source reuse and static PNGs do not constitute website frame-budget evidence."
+    }
+  ],
+  "workflowChanges": [
+    "Identify the actual exported pose before naming its action: applications-v5.js renders NEUTRAL. Describe this application as a warm static greeting; reserve investigate-and-share for the proposed website sequence.",
+    "Judge the full avatar and banner at their actual host sizes before enlarging the source art. At 320px the banner is only 238px wide; inspect the face and silhouette separately from fine hand semantics.",
+    "Use the actual wheel-scrolled mobile captures for reading claims. Do not count the known full-page sticky-navigation capture artifact as a design defect.",
+    "Keep separate records for current static legibility, source continuity, future behavior intent and observed human comprehension. A prior mascot score does not approve a new surface.",
+    "For the website implementation, compare its initial still and reduced-motion state against this profile, then review the complete attention-to-offer sequence in playback. Keep useful project content visible without triggering the character."
+  ],
+  "rulesNotApplicableWithReason": [
+    "GitHub controls page layout, fonts, controls and sanitization. Taste-skill's one-section-per-screen rule, dealt palettes and heroes, custom motion layer, photographs, WebGL and starter/checker pipeline do not apply to this native profile README. The existing personal identity takes precedence over replacing it with a commercial-site recipe.",
+    "The task permits supplied local evidence only and root owns browser work. I inspected the supplied PNGs and check report rather than invoking either the skill's browser scripts or another browser tool.",
+    "No new page is being built here; taste-skill asset-family references and implementation scaffolds are not adopted. This review applies the fully read core skill's relevant editorial and coherence principles.",
+    "There is no profile animation or audio to tune. UI timing limits, springs, keyboard animation rules and compositor advice cannot certify or require a nonexistent performance. Future intentional character acting must not be compressed to a generic UI duration.",
+    "The requested independent JSON schema supersedes emil-design-eng's UI-code Before/After/Why table. No source changes or implementation approval are implied."
+  ],
+  "score": 8.8,
+  "scoreMeaning": "Independent craft score for this static application: warm welcome, expressive economy, readable identity at desktop and phone sizes, and credible source-level continuity. It is not a score for animation timing, a built website or human recognition. The numerical match to my prior gesture review is coincidental; this is a different scope. The remaining scale-dependent acting loss keeps this below exceptional across all inspected sizes; lack of motion itself is not a deduction.",
+  "confidence": {
+    "staticApplication": "High for the supplied PNGs and checked source versions.",
+    "continuityIntent": "High that the written plan and reused source are compatible; the website is not implemented.",
+    "evidenceLimits": "Local preview in GitHub DOM, not published account state. Viewport emulation, not physical phone testing. No continuous performance, screen-reader speech or unprimed audience study observed."
+  },
+  "strengths": [
+    {
+      "finding": "The open smile, unequal antennae, soft head and grounded small feet communicate an approachable companion without an explanatory gesture or comic prop. The static pose has enough life for a greeting and does not demand attention from the work.",
+      "evidence": [
+        "assets/brand/header-v5-light.png",
+        "assets/brand/header-v5-dark.png",
+        "brand/reviews/2026-11-07-github/evidence/profile-light-1440.png",
+        "brand/reviews/2026-11-07-github/evidence/profile-dark-1440.png"
+      ]
+    },
+    {
+      "finding": "The avatar and full character preserve the same face and antenna asymmetry. The universal day avatar remains a clear face against both host themes; the night header changes paint while preserving the performance construction.",
+      "evidence": [
+        "assets/brand/heynag-moth-avatar-v5-day.png",
+        "brand/source/applications-v5.js",
+        "brand/reviews/2026-11-07-github/evidence/profile-dark-320-top.png"
+      ]
+    },
+    {
+      "finding": "Nag remains the speaking author. The full name, 'Hey, I'm Nag' and plain project descriptions carry meaning when fine character acting becomes small. No project explanation requires reading the mitten pose, hearing sound or playing animation.",
+      "evidence": [
+        "README.md",
+        "brand/reviews/2026-11-07-github/evidence/profile-light-320-top.png",
+        "brand/reviews/2026-11-07-github/evidence/readme-light-320-scroll.png",
+        "brand/reviews/2026-11-07-github/evidence/readme-dark-320-scroll.png",
+        "brand/reviews/2026-11-07-github/evidence/pins-light-320-scroll.png"
+      ]
+    },
+    {
+      "finding": "The future notice, look closer and invite behavior is a plausible expansion of this warm expression. Keeping glasses and mischief occasional protects the curious baseline instead of forcing every static surface to sell a joke.",
+      "evidence": [
+        "brand/profile/continuity.json",
+        "brand/source/applications-v5.js"
+      ]
+    }
+  ],
+  "deductions": [
+    {
+      "severity": "Minor, nonblocking application tradeoff",
+      "finding": "At 320px the approximately 60px-tall header character loses much of the specific mitten relationship and fine antenna-stem continuity, particularly in the dark treatment. The large source art distinguishes these details better. The phone application therefore communicates broad friendly affect more strongly than an individual invitation or thought.",
+      "evidence": [
+        "brand/reviews/2026-11-07-github/evidence/profile-light-320-top.png",
+        "brand/reviews/2026-11-07-github/evidence/profile-dark-320-top.png",
+        "brand/reviews/2026-11-07-github/evidence/render-checks.json",
+        "assets/brand/header-v5-light.png",
+        "assets/brand/header-v5-dark.png"
+      ],
+      "improvementCriterion": "If more specific silent acting is required on a future narrow surface, give the unchanged character more display area and verify the relevant hand silhouette and antenna connections at that actual size in both themes. Keep current GitHub meaning independent of these details; no anatomy redraw or animated workaround is required.",
+      "interpretation": "This is limited expressivity at application scale, not an anatomical defect or evidence that viewers fail to understand the page."
+    }
+  ],
+  "blockers": [],
+  "recommendations": [
+    {
+      "priority": "Keep",
+      "action": "Retain the static neutral greeting and native explanation for this GitHub application. The profile does not need the full animated signature or a stronger comic pose to be complete."
+    },
+    {
+      "priority": "Clarify the continuity record",
+      "action": "Treat continuity.json's assertion that identity is established 'immediately' as intended recognition, not an observed audience result. Rephrase it as a design aim when next editing the contract.",
+      "evidence": [
+        "brand/profile/continuity.json"
+      ]
+    },
+    {
+      "priority": "Future website validation",
+      "action": "Anchor the first investigate-and-share performance to a real visible detail, keep the eyes leading the investigation, and return to a compatible quiet greeting. Review the actual mobile composition and uninterrupted playback; do not infer feeling or comprehension from this neutral export.",
+      "evidence": [
+        "brand/profile/continuity.json",
+        "brand/source/applications-v5.js"
+      ]
+    }
+  ],
+  "continuityAssessment": {
+    "demonstratedNow": "The inspected avatar and two banners use the same V5 character source and preserve the greeting across themes. All nine source-manifest hashes match. Native text gives Nag authorship and presents a modest public sample.",
+    "futureContract": "Reuse of the character, palette and investigate-and-share vocabulary is coherent. Static and reduced-motion paths, no forced sound, and useful content without a mascot gate are appropriate requirements.",
+    "distinction": "NEUTRAL is a static welcome. It is not a paused proof of the signature's thought construction. Matching assets can establish source continuity without demonstrating that people recognize one maker across sites.",
+    "decisionWithinScope": "Support carrying this static application into paired review with the named nonblocking scale limit. This independent judgment does not substitute for partner discussion or an explicit proposal vote."
+  },
+  "unscoredOutcomes": [
+    "Continuous animation timing, physical weight, interruptibility and runtime performance on the future website.",
+    "Whether an unprimed visitor recognizes the same maker, reads a particular emotion or forms attachment.",
+    "Publication, live GitHub account settings and post-publication asset delivery.",
+    "Physical mobile-device experience and assistive-technology speech.",
+    "Future website layout, project stories, media, interaction and audio."
+  ]
+}

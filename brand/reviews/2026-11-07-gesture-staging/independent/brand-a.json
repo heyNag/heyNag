@@ -1,0 +1,147 @@
+{
+  "reviewer": "brand-a — Character brand director A, personal voice and authentic work",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "date": "2026-11-07",
+  "independence": "Saved before reading Brand B's new gesture-staging review. No implementation files edited and no browser operated by this reviewer.",
+  "scope": "The updated full LOCAL V5 foundation through the same brand lens as my previous final vote: character presence and coherence, the owner-selected warm signature, truthful real-project association, responsive application and continuity with the existing identity. This pass directly inspects the six hand-family changes and composition-aware question attention, with unchanged surrounding application judgments carried forward explicitly. It is not narrowed to only the repaired eyeline, and it is not a score of human recognition or normal-speed motion quality.",
+  "sourceVersion": {
+    "manifest": "review-source-v1.json",
+    "sha256": "d5abc24f90f9539bfddb0223da42392fb31c9321ab7c962aa98c893ff3789e0e",
+    "verification": "Independently hashed the manifest and every file it lists; all match. character.js and signature.css match the prior final versions. The frozen manifest is authoritative where the earlier engineering note lists a different intermediate signature.html hash."
+  },
+  "previousScoreAndScope": {
+    "record": "../2026-11-07-implementation/team-votes/brand-a.json",
+    "value": 8.2,
+    "outOf": 10,
+    "scope": "Final implementation v4, same full local-foundation brand lens: inspected coherence, appealing presence, truthful real-project association and personal-fit default; no audience or continuous-motion score.",
+    "priorFinalReasons": [
+      "The portrait fixed earlier character compression, but its upward question conflicted with the authored lateral glance.",
+      "The offering mitten and gathered details remained semantically weak at small sizes.",
+      "The first viewport deferred most of the character and Play below the fold.",
+      "The project bridge was credible but its authored story remained introductory."
+    ]
+  },
+  "score": {
+    "value": 8.5,
+    "outOf": 10,
+    "meaning": "A stronger local brand foundation than the prior final 8.2: two concrete aspects of its chosen behavior now agree better with its meaning. The phone investigation is directed toward the actual question, and the offer has a clearer small open-cup silhouette. The increase reflects those inspected gains while retaining the full application scope, small-size limitation, tall landing composition and introductory authorship. It is not a weighted scientific measure, score convergence, an audience outcome or a promised route to 9."
+  },
+  "evidenceActuallyInspected": [
+    "Current AGENTS.md and Brand A role/continuity in brand/team.json; gesture-staging reviewer-instructions.txt, brief.json and review-source-v1.json.",
+    "My previous implementation independent review and pair response retained in this conversation; previous FINAL team-votes/brand-a.json reread for the 8.2 baseline and its exact scope.",
+    "view_image: evidence/hands-day.png and hands-night.png, showing matched before/current poses for the six hand families.",
+    "view_image: evidence/sizes-curious-investigate.png, sizes-thinking.png, sizes-grateful.png, sizes-shy.png and sizes-worried.png at the provided 96/128/160/240 CSS-size samples in both themes.",
+    "view_image: complete evidence/offer-sequence-day.png and offer-sequence-night.png sheets, from consideration through visitor return, hand opening and final hold.",
+    "view_image: evidence/baseline-attention-390-day.png and attention-390-day-330.png, -790.png, -1190.png, -1900.png, -2350.png and -2720.png; also attention-390-night-1190.png.",
+    "view_image: evidence/baseline-attention-320-day.png, attention-320-day-790.png and attention-320-night-790.png.",
+    "view_image: evidence/baseline-attention-1440-day.png, attention-1440-day-790.png and attention-1440-night-790.png.",
+    "Full current staging.js, signature.js and signature.html; complete baseline-to-current motion.js diff for the six hand families and both sharing variants.",
+    "implementation/hand-changes.json and eyeline-changes.json read as engineering provenance, not specialist approval.",
+    "evidence/attention-browser.json: inspected initial detailed entries and a complete compact extraction of viewport, theme, actual sampled time, measured direction, rendered gaze/head and scroll width. These are root-captured browser results, not my operation.",
+    "Inherited application evidence remains the previously viewed final avatar/header exports, final first-viewport phone captures and verified eva.md README source. This pass does not claim a new export review or newly fetched project outcome."
+  ],
+  "strengths": [
+    {
+      "finding": "The chosen signature is less dependent on copy to explain that the raised hand is an offer. Its wrist turns into a modest upward cup away from the ruff, with a clearer gap at larger intended sizes.",
+      "basis": "Matched hands-day/night and sizes-curious-investigate sheets; 390px final offer at 2720ms; source changes from handRX393/handRY447/rotation25 to 407/458/-26.",
+      "brandValue": "The warm invitation becomes more plausible without a larger hand, an extra wave, a prop or a new personality direction."
+    },
+    {
+      "finding": "Phone attention now supports the above-question composition. At the sampled reading moments the head is more upright and the gaze is raised, while the desktop still retains its near-horizontal relation.",
+      "basis": "Matched 390 and 320 context frames, desktop comparison, staging.js and measured browser direction/gaze records.",
+      "brandValue": "The character appears to be considering this project question rather than looking beside it. I retire the specific prior defect that the phone kept the unchanged lateral/downward reading coordinates; perceived exact target recognition remains unmeasured."
+    },
+    {
+      "finding": "The visitor-facing return remains a distinct beat before the revised offer. The source removes staging influence by2350ms and the pose sheets then show the mitten opening into a stable hold.",
+      "basis": "offer-sequence-day/night sheets, attention-390-day-2350/2720 and the exact staging attention window.",
+      "brandValue": "The sequence retains the useful notice, consider, share grammar instead of turning into continuous pointing at the text. This judges sequence structure, not felt timing."
+    },
+    {
+      "finding": "Lowering quiet and gathered hands reduces the busy throat band while retaining the character's small, self-contained manner. Thinking keeps its chin support; Grateful retains a joined clasp; Focused has low separate hands.",
+      "basis": "hands-day/night and the actual-size thinking/grateful/worried sheets; motion diff leaves the original right-hand Thinking contact intact.",
+      "brandValue": "These are quieter drawings of the same character rather than new anatomy or more forceful acting. Shy's gain is correctly modest."
+    },
+    {
+      "finding": "The original tiny proportions, cream face, unequal paddles, wings and short reach remain coherent across themes. There is no theme-specific personality or new claim of project success.",
+      "basis": "All matched rendered sheets, unchanged character.js hash, theme-independent staging source and unchanged exploratory eva.md wording.",
+      "brandValue": "The refinement strengthens the owner's chosen warm signature while preserving identity continuity and truthful authorship."
+    }
+  ],
+  "deductions": [
+    {
+      "id": "brand-a-small-meaning",
+      "type": "Observed craft limitation",
+      "severity": "Minor; nonblocking for this local foundation",
+      "confidence": "High on the inspected size comparison; moderate on inferred semantic effect",
+      "finding": "At96–128px the improved offer remains a very small directional hand accent, and the central ruff/mitten/glasses cluster still asks close inspection. A better contour is not equivalent to independently readable 'sharing'.",
+      "specificEvidence": "sizes-curious-investigate.png, sizes-thinking.png, sizes-grateful.png and sizes-worried.png. The differences are substantially more available at160/240px. Shy's before/current difference is particularly slight.",
+      "continuity": "This narrows the previous hand-clarity deduction; it does not pretend every small-size meaning was fixed. No enlargement or anatomical redraw is recommended by default."
+    },
+    {
+      "id": "brand-a-authored-specificity",
+      "type": "Retained content/craft limitation in the same full scope",
+      "severity": "Minor for a study; material before calling it a complete personal-brand story",
+      "confidence": "High that the content remains introductory; moderate about the value of a particular future treatment",
+      "finding": "The true eva.md question and destination remain the strongest personal connection. The headline and invitation are broadly reusable, and the scene still contains no specific verified decision, useful observation or result in Nag's voice.",
+      "specificEvidence": "Current signature.html retains the same question, exploratory one-sentence description and general curiosity headline as the previous final implementation.",
+      "continuity": "Hand and eyeline fixes do not resolve this previous deduction. It stays visible because the requested score retains the full local-foundation brand lens. It is not a demand to invent a result or expand this authorized gesture fix into a website build."
+    },
+    {
+      "id": "brand-a-landing-exposure",
+      "type": "Retained application tradeoff",
+      "severity": "Minor and nonblocking for the local study",
+      "confidence": "High on unchanged layout; audience effect unknown",
+      "finding": "The taller phone composition still requires scrolling to expose most of the moth and the Play action. The new eyeline fixes where the character attends after it is seen; it does not resolve the first-viewport introduction tradeoff.",
+      "specificEvidence": "signature.css matches the previous final hash exactly; current signature.html retains the same introductory/control order. Previous final signature-390/320 viewport evidence and the new scrolled attention frames show the same composition.",
+      "continuity": "No new first-viewport capture is claimed here. This is an inherited, source-confirmed tradeoff, not a fabricated new usability failure."
+    }
+  ],
+  "improvementCriteria": [
+    "Preserve the clearer cup and quiet partner mitten unless continuous playback reveals an unintended wrist flick. Review that specific2350–2720ms passage at normal speed; static samples cannot settle it.",
+    "Before using96–128px full figures for a meaning-critical invitation, judge the smallest actual application with neutral wording and realistic exposure. Use sufficient space and supporting text instead of adding anatomy to force a universal pictogram.",
+    "Carry the owner-selected warm behavior into a future sourced project moment containing one real decision or observation in Nag's voice. Keep development and verification status honest, and keep the destination immediately useful.",
+    "For a future phone introduction, compare initial viewport and scrolled scene together. Keep the composition-aware gaze and test whether the chosen layout reveals enough of the character at the right moment; no mandatory above-fold rule is inferred for this study.",
+    "Keep the day avatar as the universal small mark and night for uses with enough room. The present gesture pass supplies no reason to reopen those previously accepted usage decisions."
+  ],
+  "confidence": {
+    "overallBrandCraft": "Moderate-high on the inspected static/source application and comparison with my prior final vote",
+    "handAndCompositionDelta": "High on contour/placement changes; moderate on their semantic contribution",
+    "continuousMotion": "Not assessed",
+    "humanOutcomes": "Not assessed"
+  },
+  "implementedAssessment": "Support this improved local foundation with named nonblocking limits. The hand and phone-attention refinements address real prior concerns while preserving the owner-selected character and project bridge. No substantive brand objection is demonstrated by the inspected evidence. Pair challenge and the same-scope all18 vote still follow.",
+  "objections": [],
+  "limits": [
+    "No partner new review read before saving this independent record.",
+    "No continuous-motion perception claim. Pose sheets, timestamps, source interpolation and callbacks cannot certify a natural wrist turn, smooth replay, convincing pause or the felt timing of gratitude.",
+    "No physical-phone behavior, spoken screen-reader output, native-menu keyboard commit or GPU/busy-page performance review by this agent.",
+    "The browser's requested frame times differ slightly from actual range-derived samples; e.g.790ms is captured at791.3ms. I treat the PNG labels as approximately named beats, not exact equal-time numerical proof.",
+    "No unfamiliar-human comprehension, personal attribution, attachment or delayed recall results. The owner preference remains personal-fit evidence only.",
+    "The classifiable earlier horizontal-phone-attention mismatch is resolved in inspected source and stills; unprimed recognition of the specific heading as the target remains a different unanswered question.",
+    "The avatar/header application and tiny night-avatar usage limits are inherited from the previous final review. This gesture pass did not rerender them for this reviewer.",
+    "No publication, GitHub mutation, remote commit/push or deployment is approved by this review."
+  ],
+  "skillsApplied": [
+    {"name": "emil-design-eng", "path": "/Users/nag/.config/skillshare/skills/emil-design-eng/SKILL.md", "reading": "Full skill read earlier in this same conversation; reused without redundant rereading", "concreteUse": "Judge useful defaults, purposeful expressive behavior and the whole application. Compare actual rendering rather than treating source correctness as brand craft."},
+    {"name": "choreograph", "path": "/Users/nag/.config/skillshare/skills/choreograph/SKILL.md", "reading": "Full skill read during my prior final pair response; reused", "concreteUse": "Track cause and subject: question is static; gaze leads head; visitor return precedes the offer; quiet partner hand stays quiet. Check the same relationships in phone and desktop compositions."},
+    {"name": "prototype", "path": "/Users/nag/.config/skillshare/skills/prototype/SKILL.md", "reading": "Full skill read earlier in this conversation; comparison guidance reused without invoking a new exploration", "concreteUse": "Use matched before/current source, the same context and actual-size views. Do not claim that a contact sheet or changed label establishes a winning performance."}
+  ],
+  "workflowChanges": [
+    "Keep a prior-deduction ledger: retire the specific fixed eyeline mismatch, narrow the hand-contour finding, and retain unchanged story and landing-exposure concerns. Improvement is evaluated against the previous FINAL vote, not whichever earlier score makes the delta largest.",
+    "Separate three questions for the offer: is the shape distinguishable, does the movement read as an invitation, and does an unfamiliar person associate it with Nag? The first has direct rendered evidence; the latter two need different observations.",
+    "Use composition as part of the acting brief. Check the actual heading position at phone and desktop sizes rather than assuming one horizontal performance is meaningful in every layout.",
+    "Review contact families separately. A clear offer need not force clasped gratitude or chin-supported thinking into separated hands, and a small Shy change need not be promoted as a dramatic improvement.",
+    "Require the same source identity for source, stills and later motion evidence. Preserve the current scoped independent score until new perceptual evidence justifies a specific change."
+  ],
+  "uiReviewTable": "| Before | After | Why |\n| --- | --- | --- |\n| Phone reading retains a lateral/downward pose despite an above-head question | The measured heading direction adjusts gaze and bounded head support during investigation | The selected brand behavior now has a more credible subject in its actual composition |\n| Offered mitten is close to the ruff and reads like a small raised accent | The existing mitten opens into an outward upward cup after the visitor return | Clarify the invitation through pose while preserving anatomy |\n| One current screenshot could erase unrelated earlier deductions | Carry forward the full-scope ledger and distinguish repaired, narrowed and unchanged concerns | Scores remain comparable and evidence-led |",
+  "rulesNotApplicableWithReason": [
+    "Short UI budgets and rules against incidental keyboard animation do not shorten or prohibit an intentionally requested multi-second character thought.",
+    "Choreograph's Together default does not eliminate meaningful causal order. Notice, consider, return and share intentionally occur in relation; content and project access remain immediate.",
+    "Transform/opacity-only guidance is not a reason to replace expressive SVG facial/hand channels or expand the rig. This reviewer does not infer rendering performance from a property checklist.",
+    "Prototype's full divergence workflow is explicit-invocation-only. This is a matched refinement review, not authorization to build three new brand directions or delete preserved historical evidence.",
+    "The design-taste-frontend skill describes website-building direction. This review does not redesign the studio, impose a company-site section system or add unrelated web styling; the relevant application criteria are inherited from the prior full brand review.",
+    "Skill examples do not require audio, new props, exaggerated gestures, bounce, a larger hand or more movement to make the brand distinctive.",
+    "A requested9/10 is an aspiration rather than evidence. I do not remove the unchanged authorship or first-viewport tradeoffs to reach it."
+  ]
+}

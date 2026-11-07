@@ -1,0 +1,256 @@
+{
+  "reviewer": "sound-A",
+  "agent": "/root/panel_sound_a_implementation",
+  "standingRole": "Sound designer \u2014 silent legibility and restraint",
+  "predecessor": "/root/panel_sound_astra",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "scope": "Frozen v4 local SVG study: source-defined silence and restraint, sampled visual cause and readable silent poses in the selected Investigate & share performance, plus inspected one-peek and hop excerpts. This is not an audio-quality, continuous-rhythm, all-24-performance, audience-response or deployed-website score.",
+  "independence": "Saved before reading any new sound-B review or implementation pair proposal. Root confirmed the independently found phone eyeline deduction is unresolved; no score was supplied by root.",
+  "sourceVersion": "review-source-v4.json",
+  "sourceVerification": "SHA-256 matched the v4 record for motion.js, signature.js, signature.css, studio.js and comparison.mp4.",
+  "evidenceActuallyInspected": [
+    "AGENTS.md; brand/team.json (sound role and A lens); brand/workflow.json; reviewer-instructions.txt; brief.json; owner-preference.json; review-source-v4.json",
+    "Full installed-skills.json catalog: all 17 names and summaries; full choreograph, remove-animations and review-animations SKILL.md files",
+    "Prior own-role expanded-panel/independent/sound-a.json",
+    "motion.js lines 1\u2013220 (pose bounds, curious, thinking, mischievous, aha, excited); lines 390\u2013494 (investigation, wry and one-peek variants); lines 540\u2013752 (finite engine, interruption, pause, seek, reduced motion)",
+    "Full signature.js, signature.css and studio.js; scan of animation-v5 for authored audio, automatic looping and speech APIs",
+    "view_image: decoded-day-5.png; decoded-night-5.png; decoded-day-2.png; decoded-day-4.png; curious-investigate.png",
+    "view_image: signature-final-390-stage.png; signature-final-390-night.png; signature-final-320.png",
+    "comparison-export.json; description-and-reduced-motion.json; interaction.json (read as reported evidence, not my own browser observation)",
+    "ffprobe comparison.mp4: one H.264 video stream, 30/1 fps, 88.8 seconds, no audio stream"
+  ],
+  "score": {
+    "value": 8.6,
+    "outOf": 10,
+    "meaning": "Strong source restraint and sampled silent clarity, with a meaningful responsive staging weakness and a restrained sharing gesture whose intention remains less explicit than its label. Scope excludes continuous perceived rhythm and audio quality."
+  },
+  "unsupportedScores": {
+    "soundQuality": null,
+    "continuousPerceivedRhythm": null,
+    "unprimedComprehension": null,
+    "repeatVisitComfort": null,
+    "realDevicePerformance": null
+  },
+  "strengths": [
+    "Silence is complete and intentional here: no authored audio API was found, and the actual comparison film has no audio stream. No missing-sound deduction or mute-control requirement is warranted.",
+    "The investigation source separates antenna notice at 150 ms, gaze at 330 ms, glasses/inspection by 790 ms, a 1610\u20131900 ms consideration hold, return by 2350 ms and the sharing pose at 2720 ms. Day and night decoded sheets support these distinct posed stages without requiring sound to mark them.",
+    "The one-peek study visibly retains the closed-eye setup and one asymmetric peek; its source removes the second check while retaining a held joke. This is a purposeful restraint option, not proof that all shorter acting is better.",
+    "The hop sheet preserves the small feet and readable whole-body lift. Source places contact at 1060 ms and head follow-through at 1140 ms without a second body hop; no landing tick is needed to supply missing structural cause in those inspected samples.",
+    "Signature starts still, plays only on activation, settles, permits pause/seek, and pauses when hidden or outside the scene. Studio collection is explicit and finite. Reduced motion selects authored stills and disables the collection. These source decisions protect attention and avoid competing ambient loops.",
+    "The portrait composition gives the existing small presenting mitten more display space, with question/link available before Play. Day and night final screenshots keep both content and the soft character readable."
+  ],
+  "deductions": [
+    {
+      "id": "SOUND-A-1",
+      "amount": 0.9,
+      "severity": "moderate",
+      "type": "implemented staging weakness",
+      "confidence": "medium-high",
+      "finding": "On the portrait phone composition, the visible question is predominantly above the moth while the unchanged authored investigation remains a screen-right reading action. The early negative gazeY and upward antenna only partially connect the cause; the later positive gazeY inspection is particularly indirect for that placement. The responsive image is readable, but its silent cause is less literal than the desktop scene.",
+      "basis": [
+        "signature-final-390-stage.png",
+        "signature-final-390-night.png",
+        "signature.css portrait grid rules",
+        "motion.js fixed screen-right staging comment and investigationFrames"
+      ],
+      "qualification": "The final phone still and source were inspected; no early-phase portrait playback was directly observed. This is a source-plus-layout deduction, not a reported user misreading.",
+      "requiredFor": "Refinement before claiming a resolved responsive character scene; not a blocker to retaining the local study."
+    },
+    {
+      "id": "SOUND-A-2",
+      "amount": 0.5,
+      "severity": "minor",
+      "type": "craft judgment / semantic ambiguity",
+      "confidence": "medium",
+      "finding": "At the sharing endpoint the small raised mitten remains near the shoulder/collar and can be read as a generic welcoming hold. The transition from the consideration hand gives it context, but a single endpoint does not clearly communicate offering the question. The scene copy and accessible description currently carry more of that specific intention.",
+      "basis": [
+        "curious-investigate.png endpoint at 2720 ms and later",
+        "signature-final-390-stage.png",
+        "decoded-day-5.png",
+        "decoded-night-5.png"
+      ],
+      "qualification": "This is a specialist reading of actual stills, not evidence of unprimed audience confusion. Preserve the tiny mitten and do not enlarge anatomy to force a literal gesture.",
+      "requiredFor": "Optional acting/staging refinement, or an explicitly modest claim of invitation rather than proven sharing comprehension."
+    }
+  ],
+  "improvementCriteria": [
+    "For the portrait scene, inspect notice/read/return samples against the actual question position, then tune responsive staging or a separately labeled numeric pose variant so the target and eyeline agree while day and night geometry remain identical.",
+    "Compare the selected gesture with a small, reversible timing/gaze adjustment that gives the return-to-viewer beat a clearer handoff. Keep anatomy unchanged and retain the selected warm investigation unless actual rendered evidence improves the meaning.",
+    "Before assigning a continuous-rhythm score, inspect normal-speed silent playback at intended desktop and phone sizes, including rapid retrigger and a transition from airborne motion. A deterministic frame rate alone does not satisfy this criterion.",
+    "Before claiming repeat-visit comfort or unprimed understanding, obtain the relevant user/device evidence; do not substitute silence, passing tests, or panel agreement for those outcomes."
+  ],
+  "confidence": {
+    "overall": "medium-high within the stated source and sampled-image scope",
+    "sourceRestraint": "high",
+    "sampledCauseAndPoseReadability": "medium-high",
+    "continuousPerception": "unsupported"
+  },
+  "implementedAssessment": {
+    "decision": "Accept with named reservations as an implemented local silent study",
+    "soundBlocker": false,
+    "silencePolicy": "Keep silent by default. Optional audio is a separate future design decision with consent and measurable purpose; no audio is required by this review.",
+    "phoneEyeline": "Unresolved; not certified as solved.",
+    "approvalLimits": "Does not approve a deployed website, whole-catalog emotional comprehension, subjective smoothness, audio quality or future sound design."
+  },
+  "objections": [
+    {
+      "id": "SOUND-A-OBJECTION-1",
+      "severity": "moderate",
+      "blocking": false,
+      "scope": "claim boundary / phone scene",
+      "statement": "Do not call the responsive visual cause fully resolved while the phone question is above the unchanged screen-right investigation. Retain the explicit deduction and refinement need."
+    }
+  ],
+  "limits": [
+    "I did not watch continuous motion or listen to audio. The films are silent; no listening or perceived rhythmic claims are made.",
+    "The decoded sheets are sampled actual film frames, not continuous playback and not proof of live smoothness.",
+    "No independent browser operation was performed; root owns the browser Task Space.",
+    "No physical phone, actual screen-reader spoken-output capture, unprimed participant, memory outcome or repeat-visit observation was inspected.",
+    "Reported desktop rAF gaps remain unexplained; no performance score or causal diagnosis is inferred.",
+    "Nag selected Investigate & share for personal fit. That preference is preserved and is not stranger-comprehension evidence."
+  ],
+  "skillsReviewed": {
+    "catalogReadInFull": true,
+    "catalogCount": 17,
+    "catalogSummaries": [
+      "emil-design-eng",
+      "animate",
+      "animate-expo",
+      "review-animations",
+      "improve-animations",
+      "find-animation-opportunities",
+      "remove-animations",
+      "choreograph",
+      "animation-performance",
+      "animation-vocabulary",
+      "apple-design",
+      "write-swift",
+      "pick-ui-library",
+      "prototype",
+      "mobile-native",
+      "break-ui",
+      "ask-sonner"
+    ],
+    "fullInstructionsRead": [
+      {
+        "name": "choreograph",
+        "path": "/Users/nag/.config/skillshare/skills/choreograph/SKILL.md",
+        "use": "Assign visual lead/support/static roles and require cause-based secondary timing; retain explicit limits of code-only feel judgments."
+      },
+      {
+        "name": "remove-animations",
+        "path": "/Users/nag/.config/skillshare/skills/remove-animations/SKILL.md",
+        "use": "Audit repeated attention claims and keep only purposeful motion; deliberately retain requested character acting and opt-in content playback."
+      },
+      {
+        "name": "review-animations",
+        "path": "/Users/nag/.config/skillshare/skills/review-animations/SKILL.md",
+        "use": "Check interruption, justified motion, reduced motion and input-specific UI feedback while keeping claims bounded by actual evidence."
+      }
+    ],
+    "catalogOnlyNotClaimedAsFullReads": [
+      "emil-design-eng",
+      "animate",
+      "animate-expo",
+      "improve-animations",
+      "find-animation-opportunities",
+      "animation-performance",
+      "animation-vocabulary",
+      "apple-design",
+      "write-swift",
+      "pick-ui-library",
+      "prototype",
+      "mobile-native",
+      "break-ui",
+      "ask-sonner"
+    ]
+  },
+  "workflowChanges": [
+    "For every future character/website moment, create a cause map before discussing sound: visual stimulus, lead action, supporting response, settle and what remains static. A sound cue cannot repair a missing visual cause by default.",
+    "Use a motion frequency inventory: finite requested character performance may stay; repeating reading-surface decoration must justify its purpose. Start the future website with still readable content and preserve explicit Play/Pause/reduced-motion behavior.",
+    "Require actual desktop and responsive render evidence for eyeline and gesture judgments. Keep source-defined timing, sampled frames, continuous perception and audience outcomes as separate review categories.",
+    "Review sound as an optional layer only after the silent visual action is intelligible. If later requested, test opt-in, reversible disablement and interruption without treating semantic assistive speech as decorative soundtrack.",
+    "Pair discussion must explicitly preserve these practical skill adoptions and exceptions for future website engineers, rather than treating catalog discovery as complete skill implementation."
+  ],
+  "rulesNotApplicableWithReason": [
+    {
+      "rule": "No keyboard-triggered animation",
+      "reason": "Apply to avoidable interface flourishes, not a keyboard user intentionally pressing Play to access character content. Removing that playback would reduce access."
+    },
+    {
+      "rule": "Sub-300 ms UI and short group budgets",
+      "reason": "The 4.1 second investigation is requested narrative content with notice, consideration and invitation. Its duration is not a UI response delay; controls stay immediately usable."
+    },
+    {
+      "rule": "GPU-only properties",
+      "reason": "Expressive SVG path changes have a different purpose from UI transforms. Do not erase the small anatomy or expression system to satisfy a blanket compositor rule; use relevant measured workloads."
+    },
+    {
+      "rule": "Collapse reduced motion to opacity/color",
+      "reason": "An authored still is appropriate for this explicit character scene and retains its meaning. No extra opacity animation is necessary."
+    },
+    {
+      "rule": "Uniform stagger forbidden / decorative elements never move",
+      "reason": "Body-part relationships are motivated character acting, not a menu entrance. Assess lead/support causality rather than mechanically deleting antenna or wing responses."
+    },
+    {
+      "rule": "remove-animations implementation and cleanup",
+      "reason": "This assignment is read-only source review. No motion or dependency was deleted; the skill informs candidate selection and the kept-motion rationale."
+    },
+    {
+      "rule": "Mandatory skill-specific report templates",
+      "reason": "The repository requires a single independent JSON record. Findings, verdict, timing relationships, retained motion and perceptual limits are recorded in that structure."
+    },
+    {
+      "rule": "Expo, Swift, Sonner, library picking and prototype implementation",
+      "reason": "This is a plain-JavaScript local SVG review, with no requested framework migration or prototype implementation. Their catalog summaries were read; their full instructions were not needed."
+    }
+  ],
+  "choreographyAudit": {
+    "lead": "The antenna/gaze notice followed by deliberate head inspection, then return toward the visitor.",
+    "support": "Glasses, small hand change and restrained right wing response.",
+    "static": [
+      "Question and project link remain present and readable.",
+      "Background does not pulse.",
+      "Transport has no entrance stagger."
+    ],
+    "timelineMs": [
+      {
+        "moment": "notice",
+        "time": 150
+      },
+      {
+        "moment": "gaze",
+        "time": 330
+      },
+      {
+        "moment": "inspect",
+        "time": 790
+      },
+      {
+        "moment": "consider hold",
+        "start": 1610,
+        "end": 1900
+      },
+      {
+        "moment": "return",
+        "time": 2350
+      },
+      {
+        "moment": "share pose",
+        "time": 2720
+      },
+      {
+        "moment": "finite completion",
+        "time": 4100
+      }
+    ],
+    "keptMotion": [
+      "Requested finite investigation: explanation and character intention.",
+      "One-peek variant: preserves setup and joke while reducing repeated checking.",
+      "Hop contact/follow-through: physical cause within an intentional excited performance."
+    ],
+    "feelCheck": "Review 0\u20130.8 s notice and 1.6\u20132.72 s hold/return at normal speed on actual responsive staging before judging rhythm."
+  }
+}

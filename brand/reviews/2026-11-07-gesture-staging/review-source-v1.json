@@ -1,0 +1,18 @@
+{
+  "version": "v1",
+  "scope": "Updated local V5 foundation: six hand families and composition-aware project-question attention. Character anatomy and paint unchanged. Includes 24 emotions and 3 studies. Rendered evidence and deterministic film are supporting evidence, not human or physical-device validation.",
+  "files": {
+    "brand/animation-v5/character.js": "b93400daeaa43af99e4b8c30942b80d4d69aba545a808863dd92ebe1830a97fa",
+    "brand/animation-v5/index.html": "f380b41c1c512283d04ef30c783567b279ac559c0356afc93d6fdc441bccb7e3",
+    "brand/animation-v5/motion.js": "45fd385756bbbe7ebbb4598f4f236b22c4fe641bd1476f6d88139f9b4b001bcb",
+    "brand/animation-v5/motion.test.mjs": "4f240c78e13b631b1bb14ffd3f1a8bef62e167beefa651a09ab1961de077b8e7",
+    "brand/animation-v5/reel.js": "7af6dbdb9c5a95d2e72b2b73ffa309a22a10d30fa53c1dc73616586e3b4ef864",
+    "brand/animation-v5/signature.css": "5032455c9ad8f6cd607b40a21f83652560432c171544040a86a59d8f29d1a059",
+    "brand/animation-v5/signature.html": "fb57d8ecbd9ebead9d6fdbe799481eba6d840c3346aab86ba622b388f9e2a06e",
+    "brand/animation-v5/signature.js": "193978baaeced60a7a4f953444c7acc0a3211fc028fa3385cdc0eb3941c0d0e3",
+    "brand/animation-v5/staging.js": "6be8d37d4a77484397d64e7db8d3c86471b76e0c8ef1ecc3978e319c03403d9e",
+    "brand/animation-v5/staging.test.mjs": "6713f3ad7264a0da5f1dc71e94735a7856fe11a1006b0a63a2661e699c6a4d57",
+    "brand/animation-v5/studio.css": "a43848acd9bb41df4fd2c3c7c6015e74883d12ababd77489040f31f54acd18ca",
+    "brand/animation-v5/studio.js": "cdde884a87090cb33b4f227367f301f5f5797ae22ee09e10d4b6ff4f78ffdbec"
+  }
+}

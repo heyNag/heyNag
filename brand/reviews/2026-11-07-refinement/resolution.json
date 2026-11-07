@@ -1,0 +1,134 @@
+{
+  "status": "Four scoped fixes completed and independently re-reviewed; local draft ready for presentation",
+  "reviewers": [
+    "brand",
+    "performance",
+    "identity",
+    "rigging",
+    "interaction",
+    "audience",
+    "storyboard",
+    "visual",
+    "sound"
+  ],
+  "crossReviewers": [
+    "brand",
+    "performance",
+    "identity",
+    "rigging",
+    "interaction",
+    "audience",
+    "storyboard",
+    "visual",
+    "sound"
+  ],
+  "crossReviewDecisions": 34,
+  "fixes": [
+    {
+      "issue": "Small/dark identity applications",
+      "result": "Same-path local antenna keyline; circular-safe V5 head avatars; matching V5 headers used by local README.",
+      "evidence": [
+        "evidence/identity.png",
+        "evidence/readme-390-day.png",
+        "evidence/readme-390-night.png",
+        "evidence/asset-checks.json"
+      ]
+    },
+    {
+      "issue": "Sad\u2194worried cheerful intermediate expression",
+      "result": "Related emotional entry retains outgoing fields through neutral-inherited anticipation. Explicit target cues remain.",
+      "evidence": [
+        "evidence/sad-worried.png",
+        "evidence/worried-sad.png",
+        "evidence/transitions-exact.mp4"
+      ]
+    },
+    {
+      "issue": "Hop descent and clustered mitten poses",
+      "result": "Continuous descent through wing reversal; separated thinking, focused, worried, and grateful staging without changed limb reach or anatomy.",
+      "evidence": [
+        "motion-changes.json",
+        "evidence/poses.png",
+        "evidence/exact-case-8.png"
+      ]
+    },
+    {
+      "issue": "Offscreen focus and distant emotion navigation",
+      "result": "Adjacent selector/previous/next; intentional gallery activation focuses player heading. Pointer\u2192Tab correction added after specialist re-review.",
+      "evidence": [
+        "evidence/interaction-checks.json",
+        "evidence/interaction-extra.json",
+        "evidence/keyboard-heading-ring.png"
+      ]
+    }
+  ],
+  "verification": {
+    "motionTests": 9,
+    "geometry": {
+      "samples": 504,
+      "dayNightGeometryMismatches": 0,
+      "beforeAfterAnatomyMismatches": 0,
+      "invalidSVG": 0,
+      "method": "24 clips \u00d721 poses; geometry attributes compared on matched poses, excluding only two added antenna-edge paths from the before/after comparison. Paint/color deliberately excluded."
+    },
+    "assets": {
+      "originalRasterMastersUnchanged": true,
+      "svgExports": [
+        {
+          "path": "assets/brand/header-v5-dark.svg",
+          "width": "1200",
+          "height": "360",
+          "duplicateIDs": 0
+        },
+        {
+          "path": "assets/brand/header-v5-light.svg",
+          "width": "1200",
+          "height": "360",
+          "duplicateIDs": 0
+        },
+        {
+          "path": "assets/brand/heynag-moth-avatar-v5-day.svg",
+          "width": "512",
+          "height": "512",
+          "duplicateIDs": 0
+        },
+        {
+          "path": "assets/brand/heynag-moth-avatar-v5-night.svg",
+          "width": "512",
+          "height": "512",
+          "duplicateIDs": 0
+        }
+      ]
+    },
+    "widths": [
+      1440,
+      1024,
+      768,
+      390,
+      320
+    ],
+    "horizontalOverflow": false,
+    "decodedReelSamplesReviewed": 24,
+    "comparison": "1260 exact30fps source frames encoded into42second before/after film; selected sequences visually reviewed; encoded frames checked at25.6s and34.5s."
+  },
+  "reconciledNotes": [
+    "Stale no-V5-avatar/future-header passages removed from brand guides and brief.",
+    "Native vector derivation distinguished from preserved original raster texture.",
+    "Identical inline SVG copies require consumer namespaces; standalone/img exports are safe.",
+    "Initial transition video capture had scheduling gaps; deterministic frame export supersedes it. Raw intermediates removed after encoding and evidence retention."
+  ],
+  "remainingLimits": [
+    "No human emotion-recognition, emotional-attachment or delayed-recall study.",
+    "42 compatible pairs have numeric coverage, not exhaustive perceptual approval. Intended story transitions still need contextual review.",
+    "No screen-reader speech test or conclusive native-selector keyboard value-change test. Keyboard heading transfer and ring were observed.",
+    "Avatar32px is smallest inspected;24px and tiny full-body use not established.",
+    "No claim of personally observing every frame at normal speed. Source sequences, sampled decoded frames, source checks and measured cadence are distinguished."
+  ],
+  "standingTeam": {
+    "roster": "brand/team.json",
+    "instructions": "AGENTS.md",
+    "process": "Engineering implementation \u2192 fresh evidence \u2192 independent specialist review \u2192 cross-review \u2192 resolve defects \u2192 present",
+    "continuity": "Reuse agents when available; restore same roles from durable records if runtime changes."
+  },
+  "publication": "No commit, push, account avatar upload or website deployment performed."
+}

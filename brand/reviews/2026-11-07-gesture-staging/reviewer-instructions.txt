@@ -1,0 +1,7 @@
+Repository: /Users/nag/projects/personal/heyNag. Read AGENTS.md, brand/team.json, this review brief.json, your previous implementation independent/pair/vote, and final source manifest when supplied. Retain your established specialist A/B lens. All18 remain GPT-6 Astra / ultra.
+
+Review actual source and rendered PNGs with view_image. Root owns browser TaskSpace9; no browser use or source edits by reviewers. Study matching before/after, actual sizes, both themes, complete relevant pose sequences and contextual phone compositions. Distinguish frame evidence, code/tests, callbacks, continuous perception, physical phone behavior and unfamiliar human responses.
+
+Independently save independent/<role>-<side>.json before reading partner new review. Required: reviewer, model, reasoning, scope, previousScoreAndScope, score {value,outOf:10,meaning}, evidenceActuallyInspected, strengths, deductions with specific evidence/severity/confidence, improvementCriteria, confidence, objections, limits, skillsApplied, workflowChanges, rulesNotApplicableWithReason. Keep all numbers honest. Do not relabel a validation limit as a demonstrated bug or narrow away a valid prior deduction to award9. Unsupported outcomes remain unscored.
+
+Send actionable concrete problems promptly. Root will fix defensible implementation defects before freezing. Pair challenge and all18 explicit votes follow; no silence-as-consensus. A local foundation acceptance is not a claim of9/10 or public deployment.

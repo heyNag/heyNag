@@ -1,0 +1,16 @@
+{
+  "reviewerId": "identity-a",
+  "role": "Silhouette and cross-surface identity",
+  "position": "agree_with_limits",
+  "scope": "Bounded art-direction TEST only; independent, before B. No score or unseen-art approval.",
+  "judgment": "A shared matte dimensional world could integrate companions better than the current flat outlined moths against painted scenery. Preserve a moth-only control; dimensional cohesion must not replace the original identity with a generic plush character.",
+  "guardrails": [
+    "Keep V5's oversized cream head, tiny body, unequal paddle antennae, mitten hands, attached stub feet and four layered marked wings. Preserve graphic eye and marking shapes; add soft volume and contact shadows, without enlarging anatomy, glossy toy highlights or fur obscuring contours.",
+    "Keep all three moths visibly the same character. Compare the foreground crop with the original reference and existing avatar family; a scenic study does not automatically replace those assets.",
+    "Exactly two small rear-left workshop watchers: terracotta crab-like Claude and the reference's charcoal white-faced companion. No invented second product identity. Foreground remains exclusively Nag coding on the bench with silver Apple MacBook; keep cameo contrast subordinate."
+  ],
+  "failureCriterion": "Identity substitution: at intended GitHub banner width, the isolated foreground moth no longer preserves the reference's recognizable head/body, paddle and wing silhouette. Reject that translation rather than normalize a new mascot.",
+  "evidence": "Viewed all three proposal input images; read animated-film-proposal.json, ai-cameo-brief.json and standing Identity A role.",
+  "skills": "Reused full emil-design-eng and design-taste-frontend readings: cohesive treatment, restrained hierarchy, established identity. Website-template prescriptions are inapplicable.",
+  "limits": "No rendered 3D variation, narrow-size test, night pairing, motion or human recognition evidence yet."
+}

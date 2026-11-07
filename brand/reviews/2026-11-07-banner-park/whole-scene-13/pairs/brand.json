@@ -1,0 +1,56 @@
+{
+  "discipline": "brand",
+  "proposalSha256": "710168aea494893968a89809edc6034930e39c8ed9a0147919b3aac04c04cce5",
+  "assetSha256": "32ce62c11e533fcd3a7ab1856a102c7a31b9111d96c3fbf16df8d469b8f08469",
+  "readmeSha256": "a88ff0761cd9d7da1bb6d2ba5746612976ab52c7bc73156d32feb8a24418e90e",
+  "state": "Both members explicitly confirm the same scoped recommendation after reciprocal challenge; individual scores and limits retained",
+  "members": [
+    {
+      "reviewer": "brand-a",
+      "decision": "agree_with_named_limits",
+      "score": 9,
+      "vote": "brand/reviews/2026-11-07-banner-park/whole-scene-13/votes/brand-a.json",
+      "explicitRecommendation": "Present actual13 as the reviewed day-scene and publish this personal-story README/banner to heyNag/heyNag within the owner’s explicit instruction. Preserve all individual image scores and named nonblocking limits. Do not claim unanimous9, audience validation or a night/animated counterpart.",
+      "counterpartChallenge": {
+        "record": "brand/reviews/2026-11-07-banner-park/whole-scene-13/independent/brand-b.json",
+        "challenge": "B's420px secondary-story limitation is valid for the bare illustration, but it should not become a profile blocker or a demand to enlarge guests. The actual308px-wide GitHub banner still leads with the coder, while native first-person text explains the moth as Nag building, wondering and resting. The subtle embossing remains a native-art deduction; it is not salient enough at846/308 display to require another retouch.",
+        "agreement": "Both independently retired the whole-frame material/grip must-fixes and found no new regression. Keep faint texture and small narrative details as named nonblocking limits; no smoothing, cast enlargement or new acting pass is required.",
+        "messageSent": true,
+        "partnerResponse": "Brand B explicitly accepted the distinction between bare-art scale limits and native-text-supported profile readiness. B confirmed the exact proposal, original Downloads copy and frozen README/banner with no substantive objection, retaining 8.9. B qualified that the native-resolution texture reservation must remain visible in the assessment, and that current profile previews do not justify additional background quieting.",
+        "remainingOwnSubstantiveObjections": [],
+        "ownResponse": "Accepted. My retained 9.0 is a bounded craft score, not texture-perfect native art; B's 8.9 and full-resolution reservation remain intact. No extra background quieting or retouch is needed for this publication. My optional notes remain future guidance only.",
+        "remainingSubstantiveDisagreements": []
+      }
+    },
+    {
+      "reviewer": "brand-b",
+      "decision": "agree_with_named_limits",
+      "score": 8.9,
+      "vote": "brand/reviews/2026-11-07-banner-park/whole-scene-13/votes/brand-b.json",
+      "explicitRecommendation": {
+        "explicitOwnConfirmation": "I confirm the proposal's recommendation: present exact actual13 and publish this frozen personal-story README/banner to heyNag/heyNag within the owner's explicit instruction; deliver the unchanged original2172x724 asset in Downloads. Preserve individual image scores and named nonblocking limits. Do not claim unanimous9, audience validation, a night version or animation.",
+        "sharedScope": "The artwork and native personal story are ready for the stated owner presentation and README/banner publication. Account avatar, bio, pins and organization membership remain separate settings and are not represented as changed.",
+        "counterpartPositionReceived": "Brand A directly confirmed acceptance of the same exact proposal, original-size Downloads copy, separate settings and retained scores; A challenged my scale limitation as nonblocking in the actual profile.",
+        "ownQualificationSent": "Native full-resolution texture remains a small limitation despite successful banner rendering. No extra art pass is requested.",
+        "retainedScores": {
+          "brand-a": 9,
+          "brand-b": 8.9
+        },
+        "remainingSubstantiveDisagreements": [],
+        "status": "Both reviewers explicitly confirmed the same scoped recommendation after the challenge exchange; no substantive objection remains."
+      },
+      "counterpartChallenge": {
+        "counterpart": "brand-a",
+        "readAfterIndependentSave": true,
+        "challenge": "Brand A finds its criteria for9 met and retains optional background/detail quieting. At the actual846px desktop and308px narrow banner widths, the coder remains clear and the native text carries building/wondering/resting; further quieting has little demonstrated application benefit. Conversely, successful profile reduction does not imply texture-perfect full-resolution Downloads art: native evidence still supports my faint forehead/paddle/wing-pattern deduction. Keep both judgments nonblocking; do not add a retouch requirement or homogenize scores.",
+        "responseToA": "Accept A's challenge that my420px bare-art micro-story limit must not become a demand for larger guests or a profile-readiness deduction. The real308px application plus readable text supplies the missing context.",
+        "sentToCounterpart": true,
+        "substantiveObjectionRemaining": false,
+        "counterpartAcknowledgment": "Brand A explicitly accepted that its9.0 is not texture-perfect native-art certification, retained B8.9, and agreed that extra background quieting is not justified as a publication condition at846/308px. A confirmed exact13/frozen README, original-size Downloads, broad-only private themes, one day image and separate settings."
+      }
+    }
+  ],
+  "remainingSubstantiveObjections": [],
+  "scope": "Present actual13 as the reviewed day-scene and publish this personal-story README/banner to heyNag/heyNag within the owner’s explicit instruction. Preserve all individual image scores and named nonblocking limits. Do not claim unanimous9, audience validation or a night/animated counterpart.",
+  "limits": "Pair recommendation does not supply any other specialist’s vote, prove human outcomes or claim publication has already happened."
+}

@@ -1,0 +1,149 @@
+{
+  "reviewerId": "identity-b",
+  "role": "Small-size recognition and typography hierarchy",
+  "position": "Eye restoration is justified; broader Muse redesign is not required. One restrained likeness comparison is optional.",
+  "evidence": {
+    "ownerLiked07": {
+      "path": "/Users/nag/projects/personal/heyNag/assets/brand/banner-park/park-film-study-07-clawd-plush.png",
+      "sha256": "8a79349e46ed39fca6d375d405d67eba66cce251187d89b44b119c82da3dfa1a",
+      "viewed": true
+    },
+    "eyeRegression08": {
+      "path": "/Users/nag/projects/personal/heyNag/assets/brand/banner-park/park-film-study-08-story-and-light.png",
+      "sha256": "0794cfb0ac392c688c9e453a954a7602436dde6ac98f360292c6e2a7dd22ad5a",
+      "viewed": true
+    },
+    "latestMuseRepair": {
+      "path": "/Users/nag/.codex/generated_images/01a1b473-8621-7941-ba03-4b47867c136c/exec-234a1f3b-c3c0-4d21-a2fb-0e2a5cad97f6.png",
+      "sha256": "496243c1d975cbf4d27f126aa48afa36e695734de005a59893a509c73f9e14ee",
+      "viewed": true
+    },
+    "ownerLineup": {
+      "path": "/Users/nag/projects/personal/.heynag-profile-work/references/owner-muse-lineup.jpg",
+      "sha256": "cef7db5bf119705a7440351d7dfe83cf5762a8d9c00b755e2f947cf9a599dc3d",
+      "viewed": true
+    }
+  },
+  "findings": [
+    "08 replaces Muse’s dark bead eyes with pale rings. The latest repair restores dark filled eyes and a readable simple smile, closer to 07 and the supplied lineup.",
+    "The oversized hood/head, compact seated body, short limbs and leaf interaction already communicate the intended baby treatment. I see no proportion defect requiring enlargement or older anatomy.",
+    "The lineup’s cream characters have a broader rounded-rectangular face opening and softer fabric surround. The park version’s more circular opening and pronounced cap seams are a weaker likeness cue, but do not establish that the baby treatment is wrong.",
+    "Material remains softly padded and consistent with the scene. Slightly softer hood seams and a broader face opening could improve likeness; this is a medium-confidence preference, not a demonstrated recognition failure."
+  ],
+  "mustFix": [
+    "Do not ship the 08 pale-ring Muse eyes; retain the latest dark filled-eye restoration.",
+    "Remove dark inner dots from Grok’s white oval eyes, as explicitly requested; these remain visible in the supplied latest repair."
+  ],
+  "optional": "If another Muse edit is made, compare one local variant with a subtly broader face opening and softer hood seams. Preserve tiny scale, pose, simple smile and dark eyes. Judge it beside 07 and the latest repair before selecting it.",
+  "confidence": {
+    "eyeRestoration": "high",
+    "tinyProportions": "high at inspected scene scale",
+    "hoodLikenessRefinement": "medium",
+    "phoneRecognition": "not evaluated"
+  },
+  "skillsReviewed": {
+    "reusedFullReadings": [
+      "emil-design-eng",
+      "apple-design",
+      "mobile-native",
+      "design-taste-frontend"
+    ],
+    "currentReadings": [
+      "AGENTS.md",
+      "brand/workflow.json",
+      "standing Identity A/B role and lenses"
+    ],
+    "catalog": "17-skill catalog previously read; not a claim of all full skills."
+  },
+  "workflowChanges": "Keep owner-liked07 as control; distinguish eye regression, repair and optional refinement. Assess complete-scene hierarchy alongside reference likeness and require actual banner-size evidence before small-size claims.",
+  "rulesNotApplicableWithReason": "UI timing, typography recipes, touch mechanics and compositor prescriptions do not determine a static cameo’s anatomy or material.",
+  "limits": "AI visual comparison only; no owner recognition confirmation, narrow GitHub render, revised-art approval or full-team consensus. Assets unchanged.",
+  "independence": "Saved before reading Identity A’s Muse review or discussing findings.",
+  "pairedDiscussion": {
+    "partner": "identity-a",
+    "challenge": "B questioned whether a reference mismatch warrants mandatory shape edits. A agreed it does not: the lineup is not a canonical baby model and no demonstrated recognition failure supports a redesign.",
+    "jointRecommendation": "Both explicitly agree: retain restored dark Muse eyes and existing baby proportions. Repair Grok’s unwanted dark centers separately. At most compare one optional softer-rim/seam, subtly rounded-square hood opening within existing head bounds. Preserve body, pose, location, leaf interaction and Nag’s dominance.",
+    "skillApplicationChallenge": "Use reference consistency and complete-scene hierarchy; do not convert UI prescriptions into character redesign or claim phone validation. Keep Muse’s dark eyes and Grok’s white ovals as separate local edit constraints.",
+    "unresolvedObjections": [],
+    "approvalBoundary": "Agreement on bounded correction/refinement recommendation only. Latest intermediate, unseen variant and full scene are not approved."
+  },
+  "candidate09": {
+    "evidenceSha256": "2797db3692eccda1b9e37ab2c82272162942c79b5241d5a07bf29183fdcb5371",
+    "cropSha256": "17de911973cabdeb8e240d5340d1c4db6705c0f038ccb54201ca91f15569980b",
+    "evidence": "Freshly viewed full09, supplied native09 crop and prior Muse-only intermediate; also viewed native07 crop for context.",
+    "independentVerdict": "Slight local improvement, with negligible effect on full-scene hierarchy. I mildly prefer09 for Muse; it does not establish a recognition gain.",
+    "visibleChange": "The face opening reads a little broader with a flatter lower contour, closer to the supplied rounded-square reference. The raised hood rim and crown seams remain visible, so this is a modest refinement rather than a complete likeness change.",
+    "preserved": "Dark filled eyes, small smile, tiny seated body, short limbs, scene scale and leaf-play position are visually preserved. No pixel-identical preservation claim.",
+    "mustFix": null,
+    "recommendation": "Keep09 Muse as a modest local refinement and stop iterating its anatomy. Further hood polishing is optional; no demonstrated defect requires it.",
+    "confidence": "Medium on the subtle likeness preference; high on preserved dark-eye construction and baby proportions at inspected scale.",
+    "limits": "Muse only. No Grok verdict, owner preference, narrow-banner or global artwork approval.",
+    "independence": "Candidate verdict saved before reading or discussing A’s09 findings.",
+    "skills": "Reused full emil-design-eng/design-taste-frontend readings: judge actual whole-scene effect and avoid mandatory polish without a concrete defect.",
+    "pairedDiscussion": {
+      "jointRecommendation": "A and B explicitly agree: retain09 Muse as a modest local refinement; no further remodeling or enlargement required.",
+      "challengeResolved": "B challenged treating persistent hood rim/seams as a new defect. A explicitly agreed they describe the limited change, not grounds for another pass. Both note that dark-eye restoration predates09.",
+      "unresolvedMuseObjections": [],
+      "scope": "No claimed recognition gain, owner preference, Grok verdict or global artwork approval."
+    }
+  },
+  "candidate10": {
+    "position": "not_accepted_eye_repair_incomplete",
+    "evidenceSha256": "667cabad45f56cd9ce585570dae2f57d444777e57d154c2fb78b85aaf4b7fd3f",
+    "correctionEvidence": {
+      "path": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-banner-park/muse-review/evidence/10-companion-inspection-enlarged.png",
+      "sha256": "c775174320f3e3145a9e0b1fd936f1d57a936308c48dcf45ca6ab1faa067d65c",
+      "viewed": true
+    },
+    "finding": "The owner is right: a faint localized brown center remains in Grok’s viewer-right eye. It is not merely uniform material shading.",
+    "retraction": "I explicitly withdraw my candidate10 eye-correction acceptance. My native-size approval and soft-shading explanation were too broad and incorrect.",
+    "mustFix": "Remove the localized brown center; inspect both pale eye ovals in the final integrated image.",
+    "museJudgment": "Unchanged:09/10 Muse retains dark eyes, hood refinement and tiny seated proportions. This does not approve the incomplete Grok correction.",
+    "requiredQA": [
+      "Inspect both eyes at native crop size.",
+      "Inspect magnified crops of both eyes for localized dark centers.",
+      "Repeat native and magnified checks on the final integrated banner, not only the enlarged repair reference.",
+      "Inspect final whole scene for retained Muse, companion scale and Nag identity anchors."
+    ],
+    "referenceBoundary": "grok-flat-eyes-detail.png is a repair reference only. Full-banner reintegration remains unreviewed and unapproved.",
+    "pairCorrection": "Identity A withdrew acceptance; B inspected the enlargement and explicitly acknowledged and withdrew acceptance to A. Prior pair acceptance is superseded.",
+    "supersededAssessment": {
+      "position": "approve_companion_correction_only",
+      "evidenceSha256": "667cabad45f56cd9ce585570dae2f57d444777e57d154c2fb78b85aaf4b7fd3f",
+      "cropSha256": "6a54891e3979e716546730afecaef1a4d71a1b7bb3c5e8be0efccfb546b76385",
+      "evidence": "Viewed full10 and native10/09 companion crops.",
+      "finding": "Grok now has plain pale white ovals without dark centers. Muse retains09’s dark filled eyes, smile, hood opening, compact seated body and tiny scale. Foreground moth/MacBook dominance, unequal paddles, layered marked wings and subordinate companion groups remain visually coherent.",
+      "mustFix": null,
+      "confidence": "High for the visible eye correction; visual continuity only, not pixel identity.",
+      "limits": "Companion correction only; no full-banner, owner-recognition or narrow-GitHub approval.",
+      "skills": "Reused emil-design-eng/design-taste-frontend: verify local correction alongside whole-scene hierarchy.",
+      "independence": "Saved before reading or discussing A’s candidate10 verdict.",
+      "pair": {
+        "jointRecommendation": "A and B explicitly approve candidate10’s companion correction only.",
+        "challengeResolved": "Both distinguish soft eye-surface shading from unwanted dark pupil dots; no additional flattening needed.",
+        "unresolvedObjections": [],
+        "boundary": "No full-banner, publication, owner-recognition, narrow-layout or all18 approval."
+      }
+    }
+  },
+  "candidate11": {
+    "position": "pass_companion_eye_correction_only",
+    "imageSha256": "87943e3c1452d40b1ac535ea5bbcefa6e7676cee77165eef2d77ce5c67a32569",
+    "nativeCropSha256": "d484bf56aca9c2b2067ee587a2c9659354fbf131803f7aea71a4de43e63a9802",
+    "magnifiedCropSha256": "4ec7caf9a57080f330f21692c5166e145f4813c4168284c0749b3a68123d28e0",
+    "evidence": "Freshly inspected actual integrated11, native11 and magnified11; compared magnified10’s residual brown spot.",
+    "finding": "Both Grok eye interiors now read as flat light fills;10’s localized brown center is absent. Muse retains dark eyes, smile, hood, tiny seated proportions and leaf interaction. Foreground moth, unequal paddles, layered marked wings and bench/MacBook hierarchy remain visually coherent.",
+    "newDrift": "No evident identity-changing anatomy drift. Nonblocking continuity nuance discussed with A: wood/foliage edges appear sharper or more faceted than10; no pixel-identical or global-polish preservation claim.",
+    "mustFixWithinScope": null,
+    "confidence": "High for visible eye-interior correction after native and magnified verification.",
+    "limits": "Only companion correction passes. No full-banner, owner-recognition, narrow-layout or all18 approval.",
+    "skills": "Previously read emil-design-eng/design-taste-frontend reused; native plus magnified and final integrated evidence replaces the failed native-only inference.",
+    "independence": "Saved before A’s candidate11 verdict or pair discussion.",
+    "pair": {
+      "jointRecommendation": "A and B explicitly pass only the companion eye correction in actual integrated11, SHA87943e3c1452d40b1ac535ea5bbcefa6e7676cee77165eef2d77ce5c67a32569.",
+      "challengeResolved": "B accepts A’s nonblocking texture-continuity nuance. Verified clean eyes and retained Muse do not certify unrelated scenery polish.",
+      "unresolvedObjectionsWithinScope": [],
+      "boundary": "No full-banner, owner-recognition, narrow-layout or all18 approval."
+    }
+  }
+}

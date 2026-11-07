@@ -1,0 +1,234 @@
+{
+  "reviewer": "Performance B — timing, weight and emotional clarity; comic economy and character appeal counterpoint",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "scope": {
+    "status": "Independent implemented-art review saved before reading Performance A new review",
+    "version": "review-source-v2.json; source signature.css also contains the narrow max-width:360px heading-wrap fix. Character and motion hashes match v2.",
+    "included": "24 held emotion designs and 3 studies; authored acting construction and sampled exact-engine transitions; signature staging in desktop and 390px portrait evidence, day and night.",
+    "excluded": "No claim to normal-speed continuous-motion perception, real-device frame delivery, unprimed audience comprehension, recall, native touch or assistive-technology use. No approval of deployment."
+  },
+  "evidenceActuallyInspected": {
+    "instructionsAndHistory": [
+      "AGENTS.md",
+      "brand/team.json performance role",
+      "reviewer-instructions.txt",
+      "brief.json",
+      "owner-preference.json",
+      "review-source-v1.json",
+      "review-source-v2.json",
+      "installed-skills.json (all 17 catalog entries)",
+      "../2026-11-07-expanded-panel/independent/performance-b.json",
+      "../2026-11-07-expanded-panel/pairs/performance-b-response.json"
+    ],
+    "source": [
+      "brand/animation-v5/character.js (full)",
+      "brand/animation-v5/motion.js (catalogue opening, focused onward including all studies and complete engine; confused declaration partly inspected)",
+      "brand/animation-v5/signature.js (full)",
+      "brand/animation-v5/signature.css (full)",
+      "evidence/comparison.js (full)"
+    ],
+    "imagesViewedWithViewImage": [
+      "evidence/curious-investigate.png",
+      "evidence/curious-wry.png",
+      "evidence/mischievous-one-peek.png",
+      "evidence/excited.png",
+      "evidence/surprised.png",
+      "evidence/all-final.png",
+      "evidence/poses.png",
+      "evidence/sizes-final.png",
+      "evidence/decoded-day-2.png",
+      "evidence/decoded-night-2.png",
+      "evidence/decoded-day-3.png",
+      "evidence/decoded-day-4.png",
+      "evidence/decoded-night-4.png",
+      "evidence/decoded-day-5.png",
+      "evidence/decoded-night-5.png",
+      "evidence/decoded-day-6.png",
+      "evidence/decoded-night-8.png",
+      "evidence/decoded-day-9.png",
+      "evidence/decoded-day-10.png",
+      "evidence/signature-final-1440.png",
+      "evidence/signature-final-390-stage.png",
+      "evidence/signature-final-390-night.png"
+    ],
+    "records": [
+      "evidence/comparison-export.json",
+      "evidence/interaction.json",
+      "evidence/final-ui.json",
+      "evidence/geometry.json",
+      "evidence/motion-tests.txt"
+    ],
+    "videoMetadata": "Direct ffprobe: comparison.mp4 1280×800, 30/1 fps, 2664 frames, 88.8 seconds. Selected decoded sheets viewed; no continuous video watched. Export provenance describes 120Hz engine sampling into 30fps output, which is not live-device cadence proof.",
+    "tests": "Read the provided 15-pass deterministic test report and geometry report (567 samples, 3 characters each, no mismatches). Did not rerun tests or browser interactions."
+  },
+  "score": {
+    "value": 8.4,
+    "outOf": 10,
+    "meaning": "Strong, appealing implemented acting design with purposeful beat construction and improved sampled continuity. This is a holistic score for inspected drawings, pose relationships, authored structure and sampled transitions—not a score for unseen continuous rhythm or audience effectiveness."
+  },
+  "strengths": [
+    {
+      "claim": "Investigate & share has a complete, restrained thought change.",
+      "basis": "motion.js:425–446 and curious-investigate.png show antenna notice, rightward attention, glasses/read, consideration hold, return to viewer and one presenting mitten. The 1610–1900ms hold lets the read be considered before the 2350–2720ms invitation. This is a character pursuing something rather than a decorative bob."
+    },
+    {
+      "claim": "The selected lead keeps warmth and innocence while giving Nag a personal point of view.",
+      "basis": "Owner explicitly selected warm curiosity. In final desktop and portrait stills the large soft head, uneven antennae, short mittens and stub feet remain the same character. The question is present and readable; the phone stage gives the small hand a much larger display area than a compressed side-by-side treatment."
+    },
+    {
+      "claim": "The one-peek alternative is a useful economy study, not an obligatory replacement.",
+      "basis": "decoded-day-2/night-2 plus motion.js:457–467 show the pretend-sleep setup followed by one half-eye reveal held through settlement, whereas the frozen control recloses and checks again. The simpler structure removes a redundant check for contexts needing a single comic point; whether its timing lands better still needs continuous viewing."
+    },
+    {
+      "claim": "Surprise now has a face-led response before the wing answer.",
+      "basis": "surprised.png, decoded-day-3 and motion.js:295–305 show the O-mouth at 140ms, head recoil at 310ms and fuller wing opening at 650ms. The sampled updated/control difference is legible by the 0.30-second comparison frame. No need to equate the full 2600ms clip with UI response latency."
+    },
+    {
+      "claim": "The hop retains compact anatomy and has a defensible contact/follow-through construction.",
+      "basis": "excited.png and motion.js:191–207 show body contact at 1060ms and head follow-through peaking at 1140ms, without a second body bounce. The 900ms body tangent continues the descent through the wing reversal. These are visible construction improvements; normal-speed weight remains unscored."
+    },
+    {
+      "claim": "Held emotional choices and finite motion protect repeat-visit appeal.",
+      "basis": "all-final.png distinguishes broad delight, thought, surprise, sadness and anger without enlarging hands or adding continuous flutter. Engine completion stops scheduling; still mode and reduced-motion behavior are explicit. Sad-to-worried sampled frames preserve the negative intention instead of visibly smiling through neutral."
+    }
+  ],
+  "deductions": [
+    {
+      "id": "PB-I1",
+      "severity": "minor",
+      "type": "observed visual specificity limitation",
+      "confidence": "medium",
+      "claim": "The sharing mitten is visible, but its specific meaning as an invitation is weaker than the glasses and face.",
+      "basis": "At 96–128px in sizes-final.png the hand is a small contour accent beside the ruff. In signature-final-390-stage/night.png it is much clearer but can still read as a raised mitten/thumb-like acknowledgement rather than uniquely offering the question. This is my informed visual reading, not an unprimed-viewer result.",
+      "action": "Keep current anatomy and larger portrait staging. In future comparison, test a slightly different rotation or bounded placement to improve negative space and direction, adopting only a demonstrated benefit. Do not turn this into a mandate for larger hands, longer arms or stronger acting."
+    },
+    {
+      "id": "PB-I2",
+      "severity": "minor",
+      "type": "observed static-story limitation",
+      "confidence": "medium",
+      "claim": "The isolated mischievous fallback carries less story than the temporal setup and reveal.",
+      "basis": "all-final.png and the final frames of decoded-day-2/night-2 read plausibly as a soft wink or knowing contentment. The earlier closed-eye setup is what specifically supplies the pretend-sleep joke. The single frame cannot carry all of that causal information.",
+      "action": "Use the still as a charming broad-affect pose; do not promise that it independently communicates the complete joke. Test unlabeled still and full clip separately before deciding any pose adjustment."
+    },
+    {
+      "id": "PB-I3",
+      "severity": "minor",
+      "type": "observed emphasis limitation in secondary study",
+      "confidence": "medium",
+      "claim": "The wry afterthought is very quiet relative to the investigation, so its extra nuance is not equally salient at small presentation sizes.",
+      "basis": "curious-wry.png and decoded-day-6 show the modest brow/eye/head change after 3050ms; the glasses and shared silhouette dominate both variants. I can find the authored difference when comparing labeled frames, but that does not demonstrate first-view comic payoff.",
+      "action": "Keep it a separate optional study, as implemented. Prefer Nag’s selected investigation lead. An unlabeled, one-view comparison should decide whether the extra beat earns its duration in any future placement."
+    }
+  ],
+  "improvementCriteria": [
+    "View the selected investigation, surprise and hop continuously at intended display sizes in both themes; report the exact moment of any perceptual hesitation rather than inferring feel from samples.",
+    "Ask unprimed people what the character noticed and what changed after looking at the question. Keep that evidence separate from Nag’s personal-fit preference and AI review.",
+    "Evaluate static fallbacks separately from clips. If the invitation needs greater specificity, compare a single bounded pose change with current geometry and preserve the current version unless the gain is named.",
+    "On actual phone hardware, inspect continuous playback and cue-to-gaze relationship in portrait composition before claiming mobile acting equivalence or frame smoothness."
+  ],
+  "confidence": {
+    "drawingAndSampledStructure": "high",
+    "smallGestureSemanticSpecificity": "medium",
+    "liveRhythmAndWeight": "not assessed",
+    "overallScope": "medium-high"
+  },
+  "implementedAssessment": {
+    "recommendation": "Accept as the implemented local character/studio/signature refinement with named nonblocking limits; use Investigate & share as the owner-chosen lead. Preserve other studies as studies. This is not an all18 vote yet.",
+    "priorConcerns": "PB1 remains narrowly relevant to isolated stills. PB2 now has explicit post-contact head follow-through, which addresses the construction question without proving perceived weight. PB3 should not be generalized from total durations: surprise onset is now demonstrably earlier while contemplation keeps a purposeful hold.",
+    "blockingDefectsFound": false,
+    "sourceEditsMade": false
+  },
+  "objections": [],
+  "limits": [
+    "I viewed stills and decoded contact sheets only; I did not perceive continuous normal-speed motion. A complete exported film does not change this evidence limit.",
+    "No unprimed human observer, recall outcome or silent comprehension result was collected. Nag’s choice is personal-fit evidence only.",
+    "390px screenshots are desktop-rendered portrait evidence, not native-phone input or GPU performance evidence. The 320px heading-only fix is outside my acting score and was not visually rechecked here.",
+    "The airy presentation and neutral inter-clip easing are not automatically defects; neither longer authored acting nor SVG path changes should be rejected by generic interface timing/GPU rules.",
+    "Partner new review was not read before this independent file was saved."
+  ],
+  "skillsReviewed": {
+    "catalogReadInFull": [
+      "emil-design-eng",
+      "animate",
+      "animate-expo",
+      "review-animations",
+      "improve-animations",
+      "find-animation-opportunities",
+      "remove-animations",
+      "choreograph",
+      "animation-performance",
+      "animation-vocabulary",
+      "apple-design",
+      "write-swift",
+      "pick-ui-library",
+      "prototype",
+      "mobile-native",
+      "break-ui",
+      "ask-sonner"
+    ],
+    "fullSkillFilesRead": [
+      "/Users/nag/.config/skillshare/skills/review-animations/SKILL.md",
+      "/Users/nag/.config/skillshare/skills/choreograph/SKILL.md",
+      "/Users/nag/.config/skillshare/skills/animation-performance/SKILL.md"
+    ],
+    "application": "Read all 17 installed descriptions and selected the three whose full workflows materially improve this role. The requested review JSON format and character constraints take precedence over generic skill output templates."
+  },
+  "workflowChanges": [
+    {
+      "skill": "choreograph",
+      "change": "Before future character or website motion implementation, write a cause-and-effect timeline with lead, support and static elements. Here: gaze/face lead the thought, head follows, hands/wing support, page content stays still. Sequence only meaningful attention changes; remove unmotivated extra checks."
+    },
+    {
+      "skill": "review-animations",
+      "change": "Separate ordinary UI motion review from intentional character acting. Inspect controls for frequency, interruption, reduced motion and input parity; inspect the character for intention, silhouette, beat clarity and settlement. Record exact frame/source evidence and do not approve feel solely because tests pass."
+    },
+    {
+      "skill": "animation-performance",
+      "change": "Keep rendered-device evidence, exported-frame evidence and source-risk inspection in separate columns. Use profiling on representative hardware before changing expressive geometry for speed; first remove redundant work or bounded unnecessary updates if a measured cause warrants it."
+    },
+    {
+      "skill": "choreograph + review-animations",
+      "change": "Preserve baseline/alternative pairs, inspect baseline first, then compare one named expressive change. Reversible exploration is allowed without proving a baseline failure; adoption still needs a named benefit. Check replay, interruption and held fallbacks as distinct experiences."
+    }
+  ],
+  "rulesNotApplicableWithReason": [
+    {
+      "rule": "Sub-300ms UI timing and blanket ease-in prohibition",
+      "reason": "Finite character thought sequences intentionally include anticipation, consideration and settlement. Apply UI response budgets to controls, not the whole 2.6–4.7-second acting clip; evaluate the first readable character response separately."
+    },
+    {
+      "rule": "GPU-only transform/opacity as an absolute character-art gate",
+      "reason": "The current clipped eyelids, bent paddle antennae and curved arm paths communicate anatomy and expression that a simple transform may not reproduce. Prefer cheaper equivalent work where demonstrated, but preserve the authorized drawing and profile before altering it."
+    },
+    {
+      "rule": "No animation on any keyboard-triggered action",
+      "reason": "Keyboard activation of an explicit Play control must expose the same intentionally requested performance as pointer activation. Avoid decorative keyboard feedback, not the content the user expressly played."
+    },
+    {
+      "rule": "Reduced motion must always preserve fades or nonzero motion",
+      "reason": "The implemented still-pose alternative preserves the character and cue while avoiding movement. A complete still fallback is valid for this performance; extra fading is not needed to satisfy a slogan."
+    },
+    {
+      "rule": "Delete any animation whose feel is uncertain",
+      "reason": "Uncertainty from sampled-only evidence calls for appropriately scoped judgment and continuous review, not automatic deletion of authorized character acting."
+    },
+    {
+      "rule": "React Native/Expo and Swift-specific skills",
+      "reason": "This is a native-SVG browser implementation, so animate-expo/write-swift do not govern its runtime."
+    },
+    {
+      "rule": "pick-ui-library/prototype automatic invocation; Sonner recipes",
+      "reason": "No library-selection request, multi-UI-prototype request or toast implementation is in this role’s scope. Their catalog entries were reviewed but these workflows were not triggered."
+    },
+    {
+      "rule": "break-ui, mobile-native, apple-design as complete certification",
+      "reason": "Their catalog descriptions identify useful future engineering and device review work, but this role did not run data stress tests, native device interactions or gesture-driven UI certification."
+    },
+    {
+      "rule": "All remaining catalog skills must be executed merely because installed",
+      "reason": "animate, improve-animations, find-animation-opportunities, remove-animations, animation-vocabulary and emil-design-eng were considered via full catalog descriptions. They cover implementation, broader audits, addition/removal/naming or general UI; the selected full skills cover this bounded independent acting review without expanding scope."
+    }
+  ]
+}

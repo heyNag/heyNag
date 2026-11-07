@@ -1,0 +1,281 @@
+{
+  "keyboard": {
+    "active": "feeling-name",
+    "scrollY": 229,
+    "info": {
+      "id": "angry",
+      "time": 1.899999976158142,
+      "duration": 3000,
+      "playing": true,
+      "paused": false,
+      "progress": 0.0006333333253860473,
+      "transitioning": true,
+      "reducedMotion": false
+    },
+    "rect": {
+      "x": 84.8984375,
+      "y": 25.265625,
+      "width": 58.125,
+      "height": 26.3984375,
+      "top": 25.265625,
+      "right": 143.0234375,
+      "bottom": 51.6640625,
+      "left": 84.8984375
+    }
+  },
+  "tab": {
+    "active": "both",
+    "scrollY": 229,
+    "info": {
+      "id": "angry",
+      "time": 69,
+      "duration": 3000,
+      "playing": true,
+      "paused": false,
+      "progress": 0.023,
+      "transitioning": true,
+      "reducedMotion": false
+    },
+    "rect": {
+      "x": 210.6875,
+      "y": 19.0703125,
+      "width": 48,
+      "height": 38.796875,
+      "top": 19.0703125,
+      "right": 258.6875,
+      "bottom": 57.8671875,
+      "left": 210.6875
+    }
+  },
+  "pointer": {
+    "active": "feeling-name",
+    "scrollY": 229,
+    "info": {
+      "id": "angry",
+      "time": 0,
+      "duration": 3000,
+      "playing": true,
+      "paused": false,
+      "progress": 0,
+      "transitioning": true,
+      "reducedMotion": false
+    },
+    "rect": {
+      "x": 84.8984375,
+      "y": 25.265625,
+      "width": 58.125,
+      "height": 26.3984375,
+      "top": 25.265625,
+      "right": 143.0234375,
+      "bottom": 51.6640625,
+      "left": 84.8984375
+    }
+  },
+  "pointerTab": {
+    "active": "both",
+    "scrollY": 229,
+    "info": {
+      "id": "angry",
+      "time": 11.900000035762787,
+      "duration": 3000,
+      "playing": true,
+      "paused": false,
+      "progress": 0.003966666678587596,
+      "transitioning": true,
+      "reducedMotion": false
+    },
+    "rect": {
+      "x": 210.6875,
+      "y": 19.0703125,
+      "width": 48,
+      "height": 38.796875,
+      "top": 19.0703125,
+      "right": 258.6875,
+      "bottom": 57.8671875,
+      "left": 210.6875
+    }
+  },
+  "previousWrap": {
+    "active": "previous-feeling",
+    "scrollY": 231,
+    "info": {
+      "id": "disgusted",
+      "time": 0,
+      "duration": 3000,
+      "playing": true,
+      "paused": false,
+      "progress": 0,
+      "transitioning": true,
+      "reducedMotion": false
+    },
+    "rect": {
+      "x": 86.4375,
+      "y": 73.8671875,
+      "width": 44,
+      "height": 44,
+      "top": 73.8671875,
+      "right": 130.4375,
+      "bottom": 117.8671875,
+      "left": 86.4375
+    }
+  },
+  "nextWrap": {
+    "active": "next-feeling",
+    "scrollY": 231,
+    "info": {
+      "id": "curious",
+      "time": 0,
+      "duration": 2800,
+      "playing": true,
+      "paused": false,
+      "progress": 0,
+      "transitioning": true,
+      "reducedMotion": false
+    },
+    "rect": {
+      "x": 315,
+      "y": 73.8671875,
+      "width": 44,
+      "height": 44,
+      "top": 73.8671875,
+      "right": 359,
+      "bottom": 117.8671875,
+      "left": 315
+    }
+  },
+  "pause": {
+    "active": "pause",
+    "scrollY": 231,
+    "info": {
+      "id": "thinking",
+      "time": 708.3000000119209,
+      "duration": 4100,
+      "playing": false,
+      "paused": true,
+      "progress": 0.17275609756388316,
+      "transitioning": false,
+      "reducedMotion": false
+    },
+    "rect": {
+      "x": 132.2578125,
+      "y": 401.8671875,
+      "width": 76.546875,
+      "height": 44,
+      "top": 401.8671875,
+      "right": 208.8046875,
+      "bottom": 445.8671875,
+      "left": 132.2578125
+    }
+  },
+  "resume": {
+    "active": "pause",
+    "scrollY": 231,
+    "info": {
+      "id": "thinking",
+      "time": 1012.4000000357628,
+      "duration": 4100,
+      "playing": true,
+      "paused": false,
+      "progress": 0.24692682927701531,
+      "transitioning": false,
+      "reducedMotion": false
+    },
+    "rect": {
+      "x": 132.2578125,
+      "y": 400.8671875,
+      "width": 64.546875,
+      "height": 44,
+      "top": 400.8671875,
+      "right": 196.8046875,
+      "bottom": 444.8671875,
+      "left": 132.2578125
+    }
+  },
+  "rest": {
+    "active": "rest",
+    "scrollY": 231,
+    "info": {
+      "id": null,
+      "time": 380,
+      "duration": 380,
+      "playing": false,
+      "paused": false,
+      "progress": 1,
+      "transitioning": false,
+      "reducedMotion": false
+    },
+    "rect": {
+      "x": 202.8046875,
+      "y": 400.8671875,
+      "width": 54.5234375,
+      "height": 44,
+      "top": 400.8671875,
+      "right": 257.328125,
+      "bottom": 444.8671875,
+      "left": 202.8046875
+    }
+  },
+  "sequenceAdvance": {
+    "active": "sequence",
+    "scrollY": 231,
+    "info": {
+      "id": "thinking",
+      "time": 0,
+      "duration": 4100,
+      "playing": true,
+      "paused": false,
+      "progress": 0,
+      "transitioning": true,
+      "reducedMotion": false
+    },
+    "rect": {
+      "x": 29,
+      "y": 457.8671875,
+      "width": 332,
+      "height": 44,
+      "top": 457.8671875,
+      "right": 361,
+      "bottom": 501.8671875,
+      "left": 29
+    }
+  },
+  "sequenceCancelled": {
+    "active": "sequence",
+    "selected": "happy",
+    "sequencePressed": "false"
+  },
+  "reduced": {
+    "info": {
+      "id": "excited",
+      "time": 720,
+      "duration": 3000,
+      "playing": false,
+      "paused": false,
+      "progress": 0.24,
+      "transitioning": false,
+      "reducedMotion": true
+    },
+    "disabled": true,
+    "selected": "excited"
+  },
+  "scrubEnd": {
+    "id": "excited",
+    "time": 3000,
+    "duration": 3000,
+    "playing": false,
+    "paused": false,
+    "progress": 1,
+    "transitioning": false,
+    "reducedMotion": true
+  },
+  "scrubHome": {
+    "id": "excited",
+    "time": 0,
+    "duration": 3000,
+    "playing": false,
+    "paused": false,
+    "progress": 0,
+    "transitioning": false,
+    "reducedMotion": true
+  }
+}

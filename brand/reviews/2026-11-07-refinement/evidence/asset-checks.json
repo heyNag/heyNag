@@ -1,0 +1,29 @@
+{
+  "originalRasterMastersUnchanged": true,
+  "svgExports": [
+    {
+      "path": "assets/brand/header-v5-dark.svg",
+      "width": "1200",
+      "height": "360",
+      "duplicateIDs": 0
+    },
+    {
+      "path": "assets/brand/header-v5-light.svg",
+      "width": "1200",
+      "height": "360",
+      "duplicateIDs": 0
+    },
+    {
+      "path": "assets/brand/heynag-moth-avatar-v5-day.svg",
+      "width": "512",
+      "height": "512",
+      "duplicateIDs": 0
+    },
+    {
+      "path": "assets/brand/heynag-moth-avatar-v5-night.svg",
+      "width": "512",
+      "height": "512",
+      "duplicateIDs": 0
+    }
+  ]
+}

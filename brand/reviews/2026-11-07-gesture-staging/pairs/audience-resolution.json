@@ -1,0 +1,20 @@
+{
+  "discipline": "audience",
+  "state": "Both reviewers explicitly confirmed the same scoped recommendation.",
+  "recommendation": "Accept the visible craft improvements as expert hypotheses, not demonstrated audience comprehension. Keep unfamiliar-viewer attribution, attachment and recall unscored; labels are not neutral stimuli.",
+  "discussionRecords": [
+    "pairs/audience-a-discussion.json",
+    "pairs/audience-b-discussion.json"
+  ],
+  "independentReviews": [
+    "independent/audience-a.json",
+    "independent/audience-b.json"
+  ],
+  "explicitConfirmations": [
+    "team-votes/audience-a.json",
+    "team-votes/audience-b.json"
+  ],
+  "proposal": "team-proposal-v1.json",
+  "proposalSha256": "db064ee23559e695e350ddc47e86c77380776554e6bb3a5a43eeadd8b18bd5f3",
+  "scorePolicy": "Individual scores remain separate; acceptance does not imply a 9/10 rating."
+}

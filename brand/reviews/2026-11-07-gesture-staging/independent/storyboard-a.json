@@ -1,0 +1,168 @@
+{
+  "reviewer": "Storyboard A — visual storytelling and setup/payoff",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "independentBeforePartnerReview": true,
+  "sourceManifest": "review-source-v1.json",
+  "sourceManifestSha256": "d5abc24f90f9539bfddb0223da42392fb31c9321ab7c962aa98c893ff3789e0e",
+  "scope": "The updated local V5 foundation through the same storyboard lens as the final implementation review: authored visual setup/payoff and directly inspected rendered sequence staging, including gesture specificity, the question-to-character relationship, responsive composition and the supporting 24-emotion collection. Continuous perceived rhythm, live smoothness and human comprehension remain outside the score, as before.",
+  "previousScoreAndScope": {
+    "value": 8.2,
+    "outOf": 10,
+    "record": "../2026-11-07-implementation/team-votes/storyboard-a.json",
+    "scope": "Authored visual setup/payoff and directly inspected rendered staging; continuous rhythm and human response unscored.",
+    "deductionsThen": [
+      {"name": "Presenting payoff has limited silhouette separation", "deduction": 1.0},
+      {"name": "Portrait staging weakens the literal attention-to-question relationship", "deduction": 0.8}
+    ],
+    "continuity": "The same two concerns remain in scope. The score rises only for inspected improvements; neither the narrow-size semantics nor the quietness of the phone cue is discarded to meet a target."
+  },
+  "score": {
+    "value": 8.9,
+    "outOf": 10,
+    "meaning": "A strong and materially clearer authored story: the return now leads to a distinct outward cup, and phone consideration attends upward to the actual heading. The remaining deductions concern small-size invitation specificity and the subdued visual strength of the phone subject cue. This is the same source/rendered-storyboard scope as 8.2, not a rating of unobserved continuous playback or people."
+  },
+  "scoreHistory": [
+    {"round": "implementation final v4/v2", "value": 8.2, "record": "../2026-11-07-implementation/team-votes/storyboard-a.json"},
+    {"round": "gesture/staging independent v1", "value": 8.9, "reason": "The offer is more distinct and the directional phone conflict is corrected in source and matched rendered frames, with smaller residual craft deductions retained."}
+  ],
+  "evidenceActuallyInspected": {
+    "instructionsAndPriorPosition": [
+      "AGENTS.md, brand/team.json and brand/workflow.json retained from this conversation",
+      "reviewer-instructions.txt, brief.json and review-source-v1.json",
+      "Own prior independent, pair and final vote records from the implementation round; final team-vote reread for scope continuity",
+      "evidence/evidence-index.json; implementation/hand-changes.json; implementation/eyeline-changes.json"
+    ],
+    "actualSource": [
+      "Complete before/current motion.js diff, including Thinking, Focused, Grateful, Shy, Worried, shared offer and wry afterthought coordinates",
+      "Complete staging.js and signature.js",
+      "Complete staging.test.mjs; motion.test.mjs:174–193 offering-hand assertions and inspected continuity assertions",
+      "Character.js geometry and palette source previously inspected; byte identity with the previous frozen source verified in this round",
+      "All 12 current source files in review-source-v1.json independently hash-checked with zero mismatches; manifest SHA256 independently matches the supplied immutable value"
+    ],
+    "imagesViewedWithViewImage": [
+      "hands-day.png", "hands-night.png", "offer-sequence-day.png", "offer-sequence-night.png",
+      "sizes-curious-investigate.png", "sizes-thinking.png", "sizes-grateful.png", "sizes-shy.png", "sizes-worried.png",
+      "baseline-attention-390-day.png", "attention-390-day-330.png", "attention-390-day-790.png", "attention-390-day-1190.png", "attention-390-day-1900.png", "attention-390-day-2350.png", "attention-390-day-2720.png",
+      "baseline-attention-390-night.png", "attention-390-night-330.png", "attention-390-night-790.png", "attention-390-night-1190.png", "attention-390-night-1900.png", "attention-390-night-2350.png", "attention-390-night-2720.png",
+      "baseline-attention-320-day.png", "attention-320-day-790.png", "baseline-attention-320-night.png", "attention-320-night-790.png",
+      "baseline-attention-1440-day.png", "attention-1440-day-790.png", "baseline-attention-1440-night.png", "attention-1440-night-790.png",
+      "decoded-phone-night.png", "all-current.png"
+    ],
+    "imageBase": "evidence/",
+    "testAndBrowserRecords": [
+      "all-tests.txt: supplied run reports 23 passed, 0 failed; reviewed assertion source for the new staging and offer behavior",
+      "browser-checks.json: programmatically inspected all 108 case outcomes across 320/390/650/651/768/1440 px; all themeParity true, no false return/control outcome; inspected resize/replay/reduced-motion records",
+      "geometry.json: 567 cases, no mismatch or invalid record; scope explicitly excludes paint/defs",
+      "attention-browser.json: inspected measured heading/eye bearing and raw/rendered pose record, with 16 capture records available",
+      "comparison-export.json metadata and segment list: 1956 frames at 30 fps, 65.2 seconds; eight comparison segments in each theme",
+      "full-reel-export.json metadata and all 24 segment labels: 2655 frames at 30 fps"
+    ],
+    "continuousMotionWatched": false,
+    "browserOperated": false,
+    "newPartnerReviewReadBeforeSave": false,
+    "testsRerunByReviewer": false
+  },
+  "strengths": [
+    "The new offer has a clearer physical verb. The old upright mitten near the ruff becomes a small outward/upward cup, using the same contour. The 2350/2500/2620/2720 ms rendered samples show preparation followed by one outward turn, and the 2720/3050/3460/4100 samples hold the result. The quiet opposite hand leaves one gesture to read.",
+    "The order of the thought survives: notice, look, consider, return to the visitor, offer. The staging correction ends at 2350 ms, while the offer arrives at 2720 ms. The correction therefore supports the subject of attention without dragging the face away during the payoff.",
+    "At 390 px in both themes, the 330/790/1190/1900 ms frames now retain upward attention toward the question instead of inheriting the lateral/downward reading pose. The source derives this from actual element rectangles, and 320 px matched evidence shows the same correction without a phone-only anatomy variant.",
+    "The matched desktop 790 ms frames remain essentially the familiar sideward investigation. Adapting the composition does not replace the selected story or produce a different personality at each width.",
+    "The other hand families gain useful hierarchy: Thinking's free hand moves below its exact chin contact; Focused reads as two low separate mittens; Grateful shows two joined lower lobes rather than the old tight ruff band; Worried retains its diagonal relation; Shy's modest adjustment does not turn its gathering into the symmetric clasp.",
+    "Character.js is unchanged, and matched day/night sheets retain the same head, short body, original small hands, feet, antennae and layered wings. Better staging was obtained by posing the existing figure.",
+    "The controller keeps the surrounding question and controls static, reads layout outside frame mapping, carries the visible correction on replay, and freezes a paused pose during resize. These are useful continuity provisions; the reported tests and browser cases support their mechanics without claiming perceptual quality."
+  ],
+  "deductions": [
+    {
+      "name": "Invitation remains a small directional accent at compact sizes",
+      "kind": "residual craft weakness",
+      "severity": "minor-to-moderate, nonblocking for the local foundation",
+      "confidence": "high for contour differences in stills; medium for their unaided meaning",
+      "scoreDeduction": 0.7,
+      "previousDeduction": 1.0,
+      "basis": "The outward cup separates better in hands-day/night and at 240 px, and the final 390 px stage clearly differs from consideration. At 96–128 px in sizes-curious-investigate.png the hand remains a tiny shape against the forewing; the glasses and face still dominate. The endpoint is more invitational to my reading, but is not a strong standalone semantic cue at every supported size.",
+      "improvementCriterion": "Preserve this improvement. Before making the hand do more, inspect the complete return-to-offer at the actual use size without the explanatory label. Prefer adequate character display space or a small posing comparison if a concrete ambiguity persists; do not enlarge the mitten anatomy or add a wave."
+    },
+    {
+      "name": "Phone subject cue is now correctly directed but remains visually quiet",
+      "kind": "residual staging specificity, not the old directional defect",
+      "severity": "minor, nonblocking",
+      "confidence": "high that the previous direction conflict is corrected; medium for the remaining visual-specificity judgment",
+      "scoreDeduction": 0.4,
+      "previousDeduction": 0.8,
+      "basis": "The 390 px before/current 790 ms comparison and 1190/1900 ms frames show the head and eyes biased upward. The change is intentionally bounded and small, with a substantial vertical text-to-face gap; in the actual scene the glasses and consideration hand remain the strongest acting cues. The relationship is more plausible, but a precise 'reading this heading' interpretation still depends on the overall composition rather than an unmistakable eye gesture. This is not a claim that the gaze still points down or that a person failed to understand it.",
+      "improvementCriterion": "Use a label-free complete-scene playback at the final website composition to decide whether the subject is apparent. Preserve the corrected upward hold and exact visitor return. Avoid adding a stronger head action or retargeting the hand until that observation identifies an actual problem."
+    }
+  ],
+  "priorConcernDisposition": {
+    "offeringHand": "Materially improved, residual small-size specificity deduction reduced from 1.0 to 0.7.",
+    "phoneDirectionalConflict": "Corrected by composition-aware attention; residual quietness of the subject cue reduces the original 0.8 deduction to 0.4 rather than treating the old incorrect scan as still present.",
+    "phoneFirstViewport": "Layout and controls are unchanged. The earlier delayed initial character exposure remains a future website-composition tradeoff; it is not falsely presented as fixed by the gaze mapper or as a new broken-layout defect.",
+    "onePeek": "No change to the original one-versus-two-peek decision. It remains an alternative with unscored continuous comic effectiveness; this hand/eyeline pass does not establish a new winner.",
+    "continuousRhythm": "Still unscored. Preserved durations and exact samples do not establish the felt wrist turn, pauses or comic timing."
+  },
+  "improvementCriteria": [
+    "Confirm that the 2350–2720 ms preparation/turn feels like one small offer rather than a wrist flick during silent normal-speed playback; the sampled monotonic motion alone cannot answer that.",
+    "Compare the scene at its intended use size with neutral prompts before making semantic claims about offering or reading. Record viewing size and scroll exposure.",
+    "Retain the upward consideration hold, corrected replay continuity, exact return-to-visitor timing and single finite ending.",
+    "For website use, make the first view and complete scene hierarchy deliberate. A review page's control stack need not become the website hero layout.",
+    "Preserve useful contact distinctions: Thinking's chin, Grateful's clasp, Worried's diagonal support and Shy's separate gathering. Do not enforce separation identically across every emotion."
+  ],
+  "confidence": {
+    "sourceAndHashScope": "high",
+    "matchedRenderedStagingImprovement": "high",
+    "smallGestureMeaning": "medium; specialist reading only",
+    "continuousPerceivedRhythm": "not assessed",
+    "unprimedHumanResponse": "not assessed"
+  },
+  "implementedAssessment": {
+    "decision": "Accept the improved local implementation with named nonblocking craft and validation limits.",
+    "blockingDefectFound": false,
+    "selectedStory": "Investigate & share remains the warm owner-selected lead.",
+    "scoreChange": "8.2 to 8.9 on the same lens, supported by new matched source/rendered evidence.",
+    "newSourceEditRequested": false
+  },
+  "objections": [],
+  "limits": [
+    "No uninterrupted normal-speed motion watched; a wrist flick, satisfying pause, ease quality, weight or joke cannot be certified from these stills and tests.",
+    "The phone comparison film uses a simplified composition with measured 390 px bearing. Actual DOM screenshots, not that film composition, support this review's layout judgments.",
+    "The full 24-emotion reel was not watched. The current all-emotion still sheet, relevant changed hand families and film metadata were inspected.",
+    "Browser cases are supplied desktop-browser/emulation evidence, not physical-phone or spoken-screen-reader validation. I did not rerun browser operations or tests.",
+    "No new unprimed-human comprehension, personal attribution, attachment or recall outcomes. Descriptive labels prime the intended interpretation.",
+    "The byte-identical rig and geometry checks concern anatomy integrity; they do not prove that every small contact or emotional distinction is perceptually clear."
+  ],
+  "skillsApplied": [
+    {
+      "name": "choreograph",
+      "fullInstructionsPreviouslyRead": true,
+      "actualApplication": "Reviewed gaze as lead, head as support, the returning face before the offering hand, and the deliberately quiet free hand/text. Checked that composition correction ends before the payoff and that resize/replay cannot add an autonomous secondary performance."
+    },
+    {
+      "name": "review-animations",
+      "fullInstructionsPreviouslyRead": true,
+      "referencePreviouslyRead": "review-animations/STANDARDS.md",
+      "actualApplication": "Assessed purpose, interruption, frequency and evidence limits separately for controls and intentional character content. Kept a specific normal-speed wrist-turn question open instead of treating passing tests as feel approval."
+    },
+    {
+      "name": "animation-vocabulary",
+      "fullInstructionsPreviouslyRead": true,
+      "actualApplication": "Used explicit notions of lead/support ordering, interpolation, held pose and interruption, and distinguished a single outward turn from an added wave. Vocabulary is not a substitute for perceptual evidence."
+    }
+  ],
+  "skillIntakeContinuity": "All 17 installed catalog summaries and the three relevant full skills were read in the previous round in this conversation, as recorded in ../2026-11-07-implementation/independent/storyboard-a.json. No unrelated skill workflow was newly invoked and no full instruction reading was claimed for the other 14.",
+  "workflowChanges": [
+    "Record each previous deduction with a matched before/current view and an explicit disposition: corrected, reduced or retained. A corrected numeric bearing is not silently converted into proof of human comprehension.",
+    "Inspect the whole consideration-to-return-to-offer sequence rather than judging the endpoint alone; then inspect that endpoint at actual intended display sizes.",
+    "Treat responsive attention as an authored support channel with a defined release time. Preserve the semantic ending when layout changes.",
+    "Keep fixed anatomy and common timing while comparing a single hand pose family; distinguish preserved intentional contact from incidental contour congestion.",
+    "Ask continuous playback a precise question, such as whether the wrist turn reads as an offer or flick. Use the frame sequence to diagnose the answer rather than inventing one from the timeline."
+  ],
+  "rulesNotApplicableWithReason": [
+    {"rule": "Sub-300 ms UI budget for the full investigation or its pose handoff", "reason": "The character scene is intentional content with a thought and an ending. Control feedback remains a separate budget; the 380 ms handoff and 4.1-second performance need purpose-based evaluation."},
+    {"rule": "No keyboard-triggered animation as a ban on Play", "reason": "Keyboard activation must retain access to the requested character performance. Immediate control feedback does not require removing the content."},
+    {"rule": "Transform/opacity-only as a mandate to replace expressive SVG paths", "reason": "The anatomy and expressive channels are part of the chosen artwork. New staging avoids per-frame layout reads; further optimization must follow a measured workload rather than a generic shape rewrite."},
+    {"rule": "Separate every touching hand from every other contour", "reason": "The chin and gratitude clasp carry intentional meaning. The relevant question is whether the intended contact reads, not whether all silhouettes have gaps."},
+    {"rule": "Add more animation or a framework to improve clarity", "reason": "The controlled pose and bearing changes address the named issues without extra effects or dependencies. Further motion needs a demonstrated purpose and fresh evidence."},
+    {"rule": "Apply website hero taste rules to remove the local study's review controls", "reason": "This is still a comparison/review surface. Future website hierarchy should be designed for its own task; the current hand/eyeline review does not authorize an unrelated page redesign."}
+  ]
+}

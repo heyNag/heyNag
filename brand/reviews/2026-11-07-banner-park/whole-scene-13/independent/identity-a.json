@@ -1,0 +1,75 @@
+{
+  "reviewer": "identity-a",
+  "assetSha256": "32ce62c11e533fcd3a7ab1856a102c7a31b9111d96c3fbf16df8d469b8f08469",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "lens": "Silhouette and cross-surface identity",
+  "evidenceInspected": [
+    "Read whole-scene-13/brief.json; directly verified final13 SHA and2172x724 dimensions.",
+    "Fresh view_image: complete13 and scene13-width-1280.png, scene13-width-880.png, scene13-width-420.png.",
+    "Fresh view_image: scene13-hero-native.png, scene13-workshop-native.png and scene13-tree-play-native.png.",
+    "Fresh view_image: BOTH scene13-companions-native.png and scene13-companions-5x.png; BOTH scene13-grip-native.png and scene13-grip-5x.png.",
+    "Fresh comparisons: complete11 and07, native11 hero/workshop crops and12's companion5x crop showing the extra facial stroke.",
+    "Reused actual prior inspections of the original V5 moth and supplied Muse/Clawd/Grok references, plus07/12 matched material comparisons. No claim of rereading every skill or reopening every reference this turn."
+  ],
+  "evidenceNotes": {
+    "scaleLabel": "Brief says1380; the supplied largest reduced file is actually1280x426, confirmed from its PNG dimensions. I inspected1280/880/420, not1380.",
+    "retouchProvenance": "The54-pixel/outside-patch identity claim is supplied provenance, not an independently recomputed RGB diff here. Fresh whole-frame/native/magnified visual inspection and direct export hashing support my actual-art judgment; provenance alone did not determine acceptance."
+  },
+  "readiness": "ready_for_owner_review",
+  "readinessReason": "The whole scene retains the clean material separation and solid grip achieved in12, and Muse's extra lower-face stroke is now visibly removed without a distracting patch edge. No required identity or preservation defect remains in the inspected final13.",
+  "score": {
+    "value": 9.0,
+    "previous": 8.1,
+    "immediatePrevious": 8.8,
+    "history": [
+      {"asset": "whole-scene11", "value": 8.1, "readiness": "revise"},
+      {"asset": "whole-scene12", "value": 8.8, "readiness": "revise"},
+      {"asset": "whole-scene13", "value": 9.0, "readiness": "ready_for_owner_review"}
+    ],
+    "scope": "Same bounded whole-still craft scope: identity coherence, silhouette, cameo hierarchy and communication across supplied image scales. No score for animation, audience response or deployed application quality.",
+    "confidence": "High for visible corrections, identity hierarchy and inspected detail preservation; moderate for subtle finish preferences and recognition outside this evidence.",
+    "changeExplanation": "The0.2 increase from12 closes the specific remaining facial-preservation defect after direct native/5x verification. The broader gain from11 was earned by cleaner materials and the filled attached grip, which remain present. This is a scoped9, not perfection or an automatic response to the target.",
+    "deductions": [
+      {"severity": "minor; optional finish preference", "finding": "Fine looping texture remains on the hero's cream face and lime wing/paddles at native size. It no longer imposes the same hard network on wood, metal and foliage, but a calmer broad-surface treatment could be slightly more restrained."},
+      {"severity": "minor; retained staging limit", "finding": "Clawd's workshop attention is mostly contextual because its face remains frontal. Both square eyes are preserved; this does not require another turn or anatomy change."},
+      {"severity": "minor; scale limit", "finding": "At420px, the main coding moth remains clear while the precise leaf game and workshop action simplify into secondary groups. Fine guest stories should remain optional rather than demand enlargement."}
+    ],
+    "criteriaForNine": [
+      "Met in this inspected still: distinct coherent materials and continuous contours across the environment and characters, without the prior shared angular network.",
+      "Met: V5 silhouette, hero-first composition and restrained cameo scale survive full/native and1280/880/420 inspection.",
+      "Met: final-integrated native/5x checks show one Muse smile with clean lower face, dark Muse eyes, flat pupil-free Grok ovals and a solid attached mitten holding the mallet."
+    ]
+  },
+  "correctionAssessment": {
+    "W1": {"status": "fixed", "evidence": "Actual13 retains12's cleaner wood grain, stable bench/glasses/laptop contours, distinct woven fabric, soft Clawd material and broad readable foliage/stone. Fresh11 comparison shows the former cross-material angular breakup is resolved to a nonblocking level. Intentional texture remains."},
+    "W2": {"status": "fixed", "evidence": "Native and5x actual13 grip show a filled rounded mitten enclosing the handle and attached to a short readable arm. Raised-mallet anticipation is preserved; no impact contact is required."},
+    "MuseLowerFace": {"status": "fixed", "evidence": "Compared directly with12's5x crop,13 has one smile and a clean lower face. The removed stroke leaves no visible second mouth, dark residue or distracting repair boundary at native or5x."}
+  },
+  "preservation": [
+    "Three appearances remain one original moth family: oversized cream heads, compact bodies, short mittens/feet, unequal paddles and layered marked wings. No observed aging or identity-changing anatomy drift.",
+    "The coding moth, silver MacBook and bench retain exclusive foreground priority. Four supporting guests remain in the workshop/tree groups at small scale; the open path, tree arch and softer bridge sustain depth.",
+    "Warm motivated light and differentiated wood, metal, fabric, plush and vegetation form a coherent dimensional world rather than isolated character cutouts.",
+    "Muse retains dark eyes, modest hood refinement, tiny seated body and leaf interaction. Grok's two light oval interiors remain free of dark centers in the final5x crop. Clawd retains orange plush and both square eyes; Dot retains blue body/beret.",
+    "The solid grip, character supports and bench/stool/laptop contacts remain visually plausible. No new cast, foreground guest, added text or private-work content appears."
+  ],
+  "newRegressions": [],
+  "mustFix": [],
+  "optional": [
+    "Retain the named texture and frontal-attention preferences as nonblocking observations; do not reopen successful anatomy, eye or pose work simply to chase a higher score.",
+    "Keep tiny secondary stories optional in later narrow applications. Actual platform layout and accompanying native text require their own evidence."
+  ],
+  "skillsReviewed": [
+    {"name": "emil-design-eng", "intake": "Prior full reading reused", "application": "Judge complete-frame coherence and close demonstrated defects without turning optional polish into mandatory churn."},
+    {"name": "design-taste-frontend", "intake": "Prior full reading reused", "application": "Preserve the established identity and unified visual treatment rather than add decorative changes."},
+    {"name": "mobile-native", "intake": "Prior full reading reused narrowly", "application": "Keep local image reductions separate from physical-phone and GitHub-layout claims."}
+  ],
+  "workflowApplication": "Fresh whole/scaled/native/magnified checks of the exact final export precede readiness. A source-patch or pixel-preservation report corroborates scope but cannot replace visual review.",
+  "rulesNotApplicableWithReason": "UI timing, typography recipes, touch controls and compositor prescriptions do not govern this static raster's anatomy or materials. No new browser, art generation, asset editing or publication performed.",
+  "limits": [
+    "Ready for owner review is this specialist's still-image judgment, not owner approval, publication, pair/full18 consensus or studio-equivalence certification.",
+    "No unfamiliar-human recognition, attachment, recall or emotional-response evidence.",
+    "No physical-device/actual GitHub rendering, animation/rig, sound, matched night version or website assessed."
+  ],
+  "independence": "Saved before reading peer13 findings. No substantive findings sent to peers; root coordinates later challenge."
+}

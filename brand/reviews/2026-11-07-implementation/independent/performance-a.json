@@ -1,0 +1,183 @@
+{
+  "reviewer": "Performance A \u2014 intention and comic acting; whole-body intention and weight",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "independence": "Saved before reading Performance B's new review or score. Own expanded-panel history and standing role were read.",
+  "scope": "Implemented V5 authored acting and pose-to-pose staging, chiefly Investigate & share, wry afterthought, one peek, excited hop, surprised onset and inspected hand poses. A scoped craft score for source plus sampled visual evidence; not a score for uninterrupted felt rhythm, production-device smoothness, all-24 unlabelled recognition or audience response. UI CSS was still evolving and is outside this score.",
+  "sourceVersion": {
+    "reviewManifest": "review-source-v1.json",
+    "character.js": "b93400daeaa43af99e4b8c30942b80d4d69aba545a808863dd92ebe1830a97fa",
+    "motion.js": "1027502ecbe9c43a067d09c819842c3876d307a7fa737e4064bebd386ee65a04"
+  },
+  "evidenceActuallyInspected": [
+    "AGENTS.md; brand/team.json performance role; implementation brief.json, installed-skills.json (all 17 entries), review-source-v1.json, owner-preference.json; expanded-panel independent/performance-a.json and performance-resolution.json.",
+    "Full current brand/animation-v5/motion.js, including clip construction, authored frames, sharing variants, compatible-family entry inheritance, bounded velocity carry, rest-entry handling and reduced-motion endpoints.",
+    "Actual view_image inspection: evidence/curious-investigate.png, curious-wry.png, mischievous-one-peek.png, excited.png, surprised.png, poses.png and signature-390.png.",
+    "Actual view_image inspection of decoded video sheets: evidence/decoded-day-4.png, decoded-day-5.png, decoded-day-6.png, decoded-night-5.png and decoded-night-9.png.",
+    "evidence/comparison-export.json: 30fps, 2664 frames, 88.8 seconds, segment mapping. Independent ffprobe confirmed H.264 1280x800, r_frame_rate=30/1, avg_frame_rate=30/1, 2664 frames and 88.800000-second duration; no audio stream listed.",
+    "watch-video local exact-frame extraction; report.md and evidence.json at /Users/nag/.local/state/watch-video/runs/20261107-161308-comparison-f425972c. All 12 extracted PNGs inspected with view_image. Actual decoded source times: 15.733326,16.066651,16.133326,16.4,19.7,20.2,20.933326,21.333326,22.300008,25.333326,65.333326,66.700008 seconds.",
+    "evidence/motion-tests.txt: 15 deterministic tests passed. This is inspected test-result evidence, not a claim that I personally reran the suite."
+  ],
+  "score": {
+    "value": 8.4,
+    "outOf": 10,
+    "meaning": "Strong, coherent authored acting with preserved tiny anatomy and readable thought changes in source/selected frames. Remaining small-scale invitation and afterthought ambiguity keeps this below excellent. This number covers the explicitly inspected staging, not subjective continuous playback or human comprehension."
+  },
+  "strengths": [
+    "Investigate & share has a specific intention: antenna attention precedes gaze, gaze precedes head/wing orientation, glasses and a short consideration hold precede return to the visitor. It is more characterful than a face-label swap. The visible screen-right question gives the attention a cause.",
+    "The investigation and wry variants share the same pre-afterthought action; the extra beat is an optional interpretation rather than a different anatomy or an unrelated second routine. Owner preference grounds Investigate & share as personal-fit lead without claiming audience validation.",
+    "One peek preserves a compact pretend-sleep setup and a held reveal. The open half-eye, antenna change and cheek mitten support the same joke; no limb enlargement or looping wing display is needed.",
+    "Surprise clearly separates an early O-mouth/eye registration from later head and wing response. The authored 140ms facial onset and 180ms replay entry preserve urgency without moving every part at once.",
+    "Hop frames and source now separate foot contact at1060ms from head follow-through toward1140ms, then recovery by1410ms. Body descent crosses the900ms wing reversal instead of stopping there; the unchanged body and stub feet support a small-weight action.",
+    "Thinking, focused, grateful, shy and worried use different mitten relationships. The worried supporting hand sits below the other hand, avoiding the earlier stronger hand-clasp resemblance; the chin action remains one-handed.",
+    "Compatible difficult-emotion entries retain emotional posture and facial intention, while the independent interruption tests report bounded poses and completion. The inspected night sheets preserve the same acting geometry."
+  ],
+  "deductions": [
+    {
+      "id": "PA-1",
+      "severity": "moderate craft refinement",
+      "kind": "observed staging weakness",
+      "confidence": "medium-high",
+      "claim": "The final sharing mitten reads as a small outward hand near the wing/ruff, but does not produce a strong offering silhouette. The warm look-back reads more securely than the specific act of offering the question, especially in the inspected390px page image.",
+      "basis": "curious-investigate.png at2350/2720ms; signature-390.png; comparison decoded source21.333326s and66.700008s; sharingPose handRX393, handRY447, handRR25.",
+      "impact": "The lead still communicates warm curiosity. The more specific share interpretation depends on sequence and adjacent question text.",
+      "suggestedResponse": "Keep the lead and anatomy. In a later actual-size contextual pass, test a short hold and a few degrees of mitten/near-wing separation or staging space, only if the offering read fails. Do not enlarge hands or lengthen arms merely to chase the score."
+    },
+    {
+      "id": "PA-2",
+      "severity": "minor craft refinement",
+      "kind": "observed visual distinction with timing uncertainty",
+      "confidence": "medium",
+      "claim": "The wry afterthought is visually close to the warm sharing hold. Glasses, small brow displacement and a modest eyelid change make the extra intent easy to lose at reduced size.",
+      "basis": "curious-wry.png compared with curious-investigate.png; decoded-day-6.png around3.30\u20133.77s; motion.js frames3360\u20133520ms.",
+      "impact": "It is a useful optional study but is not yet a convincingly distinct small-scale signature on sampled visual evidence.",
+      "suggestedResponse": "Keep Investigate & share as owner-selected lead. Preserve the wry variant as an audition; test its thought change at intended size before promoting or amplifying it."
+    }
+  ],
+  "improvementCriteria": [
+    "Review silent uninterrupted normal-speed playback at the intended desktop and phone rendering sizes, then scrub only the exact beat that seems unclear; record rhythm judgments separately from deterministic continuity.",
+    "An unlabelled observer can describe attention to the question, consideration, and return/invitation without being told the clip name. This is a proposed check, not a result already obtained.",
+    "The offer remains legible through pose, timing and nearby staging while preserving tiny mittens, attached stub feet, unequal paddle antennae and all four marked wings.",
+    "If the wry variation remains available, its added thought change must be perceptibly distinct from the lead without becoming smug or changing the character proportions.",
+    "A real-device performance capture, especially during page work, establishes frame delivery; exact30fps export and source tests alone do not do so."
+  ],
+  "confidence": {
+    "authoredIntention": "high",
+    "sampledPoseReadability": "medium-high",
+    "landingWeightAsFeltInPlayback": "not established",
+    "unprimedAudienceComprehension": "not measured"
+  },
+  "implementedAssessment": {
+    "decision": "Support the implemented character refinements and Investigate & share as the lead local study, with the two recorded craft deductions retained. No source-edit blocker found in this lens.",
+    "landing": "The contact/follow-through change is demonstrably implemented; I cannot certify how heavy or satisfying it feels at normal playback speed.",
+    "onePeek": "The authored single reveal is preserved through its hold; preference for it over the two-peek control remains a taste/rhythm decision until continuous playback is reviewed.",
+    "publication": "No assertion about a deployed website or published identity change.",
+    "finalVersion": "Pending immutable final manifest and cross-disciplinary resolution for the all18 vote."
+  },
+  "objections": [
+    {
+      "type": "validation limit",
+      "blocking": false,
+      "statement": "Do not describe this sampled-frame review as uninterrupted playback approval or proof of native phone smoothness."
+    },
+    {
+      "type": "claim boundary",
+      "blocking": false,
+      "statement": "Do not claim all24 emotions are independently recognizable or that Nag attribution/recall is validated; this pass contains no unprimed human evidence."
+    },
+    {
+      "type": "craft",
+      "blocking": false,
+      "statement": "Retain the small-scale offer and wry-distinction deductions; an honest below9 score does not require changing anatomy."
+    }
+  ],
+  "limits": [
+    "I did not watch continuous playback; tools exposed selected decoded stills and source timing only.",
+    "Decoded sheets cover selected segments, not every frame of the88.8-second film.",
+    "The390px page capture is desktop-rendered evidence, not native-phone hardware or assistive-technology evidence.",
+    "No subjective audience reaction, emotion naming result, delayed recall or brand attribution was collected.",
+    "The exact-engine export has deterministic cadence; it does not profile real-time browser main-thread/GPU delivery.",
+    "No new partner review or score was read before this record was saved."
+  ],
+  "skillsReviewed": {
+    "catalogueAll17": [
+      "emil-design-eng",
+      "animate",
+      "animate-expo",
+      "review-animations",
+      "improve-animations",
+      "find-animation-opportunities",
+      "remove-animations",
+      "choreograph",
+      "animation-performance",
+      "animation-vocabulary",
+      "apple-design",
+      "write-swift",
+      "pick-ui-library",
+      "prototype",
+      "mobile-native",
+      "break-ui",
+      "ask-sonner"
+    ],
+    "fullSkillFilesRead": [
+      "/Users/nag/.config/skillshare/skills/choreograph/SKILL.md",
+      "/Users/nag/.config/skillshare/skills/review-animations/SKILL.md",
+      "/Users/nag/.config/skillshare/skills/animation-vocabulary/SKILL.md",
+      "/Users/nag/.config/skillshare/skills/animation-performance/SKILL.md",
+      "/Users/nag/.agents/skills/watch-video/SKILL.md"
+    ],
+    "selectionReason": "The first four materially sharpen this acting/motion review. watch-video provides local, timestamped evidence handling. Native Expo/Swift, toast/library selection and UI stress-data skills are not the present performance lens."
+  },
+  "workflowChanges": [
+    {
+      "skill": "choreograph",
+      "change": "Before implementation, cast each acting channel as lead/support/static and write a causal timeline: antenna notices, gaze follows, head turns, wing supports, hand offers. Record why a beat overlaps or waits; tie secondary follow-through to contact or thought change, not arbitrary equal delays."
+    },
+    {
+      "skill": "review-animations",
+      "change": "Review purpose, repetition frequency, interruption and reduced motion separately from aesthetic enthusiasm. Produce named evidence-backed defects; do not approve because tests pass or a target score was requested."
+    },
+    {
+      "skill": "animation-vocabulary",
+      "change": "Use precise terms\u2014anticipation, follow-through, orchestration, interruption, held pose\u2014when handing off changes. Distinguish an acting hold from UI latency and a deterministic export frame rate from observed browser jank."
+    },
+    {
+      "skill": "animation-performance",
+      "change": "Inventory the rAF driver and SVG updates, then profile a real target device with concurrent page work before proposing optimizations. Name the measured cause and preserve visual correctness; do not add will-change or replace geometry on intuition."
+    },
+    {
+      "skill": "watch-video",
+      "change": "Maintain frame timestamps and source hashes, inspect decoded frame evidence directly, and explicitly distinguish sampled motion analysis from continuous playback. Reuse existing exports and focused samples for disputed beats."
+    },
+    {
+      "skill": "future website coordination",
+      "change": "Keep character choreography and product-control motion as separate reviews. Website controls should follow frequency and responsiveness budgets; the character can retain intentional anticipation and thought holds when it remains optional, interruptible and reduced-motion safe."
+    }
+  ],
+  "rulesNotApplicableWithReason": [
+    {
+      "rule": "Sub300ms UI and universal ease-out",
+      "reason": "The2.6\u20134.7-second clips are authored character performances with meaningful attention, contemplation and reaction holds, not menus or delayed functional feedback. Compressing them to a UI budget would destroy the thought change."
+    },
+    {
+      "rule": "Every animated property must be transform/opacity regardless of fidelity",
+      "reason": "The SVG character needs numeric facial/path articulation. A CSS-only substitution is justified only if it preserves the tiny anatomy and actual facial shape. Optimize from a measured bottleneck, not by erasing expression."
+    },
+    {
+      "rule": "Collapse all simultaneous parts to one timing family",
+      "reason": "Head, antenna, wings and hands may intentionally lead or lag to imply mass and thought; these are causally related acting parts, not competing UI entrance layers."
+    },
+    {
+      "rule": "Always delete extra motion when uncertain",
+      "reason": "This task specifically commissions expressive character performance. Uncertainty should prompt a focused playback/readability check; removal is appropriate for purposeless repetition, not automatically for an intentional thought beat."
+    },
+    {
+      "rule": "Skill formatting and initial readiness response",
+      "reason": "The assignment is a specific independent review with a mandatory JSON schema, not a bare skill invocation. The requested review schema and evidence boundaries take precedence."
+    },
+    {
+      "rule": "Native mobile, Expo, Swift, Sonner and library/prototype installation workflows",
+      "reason": "No native implementation or library-selection task is being performed by this role. Their catalog entries were inspected, but no justification exists to run those workflows or infer real-phone behavior."
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "reviewerId": "rigging-a",
+  "role": "Technical character animator and rigger A",
+  "lens": "Articulation, contact and anatomical integrity in the static GitHub application",
+  "scope": "Independent review of the frozen local GitHub profile preview, avatar/header exports and documented future website continuity. This is not a renewed motion audit or a published-profile certification.",
+  "sourceManifestSha256": "7b23e48c7555ab1abca2a81923bb526411043350c092e352ef42efd106b468d2",
+  "inspectedEvidence": [
+    "AGENTS.md",
+    "brand/workflow.json",
+    "brand/team.json",
+    "README.md",
+    "brand/profile/profile.json",
+    "brand/profile/continuity.json",
+    "brand/reviews/2026-11-07-github/brief.json",
+    "brand/reviews/2026-11-07-github/review-instructions.txt",
+    "brand/reviews/2026-11-07-github/review-source-v1.json",
+    "brand/source/applications-v5.js",
+    "brand/source/applications-v5.json",
+    "brand/reviews/2026-11-07-github/evidence/render-checks.json",
+    "brand/reviews/2026-11-07-github/evidence/profile-light-1440.png",
+    "brand/reviews/2026-11-07-github/evidence/profile-dark-1440.png",
+    "brand/reviews/2026-11-07-github/evidence/profile-light-320-top.png",
+    "brand/reviews/2026-11-07-github/evidence/profile-dark-320-top.png",
+    "brand/reviews/2026-11-07-github/evidence/readme-light-320-scroll.png",
+    "brand/reviews/2026-11-07-github/evidence/readme-dark-320-scroll.png",
+    "brand/reviews/2026-11-07-github/evidence/pins-light-320-scroll.png",
+    "assets/brand/heynag-moth-avatar-v5-day.png",
+    "assets/brand/header-v5-light.png",
+    "assets/brand/header-v5-dark.png"
+  ],
+  "skillsReviewed": [
+    {
+      "skill": "emil-design-eng",
+      "path": "/Users/nag/.agents/skills/emil-design-eng/SKILL.md",
+      "intake": "Full text read for this application review.",
+      "applied": "Purposeful static presentation, native affordances and actual rendered-size inspection."
+    },
+    {
+      "skill": "design-taste-frontend",
+      "path": "/Users/nag/.agents/skills/taste-skill/SKILL.md",
+      "intake": "Full text read for this application review.",
+      "applied": "Grounded personal copy, real project content and coherent reuse of the existing identity."
+    },
+    {
+      "skill": "animate",
+      "path": "/Users/nag/.agents/skills/animate/SKILL.md",
+      "intake": "Full text previously read in the standing review workflow; reused without unnecessary rereading.",
+      "applied": "Start with purpose: a static GitHub application does not need invented interaction or autoplay."
+    },
+    {
+      "skill": "animation-performance",
+      "path": "/Users/nag/.agents/skills/animation-performance/SKILL.md",
+      "intake": "Full text previously read in the standing review workflow; reused without unnecessary rereading.",
+      "applied": "Separate image-render evidence from runtime performance claims; no cadence inference."
+    },
+    {
+      "skill": "review-animations",
+      "path": "/Users/nag/.agents/skills/review-animations/SKILL.md",
+      "intake": "Full text previously read in the standing review workflow; reused without unnecessary rereading.",
+      "applied": "Retain the evidence and interruption standard for future website integration, without pretending the static profile exercises it."
+    }
+  ],
+  "workflowChanges": [
+    "Used the shared workflow catalog and rigging route, then narrowed the review to static export integrity and native GitHub application.",
+    "Inspected seven required actual viewport captures, the original 512px avatar and both 1200px header rasters with view_image. Used wheel-scrolled viewport images for narrow reading claims.",
+    "Verified all nine current file hashes against the immutable manifest; all match. Current character.js remains b93400daeaa43af99e4b8c30942b80d4d69aba545a808863dd92ebe1830a97fa.",
+    "Compared the export construction with visible output. Saved this independent finding without reading a new partner review. No source or browser edits."
+  ],
+  "rulesNotApplicableWithReason": [
+    "Native GitHub owns fonts, layout, CSS and interaction. Custom-site section heights, hero recipes, shaders, hover treatments and layout generation from the taste skill cannot be imposed here.",
+    "No animation or audio exists in these profile assets. Timing, replay, interruption, frame pacing and sound are outside this application score; previous motion evidence is not fresh proof.",
+    "The requested review JSON replaces the skills’ generic audit/table output formats. Root supplied browser evidence and owns browser work; no duplicate browser session or web research was performed.",
+    "Repeated inline SVG ID namespacing is a future integration concern. This profile uses raster img/picture assets, so that exporter caveat is not a current collision defect.",
+    "Website continuity is a documented plan, so site-specific layout, interaction and reduced-motion execution cannot receive implementation approval."
+  ],
+  "score": 9.0,
+  "scoreMeaning": "Fresh, scoped static rig/application craft score out of 10. Excellent preservation and integration of the existing character, with a small-size optical limit in the full-body header. This is not a whole-brand, motion, audience-recognition or future-website score.",
+  "confidence": {
+    "level": "High for frozen-source reuse and visible static geometry; moderate for fine-detail legibility at the smallest displayed size.",
+    "basis": "Source construction, nine independently verified file hashes, original exports and actual GitHub-DOM viewport captures agree.",
+    "limits": "Local draft with data-URL images and proposed fields, not published account settings or physical-device testing. No audience study."
+  },
+  "strengths": [
+    {
+      "finding": "The avatar is a crop of the actual neutral rig head, not an alternate drawing. Both unequal antenna paddles remain complete, and the universal paper-backed day avatar stays legible against light and dark GitHub.",
+      "evidence": [
+        "brand/source/applications-v5.js",
+        "assets/brand/heynag-moth-avatar-v5-day.png",
+        "evidence/profile-light-320-top.png",
+        "evidence/profile-dark-320-top.png"
+      ]
+    },
+    {
+      "finding": "Both headers reuse the whole neutral rig with uniform application placement. The four-wing layering, tiny torso, attached short feet and connected mitten shapes survive the export without stretching or clipping. Day/night changes preserve the construction.",
+      "evidence": [
+        "brand/source/applications-v5.js",
+        "assets/brand/header-v5-light.png",
+        "assets/brand/header-v5-dark.png",
+        "evidence/profile-light-1440.png",
+        "evidence/profile-dark-1440.png"
+      ]
+    },
+    {
+      "finding": "The static pose has no action whose meaning depends on reading a tiny contact event. Native copy, the face and the wordmark establish the profile while the shared projects remain readable below it.",
+      "evidence": [
+        "README.md",
+        "evidence/readme-light-320-scroll.png",
+        "evidence/readme-dark-320-scroll.png",
+        "evidence/pins-light-320-scroll.png"
+      ]
+    },
+    {
+      "finding": "Reported theme selection and page width checks pass in both themes at 1440, 1024, 768, 390 and 320px. The specified narrow viewport captures support that the identity fits the native layout.",
+      "evidence": [
+        "evidence/render-checks.json",
+        "evidence/profile-light-320-top.png",
+        "evidence/profile-dark-320-top.png"
+      ]
+    }
+  ],
+  "deductions": [
+    {
+      "severity": "Minor; nonblocking",
+      "finding": "At the 238px-wide header in a 320px viewport, the small mittens and collar compress into a dense cluster and the dark-header antenna connections become optically faint. This reduces articulation detail; it is not detached geometry, lost paddles or unintended contact. The readable face and wordmark keep the static application effective.",
+      "evidence": [
+        "evidence/profile-light-320-top.png",
+        "evidence/profile-dark-320-top.png",
+        "evidence/render-checks.json",
+        "assets/brand/header-v5-dark.png"
+      ],
+      "improvementCriterion": "If this application is refined later, compare an application-only composition that gives the entire unchanged moth more displayed area. Require clearer mitten/collar separation and continuous antenna connections in both actual 320px GitHub previews while retaining wordmark legibility. Do not alter anatomy or thicken the shared rig as a speculative fix."
+    }
+  ],
+  "blockers": [],
+  "recommendations": [
+    "Keep the current static paired headers and universal day avatar for this prepared profile. No rig change is warranted by this review.",
+    "Keep the current character source, numeric anatomy and export linkage unchanged as the website is developed; validate new layouts at their actual displayed character sizes.",
+    "When publication is separately authorized, verify the served header variants and account avatar in the actual published profile. The local preview does not establish those deployed settings."
+  ],
+  "continuityAssessment": {
+    "currentGitHub": "Coherent reuse of the same head and full character across avatar, paired headers and native profile copy. No anatomical fork or new articulation is introduced.",
+    "futureWebsite": "The continuity contract correctly points to the same rig, palette and Investigate & share character intent while keeping real work visible without interaction and requiring a static/reduced-motion story.",
+    "boundary": "That contract is a credible implementation constraint, not evidence that the website or its acting is built. Future contact staging, interruption behavior and responsive character scale need their own rendered review."
+  },
+  "unscoredOutcomes": [
+    "Published GitHub account state, image proxy delivery and live theme selection after publication.",
+    "Physical-device display behavior and human recognition, memorability or emotional response.",
+    "Future heyNag.com layout, performance, motion, interruption, reduced-motion behavior and interaction semantics.",
+    "The existing mascot’s whole motion system and unrelated prior review scores."
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stage": "Targeted laptop edit of the park concept; not a final banner or live GitHub application.",
+  "tool": "Built-in image_gen",
+  "prompt": "brand/reviews/2026-11-07-banner-park/macbook-edit-prompt.txt",
+  "editTarget": "assets/brand/banner-park/park-day-study-01.png",
+  "ownerDirection": "brand/reviews/2026-11-07-banner-park/macbook-owner-direction.json",
+  "output": "assets/brand/banner-park/park-day-study-02-macbook.png",
+  "dimensions": [
+    2172,
+    724
+  ],
+  "bytes": 2507154,
+  "sha256": "a0483d82792bb3681753638fa53ac06fe6efbbbfffd68402f850d886fd52466e",
+  "rootObservations": [
+    "Silver aluminum laptop and centered bitten Apple mark visibly replace the prior generic lid.",
+    "Lid perspective, keyboard contact and tiny seated moth proportions remain visually consistent.",
+    "The three park moments and overall framing remain consistent; this was a raster edit, not a guarantee of pixel-identical preservation outside the laptop.",
+    "The harsh cool screen spill is reduced, fitting the warm park illumination.",
+    "Other scene critiques remain separate; no overall banner approval is claimed."
+  ]
+}

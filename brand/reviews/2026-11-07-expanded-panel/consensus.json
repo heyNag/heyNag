@@ -1,0 +1,211 @@
+{
+  "status": "unanimous plan agreement with named evidence limits",
+  "specialists": 18,
+  "disciplines": 9,
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "independentReviews": 18,
+  "pairedDiscussions": 9,
+  "recordedPrimaryChallenges": 27,
+  "teamVotes": 18,
+  "proposal": "team-proposal-v1.json",
+  "proposalSha256": "0665e3d5d15f945e095fb200458d9fe0a63539bd432b6918f80fcdc7388ea0c4",
+  "substantiveObjectionsRemaining": 0,
+  "baselineSourceUnchanged": true,
+  "artworkScoreChanged": false,
+  "humanResearchPerformed": false,
+  "scope": "Agreement on the path toward 9/10, not certification that the current or future artwork deserves 9.",
+  "pairs": [
+    {
+      "discipline": "brand",
+      "state": "joint plan confirmed by both reviewers",
+      "originalProposal": "pairs/brand-proposal.json",
+      "partnerResponse": "pairs/brand-b-response.json",
+      "finalCommonPlan": "team-proposal-v1.json",
+      "proposalSha256": "0665e3d5d15f945e095fb200458d9fe0a63539bd432b6918f80fcdc7388ea0c4",
+      "explicitConfirmations": [
+        "team-votes/brand-a.json",
+        "team-votes/brand-b.json"
+      ],
+      "scope": "Improvement plan and acceptance criteria only. Historical pending fields and initial objections are preserved; final votes record resolution. Individual scores are not merged or raised."
+    },
+    {
+      "discipline": "performance",
+      "state": "joint plan confirmed by both reviewers",
+      "originalProposal": "pairs/performance-proposal.json",
+      "partnerResponse": "pairs/performance-b-response.json",
+      "finalCommonPlan": "team-proposal-v1.json",
+      "proposalSha256": "0665e3d5d15f945e095fb200458d9fe0a63539bd432b6918f80fcdc7388ea0c4",
+      "explicitConfirmations": [
+        "team-votes/performance-a.json",
+        "team-votes/performance-b.json"
+      ],
+      "scope": "Improvement plan and acceptance criteria only. Historical pending fields and initial objections are preserved; final votes record resolution. Individual scores are not merged or raised."
+    },
+    {
+      "discipline": "identity",
+      "state": "joint plan confirmed by both reviewers",
+      "originalProposal": "pairs/identity-proposal.json",
+      "partnerResponse": "pairs/identity-b-response.json",
+      "finalCommonPlan": "team-proposal-v1.json",
+      "proposalSha256": "0665e3d5d15f945e095fb200458d9fe0a63539bd432b6918f80fcdc7388ea0c4",
+      "explicitConfirmations": [
+        "team-votes/identity-a.json",
+        "team-votes/identity-b.json"
+      ],
+      "scope": "Improvement plan and acceptance criteria only. Historical pending fields and initial objections are preserved; final votes record resolution. Individual scores are not merged or raised."
+    },
+    {
+      "discipline": "rigging",
+      "state": "joint plan confirmed by both reviewers",
+      "originalProposal": "pairs/rigging-proposal.json",
+      "partnerResponse": "pairs/rigging-b-response.json",
+      "finalCommonPlan": "team-proposal-v1.json",
+      "proposalSha256": "0665e3d5d15f945e095fb200458d9fe0a63539bd432b6918f80fcdc7388ea0c4",
+      "explicitConfirmations": [
+        "team-votes/rigging-a.json",
+        "team-votes/rigging-b.json"
+      ],
+      "scope": "Improvement plan and acceptance criteria only. Historical pending fields and initial objections are preserved; final votes record resolution. Individual scores are not merged or raised."
+    },
+    {
+      "discipline": "interaction",
+      "state": "joint plan confirmed by both reviewers",
+      "originalProposal": "pairs/interaction-proposal.json",
+      "partnerResponse": "pairs/interaction-b-response.json",
+      "finalCommonPlan": "team-proposal-v1.json",
+      "proposalSha256": "0665e3d5d15f945e095fb200458d9fe0a63539bd432b6918f80fcdc7388ea0c4",
+      "explicitConfirmations": [
+        "team-votes/interaction-a.json",
+        "team-votes/interaction-b.json"
+      ],
+      "scope": "Improvement plan and acceptance criteria only. Historical pending fields and initial objections are preserved; final votes record resolution. Individual scores are not merged or raised."
+    },
+    {
+      "discipline": "audience",
+      "state": "joint plan confirmed by both reviewers",
+      "originalProposal": "pairs/audience-proposal.json",
+      "partnerResponse": "pairs/audience-b-response.json",
+      "finalCommonPlan": "team-proposal-v1.json",
+      "proposalSha256": "0665e3d5d15f945e095fb200458d9fe0a63539bd432b6918f80fcdc7388ea0c4",
+      "explicitConfirmations": [
+        "team-votes/audience-a.json",
+        "team-votes/audience-b.json"
+      ],
+      "scope": "Improvement plan and acceptance criteria only. Historical pending fields and initial objections are preserved; final votes record resolution. Individual scores are not merged or raised."
+    },
+    {
+      "discipline": "storyboard",
+      "state": "joint plan confirmed by both reviewers",
+      "originalProposal": "pairs/storyboard-proposal.json",
+      "partnerResponse": "pairs/storyboard-b-response.json",
+      "finalCommonPlan": "team-proposal-v1.json",
+      "proposalSha256": "0665e3d5d15f945e095fb200458d9fe0a63539bd432b6918f80fcdc7388ea0c4",
+      "explicitConfirmations": [
+        "team-votes/storyboard-a.json",
+        "team-votes/storyboard-b.json"
+      ],
+      "scope": "Improvement plan and acceptance criteria only. Historical pending fields and initial objections are preserved; final votes record resolution. Individual scores are not merged or raised."
+    },
+    {
+      "discipline": "visual",
+      "state": "joint plan confirmed by both reviewers",
+      "originalProposal": "pairs/visual-proposal.json",
+      "partnerResponse": "pairs/visual-b-response.json",
+      "finalCommonPlan": "team-proposal-v1.json",
+      "proposalSha256": "0665e3d5d15f945e095fb200458d9fe0a63539bd432b6918f80fcdc7388ea0c4",
+      "explicitConfirmations": [
+        "team-votes/visual-a.json",
+        "team-votes/visual-b.json"
+      ],
+      "scope": "Improvement plan and acceptance criteria only. Historical pending fields and initial objections are preserved; final votes record resolution. Individual scores are not merged or raised."
+    },
+    {
+      "discipline": "sound",
+      "state": "joint plan confirmed by both reviewers",
+      "originalProposal": "pairs/sound-proposal.json",
+      "partnerResponse": "pairs/sound-b-response.json",
+      "finalCommonPlan": "team-proposal-v1.json",
+      "proposalSha256": "0665e3d5d15f945e095fb200458d9fe0a63539bd432b6918f80fcdc7388ea0c4",
+      "explicitConfirmations": [
+        "team-votes/sound-a.json",
+        "team-votes/sound-b.json"
+      ],
+      "scope": "Improvement plan and acceptance criteria only. Historical pending fields and initial objections are preserved; final votes record resolution. Individual scores are not merged or raised."
+    }
+  ],
+  "votes": {
+    "brand-a": {
+      "decision": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/brand-a.json"
+    },
+    "brand-b": {
+      "decision": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/brand-b.json"
+    },
+    "performance-a": {
+      "decision": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/performance-a.json"
+    },
+    "performance-b": {
+      "decision": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/performance-b.json"
+    },
+    "identity-a": {
+      "decision": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/identity-a.json"
+    },
+    "identity-b": {
+      "decision": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/identity-b.json"
+    },
+    "rigging-a": {
+      "decision": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/rigging-a.json"
+    },
+    "rigging-b": {
+      "decision": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/rigging-b.json"
+    },
+    "interaction-a": {
+      "decision": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/interaction-a.json"
+    },
+    "interaction-b": {
+      "decision": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/interaction-b.json"
+    },
+    "audience-a": {
+      "decision": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/audience-a.json"
+    },
+    "audience-b": {
+      "decision": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/audience-b.json"
+    },
+    "storyboard-a": {
+      "decision": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/storyboard-a.json"
+    },
+    "storyboard-b": {
+      "decision": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/storyboard-b.json"
+    },
+    "visual-a": {
+      "decision": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/visual-a.json"
+    },
+    "visual-b": {
+      "decision": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/visual-b.json"
+    },
+    "sound-a": {
+      "decision": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/sound-a.json"
+    },
+    "sound-b": {
+      "decision": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/sound-b.json"
+    }
+  }
+}

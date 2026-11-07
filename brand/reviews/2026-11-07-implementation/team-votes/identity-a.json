@@ -1,0 +1,34 @@
+{
+  "reviewer": "Identity systems designer A — silhouette and cross-surface identity",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "proposalFile": "team-proposal-v2.json",
+  "proposalSha256": "4eef022ccecba73621ca188b29c13cbc41d08b5268ffeaa6e98e2c4c5ea08c5c",
+  "sourceManifest": "review-source-v4.json",
+  "sourceManifestSha256": "4b70d40e6c6fed47936377ff71d915379cbe84bc2a23020ac2ab2fb9696b2caa",
+  "sourceVerification": "Proposal and manifest SHA256 values verified; all 18 current source/export/film files listed by v4 match. Final portrait day/night, 320px heading, desktop/390px layouts and sizes-final PNGs visually inspected.",
+  "decision": "agree_with_named_nonblocking_limits",
+  "acceptedScope": "Accept the v4 implemented LOCAL foundation described by proposal v2 for continued design and future website work: native V5 character/performances, owner-selected portrait signature, current static identity exports and films, and scoped control/description improvements. Identity-specific acceptance covers actual inspected static applications and matched theme continuity. This is not publication, whole-site readiness, 9/10 certification, continuous-motion certification or a human outcome claim.",
+  "personalScore": {"value": 8.7, "outOf": 10},
+  "scoreMeaning": "Strong, cohesive static local identity and cross-surface craft. Final portrait staging, clean 320px heading and current phone-width header proof resolve concrete earlier limits. Small night-contour robustness and the remaining phone gaze/gesture relation prevent a stronger judgment. No audience or runtime smoothness score is implied.",
+  "scoreHistory": [
+    {"record": "2026-11-07-expanded-panel/independent/identity-a.json", "value": 8.0, "outOf": 10},
+    {"record": "independent/identity-a.json", "value": 8.4, "outOf": 10, "scope": "Before final portrait and refreshed phone-header evidence"},
+    {"record": "pairs/identity-a-discussion.json", "value": 8.7, "outOf": 10, "scope": "Final v4 local static identity applications"}
+  ],
+  "namedLimits": [
+    "Use the day paper-ground avatar as the universal 32px mark. Night48 stems are less assertive; give night more room and keep night32 outside the recommendation.",
+    "Small full-figure glasses/ruff/mitten details remain dense. The larger final portrait fixes cramped presentation, but does not prove an unfamiliar viewer reads the mitten as invitation.",
+    "The phone portrait requires more scrolling and leaves the authored screen-right investigation glance less directly aligned with the stacked question. Accept it as the named local-study tradeoff, not a settled future website composition.",
+    "No new unfamiliar-human association, comprehension or recall evidence; Nag's preference is personal-fit evidence only.",
+    "No continuous normal-speed motion watched by this reviewer, physical-phone validation, live GitHub proof or spoken screen-reader output. Exact film frames and desktop cadence do not establish those results.",
+    "Native OS menu keyboard commit remains unverified; no public GitHub change, push or deployment is approved by this vote."
+  ],
+  "substantiveObjections": [],
+  "pairRecommendationConfirmed": true,
+  "acceptedPairRecommendation": "Keep the current identity and matched themes. Use the day universal avatar and give night more room. Final portrait and 320px wrapping supersede old phone criticisms.",
+  "pairDiscussion": "pairs/identity-a-discussion.json",
+  "skillsMessageAcknowledged": true,
+  "skillsWorkflow": "All17 summaries reviewed; full emil-design-eng and mobile-native read. Adopt the pair's hashed actual-size matrix, Before/After/Why issue records, 320/390/desktop typography checks and distinct source/browser/hardware/human evidence labels. Apply UI motion and performance prescriptions by purpose; preserve anatomy and intentional acting. B's independent apple-design intake informs the shared typography check without claiming that A read that full skill.",
+  "consensusCaveat": "This file is A's individual vote only. It does not vote for B or establish all18 consensus."
+}

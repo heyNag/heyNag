@@ -1,0 +1,48 @@
+{
+  "role": "Interaction design and accessibility specialist — cross-review",
+  "challenges": [
+    {
+      "role": "Brand director",
+      "claimId": "Round2 challenge to IX-04",
+      "decision": "Accept correction",
+      "reason": "The optional playground is a plausible architecture, not an established requirement. My proposed small vocabulary should guide an experiment, not impose a character quota. A large intentional appearance can coexist with clear authorship; a catalogue alone cannot settle that question.",
+      "evidence": ["round2/brand.json", "evidence/studio-desktop.png", "round1/interaction.json:IX-04"],
+      "implication": "Keep architecture open. Evaluate whether each appearance supports a real project destination and lets visitors continue reading without participating."
+    },
+    {
+      "role": "Sound designer",
+      "claimId": "SND-04",
+      "decision": "Accept consent boundary; clarify preference independence",
+      "reason": "Play feeling should not silently authorize audio. However, reduced motion does not itself express an audio preference, and opting into sound does not authorize motion. Testing both disabled is useful, but must not collapse them into one setting or prevent an explicitly requested sound preview with a still character.",
+      "evidence": ["round1/sound.json:SND-04", "/Users/nag/projects/personal/heyNag/brand/animation-v5/studio.js:138", "evidence/studio-reduced-motion.png"],
+      "implication": "Keep independent sound and motion controls, immediate mute and intentional playback. No current sound deliverable is required."
+    },
+    {
+      "role": "Audience researcher",
+      "claimId": "AUD-04",
+      "decision": "Revise initial scope",
+      "reason": "Separate author, work and character recall is valuable. A 12–16-person split comparison adds production and recruitment work without resolving a committed mascot direction. First test the intended application and one truthful project-finding task; reserve comparisons for an unresolved placement question. Small-group differences remain exploratory.",
+      "evidence": ["round1/audience.json:AUD-01,AUD-04", "round2/brand.json", "brief.json:nonnegotiables"],
+      "implication": "Human observations can improve the application; a formal study is not a blanket prerequisite for a modest static update."
+    },
+    {
+      "role": "Storyboard director",
+      "claimId": "STORY-01 / STORY-05",
+      "decision": "Accept sequence; narrow obligation",
+      "reason": "One visible project fragment gives curiosity a cause and a destination. That is a better next storytelling proof than weather decoration. It is still a proposed animated application, not a required interstitial before reaching work, and a static introduction can already carry Nag's authorship.",
+      "evidence": ["round1/storyboard.json:STORY-01,STORY-05", "round1/brand.json:BR-03", "round2/performance.json:finalVerdict"],
+      "implication": "Begin with Nag's actual decision, tradeoff and artifact; let a scene support that account. Never invent an outcome to give the moth a payoff."
+    }
+  ],
+  "ownPositionChanged": [
+    "IX-01 gates publication of the affected interactive studio or reuse of its navigation, not a static GitHub update. The keyboard focus/viewport failure is reproduced; its release scope must remain specific.",
+    "IX-04 is now an architectural hypothesis. Prominence and restraint should be evaluated through use, not a fixed number of character appearances.",
+    "Retracted the disclosure concern: I confused details class=motion-note with its child paragraph id=motion-note. Source and root's DOM check show the summary and links survive."
+  ],
+  "finalVerdict": "Preserve the considerate motion baseline and expressive identity. Repair the demonstrated keyboard route before publishing that interaction, then prove one truthful project journey. Future scenery, sound, architecture and research remain scoped experiments rather than universal launch conditions.",
+  "openQuestions": [
+    "Which real decision and artifact does Nag want a visitor to understand first?",
+    "Can a returning visitor reach that work comfortably with character interaction declined?",
+    "Does the final application remain understandable with still poses and sound off?"
+  ]
+}

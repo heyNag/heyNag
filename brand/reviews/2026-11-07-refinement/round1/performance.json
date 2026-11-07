@@ -1,0 +1,44 @@
+{
+  "verdict": "The inspected fixes improve the acting without making the moth older or larger. Sad↔worried no longer shows the accidental cheerful reset, mitten intentions separate more clearly, and the hop's mid-descent stop is removed mathematically. No new blocker is established in these samples. Continuous-motion polish and the broader transition policy remain only partly reviewed.",
+  "inspectedEvidence": [
+    "Current brand/animation-v5/motion.js and character.js, directly compared with brand/reviews/2026-11-07-refinement/before/ versions; no peer reviews or implementation approval notes read.",
+    "Fresh evidence/poses.png, sad-worried.png, worried-sad.png, thinking.png, excited.png, all-24.png and curious-night.png; these are labelled source/Engine samples, not playback.",
+    "Independent deterministic Engine sampling of sad→worried, worried→sad, sad→angry, scared→relieved and focused→confused; finite-difference hop sampling around 900ms and 1060ms."
+  ],
+  "resolvedIssues": [
+    "Sad↔worried preserves the closed mouth and gathered posture through the opening beat. The before/after sheets at 200–380ms directly resolve the earlier visible smile defect for these two directions; the gaze can redirect without first announcing recovery.",
+    "Thinking's lowered supporting mitten leaves the chin mitten dominant. Focused now has two low separated hands; worried uses unequal heights; gratitude deliberately retains joining hands. poses.png and thinking.png:1400,1730,1920ms show improved staging within unchanged short reach.",
+    "motion.js:194–198,450–455 gives the body a continuous downward velocity near 0.05 SVG units/ms through 900ms, while the wings reverse independently. The tiny 17-unit hop and attached feet remain unchanged.",
+    "The night antenna keyline follows the same deformed paths. curious-night.png:0–3000ms and all-24.png show continuous stems and matching poses across themes; character.js:138–144,234,255–258 changes edge treatment rather than anatomy."
+  ],
+  "findings": [
+    {
+      "id": "PERF-R1",
+      "severity": "refinement",
+      "claim": "The compatibility rule now covers 42 distinct directed emotion pairs, while the inspected rendered transition proof covers two. Preserving nearly every posture and face channel can be useful, but a negative-feeling family is not a narrative specification. Breadth alone is not a demonstrated defect.",
+      "evidence": ["motion.js:411–428,586", "evidence/sad-worried.png", "evidence/worried-sad.png"],
+      "fix": "Review the actual pairs chosen for a public application. Include an assertive change such as sad→angry and a release such as scared→relieved; use pair-specific entry behavior only where the inherited pose contradicts the new intention.",
+      "verification": "Normal-speed clips should communicate one changing thought. For scared→relieved, decide whether the source's strong smile at 300–470ms is intentional relief before accepting that transition."
+    },
+    {
+      "id": "PERF-R2",
+      "severity": "note",
+      "claim": "The curve correction resolves the measured midair stop, but a position trace cannot establish convincing landing weight. Downward velocity reaches roughly 0.075 units/ms immediately before 1060ms and becomes zero at contact; that collision is plausible and not automatically a new discontinuity defect.",
+      "evidence": ["motion.js:195–199", "evidence/excited.png:900,1000,1060,1160ms"],
+      "fix": "Inspect the uninterrupted hop and an interrupted descent in the final placement before claiming timing polish; preserve the small amplitude.",
+      "verification": "The landing reads as contact followed by recovery, without a float, bounce added by interruption, or anatomy change."
+    },
+    {
+      "id": "PERF-R3",
+      "severity": "note",
+      "claim": "Clearer mitten spacing does not prove exact emotion recognition. The compact overview still relies heavily on face, antenna and situation; gratitude's joined hands should not be separated merely to maximize empty space.",
+      "evidence": ["evidence/poses.png:Grateful", "evidence/all-24.png"],
+      "fix": "Keep the improvements and test useful unlabelled contrasts beside real content before further deformation.",
+      "verification": "Observers identify the intended broad action without needing the catalogue label."
+    }
+  ],
+  "limits": [
+    "No uninterrupted playback or new video frames were available during this independent pass. Root was asked for updated reel and targeted transitions; cadence approval remains pending that evidence.",
+    "No human audience test, public application test, or claim that every possible transition is emotionally correct."
+  ]
+}

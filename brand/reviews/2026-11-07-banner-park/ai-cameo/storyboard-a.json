@@ -1,0 +1,113 @@
+{
+  "reviewerId": "storyboard-a",
+  "lens": "Visual storytelling and setup/payoff",
+  "stage": "Independent concept recommendation before a cameo variation exists; no score or approval",
+  "independence": "Saved before reading Storyboard B's cameo review.",
+  "recommendation": "Test two small companions as one quiet group watching the toolbox work in the deeper workshop area. Keep the moth-only image as the comparison and fallback. Preserve the foreground coding scene and the existing coding/building/resting hierarchy; do not add tree-side play in the first test.",
+  "count": 2,
+  "pairRecommendationProposed": "Test two small background companions watching the toolbox work as one supporting group; reserve the foreground entirely for Nag's coding scene, keep the moth-only baseline, and remove the cameos if they compete with the coder or obscure the three moth activities at banner size.",
+  "placement": {
+    "zone": "Deeper workshop space beside or behind the worktable, away from the foreground bench and the path leading into it. Keep clear of the builder's face, antennae, hammer, hands and toolbox.",
+    "action": "Both companions attend to the same visible toolbox task. Their eyelines and quiet poses should return attention to the builder rather than create a separate joke or prop interaction.",
+    "scaleAndContrast": "Start substantially smaller than the workshop moth, with restrained local contrast and the same environmental light. Exact size is a rendering question: do not enlarge a logo merely to make its brand identifiable on a phone.",
+    "foreground": "No companion, companion prop, logo strip or added text on, beside or overlapping the foreground moth, bench, MacBook or surrounding foreground path.",
+    "tree": "Leave the resting moth's tree space clear in the first test. A separate playing pair would create another action group and risk taking over the quiet resting beat."
+  },
+  "options": [
+    {
+      "count": 0,
+      "judgment": "Strongest existing narrative economy and necessary control. The current image already connects coding in front, building behind and resting at the tree. Cameos must add something to that rather than fill apparent empty space."
+    },
+    {
+      "count": 2,
+      "judgment": "Preferred bounded test. One small observing group can give the toolbox activity a social audience while keeping it the same activity. This is a plausible benefit, not a demonstrated result."
+    },
+    {
+      "count": 3,
+      "judgment": "Higher-risk alternative: one watcher plus two playing by the tree creates two cameo groups and an additional play event. Consider only after the two-companion test proves subordinate at actual banner size; there is no reason to assume the extra group will improve the story."
+    },
+    {
+      "count": "full reference cast",
+      "judgment": "Do not transfer the full cast into this composition. The reference makes its brightly colored, strongly outlined group the main event. Combining that treatment with three moth appearances and a detailed park is likely to shift the scene toward a product ensemble. This is a compositional prediction; no full-cast variant has been rendered."
+    }
+  ],
+  "failureCriterion": [
+    "At intended GitHub desktop and narrow banner sizes, the cameo cluster becomes as visually prominent as the foreground coder or MacBook.",
+    "The builder's tool-to-box action is obscured, or the three moth activities cease to separate clearly because new figures merge with their silhouettes.",
+    "The companions require larger size, brighter color, extra labels or individual props to explain why they are present.",
+    "Tree-side play becomes a separate principal event, or a logo lineup replaces the continuous park composition.",
+    "Any companion enters the reserved foreground, or the unchanged moth identity/anatomy is altered to accommodate the cast."
+  ],
+  "evidenceInspected": [
+    {
+      "path": "brand/reviews/2026-11-07-banner-park/ai-cameo-brief.json",
+      "method": "Read in full; owner constraints and four options"
+    },
+    {
+      "path": "assets/brand/banner-park/park-day-study-02-macbook.png",
+      "method": "Direct view_image",
+      "observation": "Large right foreground coder and MacBook, central deeper toolbox activity, left tree-side resting moth; a detailed continuous park and foreground path already connect these three appearances."
+    },
+    {
+      "path": "/tmp/codex-remote-attachments/01a1b473-8621-7941-ba03-4b47867c136c/D31EE005-F5E8-41CB-97E7-95E073243BDD/1-Photo-1.jpg",
+      "method": "Direct view_image",
+      "observation": "Anthropomorphic symbol-like figures, bright varied colors, a picnic blanket and a central basket form the dominant scene. Its foreground ensemble arrangement cannot simply be copied into the park's supporting background. No uncertain product identities inferred."
+    },
+    {
+      "path": "brand/workflow.json",
+      "method": "Read current routing and evidence rules"
+    }
+  ],
+  "skillsReviewed": {
+    "intake": "Reused previously read full relevant skills; no new full skill reading was needed. Prior all-17 catalog intake is retained, not represented as seventeen full skill readings.",
+    "actualApplications": [
+      {
+        "skill": "choreograph",
+        "path": "/Users/nag/.agents/skills/choreograph/SKILL.md",
+        "use": "One lead, subordinate support and clear grouping applied to this static scene: two observers should reinforce one existing activity rather than add independent attention centers."
+      },
+      {
+        "skill": "review-animations",
+        "path": "/Users/nag/.agents/skills/review-animations/SKILL.md",
+        "use": "Require a purposeful contribution and actual rendered evidence; no approval of hypothetical performance or timing."
+      },
+      {
+        "skill": "animation-vocabulary",
+        "path": "/Users/nag/.agents/skills/animation-vocabulary/SKILL.md",
+        "use": "Keep static staging and visual hierarchy distinct from continuous rhythm or observed viewer attention."
+      },
+      {
+        "skill": "emil-design-eng",
+        "path": "/Users/nag/.agents/skills/emil-design-eng/SKILL.md",
+        "use": "Use restraint, an unchanged baseline and a small purposeful addition; evaluate the default rendered composition before adding more."
+      }
+    ],
+    "workflowChanges": [
+      "Compare the unchanged moth-only image with a two-companion version at the same sizes before varying count or placement.",
+      "Review full scene hierarchy first, then silhouettes and action contact points, then optional logo detail.",
+      "Keep a clear removal criterion; supporting identity recognition must not be rescued by consuming the foreground."
+    ],
+    "rulesNotApplicableWithReason": [
+      "Animation duration, easing, stagger and compositor rules do not apply to this static concept decision.",
+      "No browser, image generation, source edit or automated implementation was authorized for this specialist review."
+    ]
+  },
+  "pairedDiscussion": {
+    "partnerReview": "brand/reviews/2026-11-07-banner-park/ai-cameo/storyboard-b.json",
+    "readAfterIndependentSave": true,
+    "agreement": "Both independently prefer two workshop watchers functioning as one quiet group, retain zero as the comparison/fallback and exclude all cameos from the foreground.",
+    "partnerChallenge": "A successful two-cameo render would not itself justify escalation to three. Tree play adds a new event and changes the existing quiet tree beat; it needs a separate storytelling reason.",
+    "response": "Accepted. My independent option assessment was not an escalation plan. Three and the full cast are outside this first test; any tree-play alternative requires its own owner-supported purpose and comparison.",
+    "sharedRecommendation": "Test two small background companions watching the toolbox work as one supporting group; reserve the foreground entirely for Nag's coding scene, keep the moth-only baseline, and remove the cameos if they compete with the coder or obscure the three moth activities at banner size.",
+    "sharedRecommendationAccepted": true,
+    "remainingSubstantiveObjections": [],
+    "scope": "Explicitly confirmed to B by message. This is agreement on one bounded test, not acceptance of an unbuilt variant or publication approval."
+  },
+  "limits": [
+    "Only the existing park and supplied reference were inspected; no two-, three- or full-cast variation exists in this evidence.",
+    "Actual integration, logo legibility, reduced-size hierarchy, cropping and paired night treatment require fresh renders. No final artwork or publication approval is given.",
+    "No product roster is selected, and visible reference forms are not assumed to be exclusively AI products.",
+    "No unfamiliar-viewer recognition, attribution, delight or attention behavior was observed. Hierarchy judgments are specialist predictions.",
+    "The base image contains existing foreground mug/books/throw; this bounded review does not add foreground content or decide a separate cleanup of those existing props."
+  ]
+}

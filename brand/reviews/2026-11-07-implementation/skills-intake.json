@@ -1,0 +1,1588 @@
+{
+  "request": "Pass the newly installed Emil Kowalski skills to the entire team and improve the workflow.",
+  "catalogEntries": 17,
+  "specialistRecords": 18,
+  "status": "All 18 independent intake records complete. Each distinguishes catalog summaries from full relevant skill reading.",
+  "records": [
+    {
+      "reviewer": "audience-a",
+      "record": "brand/reviews/2026-11-07-implementation/independent/audience-a.json",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra",
+      "skillsReviewed": {
+        "catalog": "brand/reviews/2026-11-07-implementation/installed-skills.json",
+        "catalogEntriesRead": [
+          "emil-design-eng",
+          "animate",
+          "animate-expo",
+          "review-animations",
+          "improve-animations",
+          "find-animation-opportunities",
+          "remove-animations",
+          "choreograph",
+          "animation-performance",
+          "animation-vocabulary",
+          "apple-design",
+          "write-swift",
+          "pick-ui-library",
+          "prototype",
+          "mobile-native",
+          "break-ui",
+          "ask-sonner"
+        ],
+        "fullSkillInstructionsRead": [
+          {
+            "name": "emil-design-eng",
+            "path": "/Users/nag/.config/skillshare/skills/emil-design-eng/SKILL.md",
+            "use": "Purpose/frequency distinctions, actual-size visual review, restraint and limits on what polish evidence proves."
+          },
+          {
+            "name": "prototype",
+            "path": "/Users/nag/.config/skillshare/skills/prototype/SKILL.md",
+            "use": "Workflow study only: named comparison axes, realistic context and full-size presentation. No prototype creation workflow was invoked or source modified."
+          },
+          {
+            "name": "mobile-native",
+            "path": "/Users/nag/.config/skillshare/skills/mobile-native/SKILL.md",
+            "use": "Capability-based UI evidence, preserved zoom/selection and explicit distinction between desktop evidence and hardware behavior."
+          }
+        ],
+        "otherFourteen": "Catalog descriptions read; full instructions not read or claimed. No Swift, React Native, Sonner, new library, broad motion audit or implementation work was performed in this audience review."
+      },
+      "workflowChanges": [
+        "Use one realistic, full-size stimulus per first exposure. Reserve side-by-side sheets and named variants for later expert diagnosis, since they prime interpretation and distort attention.",
+        "Maintain separate records for owner choice, expert craft, mechanics, unprimed comprehension, attribution and delayed recall. A common score target never fills missing evidence.",
+        "Define each future variant's named question before building it. Keep the chosen direction stable unless new evidence challenges a concrete feature; avoid exploration for its own sake.",
+        "Future website engineers should ship immediate, accessible control feedback independently from expressive character playback, preserve native zoom/text selection and verify mobile-specific behavior on hardware before claiming it fixed.",
+        "Record the exact source version, actual images and viewed motion form for each review. Treat source, deterministic frames, continuous playback and human response as different evidence classes.",
+        "For any recommended UI change, use a Before/After/Why table and an evidence-linked rationale. This independent JSON retains the required format as a string below."
+      ],
+      "rulesNotApplicableWithReason": [
+        {
+          "rule": "Never animate keyboard-initiated actions / keep UI motion under 300ms",
+          "reason": "Apply to control feedback, not to the intentional performance requested through keyboard Play. Compressing the 4.1-second narrative would erase the research subject and would conflict with project instructions."
+        },
+        {
+          "rule": "Only animate transform and opacity",
+          "reason": "A compositor guideline for UI is not a mandate to erase expressive SVG eye, mouth or antenna anatomy. Performance must be assessed with a relevant measured workload by the responsible specialists."
+        },
+        {
+          "rule": "Run the prototype picker workflow and delete the exploratory surface after selection",
+          "reason": "This is an independent review, not a request to create a new prototype. Nag already selected Investigate & share, and repository instructions require preserving historical evidence. The comparison-design lessons apply without reopening selection or deleting records."
+        },
+        {
+          "rule": "Disable root overscroll, suppress all tap highlights and selection, and add full-app viewport treatment",
+          "reason": "This is a scrolling document study. Native scroll, zoom, content selection and link feedback remain appropriate; apply platform fixes only where their rationale is demonstrated."
+        },
+        {
+          "rule": "Claim mobile completion after applying a CSS baseline",
+          "reason": "No hardware evidence is available. Source and desktop checks can support only their own claims; this is a named validation limit, not a new permission gate for local work."
+        },
+        {
+          "rule": "Apply every catalog skill",
+          "reason": "Reading all 17 entries establishes routing awareness, not relevance. Unused platform, dependency, toast and implementation workflows would add noise and exceed this role's evidence-review task."
+        }
+      ]
+    },
+    {
+      "reviewer": "audience-b",
+      "record": "brand/reviews/2026-11-07-implementation/independent/audience-b.json",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra",
+      "skillsReviewed": {
+        "catalog": "brand/reviews/2026-11-07-implementation/installed-skills.json",
+        "all17CatalogSummariesRead": [
+          "emil-design-eng",
+          "animate",
+          "animate-expo",
+          "review-animations",
+          "improve-animations",
+          "find-animation-opportunities",
+          "remove-animations",
+          "choreograph",
+          "animation-performance",
+          "animation-vocabulary",
+          "apple-design",
+          "write-swift",
+          "pick-ui-library",
+          "prototype",
+          "mobile-native",
+          "break-ui",
+          "ask-sonner"
+        ],
+        "fullRelevantFilesRead": [
+          "/Users/nag/.agents/skills/emil-design-eng/SKILL.md",
+          "/Users/nag/.agents/skills/prototype/SKILL.md",
+          "/Users/nag/.agents/skills/mobile-native/SKILL.md"
+        ],
+        "application": "Applied emil-design-eng evidence/craft separation and mobile-native hardware boundary; inspected prototype for future comparison workflow. No new prototype build was invoked."
+      },
+      "workflowChanges": [
+        "Before review, state whether the decision is owner preference, expert craft, usability, comprehension or memory. The same variant picker cannot answer all five.",
+        "Future website explorations should name a real axis, show one fully working direction at realistic size/context, keep switching immediate and preserve the owner choice. Separately prepare neutral randomized/counterbalanced exposure when a research question requires it.",
+        "Version and log the actual exposure: source hash, device class, viewport, crop/scroll, theme, playback/still state and motion preference. Pair discussions must keep screenshot claims separate from hardware and human claims.",
+        "Keep intentional character timing and small anatomy. Apply UI frequency/feedback guidance to controls; judge the character story through its own beats and rendered evidence."
+      ],
+      "rulesNotApplicableWithReason": [
+        {
+          "rule": "Prototype requires its exact picker and stops for a selection.",
+          "reason": "This is an independent review, not an invoked variant-building run; Nag already selected Investigate & share. No extra picker, source edit or permission pause is warranted."
+        },
+        {
+          "rule": "Prototype cleanup deletes an exploration after selection.",
+          "reason": "Repository instructions require retaining historical comparison evidence. Preserve it as historical, not current production artwork."
+        },
+        {
+          "rule": "Never animate keyboard actions; all UI motion stays under 300ms.",
+          "reason": "Keyboard Play deliberately requests character content. Immediate control feedback and full accessible playback coexist; the 4.1-second performance is intentional content, not UI delay."
+        },
+        {
+          "rule": "Only transform/opacity; add stagger or blur to polish.",
+          "reason": "SVG face/antenna changes express the selected character. No evidence here justifies replacing expressive geometry, adding decorative stagger, or blurring a subtle comprehension cue. Measure the relevant workload before performance changes."
+        },
+        {
+          "rule": "Apply all mobile-native baseline CSS globally.",
+          "reason": "This is a scrolling document/study. Zoom, selectable content, normal link feedback and scrolling remain useful; physical-device claims remain open without hardware."
+        },
+        {
+          "rule": "Emil UI code-review table.",
+          "reason": "The required independent output is JSON and no UI patch is proposed; a compact Before/After table is retained below for the actual workflow changes rather than substituting a generic code audit."
+        }
+      ]
+    },
+    {
+      "reviewer": "brand-a",
+      "record": "brand/reviews/2026-11-07-implementation/independent/brand-a.json",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra",
+      "skillsReviewed": {
+        "catalog": "Read all 17 entries in installed-skills.json for capability and applicability.",
+        "fullText": [
+          {
+            "name": "emil-design-eng",
+            "path": "/Users/nag/.config/skillshare/skills/emil-design-eng/SKILL.md",
+            "use": "Purpose and frequency of motion, cohesive defaults, static/reduced-motion usability, touch hover, actual perceived experience beyond correctness."
+          },
+          {
+            "name": "prototype",
+            "path": "/Users/nag/.config/skillshare/skills/prototype/SKILL.md",
+            "use": "Assess the comparison workflow: named intent axes, working variants, real context, full-size inspection and explicit owner selection. Read for workflow improvement; did not invoke a new build exploration."
+          }
+        ]
+      },
+      "workflowChanges": [
+        "Separate review lanes for the character's expressive performance and frequently used study controls. The keyboard path should respond promptly; that does not forbid a keyboard user from explicitly playing a character film.",
+        "Require a stated purpose for each brand movement and check that the same useful project information survives in the still. The existing finite, user-triggered approach fits this rule.",
+        "Use same-context, actual-size comparisons for owner choice, especially on the phone. Contact-sheet thumbnails are supporting pose analysis, not a substitute for evaluating a full scene.",
+        "Record the choice axis: warm invitation versus a restrained afterthought. Keep personal fit and unfamiliar-viewer response separate, with evidence type attached to each claim.",
+        "Root is adding hover/coarse-pointer polish discovered through the installed skills; require fresh final-source evidence instead of quietly carrying an old review forward."
+      ],
+      "rulesNotApplicableWithReason": [
+        "Prototype is explicit-invocation-only and a divergence/build workflow. This task asks to review installed workflow options and an existing implementation, so no new picker or prototype cleanup was triggered.",
+        "Prototype's default of three genuinely different directions is not a reason to manufacture another character direction: these are controlled performance auditions with a shared opening, and the user already selected a lead.",
+        "Prototype's delete-after-choice rule does not override the repository's explicit preservation of historical review studies and source evidence.",
+        "Emil's sub-300ms rule concerns UI feedback. The 4.1-second authored investigation is the subject being watched, not a delayed button or navigation response.",
+        "Emil's keyboard-no-animation wording is applied to control/navigation feedback, not to denying keyboard users access to an explicitly requested character performance.",
+        "A blanket transform/opacity-only rule would remove expressive SVG facial and hand rendering. This review cannot assert compositor performance from that heuristic; the appropriate performance evidence belongs to the technical review.",
+        "No reason to add stagger, spring bounce, blur, a tooltip, or Sonner solely because a skill describes it. The inspected scene already has a bounded purpose and stable content.",
+        "animate-expo and write-swift target different stacks; ask-sonner targets an absent toast library; animation-vocabulary is naming help; pick-ui-library is explicitly invoked selection. These catalog entries do not alter this brand review.",
+        "animate, choreograph, animation-performance, review-animations, improve-animations, find-animation-opportunities, remove-animations, apple-design, mobile-native and break-ui may benefit their specialist or implementation lanes. This Brand A pass did not claim full-file review or run their workflows."
+      ]
+    },
+    {
+      "reviewer": "brand-b",
+      "record": "brand/reviews/2026-11-07-implementation/independent/brand-b.json",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra",
+      "skillsReviewed": [
+        {
+          "name": "emil-design-eng",
+          "depth": "full SKILL.md",
+          "use": "Good defaults, frequency/purpose gate, cohesive voice and motion, review with fresh evidence."
+        },
+        {
+          "name": "choreograph",
+          "depth": "full SKILL.md",
+          "use": "Assign lead/support/static roles, sequence only for meaning, inspect interruption and finite settling."
+        },
+        {
+          "name": "mobile-native",
+          "depth": "full SKILL.md",
+          "use": "Separate desktop layout evidence from physical-device claims; preserve zoom and native scrolling, verify capability-based controls."
+        },
+        {
+          "name": "animate",
+          "depth": "catalog",
+          "use": "Engineering workflow for an authorized new motion, after brand intent is specified."
+        },
+        {
+          "name": "animate-expo",
+          "depth": "catalog",
+          "use": "Future Expo work only; current study is browser SVG."
+        },
+        {
+          "name": "review-animations",
+          "depth": "catalog",
+          "use": "Performance/interaction reviewer route for specific existing-motion critique, not a substitute for brand or audience judgment."
+        },
+        {
+          "name": "improve-animations",
+          "depth": "catalog",
+          "use": "Read-only audit/planning route when future website motion spans a codebase; keep findings distinct from implementation approval."
+        },
+        {
+          "name": "find-animation-opportunities",
+          "depth": "catalog",
+          "use": "Future deliberate discovery of useful motion; no mandate to fill every brand moment with movement."
+        },
+        {
+          "name": "remove-animations",
+          "depth": "catalog",
+          "use": "Future subtraction pass for excessive/repeated motion when requested or supported by actual need."
+        },
+        {
+          "name": "animation-performance",
+          "depth": "catalog",
+          "use": "Engineering profiling and property selection; cannot justify erasing characteristic anatomy."
+        },
+        {
+          "name": "animation-vocabulary",
+          "depth": "catalog",
+          "use": "Shared naming when an owner description is ambiguous; terminology does not determine personality."
+        },
+        {
+          "name": "apple-design",
+          "depth": "catalog",
+          "use": "Future physical interaction and restraint review if the surface calls for it; Apple styling is not the heyNag identity."
+        },
+        {
+          "name": "write-swift",
+          "depth": "catalog",
+          "use": "No Swift implementation in this scope."
+        },
+        {
+          "name": "pick-ui-library",
+          "depth": "catalog",
+          "use": "Explicit-invocation library decision only; no library needed for this brand review."
+        },
+        {
+          "name": "prototype",
+          "depth": "catalog",
+          "use": "Explicit-invocation future visual comparisons; do not launch new variants just because installed."
+        },
+        {
+          "name": "break-ui",
+          "depth": "catalog",
+          "use": "Future website data-stress task; not a perceptual or authorship test."
+        },
+        {
+          "name": "ask-sonner",
+          "depth": "catalog",
+          "use": "No Sonner/toast system in this scope; avoid adding a component without need."
+        }
+      ],
+      "workflowChanges": [
+        "Begin each future website brief with the actual Nag project question, verified public evidence, intended reader action, and one chosen signature behavior. Brand determines meaning before engineering chooses timing.",
+        "Review the 50th visit as well as the first: static useful content, one opt-in finite performance, no hover/idle motion added by default. Record why every moving element earns attention.",
+        "Before implementation, cast real project content as informational lead, character as expressive support, optional ornaments as static; write cause-to-response beats and keep the destination usable throughout.",
+        "Produce matched desktop and smallest intended-size frames, then separate continuous live playback and native-phone evidence. Tag each conclusion by its evidence source rather than collapsing them into 'tested'.",
+        "Use full relevant skill instructions in the responsible engineering/review role, preserve independent paired reviews, and discuss applicable exceptions. Brand accepts the meaningful behavior, not a generic under-300ms rule.",
+        "Keep a single truthfully attributed project cue through a performance; use source version hashes and fresh exports to prevent an older successful capture from approving a newer uninspected source."
+      ],
+      "rulesNotApplicableWithReason": [
+        "Generic UI duration/stagger budgets do not compress a 4.1-second opt-in character thought into 300ms. The content and controls remain immediately usable; acting order carries meaning.",
+        "'Never animate keyboard actions' removes incidental control animation, not an explicitly requested Play action that a keyboard user should also be able to invoke; reduced-motion preference still governs movement.",
+        "'Only transform and opacity' is not permission to delete tiny mittens, wing markings or antenna geometry. Any engine optimization requires measured bottlenecks and preserved character invariants.",
+        "Attention-loop examples are not a recommendation to add idle loops: the selected finite still-first behavior already serves repeat visits.",
+        "Mobile-native's blanket app-shell baseline is conditional. This is a scrolling document; it does not justify disabling native document scrolling, pinch zoom or text selection.",
+        "Skills' implementation output instructions do not authorize this reviewer to edit source; root explicitly owns implementation/browser work. I use their review principles and record scoped observations.",
+        "Swift/Expo, Sonner, drag/sheet recipes and library selection have no current implementation target. Explicit-only prototype/pick-ui-library are not silently invoked by catalog inspection."
+      ]
+    },
+    {
+      "reviewer": "identity-a",
+      "record": "brand/reviews/2026-11-07-implementation/independent/identity-a.json",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra",
+      "skillsReviewed": {
+        "all17SummariesRead": [
+          "emil-design-eng",
+          "animate",
+          "animate-expo",
+          "review-animations",
+          "improve-animations",
+          "find-animation-opportunities",
+          "remove-animations",
+          "choreograph",
+          "animation-performance",
+          "animation-vocabulary",
+          "apple-design",
+          "write-swift",
+          "pick-ui-library",
+          "prototype",
+          "mobile-native",
+          "break-ui",
+          "ask-sonner"
+        ],
+        "fullSkillsRead": [
+          {
+            "name": "emil-design-eng",
+            "path": "/Users/nag/.config/skillshare/skills/emil-design-eng/SKILL.md",
+            "use": "Cohesion, good defaults, restrained purposeful motion, actual visual inspection and UI feedback checks around the identity."
+          },
+          {
+            "name": "mobile-native",
+            "path": "/Users/nag/.config/skillshare/skills/mobile-native/SKILL.md",
+            "use": "Separate phone-width optical review from real-device evidence; keep capability-based control feedback and source-of-truth limits explicit."
+          }
+        ]
+      },
+      "workflowChanges": [
+        "At each future website identity milestone, retain a versioned actual-size application matrix: universal avatar, owned-theme variant, header, wordmark and character-in-content, on intended grounds. Associate image evidence with current asset hashes.",
+        "Review the whole experience's defaults and typography alongside the character. Choose the personality lead first, then give it a clear project cue and restrained surrounding controls; do not add motion only to make a page busier.",
+        "Use emil-design-eng for concrete UI polish and mobile-native for capability and physical-device checks. The identity reviewer checks small-scale silhouette and hierarchy; interaction/performance specialists validate the corresponding platform behavior.",
+        "Carry three evidence labels into pair and team decisions: source/static-browser verified, physical-device or assistive-technology verified, and unprimed-human observed. Never collapse them into a single tested claim.",
+        "Keep independent scores before pair discussion. Compare the final same immutable asset set, record any remaining optical tradeoff, and treat a future prototype as an experiment until its built result is inspected."
+      ],
+      "rulesNotApplicableWithReason": [
+        "The skills' under-300ms UI guidance does not cap the intentional multi-second character performance; acting beats and functional control feedback serve different purposes.",
+        "Transform/opacity optimization does not authorize removal of tiny anatomy, deforming facial paths or identity cues. Performance changes require actual measurement and must preserve the selected character.",
+        "mobile-native's implementation posture does not authorize this independent reviewer to edit source or operate the browser. Root owns implementation and browser evidence; no invented extra approval gate is needed.",
+        "Global overscroll suppression, edge-to-edge safe-area setup and PWA chrome changes are not automatic requirements for this scrolling local document. Apply only where the actual application needs them.",
+        "animate-expo and write-swift target absent platforms; ask-sonner targets an absent toast library. No reason to add these dependencies or workflows.",
+        "pick-ui-library and prototype are opt-in execution skills; reading their catalog summaries for the user's team-wide request does not require launching their build workflows.",
+        "The animation audit/removal/opportunity skills and choreograph remain useful for the motion specialists or a later material motion task; this silhouette review does not invent a motion rewrite. animation-vocabulary addresses naming, not an unanswered requirement here.",
+        "break-ui is appropriate when future dynamic identity-bearing components have variable content, not an instruction to manufacture a worst-case data toggle in this fixed identity proof. apple-design's gesture and material prescriptions are not automatically relevant to this static cross-surface identity pass."
+      ]
+    },
+    {
+      "reviewer": "identity-b",
+      "record": "brand/reviews/2026-11-07-implementation/independent/identity-b.json",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra",
+      "skillsReviewed": {
+        "catalogReadInFull": true,
+        "catalogCount": 17,
+        "skills": [
+          {
+            "name": "emil-design-eng",
+            "reviewDepth": "full SKILL.md",
+            "path": "/Users/nag/.config/skillshare/skills/emil-design-eng/SKILL.md"
+          },
+          {
+            "name": "animate",
+            "reviewDepth": "catalog name and complete description",
+            "path": "/Users/nag/.config/skillshare/skills/animate/SKILL.md"
+          },
+          {
+            "name": "animate-expo",
+            "reviewDepth": "catalog name and complete description",
+            "path": "/Users/nag/.config/skillshare/skills/animate-expo/SKILL.md"
+          },
+          {
+            "name": "review-animations",
+            "reviewDepth": "catalog name and complete description",
+            "path": "/Users/nag/.config/skillshare/skills/review-animations/SKILL.md"
+          },
+          {
+            "name": "improve-animations",
+            "reviewDepth": "catalog name and complete description",
+            "path": "/Users/nag/.config/skillshare/skills/improve-animations/SKILL.md"
+          },
+          {
+            "name": "find-animation-opportunities",
+            "reviewDepth": "catalog name and complete description",
+            "path": "/Users/nag/.config/skillshare/skills/find-animation-opportunities/SKILL.md"
+          },
+          {
+            "name": "remove-animations",
+            "reviewDepth": "catalog name and complete description",
+            "path": "/Users/nag/.config/skillshare/skills/remove-animations/SKILL.md"
+          },
+          {
+            "name": "choreograph",
+            "reviewDepth": "catalog name and complete description",
+            "path": "/Users/nag/.config/skillshare/skills/choreograph/SKILL.md"
+          },
+          {
+            "name": "animation-performance",
+            "reviewDepth": "catalog name and complete description",
+            "path": "/Users/nag/.config/skillshare/skills/animation-performance/SKILL.md"
+          },
+          {
+            "name": "animation-vocabulary",
+            "reviewDepth": "catalog name and complete description",
+            "path": "/Users/nag/.config/skillshare/skills/animation-vocabulary/SKILL.md"
+          },
+          {
+            "name": "apple-design",
+            "reviewDepth": "full SKILL.md",
+            "path": "/Users/nag/.config/skillshare/skills/apple-design/SKILL.md"
+          },
+          {
+            "name": "write-swift",
+            "reviewDepth": "catalog name and complete description",
+            "path": "/Users/nag/.config/skillshare/skills/write-swift/SKILL.md"
+          },
+          {
+            "name": "pick-ui-library",
+            "reviewDepth": "catalog name and complete description",
+            "path": "/Users/nag/.config/skillshare/skills/pick-ui-library/SKILL.md"
+          },
+          {
+            "name": "prototype",
+            "reviewDepth": "catalog name and complete description",
+            "path": "/Users/nag/.config/skillshare/skills/prototype/SKILL.md"
+          },
+          {
+            "name": "mobile-native",
+            "reviewDepth": "full SKILL.md",
+            "path": "/Users/nag/.config/skillshare/skills/mobile-native/SKILL.md"
+          },
+          {
+            "name": "break-ui",
+            "reviewDepth": "catalog name and complete description",
+            "path": "/Users/nag/.config/skillshare/skills/break-ui/SKILL.md"
+          },
+          {
+            "name": "ask-sonner",
+            "reviewDepth": "catalog name and complete description",
+            "path": "/Users/nag/.config/skillshare/skills/ask-sonner/SKILL.md"
+          }
+        ]
+      },
+      "workflowChanges": [
+        {
+          "skill": "apple-design",
+          "change": "Review type as a size/weight/leading/tracking system at actual smallest widths, not as a desktop font specimen. Carry a 320/390/desktop wrap check and enlarged-text check into future website work.",
+          "appliedNow": "Caught the 320px one-word h1 line while preserving the established readable wordmark."
+        },
+        {
+          "skill": "emil-design-eng",
+          "change": "Record each visual/UI issue with Before/After/Why, exact evidence and an intent-based remedy; review small details in the complete composition. Keep identity artwork separate from functional UI feedback.",
+          "appliedNow": "Compared the old side-by-side phone scene, portrait experiment and final portrait; the implementation table records the improvement and residual wrap issue."
+        },
+        {
+          "skill": "mobile-native",
+          "change": "Require evidence labels distinguishing desktop-width proofs, simulator evidence, and real phone results; inspect touch capability queries and coarse-pointer input type sizing in source before claiming mobile quality.",
+          "appliedNow": "Observed capability-gated hover and coarse-pointer 16px controls in final signature CSS; neither is claimed as tested on hardware."
+        },
+        {
+          "skill": "cross-skill synthesis",
+          "change": "Future identity and engineering handoffs must state universal versus owned-theme variants, supported native sizes, exact source/export hashes, and unresolved boundary cases. Pair discussion will preserve this shared workflow rather than treating every skill as a universal redesign mandate.",
+          "appliedNow": "Reviewed v2 provenance and supported avatar uses, retained anatomy and the restrained wordmark, and kept recognizability as an expert hypothesis."
+        }
+      ],
+      "rulesNotApplicableWithReason": [
+        {
+          "rule": "Generic no-question initial response in three read skills",
+          "reason": "This task already supplies a concrete review question; the generic ready-only response does not apply."
+        },
+        {
+          "rule": "UI duration ceilings, universal keyboard-animation prohibition and compositor-only properties",
+          "reason": "Intentional character acting is the requested content, not a dropdown or repeated command. Do not truncate investigation acting to a UI budget or erase anatomy to force GPU-only properties."
+        },
+        {
+          "rule": "Mandatory code changes in mobile-native",
+          "reason": "This role is explicitly read-only and root owns source/browser. I report findings and inspect implemented evidence; user and task instructions take precedence."
+        },
+        {
+          "rule": "Apple translucent chrome and default platform typeface",
+          "reason": "This identity has an established Schibsted/ink/paper/green system and no need for translucent layers. Typography principles transfer; copying Apple visual styling does not."
+        },
+        {
+          "rule": "Mobile overscroll lock, global selection suppression and all native-app baselines",
+          "reason": "The signature is a scrolling document/study. Keep text selectable, pinch zoom available and native document scroll unless a demonstrated interaction requires otherwise."
+        },
+        {
+          "rule": "animate, animate-expo, write-swift, ask-sonner, animation-performance, animation-vocabulary",
+          "reason": "Catalog reviewed; no new motion implementation, Expo/Swift source, Sonner toast, observed performance diagnosis or terminology question belongs to this independent identity review."
+        },
+        {
+          "rule": "review-animations, improve-animations, find-animation-opportunities, remove-animations, choreograph",
+          "reason": "Catalog reviewed; this reviewer evaluates static identity hierarchy and size handling. Motion specialists own acting and continuous-motion judgment; no automatic request to add/remove/resequence motion follows from installation."
+        },
+        {
+          "rule": "pick-ui-library, prototype, break-ui",
+          "reason": "Catalog reviewed. These are explicit-invocation/implementation or data-stress workflows; I was asked to inspect skills and conduct an independent read-only visual review, not add dependencies, build variant pickers or inject synthetic content."
+        }
+      ]
+    },
+    {
+      "reviewer": "interaction-a",
+      "record": "brand/reviews/2026-11-07-implementation/independent/interaction-a.json",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra",
+      "skillsReviewed": {
+        "catalogue": "Read all 17 entries of installed-skills.json before selecting role-relevant material.",
+        "all17": [
+          "emil-design-eng",
+          "animate",
+          "animate-expo",
+          "review-animations",
+          "improve-animations",
+          "find-animation-opportunities",
+          "remove-animations",
+          "choreograph",
+          "animation-performance",
+          "animation-vocabulary",
+          "apple-design",
+          "write-swift",
+          "pick-ui-library",
+          "prototype",
+          "mobile-native",
+          "break-ui",
+          "ask-sonner"
+        ],
+        "readInFull": [
+          "/Users/nag/.agents/skills/emil-design-eng/SKILL.md",
+          "/Users/nag/.agents/skills/mobile-native/SKILL.md"
+        ],
+        "selectionReason": "These directly improve control feedback, frequent keyboard UI, motion preference handling and the distinction between emulated and physical touch behavior. Other catalog entries provide useful future routing without requiring irrelevant frameworks or mutation workflows in this independent review."
+      },
+      "workflowChanges": [
+        "Classify every animation as operational feedback or intentionally requested character content before judging duration or keyboard behavior.",
+        "Use a capability matrix (hover/fine/coarse, focus-visible, reduced motion) alongside viewport geometry; do not infer touch capability from width.",
+        "For each accessibility claim label evidence as source, recorded programmatic browser result, native input, spoken AT, or human/device observation. A successful tool selection must never silently become a native keyboard pass.",
+        "Run real-device verification for future mobile claims; keep missing evidence explicit without inventing a local-draft release gate.",
+        "Use a Before/After/Why table for design-engineering findings, with a reason for every applied or declined rule. Keep body copying, browser zoom and normal document scrolling unless a demonstrated component need requires a narrower change.",
+        "Recheck pause across the between-clip gap and live reduced-motion changes, not only during active frames."
+      ],
+      "rulesNotApplicableWithReason": [
+        {
+          "rule": "Never animate keyboard-initiated actions / UI timings under 300ms",
+          "reason": "Apply to operational feedback, not to Play intentionally starting the character performance. The inspected focus-visible controls remove transform feedback; the authored multi-second acting remains content."
+        },
+        {
+          "rule": "Only animate transform and opacity",
+          "reason": "Appropriate default for UI feedback; it does not authorize deleting SVG facial/articulation changes or the tiny character anatomy. Actual rendering cost needs measurement."
+        },
+        {
+          "rule": "Global transparent tap highlight, overscroll lock, viewport-fit cover and user-select none",
+          "reason": "These are scrolling review documents with ordinary links and readable copy, not immersive application shells. Preserve native feedback, scrolling, zoom and selection unless the specific cause warrants a change."
+        },
+        {
+          "rule": "mobile-native Apply the fixes",
+          "reason": "This assignment is an independent read-only review. Source-supported issues are sent to root; no unreviewed edits are made by this specialist."
+        },
+        {
+          "rule": "Native/React/library construction workflows",
+          "reason": "animate-expo, write-swift and ask-sonner do not match these plain HTML/SVG pages. pick-ui-library and prototype are explicit-invocation workflows, not justification to add dependencies or variants to an already selected study."
+        },
+        {
+          "rule": "Unconditional introductory skill readiness sentence",
+          "reason": "The skills were read for a specific assigned review; their no-question initialization condition does not apply."
+        }
+      ]
+    },
+    {
+      "reviewer": "interaction-b",
+      "record": "brand/reviews/2026-11-07-implementation/independent/interaction-b.json",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra",
+      "skillsReviewed": {
+        "all17SummariesInspected": [
+          "emil-design-eng",
+          "animate",
+          "animate-expo",
+          "review-animations",
+          "improve-animations",
+          "find-animation-opportunities",
+          "remove-animations",
+          "choreograph",
+          "animation-performance",
+          "animation-vocabulary",
+          "apple-design",
+          "write-swift",
+          "pick-ui-library",
+          "prototype",
+          "mobile-native",
+          "break-ui",
+          "ask-sonner"
+        ],
+        "fullSkillMdRead": [
+          "emil-design-eng",
+          "review-animations",
+          "mobile-native",
+          "remove-animations",
+          "break-ui"
+        ],
+        "source": "Installed paths in installed-skills.json, under /Users/nag/.config/skillshare/skills; actual SKILL.md files read for the five relevant workflows.",
+        "selectionRationale": "Design-engineering covers defaults and control polish; motion review separates UI latency from performance content; mobile-native defines capability and hardware checks; remove-animations introduces a repeat-frequency gate; break-ui supplies realistic width/content/zoom adversarial testing for future implementation."
+      },
+      "workflowChanges": [
+        {
+          "skill": "emil-design-eng",
+          "adoption": "For each interaction review, write a compact Before/After/Why table, assess good defaults before optional controls, and inspect press/focus/state feedback against repeated use. Require source plus an actual visual state."
+        },
+        {
+          "skill": "review-animations",
+          "adoption": "Separate interface transitions from deliberate character performances; review purpose, frequency, interruptibility, focus behavior and reduced-motion outcomes. Record a scoped verdict with runtime/perception limits."
+        },
+        {
+          "skill": "mobile-native",
+          "adoption": "Use capability queries, native controls, 16px coarse-pointer input text and preserved zoom as implementation checks. Add a physical-phone pass as a distinct evidence tier before calling mobile behavior finished."
+        },
+        {
+          "skill": "remove-animations",
+          "adoption": "Create a surface frequency map during future website work. Remove unmotivated repeated interface motion before adding polish; explicitly preserve motion whose content purpose is the reason for the visit."
+        },
+        {
+          "skill": "break-ui",
+          "adoption": "In future mutable UI tasks, use plausible longest labels, missing/empty content where the actual data permits it, 320px and 200% text/zoom views through a dev-only fixture boundary. Keep source-inferred risks separate from screenshot-proven breaks."
+        },
+        {
+          "skill": "pair process",
+          "adoption": "Pair discussion should retain separate scores and combine keyboard/AT review with discovery/revisit tasks. Skills guide practical checks; they do not create human evidence or an extra permission gate."
+        }
+      ],
+      "rulesNotApplicableWithReason": [
+        {
+          "rule": "Universal sub-300ms and never-animate-keyboard-action rules",
+          "reason": "Apply them to interface chrome and focus/navigation feedback. A person deliberately using keyboard Play or selecting a performance may request animated character content. Compressing that performance to UI timing or stripping it from keyboard users would defeat the task; preserve reduced-motion alternatives."
+        },
+        {
+          "rule": "GPU-only transforms and opacity as a universal artwork rule",
+          "reason": "The rig uses expressive SVG geometry and the user requires tiny anatomy. Do not delete face, hands, wing articulation or their geometry for a blanket compositing rule. Profile before optimizing; the current runtime timing evidence is limited."
+        },
+        {
+          "rule": "Reduced motion must retain some animation",
+          "reason": "Static stills and scrubbing are meaningful content alternatives here; adding a fade solely to satisfy a general skill sentence is unnecessary."
+        },
+        {
+          "rule": "Mobile app-shell overscroll suppression, safe-area chrome and viewport-height baseline everywhere",
+          "reason": "This is a naturally scrolling local document with no fixed app shell. Preserve native document scrolling and zoom. Apply safe-area or viewport units only when a future fixed/edge-to-edge surface needs them."
+        },
+        {
+          "rule": "break-ui fixture/toggle implementation and remove-animations edits in this turn",
+          "reason": "This assignment freezes source and requests an independent review. Adopt their methods for future engineering work; do not mutate the current reviewed implementation or claim stress cases that were not executed."
+        },
+        {
+          "rule": "animate, choreograph, improve-animations, find-animation-opportunities and animation-performance full execution",
+          "reason": "Those are implementation, choreography, broad audit, opportunity or profiling workflows. Their summaries informed routing; the current lens is control discovery and comfort, and other standing specialists cover acting and rendering. No broad motion rewrite is authorized by this reviewer role."
+        },
+        {
+          "rule": "animate-expo and write-swift",
+          "reason": "The inspected surface is plain web HTML/CSS/JavaScript; no Expo or Swift implementation is present."
+        },
+        {
+          "rule": "apple-design full gesture/spring workflow",
+          "reason": "There are no custom swipe, drag, sheet or physical spring controls to assess; the relevant reduced-motion and control-restraint requirements are covered directly by the full skills read."
+        },
+        {
+          "rule": "animation-vocabulary",
+          "reason": "No unnamed effect needs terminology lookup in this review."
+        },
+        {
+          "rule": "pick-ui-library and prototype",
+          "reason": "No library choice or multi-variant component prototype was requested; both are explicit-invocation tools and the source is frozen."
+        },
+        {
+          "rule": "ask-sonner",
+          "reason": "No toast system or Sonner integration exists in the inspected local study."
+        }
+      ]
+    },
+    {
+      "reviewer": "performance-a",
+      "record": "brand/reviews/2026-11-07-implementation/independent/performance-a.json",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra",
+      "skillsReviewed": {
+        "catalogueAll17": [
+          "emil-design-eng",
+          "animate",
+          "animate-expo",
+          "review-animations",
+          "improve-animations",
+          "find-animation-opportunities",
+          "remove-animations",
+          "choreograph",
+          "animation-performance",
+          "animation-vocabulary",
+          "apple-design",
+          "write-swift",
+          "pick-ui-library",
+          "prototype",
+          "mobile-native",
+          "break-ui",
+          "ask-sonner"
+        ],
+        "fullSkillFilesRead": [
+          "/Users/nag/.config/skillshare/skills/choreograph/SKILL.md",
+          "/Users/nag/.config/skillshare/skills/review-animations/SKILL.md",
+          "/Users/nag/.config/skillshare/skills/animation-vocabulary/SKILL.md",
+          "/Users/nag/.config/skillshare/skills/animation-performance/SKILL.md",
+          "/Users/nag/.agents/skills/watch-video/SKILL.md"
+        ],
+        "selectionReason": "The first four materially sharpen this acting/motion review. watch-video provides local, timestamped evidence handling. Native Expo/Swift, toast/library selection and UI stress-data skills are not the present performance lens."
+      },
+      "workflowChanges": [
+        {
+          "skill": "choreograph",
+          "change": "Before implementation, cast each acting channel as lead/support/static and write a causal timeline: antenna notices, gaze follows, head turns, wing supports, hand offers. Record why a beat overlaps or waits; tie secondary follow-through to contact or thought change, not arbitrary equal delays."
+        },
+        {
+          "skill": "review-animations",
+          "change": "Review purpose, repetition frequency, interruption and reduced motion separately from aesthetic enthusiasm. Produce named evidence-backed defects; do not approve because tests pass or a target score was requested."
+        },
+        {
+          "skill": "animation-vocabulary",
+          "change": "Use precise terms\u2014anticipation, follow-through, orchestration, interruption, held pose\u2014when handing off changes. Distinguish an acting hold from UI latency and a deterministic export frame rate from observed browser jank."
+        },
+        {
+          "skill": "animation-performance",
+          "change": "Inventory the rAF driver and SVG updates, then profile a real target device with concurrent page work before proposing optimizations. Name the measured cause and preserve visual correctness; do not add will-change or replace geometry on intuition."
+        },
+        {
+          "skill": "watch-video",
+          "change": "Maintain frame timestamps and source hashes, inspect decoded frame evidence directly, and explicitly distinguish sampled motion analysis from continuous playback. Reuse existing exports and focused samples for disputed beats."
+        },
+        {
+          "skill": "future website coordination",
+          "change": "Keep character choreography and product-control motion as separate reviews. Website controls should follow frequency and responsiveness budgets; the character can retain intentional anticipation and thought holds when it remains optional, interruptible and reduced-motion safe."
+        }
+      ],
+      "rulesNotApplicableWithReason": [
+        {
+          "rule": "Sub300ms UI and universal ease-out",
+          "reason": "The2.6\u20134.7-second clips are authored character performances with meaningful attention, contemplation and reaction holds, not menus or delayed functional feedback. Compressing them to a UI budget would destroy the thought change."
+        },
+        {
+          "rule": "Every animated property must be transform/opacity regardless of fidelity",
+          "reason": "The SVG character needs numeric facial/path articulation. A CSS-only substitution is justified only if it preserves the tiny anatomy and actual facial shape. Optimize from a measured bottleneck, not by erasing expression."
+        },
+        {
+          "rule": "Collapse all simultaneous parts to one timing family",
+          "reason": "Head, antenna, wings and hands may intentionally lead or lag to imply mass and thought; these are causally related acting parts, not competing UI entrance layers."
+        },
+        {
+          "rule": "Always delete extra motion when uncertain",
+          "reason": "This task specifically commissions expressive character performance. Uncertainty should prompt a focused playback/readability check; removal is appropriate for purposeless repetition, not automatically for an intentional thought beat."
+        },
+        {
+          "rule": "Skill formatting and initial readiness response",
+          "reason": "The assignment is a specific independent review with a mandatory JSON schema, not a bare skill invocation. The requested review schema and evidence boundaries take precedence."
+        },
+        {
+          "rule": "Native mobile, Expo, Swift, Sonner and library/prototype installation workflows",
+          "reason": "No native implementation or library-selection task is being performed by this role. Their catalog entries were inspected, but no justification exists to run those workflows or infer real-phone behavior."
+        }
+      ]
+    },
+    {
+      "reviewer": "performance-b",
+      "record": "brand/reviews/2026-11-07-implementation/independent/performance-b.json",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra",
+      "skillsReviewed": {
+        "catalogReadInFull": [
+          "emil-design-eng",
+          "animate",
+          "animate-expo",
+          "review-animations",
+          "improve-animations",
+          "find-animation-opportunities",
+          "remove-animations",
+          "choreograph",
+          "animation-performance",
+          "animation-vocabulary",
+          "apple-design",
+          "write-swift",
+          "pick-ui-library",
+          "prototype",
+          "mobile-native",
+          "break-ui",
+          "ask-sonner"
+        ],
+        "fullSkillFilesRead": [
+          "/Users/nag/.config/skillshare/skills/review-animations/SKILL.md",
+          "/Users/nag/.config/skillshare/skills/choreograph/SKILL.md",
+          "/Users/nag/.config/skillshare/skills/animation-performance/SKILL.md"
+        ],
+        "application": "Read all 17 installed descriptions and selected the three whose full workflows materially improve this role. The requested review JSON format and character constraints take precedence over generic skill output templates."
+      },
+      "workflowChanges": [
+        {
+          "skill": "choreograph",
+          "change": "Before future character or website motion implementation, write a cause-and-effect timeline with lead, support and static elements. Here: gaze/face lead the thought, head follows, hands/wing support, page content stays still. Sequence only meaningful attention changes; remove unmotivated extra checks."
+        },
+        {
+          "skill": "review-animations",
+          "change": "Separate ordinary UI motion review from intentional character acting. Inspect controls for frequency, interruption, reduced motion and input parity; inspect the character for intention, silhouette, beat clarity and settlement. Record exact frame/source evidence and do not approve feel solely because tests pass."
+        },
+        {
+          "skill": "animation-performance",
+          "change": "Keep rendered-device evidence, exported-frame evidence and source-risk inspection in separate columns. Use profiling on representative hardware before changing expressive geometry for speed; first remove redundant work or bounded unnecessary updates if a measured cause warrants it."
+        },
+        {
+          "skill": "choreograph + review-animations",
+          "change": "Preserve baseline/alternative pairs, inspect baseline first, then compare one named expressive change. Reversible exploration is allowed without proving a baseline failure; adoption still needs a named benefit. Check replay, interruption and held fallbacks as distinct experiences."
+        }
+      ],
+      "rulesNotApplicableWithReason": [
+        {
+          "rule": "Sub-300ms UI timing and blanket ease-in prohibition",
+          "reason": "Finite character thought sequences intentionally include anticipation, consideration and settlement. Apply UI response budgets to controls, not the whole 2.6\u20134.7-second acting clip; evaluate the first readable character response separately."
+        },
+        {
+          "rule": "GPU-only transform/opacity as an absolute character-art gate",
+          "reason": "The current clipped eyelids, bent paddle antennae and curved arm paths communicate anatomy and expression that a simple transform may not reproduce. Prefer cheaper equivalent work where demonstrated, but preserve the authorized drawing and profile before altering it."
+        },
+        {
+          "rule": "No animation on any keyboard-triggered action",
+          "reason": "Keyboard activation of an explicit Play control must expose the same intentionally requested performance as pointer activation. Avoid decorative keyboard feedback, not the content the user expressly played."
+        },
+        {
+          "rule": "Reduced motion must always preserve fades or nonzero motion",
+          "reason": "The implemented still-pose alternative preserves the character and cue while avoiding movement. A complete still fallback is valid for this performance; extra fading is not needed to satisfy a slogan."
+        },
+        {
+          "rule": "Delete any animation whose feel is uncertain",
+          "reason": "Uncertainty from sampled-only evidence calls for appropriately scoped judgment and continuous review, not automatic deletion of authorized character acting."
+        },
+        {
+          "rule": "React Native/Expo and Swift-specific skills",
+          "reason": "This is a native-SVG browser implementation, so animate-expo/write-swift do not govern its runtime."
+        },
+        {
+          "rule": "pick-ui-library/prototype automatic invocation; Sonner recipes",
+          "reason": "No library-selection request, multi-UI-prototype request or toast implementation is in this role\u2019s scope. Their catalog entries were reviewed but these workflows were not triggered."
+        },
+        {
+          "rule": "break-ui, mobile-native, apple-design as complete certification",
+          "reason": "Their catalog descriptions identify useful future engineering and device review work, but this role did not run data stress tests, native device interactions or gesture-driven UI certification."
+        },
+        {
+          "rule": "All remaining catalog skills must be executed merely because installed",
+          "reason": "animate, improve-animations, find-animation-opportunities, remove-animations, animation-vocabulary and emil-design-eng were considered via full catalog descriptions. They cover implementation, broader audits, addition/removal/naming or general UI; the selected full skills cover this bounded independent acting review without expanding scope."
+        }
+      ]
+    },
+    {
+      "reviewer": "rigging-a",
+      "record": "brand/reviews/2026-11-07-implementation/independent/rigging-a.json",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra",
+      "skillsReviewed": {
+        "fullCatalog": [
+          "emil-design-eng",
+          "animate",
+          "animate-expo",
+          "review-animations",
+          "improve-animations",
+          "find-animation-opportunities",
+          "remove-animations",
+          "choreograph",
+          "animation-performance",
+          "animation-vocabulary",
+          "apple-design",
+          "write-swift",
+          "pick-ui-library",
+          "prototype",
+          "mobile-native",
+          "break-ui",
+          "ask-sonner"
+        ],
+        "fullSkillFiles": [
+          "/Users/nag/.config/skillshare/skills/review-animations/SKILL.md",
+          "/Users/nag/.config/skillshare/skills/animate/SKILL.md",
+          "/Users/nag/.config/skillshare/skills/animation-performance/SKILL.md",
+          "/Users/nag/.config/skillshare/skills/choreograph/SKILL.md"
+        ]
+      },
+      "workflowChanges": [
+        "Use review-animations to separate motion purpose, physical origin, interruption and reduced-motion checks; do not let a deterministic test pass stand in for a feel judgment.",
+        "Before changing character motion, map the lead and supporting parts and their meaningful events: antenna notice, gaze response, feet contact, head recovery and offered-hand arrival. Use choreograph's together/overlap/sequence distinctions to keep cause and effect explicit.",
+        "Use animate's current-state retargeting and cheapest-sufficient-tool reasoning for surrounding website interactions. Keep the character engine when it supplies genuine channel control, rather than adding a motion dependency for its own sake.",
+        "Use animation-performance's driver/property inventory and cause-first diagnosis for future web integration. Record code-verified facts separately from measured real-device performance; add will-change only for a demonstrated need.",
+        "Keep actual-size contact silhouettes, exact-time frames, normal-speed observation and target-device traces as distinct review evidence. Pair discussion must retain this practical workflow and any remaining individual score."
+      ],
+      "rulesNotApplicableWithReason": [
+        "The skills' sub-300ms UI budgets and no-keyboard-animation rule apply to interface response, not an explicitly requested authored character performance. The controls must remain responsive; the acting may take seconds.",
+        "The transform/opacity preference does not authorize flattening articulated paths, removing fingers/wing layers, or replacing antenna/face deformation. SVG path updates have a real expressive purpose; optimize only a measured bottleneck while retaining correctness.",
+        "A resting or reduced-motion character may be completely still. The skill preference to retain gentle opacity transitions is not a requirement to add unnecessary motion to this finite character system.",
+        "The read-only review assignment supersedes construction/output-format instructions from animate and choreograph. This record uses the required independent-review JSON and makes no source edits.",
+        "Native Swift/Expo implementation, toast setup, library selection, generated UI alternatives and stress-data toggles are outside this articulation review. Their catalog entries were considered; they were not invoked as implementation work.",
+        "No developer-machine smoothness claim is made. Native-phone testing requirements remain unmet and cannot be replaced by desktop screenshots or export cadence."
+      ]
+    },
+    {
+      "reviewer": "rigging-b",
+      "record": "brand/reviews/2026-11-07-implementation/independent/rigging-b.json",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra",
+      "skillsReviewed": {
+        "catalog": "All 17 entries in installed-skills.json were read.",
+        "fullSkillFiles": [
+          "emil-design-eng",
+          "animate",
+          "review-animations",
+          "improve-animations",
+          "choreograph",
+          "animation-performance"
+        ],
+        "catalogOnly": [
+          {
+            "name": "animate-expo",
+            "reason": "No Expo/React Native runtime in this implementation."
+          },
+          {
+            "name": "find-animation-opportunities",
+            "reason": "This is an implemented-rig review, not a request to add new motion."
+          },
+          {
+            "name": "remove-animations",
+            "reason": "No demonstrated unnecessary character motion to remove; retain its frequency/restraint principle without invoking an editing workflow."
+          },
+          {
+            "name": "animation-vocabulary",
+            "reason": "No unnamed effect needs terminology lookup."
+          },
+          {
+            "name": "apple-design",
+            "reason": "No gesture, drawer or Apple-style surface in this rig; interruption and restraint are covered by the selected animation skills."
+          },
+          {
+            "name": "write-swift",
+            "reason": "No Swift source in the reviewed runtime."
+          },
+          {
+            "name": "pick-ui-library",
+            "reason": "Not explicitly invoked to select a library; current plain SVG/native controls require no new dependency."
+          },
+          {
+            "name": "prototype",
+            "reason": "Not explicitly invoked; existing frozen/updated studies already supply the needed comparison."
+          },
+          {
+            "name": "mobile-native",
+            "reason": "Catalog reviewed; native-phone control audit belongs to the interaction specialists. This review does not certify native-device behavior."
+          },
+          {
+            "name": "break-ui",
+            "reason": "Variable-content stress testing is not this rig review; final website content boundaries should invoke it when relevant."
+          },
+          {
+            "name": "ask-sonner",
+            "reason": "No Sonner/toast component exists in this scope."
+          }
+        ]
+      },
+      "workflowChanges": [
+        "Before future animation implementation, record purpose, expected frequency, driver and animated properties; keep UI feedback and authored character acting as separate timing classes.",
+        "Use animation-performance to name and measure a bottleneck before changing code. Treat per-frame SVG path writes and the night filter as profiling candidates, not proven causes; never add blanket will-change or replace anatomy on speculation.",
+        "Use choreograph to mark lead, support and static parts in the character beat: antenna notices, gaze/head attend, mitten offers; wings support. Anchor secondary motion to the intended event rather than uniform delays.",
+        "For future website integration, inspect rapid retargeting, interrupted playback, hidden/offscreen behavior, preference changes and teardown alongside the final rendered crop. Keep regression evidence on the same source version.",
+        "Separate evidence columns for source invariants, deterministic renderer/export samples, continuous playback, physical-device traces and unprimed human studies. A pass in one column must not be reported as another.",
+        "Use the installed review skills as an explicit challenge pass, preserve justified exceptions and keep the independent score. Hand engineers precise file/evidence findings rather than a generic request for polish."
+      ],
+      "rulesNotApplicableWithReason": [
+        {
+          "rule": "UI animations under 300ms and never animate a keyboard action",
+          "reason": "The intentional multi-second character performance is the requested content, including when Play is activated by keyboard. UI controls should respond promptly; removing the performance for keyboard users would defeat equivalent access."
+        },
+        {
+          "rule": "Transform/opacity only",
+          "reason": "The authored eyelids, mouth and bending paddle antennae require SVG geometry changes. Preserve the tiny character and profile its actual cost. There is no established equally faithful compositor-only replacement."
+        },
+        {
+          "rule": "Prescribed UI easing curves for every animation",
+          "reason": "Authored acting uses numeric ease and selected Hermite tangents, including continuous descent and contact. Replacing them mechanically with a UI easing token would erase the deliberately verified trajectory."
+        },
+        {
+          "rule": "Reduced motion must retain gentle motion rather than zero",
+          "reason": "A selected expressive still with manual timeline inspection is a coherent and safer mode for this optional character performance; comprehension does not require an opacity animation."
+        },
+        {
+          "rule": "Add stagger or decorative blur as polish",
+          "reason": "This rig already has causal staging. Extra entrance delays or blur would not resolve contour or attachment questions and could conceal them."
+        },
+        {
+          "rule": "Skill-specific output tables, automatic source writing, plan-directory-only output or user-selection pause",
+          "reason": "The user/root's explicit independent-review protocol requires this JSON record, prohibits source edits and already authorizes review. Selected skills inform judgment; they do not replace that workflow or add a new permission gate."
+        }
+      ]
+    },
+    {
+      "reviewer": "sound-a",
+      "record": "brand/reviews/2026-11-07-implementation/independent/sound-a.json",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra",
+      "skillsReviewed": {
+        "catalogReadInFull": true,
+        "catalogCount": 17,
+        "catalogSummaries": [
+          "emil-design-eng",
+          "animate",
+          "animate-expo",
+          "review-animations",
+          "improve-animations",
+          "find-animation-opportunities",
+          "remove-animations",
+          "choreograph",
+          "animation-performance",
+          "animation-vocabulary",
+          "apple-design",
+          "write-swift",
+          "pick-ui-library",
+          "prototype",
+          "mobile-native",
+          "break-ui",
+          "ask-sonner"
+        ],
+        "fullInstructionsRead": [
+          {
+            "name": "choreograph",
+            "path": "/Users/nag/.config/skillshare/skills/choreograph/SKILL.md",
+            "use": "Assign visual lead/support/static roles and require cause-based secondary timing; retain explicit limits of code-only feel judgments."
+          },
+          {
+            "name": "remove-animations",
+            "path": "/Users/nag/.config/skillshare/skills/remove-animations/SKILL.md",
+            "use": "Audit repeated attention claims and keep only purposeful motion; deliberately retain requested character acting and opt-in content playback."
+          },
+          {
+            "name": "review-animations",
+            "path": "/Users/nag/.config/skillshare/skills/review-animations/SKILL.md",
+            "use": "Check interruption, justified motion, reduced motion and input-specific UI feedback while keeping claims bounded by actual evidence."
+          }
+        ],
+        "catalogOnlyNotClaimedAsFullReads": [
+          "emil-design-eng",
+          "animate",
+          "animate-expo",
+          "improve-animations",
+          "find-animation-opportunities",
+          "animation-performance",
+          "animation-vocabulary",
+          "apple-design",
+          "write-swift",
+          "pick-ui-library",
+          "prototype",
+          "mobile-native",
+          "break-ui",
+          "ask-sonner"
+        ]
+      },
+      "workflowChanges": [
+        "For every future character/website moment, create a cause map before discussing sound: visual stimulus, lead action, supporting response, settle and what remains static. A sound cue cannot repair a missing visual cause by default.",
+        "Use a motion frequency inventory: finite requested character performance may stay; repeating reading-surface decoration must justify its purpose. Start the future website with still readable content and preserve explicit Play/Pause/reduced-motion behavior.",
+        "Require actual desktop and responsive render evidence for eyeline and gesture judgments. Keep source-defined timing, sampled frames, continuous perception and audience outcomes as separate review categories.",
+        "Review sound as an optional layer only after the silent visual action is intelligible. If later requested, test opt-in, reversible disablement and interruption without treating semantic assistive speech as decorative soundtrack.",
+        "Pair discussion must explicitly preserve these practical skill adoptions and exceptions for future website engineers, rather than treating catalog discovery as complete skill implementation."
+      ],
+      "rulesNotApplicableWithReason": [
+        {
+          "rule": "No keyboard-triggered animation",
+          "reason": "Apply to avoidable interface flourishes, not a keyboard user intentionally pressing Play to access character content. Removing that playback would reduce access."
+        },
+        {
+          "rule": "Sub-300 ms UI and short group budgets",
+          "reason": "The 4.1 second investigation is requested narrative content with notice, consideration and invitation. Its duration is not a UI response delay; controls stay immediately usable."
+        },
+        {
+          "rule": "GPU-only properties",
+          "reason": "Expressive SVG path changes have a different purpose from UI transforms. Do not erase the small anatomy or expression system to satisfy a blanket compositor rule; use relevant measured workloads."
+        },
+        {
+          "rule": "Collapse reduced motion to opacity/color",
+          "reason": "An authored still is appropriate for this explicit character scene and retains its meaning. No extra opacity animation is necessary."
+        },
+        {
+          "rule": "Uniform stagger forbidden / decorative elements never move",
+          "reason": "Body-part relationships are motivated character acting, not a menu entrance. Assess lead/support causality rather than mechanically deleting antenna or wing responses."
+        },
+        {
+          "rule": "remove-animations implementation and cleanup",
+          "reason": "This assignment is read-only source review. No motion or dependency was deleted; the skill informs candidate selection and the kept-motion rationale."
+        },
+        {
+          "rule": "Mandatory skill-specific report templates",
+          "reason": "The repository requires a single independent JSON record. Findings, verdict, timing relationships, retained motion and perceptual limits are recorded in that structure."
+        },
+        {
+          "rule": "Expo, Swift, Sonner, library picking and prototype implementation",
+          "reason": "This is a plain-JavaScript local SVG review, with no requested framework migration or prototype implementation. Their catalog summaries were read; their full instructions were not needed."
+        }
+      ]
+    },
+    {
+      "reviewer": "sound-b",
+      "record": "brand/reviews/2026-11-07-implementation/independent/sound-b.json",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra",
+      "skillsReviewed": {
+        "catalogCount": 17,
+        "catalogSummariesRead": [
+          "emil-design-eng",
+          "animate",
+          "animate-expo",
+          "review-animations",
+          "improve-animations",
+          "find-animation-opportunities",
+          "remove-animations",
+          "choreograph",
+          "animation-performance",
+          "animation-vocabulary",
+          "apple-design",
+          "write-swift",
+          "pick-ui-library",
+          "prototype",
+          "mobile-native",
+          "break-ui",
+          "ask-sonner"
+        ],
+        "fullInstructionsRead": [
+          {
+            "name": "choreograph",
+            "path": "/Users/nag/.config/skillshare/skills/choreograph/SKILL.md"
+          },
+          {
+            "name": "remove-animations",
+            "path": "/Users/nag/.config/skillshare/skills/remove-animations/SKILL.md"
+          },
+          {
+            "name": "review-animations",
+            "path": "/Users/nag/.config/skillshare/skills/review-animations/SKILL.md"
+          }
+        ],
+        "additionalPartialReading": "emil-design-eng output was partially truncated; not counted as full reading and no precise rule is attributed to it.",
+        "appliedPurpose": "Review relationships and stillness, challenge repeated attention demand, separate UI feedback from chosen character content, and explicitly bound what recorded frames can establish."
+      },
+      "workflowChanges": [
+        "Before future website motion work, make a small timeline naming lead (antenna/gaze/head), support (mitten/wing) and static elements (project copy, controls/background). Attach support to the cause or settle, not an arbitrary delay.",
+        "Keep a frequency inventory separating finite user-requested performances from navigation/control feedback. Retain static startup and indefinite settled rest; reject ambient replay by default.",
+        "Test cancellation during the between-clip timer as well as during a gesture; test hidden/offscreen behavior and replays from both settled and interrupted poses.",
+        "For the next shared review, capture the actual intended-size portrait action as well as the desktop one and identify the exact gaze/object relationship to inspect. Keep source facts, sampled-frame findings, continuous perception and human observations in separate fields.",
+        "If sound is ever commissioned, require a separate opt-in interaction and audio-specific repeated-listening review; do not infer consent from pressing a silent performance Play button."
+      ],
+      "rulesNotApplicableWithReason": [
+        {
+          "rule": "Delete any keyboard-triggered animation",
+          "reason": "Keyboard Play intentionally requests expressive content. Preserve equal keyboard access; remove gratuitous control/navigation animation instead."
+        },
+        {
+          "rule": "Sub-300 ms UI timing on every moving element",
+          "reason": "The 2.5\u20134.7 second character pieces are the requested content, not interface latency. Their notice, thought and invitation beats need narrative timing."
+        },
+        {
+          "rule": "GPU-only properties as a universal approval gate",
+          "reason": "Expressive SVG path anatomy serves the character; do not replace or enlarge it merely to satisfy a UI compositor heuristic. Measure a relevant workload before simplification."
+        },
+        {
+          "rule": "Add an idle attention loop after a short delay",
+          "reason": "The current goal prioritizes silent reading comfort and explicit finite playback. A static start and settled end are appropriate."
+        },
+        {
+          "rule": "Execute remove-animations edits and dependency removal",
+          "reason": "This assignment is an independent read-only source review. The skill informs the frequency/purpose audit; no source or dependency mutation is authorized to this reviewer."
+        },
+        {
+          "rule": "Skill-specific Markdown report format",
+          "reason": "The parent assignment requires a structured independent JSON record. Equivalent findings, kept choices, scope and verdict are recorded here."
+        },
+        {
+          "rule": "React Native, Swift, Sonner, library-selection, prototype implementation and data-stress workflows",
+          "reason": "Catalog summaries were inspected, but these are not material to this plain-JavaScript silent-motion review. Catalog awareness is not claimed as full skill intake."
+        }
+      ]
+    },
+    {
+      "reviewer": "storyboard-a",
+      "record": "brand/reviews/2026-11-07-implementation/independent/storyboard-a.json",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra",
+      "skillsReviewed": {
+        "catalogCount": 17,
+        "catalogSummariesRead": [
+          "emil-design-eng",
+          "animate",
+          "animate-expo",
+          "review-animations",
+          "improve-animations",
+          "find-animation-opportunities",
+          "remove-animations",
+          "choreograph",
+          "animation-performance",
+          "animation-vocabulary",
+          "apple-design",
+          "write-swift",
+          "pick-ui-library",
+          "prototype",
+          "mobile-native",
+          "break-ui",
+          "ask-sonner"
+        ],
+        "fullInstructionsRead": [
+          {
+            "name": "choreograph",
+            "path": "/Users/nag/.config/skillshare/skills/choreograph/SKILL.md",
+            "use": "Cast lead/support/static elements; make cause/effect order explicit; preserve stillness and interruption; separate frame evidence from felt timing."
+          },
+          {
+            "name": "review-animations",
+            "path": "/Users/nag/.config/skillshare/skills/review-animations/SKILL.md",
+            "additionalReferenceRead": "/Users/nag/.config/skillshare/skills/review-animations/STANDARDS.md",
+            "use": "Demand purposeful motion and evidence for the explicit approval scope; distinguish UI responsiveness from explanatory character performance."
+          },
+          {
+            "name": "animation-vocabulary",
+            "path": "/Users/nag/.config/skillshare/skills/animation-vocabulary/SKILL.md",
+            "use": "Use shared established terms for anticipation, follow-through, orchestration, interpolation and interruption rather than vague requests for more life."
+          }
+        ],
+        "intakeBoundary": "All 17 catalog descriptions were read; only the three materially relevant full skills and the named standards reference were read. Catalog intake is not claimed as full instruction review of all 17."
+      },
+      "workflowChanges": [
+        {
+          "change": "Write the relationship timeline before proposing motion changes.",
+          "application": "Antenna leads attention at 150 ms; gaze supports at 330 ms; head/glasses support at 790 ms; hand supports consideration at 1190 ms; stillness at 1610\u20131900 ms; head returns before hand offer at 2350/2720 ms. Question, link and interface chrome remain static because they supply context and controls."
+        },
+        {
+          "change": "Require both perceptual and forensic review for final timing judgment.",
+          "application": "Normal-speed inspection answers whether the sequence reads; decoded frames and the timeline locate the cause of a failure. Record separately which evidence was available. Never substitute exact 30 fps export cadence for experienced rhythm."
+        },
+        {
+          "change": "Change one expressive variable per audition and preserve the baseline.",
+          "application": "The one-peek study changes a repetition decision; the wry study adds one late afterthought. Future website work should keep a shared opening and compare the actual rendered target size before stacking more expressive beats."
+        },
+        {
+          "change": "Make interruption and the static endpoint part of the storyboard brief.",
+          "application": "Every intentional scene needs a readable held state, cancellation/retrigger behavior, and an equivalent informative reduced-motion state. Interface controls must remain usable while the scene performs."
+        },
+        {
+          "change": "Treat responsive placement as part of storytelling.",
+          "application": "When layout moves a subject from beside the character to above it, re-check eyeline and presenting direction at the actual viewport instead of treating an overflow-free CSS layout as complete staging approval."
+        }
+      ],
+      "rulesNotApplicableWithReason": [
+        {
+          "rule": "Sub-300 ms UI timing and short stagger budgets",
+          "reason": "The requested 4.1-second character investigation is intentional explanatory content with cause, consideration and an invitation. Those UI budgets apply to controls and navigation, not to compressing the whole scene."
+        },
+        {
+          "rule": "Never animate keyboard-initiated actions",
+          "reason": "Immediate keyboard feedback is appropriate for the interface, but keyboard activation of Play must still provide the deliberately requested performance. Removing that access would contradict the product purpose."
+        },
+        {
+          "rule": "GPU-only transform/opacity as an unconditional anatomy constraint",
+          "reason": "Expressive SVG face and antenna deformation is the artwork. This review does not replace those paths or tiny proportions to satisfy a generic UI optimization rule; any optimization needs a relevant measured workload."
+        },
+        {
+          "rule": "One entrance per container and universal sequence collapse",
+          "reason": "The moth is not a menu entrance. The antenna-to-eye-to-head ordering carries the story's causality. The rule remains useful for future page/control entrances but does not erase necessary character beats."
+        },
+        {
+          "rule": "Animation-vocabulary initial greeting and naming-only response format",
+          "reason": "Nag explicitly requested skill intake and a substantive specialist review; the glossary is being read for shared terms, not invoked as an unanswered naming prompt."
+        },
+        {
+          "rule": "Skill-prescribed markdown review format",
+          "reason": "The repository requires a structured independent JSON review. Its substantive findings, evidence, timeline and verdict are preserved here instead of replacing the mandated record format."
+        },
+        {
+          "rule": "Invoke prototype, pick-ui-library, or platform/tool-specific implementation from catalog discovery",
+          "reason": "No new UI picker, library, React Native, Swift or Sonner feature is required for this read-only storyboard review. The catalog was inspected; unrelated implementation workflows were not run."
+        }
+      ]
+    },
+    {
+      "reviewer": "storyboard-b",
+      "record": "brand/reviews/2026-11-07-implementation/independent/storyboard-b.json",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra",
+      "skillsReviewed": {
+        "catalog": "brand/reviews/2026-11-07-implementation/installed-skills.json",
+        "all17CatalogSummariesRead": true,
+        "catalogNames": [
+          "emil-design-eng",
+          "animate",
+          "animate-expo",
+          "review-animations",
+          "improve-animations",
+          "find-animation-opportunities",
+          "remove-animations",
+          "choreograph",
+          "animation-performance",
+          "animation-vocabulary",
+          "apple-design",
+          "write-swift",
+          "pick-ui-library",
+          "prototype",
+          "mobile-native",
+          "break-ui",
+          "ask-sonner"
+        ],
+        "fullInstructionsRead": [
+          {
+            "name": "choreograph",
+            "path": "/Users/nag/.config/skillshare/skills/choreograph/SKILL.md",
+            "application": "Cast lead/support/static channels, justify temporal order, preserve useful stillness, and require interruption evidence."
+          },
+          {
+            "name": "review-animations",
+            "path": "/Users/nag/.config/skillshare/skills/review-animations/SKILL.md",
+            "application": "Separate purposeful content performance from frequent interface feedback; distinguish inspected behavior from subjective feel and state a scoped verdict."
+          },
+          {
+            "name": "animation-vocabulary",
+            "path": "/Users/nag/.config/skillshare/skills/animation-vocabulary/SKILL.md",
+            "application": "Use precise distinctions such as anticipation, follow-through, hold, interpolation and interruption rather than calling every motion a bounce or treating source duration as perceived duration. The glossary is terminology, not evidence of quality."
+          }
+        ],
+        "notClaimed": "The other 14 full SKILL.md files were not read. Catalog inspection is recorded separately from full relevant intake. No skill was invoked to implement new features."
+      },
+      "workflowChanges": [
+        "Before future character or website motion, record each moving element's role, relationship and narrative reason. For this lead: antenna notices; gaze follows; glasses/head inspect; mitten presents; text, stage and surrounding chrome stay static.",
+        "Write a beat timeline before code, including a deliberate final hold and the action that ends the scene. Use separate budgets for quick controls and character content; one semantic ending is the default unless an afterthought adds meaning.",
+        "Review competing comic edits in a reversible comparison at matching scale and theme. Save the original, list the changed beats, and separate structural economy from perceived success.",
+        "Maintain two evidence columns in future reviews: what source/decoded samples establish, and what needs continuous playback, device testing or people. A cadence number never fills the second column.",
+        "Test replay, switching and interruption as editorial continuity as well as mechanics: inspect whether the incoming thought begins with the intended emotional state rather than an accidental smile reset.",
+        "For future website engineering handoff, provide the lead/support/static casting plus a first-viewport mobile composition. Ask engineers to preserve usable controls and reading order while measuring any expressive SVG workload before simplifying it."
+      ],
+      "rulesNotApplicableWithReason": [
+        {
+          "rule": "Product UI group budgets of roughly 300 ms and no keyboard-triggered motion",
+          "reason": "The intentionally played 4.1-second character scene is the content. Apply short timing and immediate keyboard feedback to the controls; a keyboard activation of Play must still be able to play the requested scene."
+        },
+        {
+          "rule": "Transform and opacity only",
+          "reason": "Expressive SVG antenna/path articulation is part of the selected tiny character. Do not erase it for a generic compositor rule; investigate a measured relevant workload and retain geometry parity."
+        },
+        {
+          "rule": "One entrance per container and no uniform product-list stagger",
+          "reason": "These are useful future website interface checks, but antenna \u2192 gaze \u2192 inspection is character cause and effect, not staggered menu items. Its sequence is justified by intention."
+        },
+        {
+          "rule": "The animation-vocabulary glossary controls implementation",
+          "reason": "That skill names effects; its definitions do not determine whether a comic beat works or authorize an animation library."
+        },
+        {
+          "rule": "Add a prototype picker or UI library by default",
+          "reason": "The task already contains exact-engine plain-JavaScript comparisons. The catalog's prototype and pick-ui-library skills require explicit invocation and were not used here; extra framework work would not resolve the present evidence limit."
+        },
+        {
+          "rule": "Delete all repeated motion to improve economy",
+          "reason": "The one-versus-two-peek comparison is a valid open editorial question. Repetition can add suspicion or hesitation; it should earn its place in playback, not be removed by a universal rule."
+        }
+      ]
+    },
+    {
+      "reviewer": "visual-a",
+      "record": "brand/reviews/2026-11-07-implementation/independent/visual-a.json",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra",
+      "skillsReviewed": {
+        "catalogue": "installed-skills.json",
+        "all17FrontmattersRead": [
+          "emil-design-eng",
+          "animate",
+          "animate-expo",
+          "review-animations",
+          "improve-animations",
+          "find-animation-opportunities",
+          "remove-animations",
+          "choreograph",
+          "animation-performance",
+          "animation-vocabulary",
+          "apple-design",
+          "write-swift",
+          "pick-ui-library",
+          "prototype",
+          "mobile-native",
+          "break-ui",
+          "ask-sonner"
+        ],
+        "fullSkillFilesRead": [
+          {
+            "name": "emil-design-eng",
+            "path": "/Users/nag/.config/skillshare/skills/emil-design-eng/SKILL.md"
+          },
+          {
+            "name": "review-animations",
+            "path": "/Users/nag/.config/skillshare/skills/review-animations/SKILL.md"
+          },
+          {
+            "name": "choreograph",
+            "path": "/Users/nag/.config/skillshare/skills/choreograph/SKILL.md"
+          },
+          {
+            "name": "animation-performance",
+            "path": "/Users/nag/.config/skillshare/skills/animation-performance/SKILL.md"
+          },
+          {
+            "name": "prototype",
+            "path": "/Users/nag/.config/skillshare/skills/prototype/SKILL.md"
+          },
+          {
+            "name": "mobile-native",
+            "path": "/Users/nag/.config/skillshare/skills/mobile-native/SKILL.md"
+          }
+        ],
+        "application": "Workflow review requested by Nag; no new prototype, browser session, source edit or motion certification performed."
+      },
+      "workflowChanges": [
+        "Add an instant, one-variant-at-a-time review at actual application size to the existing matched comparison sheets. Contact sheets remain useful for diagnosis; realistic single-variant context decides whether the material difference survives normal viewing.",
+        "Keep each experiment on a named axis and record its benefit/cost: local antenna prominence, whole-character boundary definition, matte tonal falloff, or available character width. The current isolated paint catalogue already follows this useful discipline.",
+        "Use lead/support/static roles when assessing future visual staging: the noticed cue and character attention carry the meaning; surrounding copy, controls and background need no competing entrance animation. Story order can justify deliberate sequencing.",
+        "Report source validity, static appeal, continuous-motion perception and hardware performance separately. For the retained SVG rim, require a measured paint/frame-cost problem before changing filters or adding will-change; PNGs cannot establish speed on a phone.",
+        "Carry the mobile-native distinction into application reviews: capability-gated hover and coarse-pointer select text address plausible platform problems, while physical-device input zoom, touch feel and Safari rendering remain unverified. Root owns the announced UI fixes and fresh evidence.",
+        "Preserve Nag\u2019s Investigate & share selection as personal-fit direction for subsequent visual reviews; do not turn owner preference into an artistic score increase or evidence of stranger recognition."
+      ],
+      "rulesNotApplicableWithReason": [
+        {
+          "rule": "Sub-300ms UI motion and no keyboard-triggered animation",
+          "reason": "Apply to interface feedback and frequent navigation, not the intentionally requested multi-second character performance. Keyboard activation of Play must retain access to the same authored performance, with reduced-motion handling."
+        },
+        {
+          "rule": "Only transform/opacity; replace JavaScript motion automatically",
+          "reason": "The native SVG renderer deforms antenna, eye and mouth paths for expressive correctness. A blanket compositor rewrite would change the drawing. Diagnose actual frame cost before optimizing; no device recording was inspected."
+        },
+        {
+          "rule": "Add blur, spring bounce, stagger or press-scale as universal polish",
+          "reason": "These are contextual techniques. They cannot hide contact errors, justify extra glow or replace the current character timing without a named benefit. Existing direct press feedback need not become scale feedback."
+        },
+        {
+          "rule": "Reduced motion must retain animation",
+          "reason": "Meaningful stills and manually inspected timeline frames already communicate the character. No unsolicited fade or movement is required merely to satisfy a generic UI preference."
+        },
+        {
+          "rule": "Prototype hard rule to delete the exploration surface after selection",
+          "reason": "This repository explicitly requires retained controls, editable variants and review evidence. Preserve those authorized records; the skill\u2019s separate user-choice workflow is not being invoked to rebuild the already implemented study."
+        },
+        {
+          "rule": "Default to flagging or block on every generic style rule",
+          "reason": "AGENTS.md requires evidence-backed judgments and no invented defects. The review keeps actual material/scale concerns and does not manufacture an objection from unrelated UI conventions."
+        },
+        {
+          "rule": "Apply the complete mobile-native baseline globally",
+          "reason": "The signature is a scrolling study, not an installed fullscreen app. Do not suppress ordinary scrolling, text selection, zoom or native feedback without a specific reason. Hardware-only claims remain open."
+        },
+        {
+          "rule": "All other catalogue skills must run",
+          "reason": "Cataloguing is not task authorization to edit unrelated systems. Swift, Expo, Sonner, dependency selection, animation naming and destructive motion-removal workflows do not fit this static visual review."
+        }
+      ]
+    },
+    {
+      "reviewer": "visual-b",
+      "record": "brand/reviews/2026-11-07-implementation/independent/visual-b.json",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra",
+      "skillsReviewed": {
+        "catalog": {
+          "path": "brand/reviews/2026-11-07-implementation/installed-skills.json",
+          "count": 17,
+          "entriesInspected": [
+            "emil-design-eng",
+            "animate",
+            "animate-expo",
+            "review-animations",
+            "improve-animations",
+            "find-animation-opportunities",
+            "remove-animations",
+            "choreograph",
+            "animation-performance",
+            "animation-vocabulary",
+            "apple-design",
+            "write-swift",
+            "pick-ui-library",
+            "prototype",
+            "mobile-native",
+            "break-ui",
+            "ask-sonner"
+          ],
+          "level": "All 17 names, descriptions, paths and declared scope reviewed; this is catalog intake, not a claim to have read every full skill."
+        },
+        "fullInstructionsRead": [
+          {
+            "name": "emil-design-eng",
+            "path": "/Users/nag/.config/skillshare/skills/emil-design-eng/SKILL.md",
+            "application": "Cohesion, quiet detail hierarchy, actual rendered comparison, and separating intentional character performance from frequent UI feedback."
+          },
+          {
+            "name": "apple-design",
+            "path": "/Users/nag/.config/skillshare/skills/apple-design/SKILL.md",
+            "application": "Purpose, restraint, legible light/dark hierarchy, adaptation to context, and explicit limits on static versus physical/real-person evidence."
+          },
+          {
+            "name": "prototype",
+            "path": "/Users/nag/.config/skillshare/skills/prototype/SKILL.md",
+            "application": "Read for comparison discipline only: name the axis, preserve production, compare realistic context at intended size, state tradeoffs. No prototype workflow or picker was invoked."
+          }
+        ]
+      },
+      "workflowChanges": [
+        {
+          "change": "Every visual refinement gets a named hypothesis and a matched actual-size comparison before adoption.",
+          "concreteUse": "For night contours, isolate antenna opacity, whole-character rim and tonal falloff; compare 32/48/64 avatars, 96/128/160 full body and portrait-stage scale.",
+          "skillBasis": [
+            "emil-design-eng",
+            "prototype"
+          ]
+        },
+        {
+          "change": "Record scale-specific wins and costs rather than one all-purpose visual approval.",
+          "concreteUse": "Maintain separate conclusions for head-only avatars, full body, large stage and light/dark paint; leave a lower 32px judgment visible.",
+          "skillBasis": [
+            "apple-design",
+            "prototype"
+          ]
+        },
+        {
+          "change": "Preserve character hierarchy during future website engineering.",
+          "concreteUse": "Keep interface controls visually quiet, retain the head as the principal shape, and solve tiny-gesture clarity through room and posing before adding detail or new anatomy.",
+          "skillBasis": [
+            "emil-design-eng",
+            "apple-design"
+          ]
+        },
+        {
+          "change": "Separate reviewed modalities in the record.",
+          "concreteUse": "Mark image inspection, decoded samples, continuous playback, physical-device use and human response separately; no single technical pass is visual approval.",
+          "skillBasis": [
+            "emil-design-eng",
+            "apple-design"
+          ]
+        }
+      ],
+      "rulesNotApplicableWithReason": [
+        {
+          "rule": "Apply a sub-300ms UI duration to every animation.",
+          "reason": "This review is a character performance study with an intentional multi-second notice/read/offer scene; UI response budgets govern controls, not the acting content."
+        },
+        {
+          "rule": "Never animate keyboard-initiated actions.",
+          "reason": "Keyboard activation of Play must still play the requested content; immediate control feedback is separate from deliberate playback."
+        },
+        {
+          "rule": "Only transform and opacity; replace expressive SVG morphing.",
+          "reason": "A compositor preference is not grounds to erase expressive eyes, mouth or attached antenna bending. Performance needs measured relevant workload and must preserve the chosen drawing."
+        },
+        {
+          "rule": "Adopt Apple glass, blur and springs throughout.",
+          "reason": "The current flat character study has no need for translucent chrome or gesture physics. Adding these would change hierarchy without solving the reviewed contour issue."
+        },
+        {
+          "rule": "Run prototype picker/selection/cleanup workflow now.",
+          "reason": "The user asked the team to inspect skills and review an implemented frozen version. No new divergent prototype or picker is requested here; the existing comparison evidence must stay archived for review provenance."
+        },
+        {
+          "rule": "Use the emil-design-eng Before/After markdown table as the review artifact.",
+          "reason": "The assigned review contract explicitly requires a JSON independent record, and this lens reviews drawing evidence rather than proposing UI code edits. The explicit task format takes precedence; before/after observations are retained inside strengths/deductions."
+        },
+        {
+          "rule": "Use Expo, Swift, Sonner or choose an extra UI library.",
+          "reason": "Those catalog entries were inspected for routing and do not materially apply to this plain-JavaScript SVG drawing review; full instructions were not claimed read."
+        }
+      ]
+    }
+  ],
+  "engineeringRecords": [
+    "brand/reviews/2026-11-07-implementation/implementation/motion-skills.json",
+    "brand/reviews/2026-11-07-implementation/implementation/visual-skills.json",
+    "brand/reviews/2026-11-07-implementation/implementation/interaction-skills.json"
+  ],
+  "pairDecisions": "brand/reviews/2026-11-07-implementation/consensus.json"
+}

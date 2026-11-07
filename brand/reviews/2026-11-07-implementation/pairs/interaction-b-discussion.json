@@ -1,0 +1,113 @@
+{
+  "reviewer": "interaction-b",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "partnerRecordRead": "independent/interaction-a.json including V4 semantic-fix addendum and 8.6-to-8.8 score history",
+  "partnerDiscussionRead": "pairs/interaction-a-discussion.json, read in full after B's first discussion draft; directly addressed below.",
+  "proposalFile": "team-proposal-v2.json",
+  "proposalSha256": "4eef022ccecba73621ca188b29c13cbc41d08b5268ffeaa6e98e2c4c5ea08c5c",
+  "sourceManifestSha256": "4b70d40e6c6fed47936377ff71d915379cbe84bc2a23020ac2ab2fb9696b2caa",
+  "hashVerification": "All listed V4 files match their hashes; the complete proposal and both required SHA256 values were verified.",
+  "evidenceNewlyInspected": [
+    "independent/interaction-a.json",
+    "team-proposal-v2.json",
+    "evidence/desktop-performance-active.json",
+    "review-source-v4.json",
+    "index.html exists at the exact resolved target of signature.html:12"
+  ],
+  "meaningfulChallenges": [
+    {
+      "partnerFinding": "Portrait controls and larger character improve the local phone study.",
+      "nuance": "Agree, while retaining a distinct discovery cost: the first 320/390px viewport shows the performance selector and project question before the complete character and Play action. A choice can therefore precede seeing its result. This is an observed layout relationship with an untested behavioral consequence, not evidence of newcomer failure.",
+      "resolution": "Accept the portrait layout and 320px wrap correction. Keep height/discovery explicitly named and observe a phone compare/play task before adding another control or compressing the composition."
+    },
+    {
+      "partnerFinding": "Native controls, 16px coarse-pointer text and no horizontal overflow provide a sound foundation.",
+      "nuance": "Agree; native markup is necessary evidence but does not replace a completed OS menu keyboard path or spoken traversal. The focused-select screenshot does not itself show the OS popup. The browser evidence correctly keeps menu commit inconclusive.",
+      "resolution": "Accept the source and recorded outcomes. Keep native-input and spoken-AT outcomes separate in the pair recommendation and future test log."
+    },
+    {
+      "partnerFinding": "The phone study now offers a larger readable character.",
+      "nuance": "Signature portrait and studio single-theme enlargement are different surfaces. The studio still starts in Both; quiet gestures are smaller there. The new enlargement hint improves discovery but does not prove that first-time visitors notice and use it.",
+      "resolution": "Do not conflate an available larger view with a validated default. Preserve this minor comparison-versus-expression tradeoff until a bounded Both-versus-single task supplies evidence."
+    },
+    {
+      "partnerFinding": "The earlier cadence record contains roughly one-second gaps with unknown cause.",
+      "nuance": "The new focused active-only sample has 119 intervals, mean 34.45ms, p95 35ms and max 67ms, with four above 50ms. It does not reproduce the mixed-idle one-second gaps.",
+      "resolution": "Do not attribute the old gaps to SVG. The active sample narrows the uncertainty, while live subjective comfort, phone performance and GPU cost remain unestablished. My score remains 8.5 because the remaining discovery/device/AT limits were already material."
+    },
+    {
+      "partnerFinding": "V4 fixes the demonstrated accessible-description mismatch.",
+      "nuance": "Agree. The new three-variant description browser record and source directly resolve this semantic issue; they do not establish how a screen reader speaks the result.",
+      "resolution": "Close the source defect and retain only the spoken-output validation limit."
+    }
+  ],
+  "resolvedItems": [
+    {
+      "id": "review-link",
+      "prior": "B recorded the absent review report during assembly.",
+      "now": "The exact linked index.html target exists. Root also reports local links verified. The assembly item is resolved and is not a substantive objection."
+    },
+    {
+      "id": "IXA-SEMANTICS-01",
+      "now": "V4 per-performance descriptions and recorded three-variant outcomes resolve the semantic mismatch, as both reviewers acknowledge."
+    }
+  ],
+  "remainingDisagreements": [
+    "No substantive disagreement on local acceptance. B retains 8.5 while A records 8.8. B weights phone discovery/default tradeoffs and absent newcomer/revisit observation more heavily; neither number is averaged or forced upward.",
+    "No evidence establishes that phone visitors fail to discover playback or enlargement. B keeps those as design tradeoffs and research questions, not confirmed defects."
+  ],
+  "acceptedJointRecommendation": "Accept the native controls and v4 semantics for the local study. The report link must resolve. Native keyboard, spoken AT and phone validation remain separate.",
+  "jointRecommendationConfirmedByThisReviewer": true,
+  "practicalSkillsWorkflowAgreement": [
+    {
+      "practice": "Purpose and frequency map before motion judgment",
+      "how": "Classify chrome feedback, focus/navigation, selected-performance content and repeated-visit decoration separately. Use emil-design-eng and review-animations for control polish; use remove-animations to challenge unnecessary repeated chrome without deleting the reason for the study."
+    },
+    {
+      "practice": "Capability and evidence matrix",
+      "how": "For each control record fine/coarse pointer, hover, focus-visible and reduced-motion states. Tag each result as source, programmatic browser, native input, spoken AT, physical device or observed human task. Successful selectOption must not become a keyboard-menu pass."
+    },
+    {
+      "practice": "Realistic stress cases and comfortable return task",
+      "how": "Use break-ui methods for actual longest labels, 320px and 200% text/zoom views through a dev-only data boundary when implementing future mutable UI. Couple them with a phone choose/play/pause/seek/enlarge/revisit task; record assistance and scroll exposure. Do not invent an empty or huge catalogue scenario where the fixed content model does not allow it."
+    },
+    {
+      "practice": "Review output and continuity",
+      "how": "Use Before/After/Why for source findings, attach actual states/screenshots, preserve scores and unresolved limits, and recheck gallery focus handoff, offscreen between-clip cancellation and live reduced-motion change after material interaction edits."
+    }
+  ],
+  "skillsExceptions": [
+    "The sub-300ms and keyboard no-animation guidance governs interface response; deliberately requested multi-second character acting remains content, including when Play is invoked with a keyboard.",
+    "GPU transform/opacity guidance does not authorize deleting expressive SVG details or tiny anatomy. Optimize demonstrated cost rather than assumed cost.",
+    "A scrolling local document retains native scrolling, text copying and zoom. App-shell overscroll, safe-area and viewport rules apply only when a future surface creates that need.",
+    "Static reduced-motion poses and direct seeking already preserve meaning; no decorative fade is added merely to satisfy generic guidance.",
+    "This frozen review adds no fixtures, libraries, prototypes or source edits. The practical future workflow does not create a new permission gate or claim unperformed checks."
+  ],
+  "personalScore": {
+    "value": 8.5,
+    "outOf": 10,
+    "changed": false
+  },
+  "substantiveObjections": [],
+  "remainingLimits": [
+    "Native OS menu keyboard commit unverified",
+    "Screen-reader spoken output unverified",
+    "Physical-phone and 200% text/zoom paths not established here",
+    "Continuous normal-speed live comfort not assessed",
+    "Newcomer discovery, return use and reaction not observed",
+    "Phone height, Both default and less literal stacked eyeline remain named design nuances"
+  ],
+  "responseToPartnerDiscussion": {
+    "acceptedNuance": "A rightly constrains any future response to the phone discovery tradeoff: preserve still-first behavior and comfortable portrait scale. Do not introduce autoplay, automatic focus transfer on every select change, or the cramped former side-by-side composition. Observe a compare-performances task first; only then consider a small View/Play affordance.",
+    "evidenceAgreement": "A separately verified the target and 23 local report links; B verified the exact target exists. These are local path checks, not a browser/AT traversal. Both distinguish the new active desktop sample from old mixed-idle intervals and from human/device smoothness.",
+    "skillAgreement": "B accepts A's practical division: A checks keyboard, focus, native menu, reduced motion and announcement semantics; B adds discovery/repeat tasks and realistic label/width/zoom stress methodology. Each preserves actual skill intake; A is not claimed to have fully read the extra skills B read.",
+    "scoreAgreement": "A keeps 8.8; B keeps 8.5. Distinct weighting is preserved, with no substantive disagreement about the bounded local recommendation."
+  },
+  "directPairExchange": {
+    "partner": "/root/panel_interaction_a_implementation",
+    "completed": true,
+    "meaning": "Both reviewers sent and answered substantive messages, read the partner discussion, and explicitly accepted the exact v2 interaction recommendation plus the remedy constraints and skills workflow. Each saved only its own vote.",
+    "substantiveDisagreement": false
+  }
+}

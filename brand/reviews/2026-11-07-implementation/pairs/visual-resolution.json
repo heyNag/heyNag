@@ -1,0 +1,20 @@
+{
+  "discipline": "visual",
+  "state": "Both reviewers explicitly confirmed the same scoped recommendation.",
+  "recommendation": "Keep the refined night paint and identical geometry. Material polish does not resolve hand-contour density.",
+  "discussionRecords": [
+    "pairs/visual-a-discussion.json",
+    "pairs/visual-b-discussion.json"
+  ],
+  "independentReviews": [
+    "independent/visual-a.json",
+    "independent/visual-b.json"
+  ],
+  "explicitConfirmations": [
+    "team-votes/visual-a.json",
+    "team-votes/visual-b.json"
+  ],
+  "proposal": "team-proposal-v2.json",
+  "proposalSha256": "4eef022ccecba73621ca188b29c13cbc41d08b5268ffeaa6e98e2c4c5ea08c5c",
+  "scorePolicy": "Individual scores remain separate; acceptance does not imply a 9/10 rating."
+}

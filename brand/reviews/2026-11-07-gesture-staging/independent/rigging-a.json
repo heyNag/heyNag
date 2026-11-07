@@ -1,0 +1,133 @@
+{
+  "reviewer": "Technical character animator and rigger A — articulation and contact",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "scope": "The updated local V5 foundation through the same constrained-rig, articulation, contact and interruption lens as my final implementation review: all 24 emotions, three studies, and their composition-aware signature presentation. This score includes the remaining actual-size gesture and temporal/device limits; it is not a narrower score for the patch alone.",
+  "sourceManifest": "review-source-v1.json",
+  "sourceManifestSha256": "d5abc24f90f9539bfddb0223da42392fb31c9321ab7c962aa98c893ff3789e0e",
+  "independence": "Saved before reading Rigging B's new gesture-staging review or score.",
+  "previousScoreAndScope": {
+    "value": 8.7,
+    "outOf": 10,
+    "record": "../2026-11-07-implementation/team-votes/rigging-a.json",
+    "scope": "Strong implemented constrained-rig craft supported by source, meaningful recorded tests and actual sampled articulation/contact, with hand/ruff density, unresolved phone eyeline, and temporal/device validation limits.",
+    "continuity": "The prior independent, pair discussion and final vote are retained. This review assesses the updated local foundation with the same lens. The source geometry and engine remain protected; the changed posing and staging address two earlier deductions without establishing continuous-motion or physical-device outcomes."
+  },
+  "score": {
+    "value": 8.9,
+    "outOf": 10,
+    "meaning": "A modest improvement from 8.7 for visibly cleaner hand/contact organization and a technically controlled correction of phone attention. This is strong overall local rigging craft. Residual small-size gesture specificity and unverified continuous motion/device behavior remain, so the desired nine is not treated as earned automatically."
+  },
+  "evidenceActuallyInspected": [
+    "Repository AGENTS.md and standing Rigging A lens from brand/team.json retained from this conversation; new reviewer-instructions.txt, brief.json, review-source-v1.json and evidence/evidence-index.json read. Read my previous final rigging-a vote; own prior independent and pair records were already inspected in this conversation.",
+    "Independently computed the manifest SHA-256 and all 12 current source hashes: exact expected manifest hash and zero file mismatches. Direct byte comparison confirms current character.js equals before/animation-v5/character.js.",
+    "Read the complete baseline-to-current motion.js diff, the full staging.js and signature.js controller, the full staging.test.mjs, and the motion.test.mjs delta. The unchanged renderer and engine were read fully in my prior same-lens review. Also read implementation/hand-changes.json as implementation rationale, not approval evidence.",
+    "Read evidence/all-tests.txt: 23 recorded passing tests. Inspected the new offer trajectory, target-bearing, mapping, replay-correction, cached-layout, paused-resize, theme and reduced-motion assertions. Did not redundantly rerun the suite.",
+    "Parsed the full evidence/browser-checks.json: 108 cases at widths 320, 390, 650, 651, 768 and 1440, with 18 cases each; no reported overflow, theme-parity failure, exact-return failure or original-control change. Recorded resize freeze, replay equality and reduced-motion stopped state are true. These are actual desktop-browser records, not physical-phone evidence.",
+    "Read evidence/geometry.json: 567 samples, three renderers, no mismatches or invalid geometry; structural geometry excludes paint/defs. Parsed attention-browser.json's rendered gaze/head samples and checked their theme-matched values.",
+    "Viewed with view_image: hands-day.png, hands-night.png, offer-sequence-day.png, offer-sequence-night.png, all-current.png; the all-current sheet was tool-resized from 1440x2100 to 1312x1913, so actual-size judgments use the separate size sheets.",
+    "Viewed all five actual CSS-size sheets with view_image: sizes-curious-investigate.png, sizes-thinking.png, sizes-grateful.png, sizes-shy.png and sizes-worried.png, including before/after day/night at 96, 128, 160 and 240px.",
+    "Viewed baseline-attention-390-day/night.png and all current attention-390-day/night samples at 330, 790, 1190, 1900, 2350 and 2720ms. Viewed baseline/current attention at 320 and 1440px, day and night, at the 790ms investigation moment.",
+    "Viewed decoded-phone-night.png, a single 1.20s decoded frame in simplified comparison composition, not a live DOM recording. Read comparison-export.json: 1956 frames at 30fps, 65.2 seconds, exact-engine deterministic export sampled at 120Hz. Did not watch uninterrupted motion."
+  ],
+  "strengths": [
+    {
+      "finding": "The refinement works through posing and composition, with unchanged geometry, short reach and the full performance catalog. The compact body, attached stub feet, four layered wings and unequal antennae remain coherent in the current whole-catalog sheet.",
+      "basis": "Byte-identical character.js; motion diff; numeric anatomy tests; geometry.json; all-current.png and matched day/night hand sheets."
+    },
+    {
+      "finding": "Thinking now gives the intentional chin mitten more visual priority because the quiet free hand sits lower and farther away. The right hand, head nod and foot tap were not altered. Focused also gains two more distinct low hands. This is a useful contact clarification rather than a longer arm or a new anatomical solution.",
+      "basis": "motion.js changes around thinking/focused; hands-day/night.png and sizes-thinking.png."
+    },
+    {
+      "finding": "Grateful's clasp moves below the ruff and reads as two joined lower lobes with a central contact seam in the larger matched renders. It has not become two disconnected hands. Worried retains an upper/lower diagonal relation and Shy retains a quieter near-separated gather, although their small-size distinction is still modest.",
+      "basis": "hands-day/night.png; sizes-grateful.png, sizes-worried.png and sizes-shy.png; unchanged 48-unit reach and original mitten paths."
+    },
+    {
+      "finding": "The signature hand is more distinctly outward and cupped than the old tucked acknowledgment. In the inspected 2350–2720ms frames the hand rises and turns once after the head/gaze return, then holds; the free hand does not compete. The original consideration hold and shared investigation/wry opening remain.",
+      "basis": "offer-sequence-day/night.png; sizes-curious-investigate.png; new meaningful monotonic offer/hold assertions and the motion diff."
+    },
+    {
+      "finding": "The phone correction is attached to the actual heading direction and preserves the causal ordering. Only five head/gaze channels are remapped, with original posing restored by 2350ms before the offer. The current 320/390px samples are more upright and directed above than their lateral baseline; the desktop near-horizontal composition remains nearly unchanged.",
+      "basis": "staging.js measureDirection/mapPose; baseline/current attention PNGs; 108 browser cases; original-curious and exact-return checks."
+    },
+    {
+      "finding": "Staging follows the clip's clock, caches DOM layout outside character frames, preserves the displayed correction on replay, freezes paused/inspected frames on resize, and reuses the displayed pose across theme changes. It adds no independent tween to reduced-motion or paused states.",
+      "basis": "Full staging.js/signature.js and controller tests; browser-checks.json replay/resize/reduced records. This supports controlled local behavior, not a general production-performance claim."
+    }
+  ],
+  "deductions": [
+    {
+      "id": "RIGA-GS-01",
+      "kind": "observed craft limitation",
+      "severity": "minor, reduced from the prior broader contact-density deduction",
+      "confidence": "high for actual-size visual density; no human comprehension claim",
+      "finding": "At 96–128px the offered cup remains a tiny directional accent and the gathered-hand family still reads primarily through face and head. Grateful's lower seam is clearer, but Grateful/Shy/Worried are not sharply differentiated by hand silhouette alone. Thinking's intentional chin contact still shares nearby ruff contours, even after the free-hand improvement.",
+      "evidence": ["sizes-curious-investigate.png", "sizes-thinking.png", "sizes-grateful.png", "sizes-shy.png", "sizes-worried.png"],
+      "resolutionStatus": "Partly improved, not erased. Do not enlarge anatomy solely to force a stronger small-size read."
+    },
+    {
+      "id": "RIGA-GS-02",
+      "kind": "observed subtlety plus interpretation limit",
+      "severity": "minor",
+      "confidence": "high on implemented directional correction; medium on the visible strength of attention",
+      "finding": "The former purely screen-right phone behavior is corrected in source and rendered samples, but this is a small shift of the existing eye forms and head pose. The glasses remain a strong cue, so a static frame still does not unequivocally identify the heading as the thought's subject. That is a remaining staging-specificity limit, not evidence of a faulty bearing calculation.",
+      "evidence": ["baseline/current attention-390 day/night at 790ms", "attention-390 day/night at 1190/1900ms", "baseline/current attention-320 day/night", "staging.js"],
+      "resolutionStatus": "Prior literal directional mismatch materially addressed; unprimed semantic reading is still untested."
+    },
+    {
+      "id": "RIGA-GS-03",
+      "kind": "validation limit, not a reproduced bug",
+      "severity": "moderate confidence ceiling",
+      "confidence": "high",
+      "finding": "I have not observed continuous normal-speed playback of the new wrist turn, dynamic resize/retarget, replay or the complete updated foundation. Tests and selected PNGs do not establish whether the 36-degree offer turn feels like a soft presentation or an unintended flick, nor prove all intermediate contacts. There is no fresh physical-device or attributed rendering trace for the new staging controller.",
+      "evidence": ["offer-sequence-day/night.png", "staging.test.mjs", "browser-checks.json", "comparison-export.json"],
+      "resolutionStatus": "Retain the temporal/device limit. Prior desktop callback numbers are historical evidence and do not measure this new controller. No source optimization or retiming is justified by uncertainty alone."
+    }
+  ],
+  "improvementCriteria": [
+    "Observe the current 1900–3050ms visitor return and offering turn continuously at normal speed and slowed playback. Retune only if a reproduced flick, extra pulse or contact pop is visible; retain the quiet free hand and stable hold.",
+    "For minimum-size expressive use, compare Grateful/Shy/Worried/Thinking and the invitation without their emotion labels at the intended rendered size. Improve posing or allocate more display area only when a matched comparison demonstrates a gain; preserve the original hand shapes, 48-unit reach and required chin/clasp contact.",
+    "Observe the full phone sequence in the real composition to distinguish a heading-directed glance from generic upward attention. Preserve the exact authored visitor return rather than holding the look upward through the offer.",
+    "Before website performance claims, trace active animation and resize/replay in the final integration on intended physical hardware. Retain separate source, frame, callback, perception and audience evidence; do not treat the deterministic 30fps film as a runtime benchmark."
+  ],
+  "confidence": {
+    "sourceIntegrityAndNumericAnatomy": "high",
+    "sampledChinClaspAndAttachment": "high within inspected samples",
+    "localStagingAndReplayImplementation": "medium-high; source, deterministic tests and recorded browser checks align",
+    "actualSizeGestureDistinctiveness": "medium-high",
+    "continuousMotionFeel": "not established",
+    "physicalDevicePerformanceAndAudienceInterpretation": "not established"
+  },
+  "implementedAssessment": "Acceptable local progress with no concrete blocking rigging defect found. Preserve the revised hand families, exact Thinking chin contact, lower Grateful clasp and composition-aware attention. The refinement earns a modest overall score increase while leaving residual density/subtlety and temporal/device limits visible.",
+  "objections": [],
+  "limits": [
+    "Root owns browser control; I operated no browser and edited no source.",
+    "Recorded tests and browser checks were read/parsed, not independently rerun. Manifest hashes and source byte equality were independently executed.",
+    "No uninterrupted motion observation, physical-phone session, GPU trace, spoken-AT test or unprimed human study.",
+    "The 567 geometry checks establish structural equality for identical inputs; intentional composition-aware poses differ across layouts and match across themes within the same layout.",
+    "The simplified phone film frame is not the actual DOM composition. Actual layout judgments use attention-*.png and browser-checks.json.",
+    "The day universal 32px-avatar recommendation and prior small-night-avatar limit are unchanged; this pass did not redraw or revalidate those static exports.",
+    "Acceptance is local and does not authorize or certify public deployment."
+  ],
+  "skillsApplied": [
+    {"name": "review-animations", "application": "Challenged physical origin/contact, replay interruption and deliberate still states; did not treat test passage as a feel judgment.", "intake": "Full skill already read in this conversation."},
+    {"name": "animate", "application": "Checked current-state retargeting and purpose-based separation of brief UI feedback from authored character acting.", "intake": "Full skill already read in this conversation."},
+    {"name": "choreograph", "application": "Checked the notice/read/consider/visitor-return/offer relationship, quiet free hand and stable hold rather than adding ornamental motion.", "intake": "Full skill already read in this conversation."},
+    {"name": "animation-performance", "application": "Checked cached layout reads and a clip-owned staging clock, while withholding device/cadence claims until measured in the current integration.", "intake": "Full skill already read in this conversation."}
+  ],
+  "workflowChanges": [
+    "Carry prior deductions forward explicitly and mark each as resolved, partly improved or still unverified. Keep the overall same-lens score instead of scoring only the successful patch.",
+    "Pair a same-time before/after image with actual-size day/night sheets and the complete relevant hand/attention sequence; preserve intentional contact rather than applying separation indiscriminately.",
+    "Test the composition correction as an addition to the engine: current displayed pose on replay, paused resize freeze, exact visitor return, theme parity and no independent reduced-motion clock.",
+    "Keep rendering and perception evidence separate. Use source/tests to establish bounds and continuity, actual frames to inspect contact, and continuous/device evidence for feel and runtime claims."
+  ],
+  "rulesNotApplicableWithReason": [
+    "UI timing limits do not compress the intentional multi-second performance or the 380ms staging handoff. Controls must remain responsive; requested acting is content.",
+    "Transform/opacity-only guidance does not justify changing expressive SVG anatomy or removing required contact. Existing path deformation is retained; measure an actual cost before optimization.",
+    "Intentional Thinking chin contact and Grateful clasp should not be separated merely to remove every overlapping contour. Clarity must preserve the acted relation.",
+    "Keyboard activation of Play remains equivalent access to the character performance; it is not an unnecessary animated keyboard-interface response.",
+    "Static reduced-motion poses are valid here. No added fade, bounce or stagger is required for compliance with a general motion recipe.",
+    "No new full skill read was needed: the already reviewed animation skills directly cover this lens. Design-taste marketing-page prescriptions do not govern this character/contact refinement; no new site design is being implemented."
+  ]
+}

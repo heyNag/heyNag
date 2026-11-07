@@ -1,0 +1,78 @@
+[
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "images": [
+      {
+        "src": "evidence/signature-final-390-stage.png",
+        "ready": true
+      },
+      {
+        "src": "evidence/signature-final-390-night.png",
+        "ready": true
+      },
+      {
+        "src": "evidence/all-final.png",
+        "ready": true
+      }
+    ],
+    "fonts": "loaded"
+  },
+  {
+    "width": 1024,
+    "scrollWidth": 1024,
+    "images": [
+      {
+        "src": "evidence/signature-final-390-stage.png",
+        "ready": true
+      },
+      {
+        "src": "evidence/signature-final-390-night.png",
+        "ready": true
+      },
+      {
+        "src": "evidence/all-final.png",
+        "ready": true
+      }
+    ],
+    "fonts": "loaded"
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "images": [
+      {
+        "src": "evidence/signature-final-390-stage.png",
+        "ready": true
+      },
+      {
+        "src": "evidence/signature-final-390-night.png",
+        "ready": true
+      },
+      {
+        "src": "evidence/all-final.png",
+        "ready": true
+      }
+    ],
+    "fonts": "loaded"
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "images": [
+      {
+        "src": "evidence/signature-final-390-stage.png",
+        "ready": true
+      },
+      {
+        "src": "evidence/signature-final-390-night.png",
+        "ready": true
+      },
+      {
+        "src": "evidence/all-final.png",
+        "ready": true
+      }
+    ],
+    "fonts": "loaded"
+  }
+]

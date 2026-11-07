@@ -1,0 +1,853 @@
+{
+  "scope": "CPU1 focused local desktop; rAF intervals while engine.playing only. First and settled intervals excluded. Not phone/GPU trace/perceptual evidence.",
+  "duration": 4100,
+  "active": {
+    "frames": 119,
+    "meanMs": 34.45378151260504,
+    "p95Ms": 35,
+    "maxMs": 67,
+    "gapsOver50": 4
+  },
+  "samples": [
+    {
+      "gap": 34.80000000000001,
+      "playing": true,
+      "time": 28.5,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.400000000000006,
+      "playing": true,
+      "time": 61.90000003576279,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.30000000000001,
+      "playing": true,
+      "time": 95.30000001192093,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.099999999999966,
+      "playing": true,
+      "time": 128.4000000357628,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.80000000000001,
+      "playing": true,
+      "time": 162.10000002384186,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 32.30000000000001,
+      "playing": true,
+      "time": 194.4000000357628,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 34.39999999999998,
+      "playing": true,
+      "time": 229.10000002384186,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.10000000000002,
+      "playing": true,
+      "time": 262,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 31.899999999999977,
+      "playing": true,
+      "time": 293.9000000357628,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 34.19999999999999,
+      "playing": true,
+      "time": 328.19999998807907,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33,
+      "playing": true,
+      "time": 361,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 34.200000000000045,
+      "playing": true,
+      "time": 395.30000001192093,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.299999999999955,
+      "playing": true,
+      "time": 428.69999998807907,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 31.899999999999977,
+      "playing": true,
+      "time": 460.60000002384186,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 34.80000000000007,
+      "playing": true,
+      "time": 495.4000000357628,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 32.10000000000002,
+      "playing": true,
+      "time": 527.4000000357628,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 34.59999999999991,
+      "playing": true,
+      "time": 562.3000000119209,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.200000000000045,
+      "playing": true,
+      "time": 595.1000000238419,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.39999999999998,
+      "playing": true,
+      "time": 628.6000000238419,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.39999999999998,
+      "playing": true,
+      "time": 662.1000000238419,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.30000000000007,
+      "playing": true,
+      "time": 695.4000000357628,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.299999999999955,
+      "playing": true,
+      "time": 728.8000000119209,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 32.700000000000045,
+      "playing": true,
+      "time": 761.4000000357628,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 34.299999999999955,
+      "playing": true,
+      "time": 795.9000000357628,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.10000000000002,
+      "playing": true,
+      "time": 828.9000000357628,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.200000000000045,
+      "playing": true,
+      "time": 862,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 32.799999999999955,
+      "playing": true,
+      "time": 894.8000000119209,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.90000000000009,
+      "playing": true,
+      "time": 928.6999999880791,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.399999999999864,
+      "playing": true,
+      "time": 962.1000000238419,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.600000000000136,
+      "playing": true,
+      "time": 995.8000000119209,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 31.399999999999864,
+      "playing": true,
+      "time": 1026.9000000357628,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 35.200000000000045,
+      "playing": true,
+      "time": 1062.300000011921,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 32.799999999999955,
+      "playing": true,
+      "time": 1095.1000000238419,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 32.5,
+      "playing": true,
+      "time": 1127.699999988079,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 34.100000000000136,
+      "playing": true,
+      "time": 1161.699999988079,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.69999999999982,
+      "playing": true,
+      "time": 1195.199999988079,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 32.700000000000045,
+      "playing": true,
+      "time": 1228,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.90000000000009,
+      "playing": true,
+      "time": 1262.199999988079,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 67,
+      "playing": true,
+      "time": 1329.1000000238419,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33,
+      "playing": true,
+      "time": 1362.199999988079,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.399999999999864,
+      "playing": true,
+      "time": 1395.6000000238419,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 34,
+      "playing": true,
+      "time": 1429.5,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 32.40000000000009,
+      "playing": true,
+      "time": 1461.800000011921,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.5,
+      "playing": true,
+      "time": 1495.1000000238419,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.40000000000009,
+      "playing": true,
+      "time": 1528.4000000357628,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.299999999999955,
+      "playing": true,
+      "time": 1562.1000000238419,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.59999999999991,
+      "playing": true,
+      "time": 1595.699999988079,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 31.90000000000009,
+      "playing": true,
+      "time": 1627.6000000238419,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 34.5,
+      "playing": true,
+      "time": 1661.9000000357628,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 32.399999999999864,
+      "playing": true,
+      "time": 1694.6000000238419,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.90000000000009,
+      "playing": true,
+      "time": 1728.300000011921,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.700000000000045,
+      "playing": true,
+      "time": 1762,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.5,
+      "playing": true,
+      "time": 1795.699999988079,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.200000000000045,
+      "playing": true,
+      "time": 1828.800000011921,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.19999999999982,
+      "playing": true,
+      "time": 1862,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.5,
+      "playing": true,
+      "time": 1895.4000000357628,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 32.20000000000027,
+      "playing": true,
+      "time": 1927.300000011921,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 34.59999999999991,
+      "playing": true,
+      "time": 1962.199999988079,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.09999999999991,
+      "playing": true,
+      "time": 1995.199999988079,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 32.09999999999991,
+      "playing": true,
+      "time": 2027.4000000357628,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 34.59999999999991,
+      "playing": true,
+      "time": 2062.100000023842,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 32.30000000000018,
+      "playing": true,
+      "time": 2094.5,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33,
+      "playing": true,
+      "time": 2127.199999988079,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 34.80000000000018,
+      "playing": true,
+      "time": 2164.400000035763,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.5,
+      "playing": true,
+      "time": 2195.800000011921,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.5,
+      "playing": true,
+      "time": 2229,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 31.5,
+      "playing": true,
+      "time": 2260.699999988079,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 34.399999999999636,
+      "playing": true,
+      "time": 2295.100000023842,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.80000000000018,
+      "playing": true,
+      "time": 2328.800000011921,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.30000000000018,
+      "playing": true,
+      "time": 2362.199999988079,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.5,
+      "playing": true,
+      "time": 2395.800000011921,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.09999999999991,
+      "playing": true,
+      "time": 2428.600000023842,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.29999999999973,
+      "playing": true,
+      "time": 2462.199999988079,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.600000000000364,
+      "playing": true,
+      "time": 2496,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.29999999999973,
+      "playing": true,
+      "time": 2528.900000035763,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.09999999999991,
+      "playing": true,
+      "time": 2561.800000011921,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 66.70000000000027,
+      "playing": true,
+      "time": 2628.600000023842,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 66.69999999999982,
+      "playing": true,
+      "time": 2695.199999988079,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.30000000000018,
+      "playing": true,
+      "time": 2728.600000023842,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.5,
+      "playing": true,
+      "time": 2762.199999988079,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 31.699999999999818,
+      "playing": true,
+      "time": 2793.900000035763,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 34.70000000000027,
+      "playing": true,
+      "time": 2828.600000023842,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.5,
+      "playing": true,
+      "time": 2862.199999988079,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.5,
+      "playing": true,
+      "time": 2895.699999988079,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.09999999999991,
+      "playing": true,
+      "time": 2928.699999988079,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.29999999999973,
+      "playing": true,
+      "time": 2961.800000011921,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.30000000000018,
+      "playing": true,
+      "time": 2995.199999988079,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33,
+      "playing": true,
+      "time": 3028.400000035763,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.80000000000018,
+      "playing": true,
+      "time": 3062,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.59999999999991,
+      "playing": true,
+      "time": 3095.699999988079,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33,
+      "playing": true,
+      "time": 3128.600000023842,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.29999999999973,
+      "playing": true,
+      "time": 3162,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.5,
+      "playing": true,
+      "time": 3195.800000011921,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.20000000000027,
+      "playing": true,
+      "time": 3228.699999988079,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 32.90000000000009,
+      "playing": true,
+      "time": 3261.600000023842,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 32.09999999999991,
+      "playing": true,
+      "time": 3293.699999988079,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 35,
+      "playing": true,
+      "time": 3329.199999988079,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 31.699999999999818,
+      "playing": true,
+      "time": 3360.400000035763,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 34.40000000000009,
+      "playing": true,
+      "time": 3394.699999988079,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.30000000000018,
+      "playing": true,
+      "time": 3427.800000011921,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 32.29999999999973,
+      "playing": true,
+      "time": 3460.199999988079,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.70000000000027,
+      "playing": true,
+      "time": 3494.100000023842,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 34.59999999999991,
+      "playing": true,
+      "time": 3528.699999988079,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 31.699999999999818,
+      "playing": true,
+      "time": 3560.300000011921,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.30000000000018,
+      "playing": true,
+      "time": 3593.5,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 35,
+      "playing": true,
+      "time": 3628.5,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.5,
+      "playing": true,
+      "time": 3662.300000011921,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.19999999999982,
+      "playing": true,
+      "time": 3695.199999988079,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 31.700000000000273,
+      "playing": true,
+      "time": 3726.900000035763,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.29999999999973,
+      "playing": true,
+      "time": 3760.900000035763,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 34.70000000000027,
+      "playing": true,
+      "time": 3795,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.59999999999991,
+      "playing": true,
+      "time": 3828.800000011921,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 65.09999999999991,
+      "playing": true,
+      "time": 3894,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 34.80000000000018,
+      "playing": true,
+      "time": 3928.5,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 32.399999999999636,
+      "playing": true,
+      "time": 3961,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 34.69999999999982,
+      "playing": true,
+      "time": 3995.699999988079,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33,
+      "playing": true,
+      "time": 4028.5,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.30000000000018,
+      "playing": true,
+      "time": 4062.100000023842,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 31.900000000000546,
+      "playing": true,
+      "time": 4093.900000035763,
+      "visible": "visible",
+      "focus": true
+    },
+    {
+      "gap": 33.19999999999982,
+      "playing": false,
+      "time": 4100,
+      "visible": "visible",
+      "focus": true
+    }
+  ]
+}

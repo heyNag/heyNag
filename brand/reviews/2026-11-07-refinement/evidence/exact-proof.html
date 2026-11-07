@@ -1,0 +1,5 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><title>Exact frame comparison proof</title><style>body{margin:20px;background:#eee;font:18px system-ui}main{display:grid;grid-template-columns:1fr 1fr;gap:16px}img{width:100%;display:block}figure{margin:0}figcaption{padding:8px}</style><h1 id="title"></h1><main></main><script>
+const n=Number(new URLSearchParams(location.search).get('case')||0),names=['Sad → Worried','Worried → Sad','Sad → Angry','Scared → Relieved','Angry → Scared','Scared → Angry','Thinking → Confused','Replay Thinking','Tiny hop','Hop interrupted → Angry → Worried'];document.querySelector('h1').textContent=names[n]+' · exact30fps engine frames';
+const times=n===8?[20,22,24,26,27,29,30,32,34,36,40,45]:n===9?[0,15,24,25,26,28,30,31,32,36,45,60]:[0,6,11,20,29,45,75,114];
+for(const f of times){const figure=document.createElement('figure'),img=document.createElement('img'),caption=document.createElement('figcaption');img.src='exact-frames/frame-'+String(n*126+f).padStart(4,'0')+'.png';caption.textContent=(f/30).toFixed(3)+' s';figure.append(img,caption);document.querySelector('main').append(figure)}
+</script></html>

@@ -1,0 +1,144 @@
+{
+  "reviewerId": "brand-a",
+  "role": "Character brand director A",
+  "lens": "Personal voice, Nag attribution and authentic work",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "scope": "Fresh review of the concrete LOCAL GitHub profile application: README, proposed name/bio, three public pins/descriptions, existing avatar/header use, and the stated connection to future heyNag.com. The website continuity contract is assessed as a plan. Prior mascot approval is foundation history, not approval of this application. No other new independent review was read before saving this record.",
+  "sourceManifestSha256": "7b23e48c7555ab1abca2a81923bb526411043350c092e352ef42efd106b468d2",
+  "sourceVerification": "Independently hashed review-source-v1.json and all nine listed files; every source hash matches.",
+  "inspectedEvidence": [
+    "AGENTS.md",
+    "brand/workflow.json",
+    "brand/team.json — Brand A and complementary Brand B lenses",
+    "README.md",
+    "brand/profile/profile.json",
+    "brand/profile/continuity.json",
+    "brand/reviews/2026-11-07-github/review-instructions.txt",
+    "brand/reviews/2026-11-07-github/brief.json",
+    "brand/reviews/2026-11-07-github/review-source-v1.json",
+    "brand/reviews/2026-11-07-github/evidence/render-checks.json",
+    "view_image: brand/reviews/2026-11-07-github/evidence/profile-light-1440.png",
+    "view_image: brand/reviews/2026-11-07-github/evidence/profile-dark-1440.png",
+    "view_image: brand/reviews/2026-11-07-github/evidence/readme-light-320.png",
+    "view_image: brand/reviews/2026-11-07-github/evidence/readme-dark-320.png",
+    "view_image: brand/reviews/2026-11-07-github/evidence/full-light-320.png",
+    "view_image: brand/reviews/2026-11-07-github/evidence/full-dark-320.png",
+    "view_image: assets/brand/heynag-moth-avatar-v5-day.png",
+    "view_image: brand/reviews/2026-11-07-github/evidence/profile-light-320-top.png",
+    "view_image: brand/reviews/2026-11-07-github/evidence/profile-dark-320-top.png",
+    "view_image: brand/reviews/2026-11-07-github/evidence/readme-light-320-scroll.png",
+    "view_image: brand/reviews/2026-11-07-github/evidence/readme-dark-320-scroll.png",
+    "view_image: brand/reviews/2026-11-07-github/evidence/pins-light-320-scroll.png"
+  ],
+  "evidenceInterpretation": "The screenshots are labelled local previews in GitHub's real DOM using Markdown API output and local asset data URLs. They do not establish published account settings. Full 320px captures contain sticky-navigation and scrolled-state capture artifacts, so I use those for complete below-fold content. The subsequent actual top and wheel-scrolled viewport captures verify the visible name/header, readable light/dark README and all three light-theme pins without treating full-page artifacts as defects. Render checks report no document overflow and expected theme assets at 320/390/768/1024/1440. I did not operate the browser or independently fetch the public projects in this stage; their verification is supplied by the brief and preparation record.",
+  "skillsReviewed": [
+    {
+      "name": "design-taste-frontend",
+      "path": "/Users/nag/.agents/skills/taste-skill/SKILL.md",
+      "reading": "Full SKILL.md newly read for the user's explicit invocation",
+      "use": "Grounded copy, the client's actual assets, consistent identity and judging actual rendered evidence rather than generic decoration."
+    },
+    {
+      "name": "design-taste-frontend copy reference",
+      "path": "/Users/nag/.agents/skills/taste-skill/references/copy.md",
+      "reading": "Full reference newly read",
+      "use": "Concrete project descriptions, understandable destinations and no invented proof. Personal-profile and native-platform exceptions are recorded below."
+    },
+    {
+      "name": "emil-design-eng",
+      "path": "/Users/nag/.agents/skills/emil-design-eng/SKILL.md",
+      "reading": "Full skill read earlier in this same conversation and reused",
+      "use": "Cohesive defaults, purpose, restrained presentation and readable actual-size hierarchy."
+    },
+    {
+      "name": "prototype",
+      "path": "/Users/nag/.agents/skills/prototype/SKILL.md",
+      "reading": "Full skill previously read; comparison guidance reused only",
+      "use": "Compare the same real content across actual themes and widths; no new alternative-build workflow invoked."
+    },
+    {
+      "name": "choreograph",
+      "path": "/Users/nag/.agents/skills/choreograph/SKILL.md",
+      "reading": "Full skill previously read; static-role reasoning reused",
+      "use": "The person and work carry the information; the moth is expressive support. GitHub needs no invented motion to preserve that relationship."
+    }
+  ],
+  "workflowChanges": [
+    "Treat GitHub as its own application: score the actual profile and native text hierarchy rather than carrying a mascot score forward or measuring it against a custom-site layout.",
+    "Review author, character and work together. Check that Nag is named as the maker, public links are useful, and the moth supports rather than speaks instead of the person.",
+    "Compare the sidebar bio with the README introduction as one reading experience, and compare README descriptions with pin descriptions for factual and tonal consistency.",
+    "Carry a public-evidence boundary into the website brief: acknowledge that the public sample is partial, but add no private names, details or case studies without actual owner clearance.",
+    "Keep native-platform rendering, local preview provenance, future implementation and audience recognition as distinct evidence categories. Inspect full narrow content without treating sticky full-page capture artifacts as implementation defects."
+  ],
+  "rulesNotApplicableWithReason": [
+    "GitHub controls page CSS, typography, navigation and JavaScript. Taste's one-section-per-screen layout, dealer scripts, custom fonts, effects, hover layer and commercial-site performance checks do not apply to this native profile.",
+    "This is a personal introduction, not a sales page. 'Hey, I'm Nag' is useful attribution; the copy reference's commercial ban on greetings is not a reason to replace it with a sales category or invented transaction.",
+    "The profile does not need a fabricated hard number, customer, price, employer, outcome or metric to satisfy a first-screen fact recipe. Supplied project names and honest mechanisms provide appropriate specificity.",
+    "The LOCAL PREVIEW label protects provenance during review. Taste's prohibition on sample labels does not justify hiding that the account changes are unpublished.",
+    "Native GitHub achievement/icon colors are outside the owned identity. The skill's palette restrictions do not authorize altering platform chrome or existing account evidence.",
+    "No new photography, animation, sound, interaction gate or arbitrary new brand palette is needed to make this static profile coherent.",
+    "The skill's build scripts and system/layout references are for constructing a controlled website. No first website is being built here, and root explicitly owns browser work; this reviewer performs source/image review only.",
+    "Prototype is explicit-invocation-only, and the existing historical studies are preserved by project instructions. Reading comparison guidance neither starts new variants nor authorizes cleanup of that evidence.",
+    "No website score or recognition result can be inferred from a continuity contract, matching palette or unanimous expert opinion."
+  ],
+  "score": 8.6,
+  "scoreMeaning": "Independent brand-craft score out of10 for the prepared GitHub application. It clearly identifies Nag, presents a coherent warm identity and gives a truthful, compact public-work sample within GitHub's constraints. It remains below exceptional in personal specificity: some opening language repeats general qualities and the entries explain project purpose more than Nag's particular decisions. This is a new application score, not a numerical continuation of the mascot's8.5, an audience result, website approval or a required9.",
+  "confidence": "High on inspected attribution, copy, privacy boundary and static visual continuity; moderate-high on the editorial craft judgment. Live settings, destination behavior beyond supplied verification, physical-device experience and human recognition are not certified.",
+  "strengths": [
+    "Nag remains the author. The visible full name, heyNag handle and 'Hey, I'm Nag' introduction connect the warm character to a specific person, while the moth stays a companion rather than a narrator.",
+    "The existing day avatar works clearly against both GitHub themes, and the paired full-figure headers carry the same face, antennae and palette. On320px the wordmark and broad silhouette still communicate identity without requiring a tiny hand gesture.",
+    "The brief's statement that most work is private becomes a plain, bounded explanation of the public sample. The actual public copy reveals no private project names, screenshots, implementation details or implied client proof.",
+    "The three entries have recognizable purposes and direct personal-account destinations. Grok Bot is explicitly unofficial; eva.md is described as evolving; no seniority, adoption, quantified success or blanket open-source claim is invented.",
+    "README descriptions and the proposed pins point to the same three projects and use compatible descriptions. The full narrow captures keep their content readable within the native single-column flow.",
+    "The static profile has a sensible division of labor: identity artwork gives warmth, native text explains the person and work, and ordinary links provide the next step. There is no need to import the studio's motion controls into GitHub.",
+    "Leaving the website field empty is correct while heyNag.com has no useful built destination. The continuity contract preserves the naming, source assets, palette, first-person voice and owner-selected investigation behavior for later work without pretending the website exists."
+  ],
+  "deductions": [
+    {
+      "finding": "The bio and first README paragraph repeat broadly similar qualities: software/systems, useful tools, curious experiments and concern for how software feels. Together they establish a coherent tone but spend two introductions without adding much personal specificity.",
+      "evidence": [
+        "brand/profile/profile.json bio",
+        "README.md opening",
+        "profile-light-1440.png",
+        "full-light-320.png"
+      ],
+      "severity": "Minor editorial craft opportunity; nonblocking",
+      "confidence": "High on duplication; moderate on preferred treatment",
+      "improvementCriterion": "In a later copy refinement, keep one concise broad introduction and let the other add one verified concrete way Nag works or a useful point of view. Do not manufacture a biography, title or achievement to make it seem more distinctive."
+    },
+    {
+      "finding": "The project entries tell readers what the tools do, but carry little of Nag's particular decision-making. 'A few extra ways to look closely' adds warmth without showing the specific observation behind Charms; the other entries likewise stop at purpose and intent.",
+      "evidence": [
+        "README.md Things I've shared",
+        "brand/profile/profile.json repositoryDescriptions",
+        "full-light-320.png",
+        "full-dark-320.png"
+      ],
+      "severity": "Minor at this concise-profile scope; fuller authorship belongs in linked project material and the future site",
+      "confidence": "High on content inspected; moderate on distinctiveness inference",
+      "improvementCriterion": "When appropriate sourced material is available, replace one generic aside with one concrete personal observation or decision, or link to a concise public explanation. Keep the profile short; do not require a case study for every project or disclose private work."
+    }
+  ],
+  "blockers": [],
+  "recommendations": [
+    "Accept the prepared profile direction for paired challenge: current name/bio, three public destinations, day avatar, paired headers and native text are coherent as a local application.",
+    "Preserve the honest small-public-window framing and keep public descriptions synchronized across README, pins and future website project stories.",
+    "Treat the copy opportunities as optional future sharpening, not reasons to add private evidence, exaggerated credentials or generic brand theater.",
+    "When heyNag.com is built, carry over the same maker and assets, then add verified decisions, real demonstrations and honest outcomes. Add the reciprocal profile link only when the destination is useful and live."
+  ],
+  "continuityAssessment": {
+    "currentGitHub": "A coherent static application of the selected identity: recognizable visual family to this informed reviewer, clear naming and authorship, useful native project links and bounded claims.",
+    "futureWebsitePlan": "The contract is sound: same versioned character/tokens/naming, first-person work, warm Investigate & share behavior, useful content without mascot interaction, and richer verified stories rather than a disconnected visual reinvention.",
+    "qualification": "The contract's statement that the avatar/header establish recognition immediately is a design intention and expert visual-consistency judgment, not a measured stranger-recognition result. Future implementation must be rendered and reviewed separately.",
+    "scopeGuard": "The present three public projects are a sample, not a complete definition of Nag's work. The future website can expand the breadth through owner-cleared material without changing the core identity."
+  },
+  "unscoredOutcomes": [
+    "Unfamiliar-human recognition, Nag attribution, attachment, recall, trust, engagement or repository-click outcomes.",
+    "A built or deployed heyNag.com, including its layout, motion, performance and story quality.",
+    "Published GitHub settings, final remote avatar/pins/bio state, cache behavior and physical-device rendering.",
+    "Private project quality or claims not included in the cleared public copy.",
+    "Motion timing and sound quality: this GitHub application intentionally contains neither."
+  ],
+  "reviewTable": "| Before / observed state | After / next review criterion | Why |\n| --- | --- | --- |\n| Bio and README repeat general interests | One retains the introduction; the other may add a verified personal detail | Strengthen authorship without length or invented proof |\n| Project entries explain purpose with a general warm aside | Add one sourced observation where it fits, or link to it | The work can carry more of Nag's particular perspective |\n| Matching assets could be mistaken for proven cross-surface recognition | Label website continuity as a contract and recognition as unmeasured | Visual coherence is evidenced; future experience and human outcomes are not |"
+}

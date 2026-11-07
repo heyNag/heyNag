@@ -1,0 +1,20 @@
+{
+  "discipline": "rigging",
+  "state": "Both reviewers explicitly confirmed the same scoped recommendation.",
+  "recommendation": "Accept the intact constrained rig and static exports with explicit contact-density and live-cadence limits. Do not attribute mixed idle one-second gaps to SVG without evidence.",
+  "discussionRecords": [
+    "pairs/rigging-a-discussion.json",
+    "pairs/rigging-b-discussion.json"
+  ],
+  "independentReviews": [
+    "independent/rigging-a.json",
+    "independent/rigging-b.json"
+  ],
+  "explicitConfirmations": [
+    "team-votes/rigging-a.json",
+    "team-votes/rigging-b.json"
+  ],
+  "proposal": "team-proposal-v2.json",
+  "proposalSha256": "4eef022ccecba73621ca188b29c13cbc41d08b5268ffeaa6e98e2c4c5ea08c5c",
+  "scorePolicy": "Individual scores remain separate; acceptance does not imply a 9/10 rating."
+}

@@ -1,0 +1,21 @@
+{
+  "method": "The proposed README was rendered by GitHub's Markdown API and inserted into the real public GitHub profile DOM in an isolated browser task. Local exported PNGs were supplied as data URLs. Proposed account fields and three pins were previewed in the same DOM. No account setting was saved by these captures.",
+  "authoritativeViewportEvidence": [
+    "profile-light-1440.png",
+    "profile-dark-1440.png",
+    "profile-light-320-top.png",
+    "profile-dark-320-top.png",
+    "readme-light-320-scroll.png",
+    "readme-dark-320-scroll.png",
+    "pins-light-320-scroll.png"
+  ],
+  "fullPageCaveat": "The full-light-320.png and full-dark-320.png captures retain sticky-navigation/scrolled-profile artifacts. They were used only for lower-page content, not name visibility or header crop judgments. Actual wheel-scrolled viewport captures resolve those questions.",
+  "checks": "render-checks.json records five viewport widths in two system color schemes, with source selection awaited and image loading verified. No horizontal document overflow was measured in those ten cases.",
+  "limits": [
+    "Local DOM preview is not proof that live profile settings were published.",
+    "Browser emulation is not physical-phone testing.",
+    "Source semantics and screenshots do not establish spoken screen-reader behavior.",
+    "System-theme tests do not certify every saved GitHub appearance setting.",
+    "Visual craft review does not establish recognition, recall or emotional attachment in human visitors."
+  ]
+}

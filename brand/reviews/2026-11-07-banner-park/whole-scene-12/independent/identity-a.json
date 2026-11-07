@@ -1,0 +1,94 @@
+{
+  "reviewer": "identity-a",
+  "assetSha256": "f43b5c7053f9fc3017c651e9ba4628a862ffbe1fd76d706f145a88f75f2e3e70",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "lens": "Silhouette and cross-surface identity",
+  "evidenceInspected": [
+    "Read whole-scene-12/brief.json. Directly computed and matched the actual12 export SHA.",
+    "Fresh view_image: full park-film-study-12-materials-and-grip.png and local1280/880/420 width images.",
+    "Fresh view_image: scene12-hero-native.png, scene12-workshop-native.png and scene12-tree-play-native.png.",
+    "Fresh view_image: BOTH scene12-companions-native.png and scene12-companions-5x.png, plus BOTH scene12-grip-native.png and scene12-grip-5x.png.",
+    "Fresh comparisons: full actual11 and07; matched native11/07 hero and workshop crops; actual11 companion5x crop.",
+    "Reused prior actual inspections of V5 original moth, Muse lineup, orange Clawd plush and original Grok reference. No claim of newly viewing those references this turn."
+  ],
+  "readiness": "revise",
+  "readinessReason": "The whole scene is materially stronger and both planned repairs are addressed, but a new separate dark stroke under Muse's smile violates the retained simple face. Remove that narrow regression before owner presentation; no broader redesign is requested.",
+  "score": {
+    "value": 8.8,
+    "previous": 8.1,
+    "scope": "Same bounded whole-still craft scope: identity coherence, silhouette, cameo hierarchy and communication across supplied image scales. No animation, audience or deployed-application score.",
+    "confidence": "High on the material/grip improvement and visible new facial stroke; moderate on subtle remaining material taste and tiny-guest narrative.",
+    "changeExplanation": "The0.7 rise reflects an actual whole-frame improvement in material separation, continuous contours and grip construction. The new Muse facial mark and retained small-scale/staging limitations prevent a9 judgment; plan approval supplied no score credit.",
+    "deductions": [
+      {
+        "id": "WHOLE12-IDA-01",
+        "severity": "narrow must-fix preservation regression",
+        "location": "Muse's lower face, directly beneath the existing smile",
+        "finding": "A short dark curved stroke now sits separately below the smile, giving a second-mouth/chin-mark impression. It is present in the native crop and unmistakable at5x, whereas the freshly compared11 face has one smile and an unmarked lower face.",
+        "evidence": "scene12-companions-native.png; scene12-companions-5x.png; muse-review/evidence/11-companion-inspection-enlarged.png."
+      },
+      {
+        "id": "WHOLE12-IDA-02",
+        "severity": "minor nonblocking finish preference",
+        "location": "Native hero forehead, wing and antenna paddles",
+        "finding": "Some decorative fine looping surface texture remains. It now sits within soft shading instead of spreading the same hard network across every material, so this is no longer the prior whole-frame defect. Cleaner broad surfaces could be calmer, but further smoothing is optional."
+      },
+      {
+        "id": "WHOLE12-IDA-03",
+        "severity": "retained minor staging/scale limits",
+        "finding": "Clawd still reads mostly frontal rather than visibly watching, and at420px the leaf game and precise workshop action remain tiny secondary accents. These remain optional limitations, not new reasons to turn characters away, enlarge guests or demand hammer impact."
+      }
+    ],
+    "criteriaForNine": [
+      "Preserve12's whole-frame material and grip gains while removing the isolated extra Muse facial stroke; confirm one smile, dark Muse eyes and pupil-free Grok ovals in native and magnified final integrated evidence.",
+      "The corrected integrated frame must retain the same V5 silhouettes, hero-first composition, restrained guest scale and clean distinct materials at native and1280/880/420 views. A local edit promise alone cannot earn9."
+    ]
+  },
+  "correctionAssessment": {
+    "W1": {
+      "status": "fixed",
+      "evidence": "Fresh07/11/12 full and matched native comparisons show coherent wood grain and board edges, continuous round glasses/metal contours, smoother laptop planes, clearer woven blanket and fine plush on Clawd. The distracting common polygon/crackle network is substantially removed from the scene. Intentional bark, leaf planes and stone detail remain; this is not global blur.",
+      "qualification": "Fixed for the named material-coherence defect, not a claim that every surface is perfect. Fine decorative texture on cream/lime forms remains an optional finish preference."
+    },
+    "W2": {
+      "status": "fixed",
+      "evidence": "Native and5x final-integrated grip crops show a filled rounded mitten wrapping the mallet handle, joined to a short readable forearm. The prior hollow/angular strap interpretation is gone. The raised mallet remains a valid anticipation pose; no impact or anatomy expansion is needed."
+    }
+  },
+  "preservation": [
+    "The same three tiny moth appearances remain one cream/lime identity, with oversized heads, compact bodies, short limbs, unequal paddles and layered marked wing language. No observed aging or identity-changing anatomy drift.",
+    "Only the coding moth occupies the foreground bench/MacBook grouping. The four guests remain smaller and grouped around workshop/tree activities; the clear path and distant bridge retain spatial depth.",
+    "Warm directional sunlight, soft foreground blur and quieter distant forms still support the continuous park. Material cleanup strengthens this hierarchy at1280/880; the coder remains readable at420.",
+    "Grok retains two clean light ovals without localized dark centers in native and5x inspection. Muse retains dark eyes, hood/head bounds, tiny seated body and leaf interaction. Clawd retains orange softness and both square eyes; Dot remains blue with its beret.",
+    "Bench, stool, laptop and workshop supports remain plausible at inspected scales. Visual preservation is not pixel identity."
+  ],
+  "newRegressions": [
+    {"id": "WHOLE12-IDA-01", "finding": "Extra dark lower-face stroke on Muse, absent from11.", "confidence": "high", "scope": "Local face construction; no reason to discard whole-scene progress."}
+  ],
+  "mustFix": [
+    {
+      "id": "WHOLE12-IDA-01",
+      "action": "Remove only the small extra dark stroke beneath Muse's existing smile, restoring the simple single-mouth face. Preserve both dark eyes, actual smile, hood, proportions, body/leaf interaction and all other characters.",
+      "acceptance": "Native and5x final integrated face show one smile and a clean lower face, with no new eye or adjacent-character regression."
+    }
+  ],
+  "optional": [
+    "Retained frontal Clawd attention is not elevated to a required re-pose.",
+    "Further reduction of the fine cream/lime surface pattern is optional; do not erase intentional texture or reopen the whole composition for it.",
+    "No additional Muse hood/body refinement or guest enlargement is justified."
+  ],
+  "skillsReviewed": [
+    {"name": "emil-design-eng", "intake": "Previously fully read; reused", "application": "Check complete-scene quality and distinguish a concrete preservation regression from optional polish."},
+    {"name": "design-taste-frontend", "intake": "Previously fully read; reused", "application": "Keep coherent material language and established identity instead of introducing unrelated redesign."},
+    {"name": "mobile-native", "intake": "Previously fully read; narrow reuse", "application": "Separate local420px image reduction from actual mobile/platform evidence."}
+  ],
+  "workflowApplication": "Used full/scaled, native and magnified views for their separate claims; compared the final integrated output with prior controls. The new tiny face artifact is recorded despite successful headline repairs. No unnecessary skill rereading or peer12 inspection.",
+  "rulesNotApplicableWithReason": "UI timing, typography recipes, touch targets and compositor rules do not prescribe this raster's anatomy or material. No new browser, image generation, source edit or publication performed.",
+  "limits": [
+    "No human recognition, owner preference, emotional-response, animation, audio, night-version or website approval.",
+    "Local width images do not establish physical-device or actual GitHub-layout results.",
+    "This is one independent current12 judgment, not a pair/full18 outcome or approval of an unseen repair."
+  ],
+  "independence": "Saved before reading any peer12 findings. No substantive12 findings sent to peers; only root received my initial observations."
+}

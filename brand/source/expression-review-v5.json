@@ -1,0 +1,53 @@
+{
+  "scope": "24 V5 static expressions, each with day/night treatment",
+  "reviewers": [
+    {
+      "role": "Comic art",
+      "findings": "Resolved white lens/eye artifacts and concerned thinking mouth. Separated Curious/Happy/Aha; softened Focused; separated Surprise from Scared. All24day states preserve tiny innocent anatomy."
+    },
+    {
+      "role": "Character form",
+      "findings": "All24day states preserve small hands, stub feet, antenna identity and four wing panels. Reviewed18night counterparts show no visible anatomy or pose mismatch."
+    },
+    {
+      "role": "Animation and animatics",
+      "findings": "Rejected crown/temple reaches and torso stretching. Thinking lowers head to small mitten; frustration keeps hands belowruff and foot pivots without shin. Motion directions remain future-only."
+    },
+    {
+      "role": "Integration review",
+      "findings": "Inspected all24night gallery cells, anchor day/night pairs, mobile and desktop. Cleaned faint background alpha on two sheets. Neighboring-row antenna bleed removed from presentation via a3%bottom cell viewport inset."
+    }
+  ],
+  "checks": {
+    "selectedSheets": 8,
+    "expressions": 24,
+    "treatments": 2,
+    "sheetDimensions": "1536x1024;3columns2rows of512px",
+    "allStatesSelectable": true,
+    "onePressedState": true,
+    "keyboardNextPrevious": true,
+    "thumbnailFocusDestination": "Selected expression heading",
+    "galleryThemeSwitch": true,
+    "assetsLoadFailures": 0,
+    "viewportWidths": [
+      1440,
+      390,
+      320
+    ],
+    "horizontalOverflow": false,
+    "compactPreview": "96x96 CSS pixels per theme",
+    "reducedMotion": "No active animations",
+    "alpha": "Both cleaned sheets:24 sampled empty cellcorners per sheet have alpha0; visible matte removed in browser review.",
+    "manifest": "Source/asset checksums regenerated and verified"
+  },
+  "limitations": [
+    "Static drawings and future motion descriptions only; no articulated V5 motion is implemented.",
+    "128–160px cells recommended for full emotion range;96px requires context for subtle neighboring emotions.",
+    "No blinded user recognition study or memorability claim.",
+    "Four earlier sibling exports are retained iteration history; acting.json selects the current eight sheets.",
+    "No GitHub profile publication, website deployment or remote push performed."
+  ],
+  "proof": "brand/expressions/index.html",
+  "catalogue": "brand/expressions/acting.json",
+  "status": "Complete local expression study for review"
+}

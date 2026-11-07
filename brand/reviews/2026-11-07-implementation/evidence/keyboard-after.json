@@ -1,0 +1,17 @@
+{
+  "keys": [
+    {
+      "key": "ArrowRight",
+      "prevented": false,
+      "selected": "thinking"
+    },
+    {
+      "key": " ",
+      "prevented": false,
+      "selected": "thinking"
+    }
+  ],
+  "selected": "thinking",
+  "status": "Thinking · Still pose · press play",
+  "scrollY": 0
+}

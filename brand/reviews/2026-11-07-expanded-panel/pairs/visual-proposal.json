@@ -1,0 +1,60 @@
+{
+  "discipline": "Visual development",
+  "scope": "Proposed experiments and acceptance criteria; no new artwork approved.",
+  "individualJudgments": {
+    "A": "8.4/10, static materials/theme continuity; see independent/visual-a.json.",
+    "B": "null / not yet scored; preserve independent/visual-b.json."
+  },
+  "challenges": [
+    {
+      "claim": "B: conspicuous double antenna contour at header scale.",
+      "assessment": "Real boundary difference; not yet a demonstrated application failure. character.js:140\u2013148 places a 16-unit edge behind a 10-unit ink stroke, leaving roughly three units per side, at .85 night opacity (234). identity.png visibly shows the rim, but its repaired 96/128/160px stems and readme-390-night.png remain coherent. Compare quieter alternatives without sacrificing that connection."
+    },
+    {
+      "claim": "B: Grateful, Shy and Worried need hand/ruff separation.",
+      "assessment": "Accept the density observation; reject automatic separation. poses.png shows Worried already gains a clear lowered mitten while Grateful retains deliberate contact. character.js:130\u2013135,189\u2013194 explains the similarly weighted outlines. all-24.png supports a scrutiny target, not failed intention recognition. Assess the gesture before moving either hand."
+    },
+    {
+      "claim": "B: refinements must improve a specific reading problem; contour precedes material.",
+      "assessment": "Broaden the adoption criterion. The inspected raster has softly modelled cream and wing volume; current SVG uses simple gradients (90\u201396) and regular contours. A reversible material study may increase gentle appeal without repairing a defect. Require a named visible benefit and no regression; neither added texture nor simplification earns automatic credit."
+    }
+  ],
+  "agreements": [
+    "Preserve tiny anatomy, unequal paddles, four layered marked wings, shared geometry/poses and intact raster masters.",
+    "Keep successful antenna continuity and pose refinements as the comparison baseline.",
+    "No gratuitous grain, fur marks, broad glow or arbitrary contour simplification."
+  ],
+  "differences": [
+    "A gives an explicitly scoped 8.4; B withholds a score. Neither position changes through plan agreement.",
+    "B prioritizes contour/overlap; A additionally wants a controlled material study. Both can be evaluated without production changes."
+  ],
+  "prioritizedExperiments": [
+    {
+      "priority": 1,
+      "experiment": "Compare baseline, reduced whole-character rim, and a slightly quieter local antenna edge separately.",
+      "benefit": "Crisper night articulation and a less conspicuous large-size rim while preserving attached stems."
+    },
+    {
+      "priority": 2,
+      "experiment": "Compare one deliberate contact/separation treatment for Grateful, Shy and Worried; include unchanged Thinking as a control.",
+      "benefit": "Meaningful mitten gesture reads before necklace-like line density, without losing clasped tenderness."
+    },
+    {
+      "priority": 3,
+      "experiment": "Compare a restrained cream/forewing tonal-falloff variant at matched visible height; retain contours and no added texture.",
+      "benefit": "Softer, more tactile appeal while preserving the face-first hierarchy."
+    }
+  ],
+  "acceptanceCriteria": [
+    "Inspect original-size 32/48/64px avatars, 96/128/160px full figures and actual header placements in both themes; enlarge only to diagnose.",
+    "Keep geometry and numeric poses identical across themes; local paint/stroke changes may alter visible boundaries and must be acknowledged.",
+    "Name the visible clarity or appeal gain against baseline; reject variants with disconnected antennae, muddy hands, glossy cream or distracting halos.",
+    "Review matched poses plus continuous motion for any adopted pose or rendering change; preserve editable variants, evidence and raster originals.",
+    "Fresh independent A/B judgment is required for adoption. No nine, human recognition or final-art approval follows from this plan."
+  ],
+  "remainingObjections": [
+    "No substantive A objection to this scoped experiment plan. B confirmation remains outstanding; this is not yet joint agreement."
+  ],
+  "ADecision": "agree_with_named_nonblocking_limits",
+  "BDecision": "pending"
+}

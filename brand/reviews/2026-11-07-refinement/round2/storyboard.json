@@ -1,0 +1,71 @@
+{
+  "role": "Storyboard, animatic and comic staging director",
+  "challenges": [
+    {
+      "role": "Performance director",
+      "claimId": "PERF-R1",
+      "decision": "accept scope; revise implication of breadth",
+      "reason": "The family rule is not a narrative specification, but 42 compatible pairs do not require 42 bespoke performances. Fresh sad→angry frames show a useful extension: the updated face remains downcast at 0.200–0.367s before directing its protest outward, whereas the previous version briefly smiles.",
+      "evidence": [
+        "evidence/exact-case-2.png:0.200,0.367,0.667,0.967s",
+        "brand/animation-v5/motion.js:transitionFamilies and resolveFrame"
+      ],
+      "implication": "Keep the general mechanism. Author pair-specific changes only when an intended application demonstrates a contradictory intermediate intention."
+    },
+    {
+      "role": "Performance director",
+      "claimId": "PERF-R1: scared→relieved",
+      "decision": "retain as contextual question, not defect",
+      "reason": "The unchanged smile precedes an exhale in both versions. Unlike sad→worried, the destination explicitly permits recovery. Without the event that removed the fear, its appropriateness cannot be settled by a smile prohibition.",
+      "evidence": [
+        "evidence/exact-case-3.png:0.200–0.967s"
+      ],
+      "implication": "Do not suppress relief to satisfy emotional-family taxonomy. Judge its onset against the actual reassuring event if this pair enters a story."
+    },
+    {
+      "role": "Performance director",
+      "claimId": "PERF-R2",
+      "decision": "accept bounded conclusion",
+      "reason": "The source removes the mathematical mid-descent stop. Exact samples retain attached feet through descent, contact and recovery; the interruption samples show no detached limb or enlarged stance. They do not establish perceived weight at normal speed.",
+      "evidence": [
+        "evidence/exact-case-8.png:0.733–1.500s",
+        "evidence/exact-case-9.png:0.800–2.000s"
+      ],
+      "implication": "Keep the small hop. Rapid selection cancels intermediate performances: the brief angry command need not become a complete anger beat before worry. Do not queue extra acting merely to display every requested label."
+    },
+    {
+      "role": "Performance director",
+      "claimId": "PERF-R3",
+      "decision": "accept",
+      "reason": "Negative space serves intention, not a universal spacing rule. Joined grateful mittens contrast usefully with Focused’s two low hands and Thinking’s chin contact. Replay Thinking also avoids the old smile excursion while retaining its compact hand action.",
+      "evidence": [
+        "evidence/poses.png",
+        "evidence/exact-case-7.png:0.200–0.667s",
+        "full-video sampled frames:4.700s,33.266667s,48.233320s"
+      ],
+      "implication": "Retain these four revised poses. Further separation or anatomical growth is unwarranted by this evidence."
+    },
+    {
+      "role": "Visual development artist",
+      "claimId": "VIS-01 / V5-APPLICATION-COVERAGE",
+      "decision": "accept application boundary",
+      "reason": "The phone header keeps the moth connected and the name dominant. Full-reel samples 55.166667–86.400013s keep antenna tips, wing extremes and feet inside both panels. Protective overlap remains intentional; the night edge does not require extra scenery or glow.",
+      "evidence": [
+        "evidence/readme-390-night.png",
+        "evidence/identity.png",
+        "full-video/20261107-152235-heynag-v5-refined-emotions-dac69228/evidence.json:frames16–24"
+      ],
+      "implication": "Retain the local contour correction and current framing. Do not extend this approval to arbitrary raster backgrounds or tiny full figures."
+    }
+  ],
+  "ownPositionChanged": [
+    "The exact comparison adds sad→angry and replay Thinking to the inspected successful continuity cases.",
+    "Sampled full-reel output confirms the revised hand staging survives export; no new framing defect was found."
+  ],
+  "finalVerdict": "The concrete staging fixes are supported. No additional production correction is established by this cross-review. Preserve the tiny anatomy, concise actions and current static applications; keep emotional meaning tied to each eventual context.",
+  "limits": [
+    "Exact-case sheets are selected deterministic 30fps engine frames, not independently decoded video or continuous viewing. Full-reel citations refer to inspected decoded frames.",
+    "The first transition capture had timing gaps and is excluded from cadence judgments. The replacement export does not by itself establish perceptual polish.",
+    "No audience research or exhaustive transition approval is claimed."
+  ]
+}

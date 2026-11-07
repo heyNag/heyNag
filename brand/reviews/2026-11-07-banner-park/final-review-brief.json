@@ -1,0 +1,25 @@
+{
+  "stage": "Final scoped review of one common rendered DAY-SCENE CONCEPT. Honest judgment; no target numeric score and no pressure for agreement.",
+  "image": "assets/brand/banner-park/park-film-study-05-clawd-seated.png",
+  "sha256": "ca2c91c191081b0a097dbb66aa681e9eab6256eea6593571a267889de96ee771",
+  "previous": "assets/brand/banner-park/park-film-study-04-stools-and-play.png",
+  "identityReference": "assets/brand/heynag-moth-v5-refined.png",
+  "ownerIntent": [
+    "Polished Pixar/Disney-like animated-feature film still, original tiny innocent moth preserved.",
+    "Foreground exclusive moth coding on bench with silver Apple MacBook.",
+    "Muse and Grok share a leaf game directly in front of RESTING moth under tree: peaceful parent-resting/kids-playing staging metaphor, without aging moth.",
+    "Clawd and blue beret Dot SIT on two stools near workshop watching moth build.",
+    "Judge whether four guests fit rather than overload. Owner specifically selected this arrangement."
+  ],
+  "reviewTask": "Inspect actual common PNG with view_image. Give honest position advance_to_banner_testing / revise_before_banner_testing, visible reason, at most one concrete must-fix, named limits. It is acceptable to raise a defect; do not approve on the basis of previous opinions. Current scope is a concept, not live GitHub or finished animation. Save final-review/<role>-<a|b>.json <=150 words with reviewerId, evidenceSha256, position, reason, mustFix, limits, skillsUsed. First independently. Then compare/discuss with partner when available and explicitly record own paired recommendation. Do not hold an active slot waiting for an idle partner. Root will return for confirmation when needed.",
+  "limits": [
+    "No actual narrow GitHub preview of this new banner yet; do not claim one.",
+    "This generated raster is not a built 3D rig, full animation or matched night version.",
+    "AI panel judgments are not human-recognition or emotional-response data."
+  ],
+  "modelPreference": {
+    "model": "gpt-6-astra",
+    "reasoning": "ultra"
+  },
+  "status": "SUPERSEDED: owner cannot recognize Clawd in actual05. See clawd-recognition-correction.json. Do not continue actual05 advance votes."
+}

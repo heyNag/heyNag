@@ -1,0 +1,92 @@
+{
+  "reviewer": "Brand A — character brand director; personal voice and authentic work",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "date": "2026-11-07",
+  "independence": "Saved before reading the implementation review or score of Brand B. Read only my own expanded-panel brand-a history. No source files edited.",
+  "scope": "Implemented local V5 character and brand integration, especially the Investigate & share signature study, at the review-source-v1 character/motion/HTML/JS hashes. Static appearance, authored sequence intent and truthful project association are judged. Continuous normal-speed motion quality, stranger comprehension, recall and a deployed website are outside the supported score.",
+  "sourceVersion": "review-source-v1.json; signature.html, signature.js, motion.js and character.js SHA256 independently matched the listed hashes. UI hover/coarse-pointer refinements are pending a final-version addendum; this record does not pretend to inspect later source.",
+  "evidenceActuallyInspected": [
+    "AGENTS.md; brand/team.json Brand A role; implementation brief.json, review-source-v1.json, owner-preference.json and installed-skills.json",
+    "My own expanded-panel/independent/brand-a.json",
+    "Direct image viewing: evidence/signature-1440.png, signature-390.png, curious-investigate.png, curious-wry.png, paint.png, sizes-refined.png, poses.png, studio-390-single.png, mischievous-one-peek.png, excited.png and surprised.png",
+    "Full signature.html and signature.js; motion.js authored investigation/wry/one-peek definitions; source searches of studio/signature CSS and studio.js",
+    "README.md, brand/story.md, brand/source/applications-v5.json and implementation/project-cue.json",
+    "GitHub connector fetch_blob of heyNag/eva-md README blob 46c8eb5492e0c626e39f9cdda8ab357db912ed76: opening, How it works and Status paragraphs support Markdown/Git context continuity and qualify verification status",
+    "Evidence interaction.json, keyboard-after.json and layout-and-collection.json read as root-captured results, not as direct operation by this reviewer",
+    "Implementation/motion.json and evidence/comparison-export.json read as provenance and numeric scope; comparison.mp4 was not watched by a continuous-motion-capable tool"
+  ],
+  "score": {"outOf10": 8.2},
+  "scoreMeaning": "An editorial craft judgment of the inspected local brand application: a coherent, appealing and honestly situated implementation with a useful personal-fit choice, held below exceptional because the smallest application weakens the signature gesture and the story remains a general question more than a specific authored observation. This is not a calibrated audience result, an overall motion score or evidence that the prior unscored brand became numerically better. A target of 9 has no role in this score.",
+  "strengths": [
+    "The character has a subject now. What should software remember? and the persistent eva.md link connect the curious glance to a real project, so the scene asks something useful instead of merely advertising cuteness.",
+    "The investigation poses remain small and gentle. Glasses, a modest head turn and an open mitten are enough to express an invitation without changing the oversized head, compact body, paddle antennae, attached feet or layered wings.",
+    "The day and night paint sheets retain the same family. The quieter night treatment preserves an inviting cream face and identifiable antennae without making the moth into a glowing prop.",
+    "The project copy says exploring, not solved. The fetched README supports the mechanism and contains explicit live-verification limitations; the scene does not invent adoption, performance, an achievement or an anecdote.",
+    "The signature begins at a usable still; the question and destination stay available. The visible controls and inspected reduced-motion branch preserve a meaningful invitation when motion is absent.",
+    "Nag's explicit Investigate & share preference is relevant evidence for this being his personal identity. I support that as the lead local signature while keeping the wry and one-peek auditions labelled as studies.",
+    "The mobile studio's single-theme mode supplies a substantial character view. It is a meaningful improvement to inspection and ownership of the character, independent of any numerical test count."
+  ],
+  "deductions": [
+    {
+      "finding": "The 390px signature keeps the project cue to the character's right, but the moth is small enough that its offering mitten, gaze and consideration differences become secondary to glasses and silhouette. A reader can understand the project without reliably reading the proposed signature action.",
+      "confidence": "High for static visibility in the supplied phone screenshot; moderate for its effect during motion.",
+      "severity": "Nonblocking for the local study; a material criterion before using this exact composition as a principal phone introduction.",
+      "basis": "signature-390.png compared with signature-1440.png and sizes-refined.png; no continuous mobile playback inspected."
+    },
+    {
+      "finding": "The headline and supporting invitation establish warm curiosity, but they could fit many makers. The eva.md question adds genuine specificity; the scene still shows no single decision, example or useful observation that could make this recognizably Nag's way of investigating.",
+      "confidence": "High that this content is absent; moderate about the value of adding it in a future application.",
+      "severity": "Nonblocking for a bounded curiosity study; prevents calling this a completed authored project story.",
+      "basis": "signature.html, visible desktop/phone copy, brand/story.md and the richer first-person context in README.md. This does not demand a full case study inside the motion test."
+    }
+  ],
+  "improvementCriteria": [
+    "For a future phone introduction, compare actual-size compositions that preserve the cue's spatial relation while giving the character's look-back and presenting hand enough presence. Judge the still and normal-speed scene independently; do not enlarge the hands or otherwise alter the approved anatomy to solve layout.",
+    "Before treating this as a complete project story, add one sourced, first-person decision or observation with an honest status or verification limit. The linked eva.md README can supply a factual basis, but wording in Nag's voice should not fabricate a quote or experience.",
+    "Keep the owner-chosen Investigate & share lead and preserve a controlled comparison against the current curious feeling. A wry variation earns use only when its context benefits from the afterthought, not merely because it exists.",
+    "A stronger claim about recognition or distinctive behavior needs unprimed unfamiliar viewers and attribution/recall evidence; this reviewer cannot manufacture that from expert agreement.",
+    "Review the final UI-source delta and corresponding evidence before transferring this assessment to a new hash set."
+  ],
+  "confidence": "Moderate-high on local static brand coherence, truthful copy and source/pose consistency; moderate on authored brand intent; low on perceived real-time rhythm and unmeasured audience response.",
+  "implementedAssessment": {
+    "position": "agree_with_named_nonblocking_limits",
+    "accepted": "Accept the inspected implemented local direction and Investigate & share as the owner-preferred lead study. Preserve the tiny character and restrained silent behavior. No brand blocker is demonstrated in the supplied static/source evidence.",
+    "notClaimed": "No endorsement of normal-speed motion craft, no universal preferred performance, no complete website, no publication approval and no measured stranger comprehension or durable recognition."
+  },
+  "objections": [],
+  "limits": [
+    "No normal-speed perceptual viewing. Authored contact sheets and a 30fps export manifest are useful evidence of poses/provenance, not perception of continuous motion.",
+    "No unfamiliar human audience or delayed memory outcome.",
+    "Owner preference record supersedes the brief's earlier pending statement, but only for personal fit.",
+    "Browser evidence was captured by the root agent. This reviewer did not operate the browser, test native-menu keyboard commit, hear screen-reader output or use a physical phone.",
+    "The phone signature screenshot shows the scene but not the entire below-fold transport. No claim about the whole phone interaction follows from that crop.",
+    "The score concerns inspected brand application, not every one of the 24 emotions; the three studies are not 27 separately validated emotions."
+  ],
+  "skillsReviewed": {
+    "catalog": "Read all 17 entries in installed-skills.json for capability and applicability.",
+    "fullText": [
+      {"name": "emil-design-eng", "path": "/Users/nag/.config/skillshare/skills/emil-design-eng/SKILL.md", "use": "Purpose and frequency of motion, cohesive defaults, static/reduced-motion usability, touch hover, actual perceived experience beyond correctness."},
+      {"name": "prototype", "path": "/Users/nag/.config/skillshare/skills/prototype/SKILL.md", "use": "Assess the comparison workflow: named intent axes, working variants, real context, full-size inspection and explicit owner selection. Read for workflow improvement; did not invoke a new build exploration."}
+    ]
+  },
+  "workflowChanges": [
+    "Separate review lanes for the character's expressive performance and frequently used study controls. The keyboard path should respond promptly; that does not forbid a keyboard user from explicitly playing a character film.",
+    "Require a stated purpose for each brand movement and check that the same useful project information survives in the still. The existing finite, user-triggered approach fits this rule.",
+    "Use same-context, actual-size comparisons for owner choice, especially on the phone. Contact-sheet thumbnails are supporting pose analysis, not a substitute for evaluating a full scene.",
+    "Record the choice axis: warm invitation versus a restrained afterthought. Keep personal fit and unfamiliar-viewer response separate, with evidence type attached to each claim.",
+    "Root is adding hover/coarse-pointer polish discovered through the installed skills; require fresh final-source evidence instead of quietly carrying an old review forward."
+  ],
+  "uiReviewTable": "| Before | After | Why |\n| Hover and press feedback observed in v1 CSS without a fine-pointer gate | Inspect the pending fine-pointer/coarse-pointer polish at its final hashes | Touch feedback should not suggest a persistent hover; this is UI behavior, not a character redesign |\n| Thumbnail pose sheets can dominate discussion | Keep a full-size, same-content signature view beside source evidence | The brand is experienced in a scene, and scale changes what is legible |\n| A preference could be reported as general superiority | Record Nag's selected lead alongside unmeasured audience response | Personal fit is known; broader perception is not |",
+  "rulesNotApplicableWithReason": [
+    "Prototype is explicit-invocation-only and a divergence/build workflow. This task asks to review installed workflow options and an existing implementation, so no new picker or prototype cleanup was triggered.",
+    "Prototype's default of three genuinely different directions is not a reason to manufacture another character direction: these are controlled performance auditions with a shared opening, and the user already selected a lead.",
+    "Prototype's delete-after-choice rule does not override the repository's explicit preservation of historical review studies and source evidence.",
+    "Emil's sub-300ms rule concerns UI feedback. The 4.1-second authored investigation is the subject being watched, not a delayed button or navigation response.",
+    "Emil's keyboard-no-animation wording is applied to control/navigation feedback, not to denying keyboard users access to an explicitly requested character performance.",
+    "A blanket transform/opacity-only rule would remove expressive SVG facial and hand rendering. This review cannot assert compositor performance from that heuristic; the appropriate performance evidence belongs to the technical review.",
+    "No reason to add stagger, spring bounce, blur, a tooltip, or Sonner solely because a skill describes it. The inspected scene already has a bounded purpose and stable content.",
+    "animate-expo and write-swift target different stacks; ask-sonner targets an absent toast library; animation-vocabulary is naming help; pick-ui-library is explicitly invoked selection. These catalog entries do not alter this brand review.",
+    "animate, choreograph, animation-performance, review-animations, improve-animations, find-animation-opportunities, remove-animations, apple-design, mobile-native and break-ui may benefit their specialist or implementation lanes. This Brand A pass did not claim full-file review or run their workflows."
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "actual13-and-personal-story-v1",
+  "state": "Proposal only; all18 explicit votes and paired challenges pending",
+  "asset": "assets/brand/banner-park/park-film-study-13-muse-face-cleanup.png",
+  "assetSha256": "32ce62c11e533fcd3a7ab1856a102c7a31b9111d96c3fbf16df8d469b8f08469",
+  "readme": "README.md",
+  "readmeSha256": "a88ff0761cd9d7da1bb6d2ba5746612976ab52c7bc73156d32feb8a24418e90e",
+  "readmeFrozenCopy": "brand/reviews/2026-11-07-banner-park/whole-scene-13/README-reviewed.md",
+  "storySource": "brand/reviews/2026-11-07-banner-park/whole-scene-13/story-source.json",
+  "localPreviewEvidence": [
+    {
+      "path": "brand/reviews/2026-11-07-banner-park/whole-scene-13/profile-evidence/profile-light-1440.png",
+      "sha256": "44f1141c8b95e406d2c683a7362832b4617bee09aa3ed2d06db4f063a0034ccf"
+    },
+    {
+      "path": "brand/reviews/2026-11-07-banner-park/whole-scene-13/profile-evidence/profile-dark-1440.png",
+      "sha256": "255628e7cd14619f0e45cc736a53a23e9ddbf7ba1ce3e87034df7f5a062c0572"
+    },
+    {
+      "path": "brand/reviews/2026-11-07-banner-park/whole-scene-13/profile-evidence/readme-light-390.png",
+      "sha256": "335f847ac10aa1ff80f98ffd51235ce9382287bfd7b87883bb66c920aa17bfe2"
+    },
+    {
+      "path": "brand/reviews/2026-11-07-banner-park/whole-scene-13/profile-evidence/readme-dark-390.png",
+      "sha256": "d19c463bf02193c5c3a150894fc9eb48f163c5705a0aa1eb2eb755c3e9e1ecb8"
+    }
+  ],
+  "renderChecks": "brand/reviews/2026-11-07-banner-park/whole-scene-13/profile-evidence/render-checks.json",
+  "independentIntake": "brand/reviews/2026-11-07-banner-park/whole-scene-13/full-intake.json",
+  "recommendation": "Present actual13 as the reviewed day-scene and publish this personal-story README/banner to heyNag/heyNag within the owner’s explicit instruction. Preserve all individual image scores and named nonblocking limits. Do not claim unanimous9, audience validation or a night/animated counterpart.",
+  "scope": [
+    "Whole cinematic still and its GitHub README use",
+    "Native story text with emojis and unnamed public-project descriptions",
+    "Broad private-work themes only; no private project identifiers, code, incidents or employer-related story",
+    "No project-name showcase or nag-codes destination in README",
+    "Single unchanged day artwork in both GitHub themes",
+    "Downloads copy at original2172x724; no upscaling claim",
+    "Account avatar, bio, pins and org membership are separate settings; not represented as changed"
+  ],
+  "pairedChallengeProtocol": [
+    "Own independent13 record exists before reading peer findings.",
+    "Read counterpart13 initial, full intake and this exact proposal. Inspect all four new profile screenshots and frozen README; reuse actual13 image inspections honestly.",
+    "Challenge at least one concrete counterpart deduction or conclusion using actual evidence; distinguish mandatory defect from retained preference.",
+    "Send counterpart your concise challenge/position. Save a vote on this exact proposal, explicitly state the joint recommendation you can confirm and whether a substantive objection remains. No need to wait idle; root reconciles responses.",
+    "Retain your honest still-image score unless evidence changes it. New README readiness is a separate qualitative decision, not a retroactive score increase.",
+    "Approval requires explicit positions from all18 and both members of each pair; unresolved material objection prevents full consensus."
+  ],
+  "requiredVoteFields": [
+    "reviewer",
+    "assetSha256",
+    "proposalSha256",
+    "readmeSha256",
+    "decision",
+    "retainedImageScore",
+    "counterpartChallenge",
+    "pairRecommendation",
+    "profileReadiness",
+    "mustFix",
+    "limits",
+    "evidenceInspected",
+    "model",
+    "reasoning"
+  ],
+  "target": "GitHub README/banner publication and owner presentation. Not unrelated account settings."
+}

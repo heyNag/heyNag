@@ -1,0 +1,20 @@
+{
+  "discipline": "storyboard",
+  "state": "Both reviewers explicitly confirmed the same scoped recommendation.",
+  "recommendation": "Keep Investigate & share as the lead and the one-peek audition as an alternative. Continue challenging hand specificity, comic rhythm and the phone eyeline-to-question relation within the same anatomy.",
+  "discussionRecords": [
+    "pairs/storyboard-a-discussion.json",
+    "pairs/storyboard-b-discussion.json"
+  ],
+  "independentReviews": [
+    "independent/storyboard-a.json",
+    "independent/storyboard-b.json"
+  ],
+  "explicitConfirmations": [
+    "team-votes/storyboard-a.json",
+    "team-votes/storyboard-b.json"
+  ],
+  "proposal": "team-proposal-v2.json",
+  "proposalSha256": "4eef022ccecba73621ca188b29c13cbc41d08b5268ffeaa6e98e2c4c5ea08c5c",
+  "scorePolicy": "Individual scores remain separate; acceptance does not imply a 9/10 rating."
+}

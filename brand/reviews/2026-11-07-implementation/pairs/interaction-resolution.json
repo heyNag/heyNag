@@ -1,0 +1,20 @@
+{
+  "discipline": "interaction",
+  "state": "Both reviewers explicitly confirmed the same scoped recommendation.",
+  "recommendation": "Accept the native controls and v4 semantics for the local study. The report link must resolve. Native keyboard, spoken AT and phone validation remain separate.",
+  "discussionRecords": [
+    "pairs/interaction-a-discussion.json",
+    "pairs/interaction-b-discussion.json"
+  ],
+  "independentReviews": [
+    "independent/interaction-a.json",
+    "independent/interaction-b.json"
+  ],
+  "explicitConfirmations": [
+    "team-votes/interaction-a.json",
+    "team-votes/interaction-b.json"
+  ],
+  "proposal": "team-proposal-v2.json",
+  "proposalSha256": "4eef022ccecba73621ca188b29c13cbc41d08b5268ffeaa6e98e2c4c5ea08c5c",
+  "scorePolicy": "Individual scores remain separate; acceptance does not imply a 9/10 rating."
+}

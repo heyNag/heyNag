@@ -1,0 +1,20 @@
+{
+  "discipline": "performance",
+  "state": "Both reviewers explicitly confirmed the same scoped recommendation.",
+  "recommendation": "Keep the upward offering cup, quieter hand hierarchy and eyes-led phone attention within unchanged anatomy. Preserve intentional contact; tiny-size meaning and continuous felt timing remain separate judgments.",
+  "discussionRecords": [
+    "pairs/performance-a-discussion.json",
+    "pairs/performance-b-discussion.json"
+  ],
+  "independentReviews": [
+    "independent/performance-a.json",
+    "independent/performance-b.json"
+  ],
+  "explicitConfirmations": [
+    "team-votes/performance-a.json",
+    "team-votes/performance-b.json"
+  ],
+  "proposal": "team-proposal-v1.json",
+  "proposalSha256": "db064ee23559e695e350ddc47e86c77380776554e6bb3a5a43eeadd8b18bd5f3",
+  "scorePolicy": "Individual scores remain separate; acceptance does not imply a 9/10 rating."
+}

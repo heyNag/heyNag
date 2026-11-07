@@ -1,0 +1,14 @@
+{
+  "stage": "Owner-directed four-guest study with workshop stools and tree-local leaf play; not published.",
+  "tool": "Built-in image_gen",
+  "prompt": "brand/reviews/2026-11-07-banner-park/film-stools-prompt.txt",
+  "editTarget": "assets/brand/banner-park/park-film-study-03-four-guests.png",
+  "output": "assets/brand/banner-park/park-film-study-04-stools-and-play.png",
+  "dimensions": [
+    2172,
+    724
+  ],
+  "sha256": "8a26a421bb9a252871dfc8e1a46c56c44307ee9648884e73d4304b92348f661f",
+  "bytes": 2358990,
+  "ownerIntent": "Muse and Grok play in front of the resting moth like kids while a parent rests; keep moth original tiny design. Clawd and Dot sit on stools watching workshop. Coding foreground stays only Nag."
+}

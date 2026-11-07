@@ -1,0 +1,95 @@
+{
+  "brand": "heyNag",
+  "person": {
+    "preferredName": "Nag",
+    "fullName": "Nagarjuna Boddu",
+    "professionalContext": "Works in software; no more specific title has been established."
+  },
+  "domain": {
+    "display": "heyNag.com",
+    "host": "heynag.com",
+    "status": "Owned by Nag; portfolio website not built or deployed."
+  },
+  "priorities": [
+    "Long-term personal identity",
+    "Curiosity, fun and emotional connection",
+    "Nag and his real work remain central",
+    "GitHub first, future website shares the same system",
+    "Readable, coherent light and dark applications",
+    "Preserve the tiny innocent character before developing expressions, motion or scenes"
+  ],
+  "activeStage": "Refined V5 applications and articulated motion: 24 finite performances, standing specialist review",
+  "stageOrder": [
+    "Character construction and light/dark review",
+    "Expressions and motion adapted to the tiny anatomy",
+    "Scenes, weather and holidays"
+  ],
+  "userDescribedPersonality": [
+    "Fun",
+    "Talkative",
+    "Curious",
+    "Geeky",
+    "Playful and mischievous"
+  ],
+  "userRequestedPerformances": {
+    "thinking": "Glasses; one arm folded across the body supporting the opposite elbow; other hand under the chin; slight chin movement and one foot tapping.",
+    "idea": "A small lightbulb above the character, a brief glow, and an aha expression.",
+    "meditation": "Seated beneath a tree, calm hold and breath; a breeze gently moves antennae and a few background leaves; one eye half-opens to look around, followed by a mischievous return to composure."
+  },
+  "performanceStatus": "The static expression library remains in brand/expressions/. The separate native SVG rig in brand/animation-v5/ animates all24 established emotions, including independent hand, face, antenna, foot, and four-panel wing movement. Scenes, weather, and holidays remain later.",
+  "creativeDirection": {
+    "candidate": "V5 tiny innocent moth; favored foundation under precision review",
+    "foundation": "assets/brand/heynag-moth-v5.png",
+    "refinementCandidate": "assets/brand/heynag-moth-v5-refined.png",
+    "nightCandidate": {
+      "path": "assets/brand/heynag-moth-v5-night.png",
+      "status": "Reviewed candidate, local draft; final user approval and public release are not implied"
+    },
+    "reviewLocation": "brand/character-proof/index.html",
+    "visualReview": "Original refined day/night raster candidates retain tiny anatomy. Current vector applications add a circular-safe V5 head avatar, V5 headers, and a local night antenna keyline. Review evidence: brand/reviews/2026-11-07-refinement/.",
+    "proportions": "Big soft head, tiny rounded body, tiny mitten hands, and stub feet immediately below the body. No long shins, enlarged hands, taller torso or adult hip stance.",
+    "wings": "Layered pale forewings overlap richer green hindwings with distinct tips and subtle green markings. Preserve the compact envelope; do not return to the V2 cape.",
+    "earlierStudies": "V2 headers, avatar, pose lab and derived rig remain historical. Current V5 applications derive from the native vector rig, not pixel-identical raster texture.",
+    "signature": "The long antenna reveals fascination before the face has composed the explanation.",
+    "palette": [
+      "#1C1C1C",
+      "#F1F1EF",
+      "#A8C84B"
+    ],
+    "night": "Same tiny anatomy, innocent face, palette relationships and wing markings, with restrained edge contrast as needed on dark ground. No new glowing character or added scene."
+  },
+  "personalReference": {
+    "context": "Nag proposed a subtle meditation wink to the philosopher who shares his first name. This does not establish religious identity or practice.",
+    "history": "N\u0101g\u0101rjuna, c.150\u2013250CE, is called the second Buddha in some Mahayana traditions; he was not the historical Buddha's second direct disciple.",
+    "sources": [
+      "https://iep.utm.edu/nagarjun/",
+      "https://plato.stanford.edu/entries/nagarjuna/"
+    ]
+  },
+  "status": "V5 is the favored foundation. Refined day and matching night are reviewed candidates and local drafts; no final user approval or public release is implied.",
+  "expressionLibrary": {
+    "path": "brand/expressions/index.html",
+    "catalogue": "brand/expressions/acting.json",
+    "states": 24,
+    "treatments": [
+      "day",
+      "night"
+    ],
+    "format": "Four transparent six-pose sheets per theme; static drawings",
+    "recommendedCellSize": "128\u2013160px; 96px with context",
+    "source": "brand/source/expressions-v5.json"
+  },
+  "motionStudio": {
+    "path": "brand/animation-v5/index.html",
+    "source": "brand/animation-v5/character.js",
+    "timelines": "brand/animation-v5/motion.js",
+    "states": 24,
+    "treatments": [
+      "day",
+      "night"
+    ],
+    "status": "Local vector interpretation of the V5 raster reference; no public deployment",
+    "wingDirection": "Distinct held emotional postures, connected fore/hind panels, brief finite movement, quiet wings during thought and focus"
+  },
+  "standingTeam": "brand/team.json"
+}

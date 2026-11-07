@@ -1,0 +1,141 @@
+{
+  "reviewer": "storyboard-a",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "lens": "Whole-frame visual storytelling and setup/payoff: composition, depth, silent staging, motivated poses and environment integration",
+  "sourceSha256": "87943e3c1452d40b1ac535ea5bbcefa6e7676cee77165eef2d77ce5c67a32569",
+  "independence": "Initial whole-scene judgment saved before reading any new peer finding. Earlier narrow concept, stool and eye guidance does not pre-approve this image.",
+  "evidenceInspected": [
+    "Read AGENTS.md, whole-scene-11/brief.json, current storyboard A/B role record in brand/team.json and brand/workflow.json.",
+    "Independently computed the SHA-256 of assets/brand/banner-park/park-film-study-11-flat-grok-eyes.png; it matches the brief.",
+    "Direct view_image: assets/brand/banner-park/park-film-study-11-flat-grok-eyes.png and park-film-study-07-clawd-plush.png; full images displayed at 2048x683 from 2172x724 sources.",
+    "Direct view_image: assets/brand/heynag-moth-v5-refined.png.",
+    "Direct view_image: whole-scene-11/evidence/scene11-width-1280.png, scene11-width-880.png and scene11-width-420.png.",
+    "Direct view_image: whole-scene-11/evidence/scene11-hero-native.png and scene07-hero-native.png.",
+    "Direct view_image: whole-scene-11/evidence/scene11-workshop-native.png and scene07-workshop-native.png.",
+    "Direct view_image: whole-scene-11/evidence/scene11-tree-play-native.png.",
+    "Direct view_image: muse-review/evidence/11-companion-inspection-enlarged.png, the supplied 5x eye inspection."
+  ],
+  "initialWholeSceneVerdict": "revise",
+  "score": {
+    "value": 8.3,
+    "scope": "Current 11 as one silent animated-feature-inspired still: visual hierarchy, continuous park composition, action grouping, spatial storytelling and material clarity supporting those jobs. This is a fresh whole-scene craft score, not a revision of the earlier static GitHub profile score and not a motion score.",
+    "confidence": "High for observed layout and 07/11 material differences; moderate for inferred action relationships and the subjective craft score.",
+    "deductions": [
+      {
+        "name": "Surface complexity weakens the scene's material and attention hierarchy",
+        "weight": "principal deduction; visible whole-scene defect",
+        "location": "Foreground moth face, wings and spectacles; bench planks and knitted throw; central path; left tree and workshop canopy/table",
+        "finding": "11 carries much more angular, mottled and irregular surface treatment than 07. Similar small patches and bright contour interruptions recur across soft character forms, wood, stone and foliage. In the native hero crop the spectacles and wing boundary are less clean, while the blanket's weave is less orderly. In the workshop crop the table, canopy and surrounding vegetation gain busy faceted accents. The effect is visible in the full frame and at 1280/880, so it is not merely an extreme-magnification complaint. It makes the whole scene feel more uniformly processed and reduces the separation between the intended soft characters, supporting set and distant environment."
+      },
+      {
+        "name": "The workshop relationship remains more presented than exchanged",
+        "weight": "secondary, nonblocking story limitation",
+        "location": "Center-left builder, toolbox and two stool guests",
+        "finding": "The hammer, box and seated audience establish the activity. The builder's new tilt and low free mitten add friendliness, but the mitten does not clearly indicate a specific box detail, and the mostly frontal faces still read partly as a group presenting to the viewer. Dot's orientation helps. This is adequate as a warm park tableau, less precise as a captured moment of showing the guests how something works. It is not a reason to hide Clawd's accepted square eyes or invent finger-pointing."
+      },
+      {
+        "name": "Small-scale story becomes broad activity rather than interaction",
+        "weight": "minor application ceiling; not a request to enlarge the cast",
+        "location": "420-wide local scale, particularly tree leaf and stool guests",
+        "finding": "The foreground coder, tree moth and workshop still separate, but the tiny leaf exchange and exact watching relationship are difficult to resolve. The scene retains a coherent atmosphere and dominant moth; the specific secondary comedy cannot be treated as reliably communicated at that size."
+      }
+    ],
+    "criteriaForNine": [
+      "Recover the cleaner material separation and stable contours demonstrated in 07 while preserving the chosen four-guest staging, current approved eye forms and tiny moth construction. Judge the entire image, not only repaired crops.",
+      "Keep background texture and isolated highlights subordinate enough that the three activity groups read before surface sparkle at 1280 and 880; preserve the open path and foreground lead at 420 without enlarging the cameos.",
+      "For a stronger story payoff, make the existing toolbox action and at least one guest's attention converge on the same visible feature through a small pose/contact cue. Preserve recognizable Clawd and simple mitten anatomy. This is a refinement criterion, not permission for a broad pose redesign.",
+      "A nine remains a judgment of an inspected result, not a promised score for agreeing to these criteria."
+    ]
+  },
+  "strengths": [
+    "The large right-hand coding moth remains the unmistakable compositional lead. The bench, laptop, oversized head and glasses form one clear foreground mass; none of the four guests enters that scene.",
+    "The winding path supplies depth and breathing room between the foreground bench and left/middle activities. The tree arch and workshop canopy frame different spaces without dividing the panorama into panels. The lake and bridge extend the park beyond the cast.",
+    "The four cameos function as two small groups rather than four independent attractions. Muse and Grok share one leaf locally below the resting moth; Clawd and Dot have two readable stools beside the workshop. The requested parent-and-playing-children metaphor comes from spatial grouping, without aging or enlarging the moth.",
+    "The repeated moth remains recognizably the same oversized-head, compact-body character across coding, making and resting. Seated posture and normal occlusion do not require every wing to be displayed frontally. No new human-length limbs are needed for the scene.",
+    "Warm directional light, contact shadows, softened distant forms and blurred foreground foliage still provide a coherent dimensional foundation. The material regression is repairable within that established composition; it does not require a new park or more props.",
+    "Silent action is carried by visible objects and relationships: hand at keyboard, hammer with toolbox, stools facing a workshop area, resting pose and shared leaf. The image does not depend on dialogue, extra text or sound.",
+    "The enlarged companion crop shows dark Muse eyes and flat white Grok ovals without a visible internal pupil. That inspected correction is useful but does not settle the whole-frame quality judgment."
+  ],
+  "mustFix": [
+    {
+      "id": "SB-A-WS11-01",
+      "priority": "required before describing 11 as a finished whole-scene result",
+      "location": "Whole image, especially the native hero and workshop areas compared against 07",
+      "defect": "The pervasive mottled/faceted texture and unstable contour detail reduce soft-form clarity and material differentiation across the picture. This is a visible regression relative to 07, not an assumed consequence of a particular editing process.",
+      "repairCriterion": "Restore clean, deliberate material boundaries and calmer supporting surfaces while retaining the selected scene and current character corrections. Soft moth forms, woven blanket, wood and stone should read as different materials, with detail supporting the focal order. Do not solve this by flattening all texture or by broadly redesigning the cast.",
+      "verification": "Compare the complete frame with 07, then verify the native hero/workshop/tree details and 1280/880/420 scales. Preserve the existing 5x eye check so a whole-image cleanup does not silently undo the corrected companion eyes."
+    }
+  ],
+  "optional": [
+    {
+      "name": "Clarify the builder-to-toolbox invitation",
+      "criterion": "If one bounded acting refinement is retained, let the free mitten relate visibly to the near box edge while Dot attends. Keep Clawd's face and seated plush construction intact. This is secondary to recovering material clarity and should not justify another broad image reinterpretation."
+    },
+    {
+      "name": "Keep the tree joke quiet",
+      "criterion": "The leaf group and resting silhouette already support the requested relationship. A tiny downward attention cue could sharpen it, but no larger reaction, new prop or adult-looking moth is warranted. Do not keep chasing micro-gaze at the cost of the whole image."
+    }
+  ],
+  "baselineComparison": "07 has the same strong park layout, guest count and foreground hierarchy. Its hero face and spectacle edges, blanket weave, bench boards and workshop forms read more cleanly as differentiated dimensional materials. 11 is brighter and more extensively patterned, with stronger scattered highlights and a changed builder tilt/free-hand pose. The current leaf contact and repaired companion eyes are specific useful details to preserve; they do not outweigh the broader clarity regression. This is a direct visual comparison, not a claim that every changed pixel or exact edit mechanism was audited. 07 is a control, not a wholesale replacement instruction.",
+  "skillsReviewed": [
+    {
+      "name": "choreograph",
+      "path": "/Users/nag/.agents/skills/choreograph/SKILL.md",
+      "intake": "Full skill previously read in this conversation; reused",
+      "application": "Lead/support hierarchy and grouping: one foreground lead, two supporting attention groups, a clear path and environmental space that connects them. No timing rules inferred from the still."
+    },
+    {
+      "name": "review-animations",
+      "path": "/Users/nag/.agents/skills/review-animations/SKILL.md",
+      "intake": "Full skill and STANDARDS.md previously read; evidence discipline reused",
+      "application": "Approval must follow the actual complete result. A repaired detail cannot pre-approve unrelated areas, and proposed improvements receive no score before inspection."
+    },
+    {
+      "name": "animation-vocabulary",
+      "path": "/Users/nag/.agents/skills/animation-vocabulary/SKILL.md",
+      "intake": "Full skill previously read; terminology reused",
+      "application": "Distinguish a posed scene, inferred attention, implied action and actual continuous performance. Only the first three are available here."
+    },
+    {
+      "name": "emil-design-eng",
+      "path": "/Users/nag/.agents/skills/emil-design-eng/SKILL.md",
+      "intake": "Full skill previously read in the GitHub round; reused",
+      "application": "Purposeful restraint, coherent default presentation, actual visual evidence and one controlled change against a preserved baseline. More detail is not automatically more polish."
+    }
+  ],
+  "workflowChanges": [
+    "Inspect the whole frame before the requested micro-fix, then return to the full frame after native and enlarged checks. This prevents a correct pair of eyes from concealing regression elsewhere.",
+    "Use matched baseline/current crops to distinguish visible material changes from a vague preference for one version.",
+    "Separate required defects, optional story refinements and small-scale information limits. Do not enlarge every guest or add props merely to force subtle comedy into a tiny banner.",
+    "Carry forward the exact approved anatomy and corrected eye shapes while reviewing environmental clarity; local success and whole-image coherence need separate evidence."
+  ],
+  "rulesNotApplicableWithReason": [
+    "Animation duration, easing, stagger, compositor performance and interruption rules do not apply to a single raster still.",
+    "A static image cannot establish perceived comic timing, sound quality, frame continuity or a working rig.",
+    "The supplied 1280/880/420 files are local scales, not GitHub layout, physical-device or assistive-technology evidence.",
+    "This specialist review does not authorize art edits, additional agents, publication or an automatic extra review round; the root consolidates the existing evidence and findings."
+  ],
+  "limits": [
+    "No human recognition, attribution, affection, comprehension or recall was measured. Descriptions of hierarchy and story are specialist readings, not audience results.",
+    "No new motion, sound, website interaction or night treatment was inspected or scored.",
+    "Companion identity is assessed here only against the explicit visible-feature constraints in the brief; this is not a fresh recognizable-likeness audit against every original companion reference.",
+    "The 5x crop supports the stated eye observation at the supplied inspection scale; it is not an exhaustive pixel-purity or asset-production certification.",
+    "No whole-team approval or finished-art claim follows from this independent record."
+  ],
+  "pairDiscussion": {
+    "partnerReview": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/storyboard-b.json",
+    "readAfterOwnInitialSave": true,
+    "agreement": "Both recommend revise for observed material/contour regression while retaining the selected scene and its legible activity groups. B explicitly accepted the shared bounded direction in its record and direct message; A explicitly confirms that recommendation here and by return message.",
+    "partnerChallenge": "Calmer surfaces must not mean uniform blur or flattening. Retain distinct wood, weave and foliage, and preserve useful current leaf staging.",
+    "response": "Accepted. The remedy is coherent material-specific detail and stable contours, not reduced richness everywhere. My initial repair criterion already rejected flattening all texture; B's qualification makes that bound explicit in our shared recommendation.",
+    "exactSharedRecommendation": "Preserve the selected composition, four guests and stools, solo foreground coder, tiny anatomy and corrected eyes. Recover clean material and contour differentiation using07 as a control, while retaining distinct materials and useful current story details. Keep further micro-acting optional.",
+    "AExplicitlyAccepted": true,
+    "BExplicitAcceptanceEvidence": "B independent record pairDiscussion.exactRecommendationAcceptedByB and direct message to A; no proxy vote supplied by A.",
+    "scoresRetained": {"storyboard-a": 8.3, "storyboard-b": 8.4},
+    "scoreDifference": "B gives the presently legible activity groups slightly more weight. Both scores remain honest judgments of the same existing still; no convergence or unbuilt-result score is required.",
+    "consolidatedPlanDistinction": "A accepts proposal W2 as required construction clarity after rechecking the current native workshop crop: a solid tiny mitten must visibly wrap the handle. This is distinct from optional invitation/gaze refinements and does not demand mallet-to-box contact during anticipation. B was sent this clarification; B's separate exact-proposal vote remains its own responsibility.",
+    "remainingSubstantivePairDisagreements": [],
+    "boundary": "Pair agreement is on a correction direction. It is not finished-art approval, a new score or the other reviewer's consolidated-plan vote."
+  }
+}

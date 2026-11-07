@@ -1,0 +1,24 @@
+{
+  "stage": "Local eye correction, actual full-scene export awaiting affected-pair final verification.",
+  "tool": "Built-in image_gen",
+  "editTarget": "assets/brand/banner-park/park-film-study-10-clean-companion-eyes.png",
+  "correctedDetailReference": "brand/reviews/2026-11-07-banner-park/muse-review/evidence/grok-flat-eyes-detail.png",
+  "promptSet": [
+    "brand/reviews/2026-11-07-banner-park/film-grok-detail-prompt.txt",
+    "brand/reviews/2026-11-07-banner-park/film-grok-integration-prompt.txt"
+  ],
+  "output": "assets/brand/banner-park/park-film-study-11-flat-grok-eyes.png",
+  "dimensions": [
+    2172,
+    724
+  ],
+  "sha256": "87943e3c1452d40b1ac535ea5bbcefa6e7676cee77165eef2d77ce5c67a32569",
+  "bytes": 2554635,
+  "rootInspection": {
+    "actualNativeCrop": "brand/reviews/2026-11-07-banner-park/muse-review/evidence/11-companion-inspection.png",
+    "actualMagnifiedCrop": "brand/reviews/2026-11-07-banner-park/muse-review/evidence/11-companion-inspection-enlarged.png",
+    "method": "Source crop at x300,y430,width190,height120; then 5x inspection enlargement. These are diagnostic derivatives, not altered banner assets.",
+    "observed": "Both Grok eye interiors appear uninterrupted cream-white at native and magnified size; no residual10 brown central spot visible. Muse remains tiny, with dark eyes and same leaf play.",
+    "limits": "Generation can redraw textures outside requested edit; not pixel-identical. Narrow correction evidence only; no whole-brand, motion, phone, GitHub or owner approval."
+  }
+}

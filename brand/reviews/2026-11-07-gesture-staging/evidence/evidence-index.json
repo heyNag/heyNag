@@ -1,0 +1,28 @@
+{
+  "sourceManifest": "../review-source-v1.json",
+  "sourceManifestSha256": "d5abc24f90f9539bfddb0223da42392fb31c9321ab7c962aa98c893ff3789e0e",
+  "currentEvidence": [
+    "all-tests.txt",
+    "browser-checks.json",
+    "keyboard-controls.json",
+    "geometry.json",
+    "attention-browser.json",
+    "hands-day.png",
+    "hands-night.png",
+    "offer-sequence-day.png",
+    "offer-sequence-night.png",
+    "all-current.png",
+    "comparison.html",
+    "comparison.mp4",
+    "comparison-export.json",
+    "full-reel-export.json",
+    "rigging-b-replay-envelope.json"
+  ],
+  "film": "../../../../assets/brand/preview/heynag-v5-gesture-emotions.mp4",
+  "limits": [
+    "Deterministic30fps film is authored engine output; no physical-device cadence or subjective continuous-motion certification.",
+    "Phone comparison film uses measured390px bearing in simplified composition. Actual DOM evidence is attention-*.png and browser-checks.json.",
+    "Neutral audience comprehension and delayed recall are unmeasured."
+  ],
+  "replayDiagnostic": "2,136 cases /429,336 numeric samples:finite and inside renderer\u00b16. Replay carry can pass nominal engine\u00b15 (maxabs5.1401); no strict\u00b15 final-pose claim. Numerical diagnostic, not perceived smoothness."
+}

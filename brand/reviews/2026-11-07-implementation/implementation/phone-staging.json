@@ -1,0 +1,9 @@
+{
+  "finding": "Independent brand/performance/identity reviewers found side-by-side phone figure too small to read tiny sharing gesture.",
+  "experiment": "Move fixed project question above/right, display unchanged moth below/left. Gaze remains toward upper-right question before return.",
+  "evidence": "evidence/signature-390-portrait-study.png",
+  "adoption": "Portrait mobile layout with slightly more air between link and antenna than experiment. Same character anatomy, rig and numeric motion.",
+  "observedBenefit": "Roughly doubled visible figure width (~105px to~200px); presenting mitten and glasses more discernible. Question/link readable.",
+  "tradeoff": "Taller scene; scroll needed to reach playback controls from page top. No audience-comprehension or native-phone claim.",
+  "skills": "prototype matched alternatives and mobile-native actual capability vs viewport distinction"
+}

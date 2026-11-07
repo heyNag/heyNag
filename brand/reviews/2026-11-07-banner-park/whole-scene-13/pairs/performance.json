@@ -1,0 +1,67 @@
+{
+  "discipline": "performance",
+  "proposalSha256": "710168aea494893968a89809edc6034930e39c8ed9a0147919b3aac04c04cce5",
+  "assetSha256": "32ce62c11e533fcd3a7ab1856a102c7a31b9111d96c3fbf16df8d469b8f08469",
+  "readmeSha256": "a88ff0761cd9d7da1bb6d2ba5746612976ab52c7bc73156d32feb8a24418e90e",
+  "state": "Both members explicitly confirm the same scoped recommendation after reciprocal challenge; individual scores and limits retained",
+  "members": [
+    {
+      "reviewer": "performance-a",
+      "decision": "agree_with_named_limits",
+      "score": 8.8,
+      "vote": "brand/reviews/2026-11-07-banner-park/whole-scene-13/votes/performance-a.json",
+      "explicitRecommendation": {
+        "explicitlyConfirmedByA": true,
+        "recommendation": "Present exact actual13 as the reviewed day-scene, provide its original 2172×724 Downloads copy, and publish the frozen personal-story README/banner to heyNag/heyNag within the owner's explicit instruction. Preserve the individual image scores and nonblocking limits. Use the same unchanged day art in both themes; make no claim of a night or animated counterpart, audience validation, upscaling, or changes to separate account settings.",
+        "counterpartConfirmation": "Resolved: read votes/performance-b.json and B’s direct reply explicitly confirming this exact proposal. A acknowledged B’s scale clarification directly. Both retain 8.8 and confirm the same recommendation with no substantive objection.",
+        "scope": "Actual13 and the exact frozen README on this proposal hash.",
+        "jointRecommendationConfirmed": true,
+        "individualImageScores": {
+          "performance-a": 8.8,
+          "performance-b": 8.8
+        }
+      },
+      "counterpartChallenge": {
+        "counterpart": "brand/reviews/2026-11-07-banner-park/whole-scene-13/independent/performance-b.json",
+        "agreement": "Both independent reviews found W1 and W2 resolved, no must-fix or new regression, and 8.8 readiness for owner review. Fine reciprocal intention remains a nonblocking limitation.",
+        "challenge": "B's outward-smile-versus-absorbed-screen-attention deduction should not become a profile-readiness defect. In the new actual previews, the outward smile supports 'Hey, I’m Nag' and 'Glad you wandered in'. The frozen text also states that the moth represents building, wondering and taking a breather, so the 308px banner need not communicate the full metaphor through tiny gestures.",
+        "evidence": [
+          "profile-evidence/profile-light-1440.png",
+          "profile-evidence/profile-dark-1440.png",
+          "profile-evidence/readme-light-390.png",
+          "profile-evidence/readme-dark-390.png",
+          "README-reviewed.md"
+        ],
+        "distinction": "The application gives the greeting a clear purpose; it does not prove absorbed coding, detailed shared play or audience comprehension. Keep the original image deduction and score without requiring a new gaze, enlarged guests or anatomy changes.",
+        "communication": "Initial challenge sent directly to B; B’s exact-proposal vote and direct reply subsequently received and read. A then sent explicit acceptance of B’s scale clarification.",
+        "remainingSubstantiveObjectionFromA": false,
+        "counterpartCounterchallenge": "Do not transfer the independent 420px local-scale observation into proof of exact micro-actions or the same-person metaphor at the actual 308px profile banner. Native text supplies interpretation; it does not improve literal acting or establish visitor comprehension.",
+        "actualAcknowledgment": "Accepted. The actual 308px preview supports the dominant coder and park greeting, while precise code/build/rest relations, guest gestures and the same-person metaphor are not visually certified at that width. Native prose carries the explicit story. This clarification changes neither my joint recommendation nor my retained 8.8 image score."
+      }
+    },
+    {
+      "reviewer": "performance-b",
+      "decision": "agree_with_named_limits",
+      "score": 8.8,
+      "vote": "brand/reviews/2026-11-07-banner-park/whole-scene-13/votes/performance-b.json",
+      "explicitRecommendation": {
+        "confirmedByThisReviewer": true,
+        "recommendation": "Present actual image 13, provide the original 2172 × 724 image in Downloads, and publish the frozen personal-story README/banner to heyNag/heyNag within the owner's explicit authorization. Keep individual image scores and named nonblocking limits; no further gaze, guest-size or anatomy change is required.",
+        "counterpartPosition": "A directly confirmed support for this exact proposal with retained 8.8 and no substantive objection. My confirmation and concrete scale clarification were sent directly in return.",
+        "sharedBoundaries": "Greeting warmth fits the profile. Native prose carries the personal metaphor and broad work themes; miniature guest acting remains optional. Publication and the Downloads copy are actions for root to carry out and verify, not completed by this vote."
+      },
+      "counterpartChallenge": {
+        "counterpart": "performance-a",
+        "initialRead": "brand/reviews/2026-11-07-banner-park/whole-scene-13/independent/performance-a.json",
+        "receivedChallenge": "A argued that the outward smile supports 'Hey, I’m Nag' and 'Glad you wandered in' in this application, so the absorbed-coding reservation must not become a profile defect or forced gaze change.",
+        "response": "Accepted. All four previews support this welcome. Keyboard/laptop contact already identifies computing, and the first-person text explicitly connects the character to Nag.",
+        "myConcreteChallenge": "A's independent observation that three zones survive a 420px local scale must not be transferred into a claim that exact micro-actions or the same-person metaphor are visually established at the actual 308px-wide phone banner. In the new previews the hero and park remain clear, but guest hand/leaf exchanges are tiny. Native text carries the intended interpretation; it is not evidence of improved literal acting or measured visitor comprehension.",
+        "exchange": "Sent A the challenge, acceptance of the greeting interpretation, retained 8.8 and explicit confirmation of this exact proposal.",
+        "remainingSubstantiveObjections": []
+      }
+    }
+  ],
+  "remainingSubstantiveObjections": [],
+  "scope": "Present actual13 as the reviewed day-scene and publish this personal-story README/banner to heyNag/heyNag within the owner’s explicit instruction. Preserve all individual image scores and named nonblocking limits. Do not claim unanimous9, audience validation or a night/animated counterpart.",
+  "limits": "Pair recommendation does not supply any other specialist’s vote, prove human outcomes or claim publication has already happened."
+}

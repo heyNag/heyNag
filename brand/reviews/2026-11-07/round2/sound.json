@@ -1,0 +1,72 @@
+{
+  "role": "Sound designer \u2014 adversarial cross-review",
+  "challenges": [
+    {
+      "role": "Character performance",
+      "claimId": "PERF-03 / PERF-04",
+      "decision": "Accept with narrower test interpretation",
+      "reason": "Unlabelled silent intention tests can reveal which microbeats communicate in context. They cannot prove charm, personal attribution or lasting affection, and neither exact emotion naming nor recognition of every toe tap is necessary. A subtle beat may contribute texture without being consciously identified.",
+      "evidence": [
+        "round1/performance.json:PERF-03,PERF-04",
+        "evidence/thinking-sequence.png:2590ms",
+        "evidence/curious-sequence.png:320,1160ms"
+      ],
+      "implication": "Measure understanding of the relevant situation first; do not add explanatory audio because a viewer misses a secondary motion."
+    },
+    {
+      "role": "Storyboard",
+      "claimId": "STORY-01 / STORY-05",
+      "decision": "Accept priority; reject a Foley obligation",
+      "reason": "A verified fragment can motivate attention, but the existence of a prop does not earn a sound. A screenshot, thought or quiet glance may have no useful audible cause. Nag\u2019s actual question and contribution should exist before either an animated payoff or an emotional bell is commissioned.",
+      "evidence": [
+        "round1/storyboard.json:STORY-01,STORY-05",
+        "brand/story.md:One question through the scene",
+        "brand/world.md:Real project fragment"
+      ],
+      "implication": "Board the truthful silent account first. Add contact Foley only if a depicted physical event benefits from it; keep entirely silent scenes valid."
+    },
+    {
+      "role": "Interaction",
+      "claimId": "IX-05",
+      "decision": "Revise coverage language",
+      "reason": "Calling sound a future coverage gap can suggest unfinished required scope. Sound is an optional experiment that may never justify implementation. Day/night equality concerns access and identity; a palette switch supplies no audible physical event and should not trigger a different soundscape.",
+      "evidence": [
+        "round1/interaction.json:IX-05",
+        "brand/motion.md:Day and night receive identical numeric poses",
+        "evidence/all-24.png"
+      ],
+      "implication": "Remove audio from any completion checklist. If later adopted, keep equivalent cue meaning, timing and gain across themes."
+    },
+    {
+      "role": "Interaction",
+      "claimId": "Round2 challenge to SND-04",
+      "decision": "Accept clarification",
+      "reason": "Reduced motion does not imply muted audio, nor does audio consent imply motion consent. My combined disabled-state verification was a completeness check, not authorization to combine preferences. A deliberately requested sound preview can accompany a still.",
+      "evidence": [
+        "round2/interaction.json:challenge to SND-04",
+        "round1/sound.json:SND-04"
+      ],
+      "implication": "Keep independent preferences, explicit sound opt-in and immediate mute. Neither ordinary playback nor a return visit should unexpectedly produce sound."
+    },
+    {
+      "role": "Audience",
+      "claimId": "AUD-04 / AUD-05",
+      "decision": "Accept evidence discipline; narrow application",
+      "reason": "Separating recall, understanding and liking is valuable. A mascot-versus-wordmark study does not establish whether one audio cue improves a specific scene. It also should not become a gate on an already coherent static application.",
+      "evidence": [
+        "round1/audience.json:AUD-04,AUD-05",
+        "round2/interaction.json:challenge to AUD-04"
+      ],
+      "implication": "If audio is commissioned, compare that exact scene silently and with optional sound, retaining indifferent and negative responses without claiming population-wide appeal."
+    }
+  ],
+  "ownPositionChanged": [
+    "SND-02\u2019s paper-like rustle was an audition metaphor, not evidence that the moth has paper wings. The confirmed visual material is unspecified. Withdraw that material as a default; audition alternatives only against a commissioned action, including silence.",
+    "Clarified independent sound and motion preferences and separated microbeat comprehension from audience affinity."
+  ],
+  "finalVerdict": "Keep silence complete. Personal storytelling and readable visual intention precede sonic experiments; no audio work is mandatory. Current evidence supports a viable silent prototype, not proven humor, continuous-motion polish or human audience appeal.",
+  "openQuestions": [
+    "Which concrete future event, if any, becomes more understandable or warmer with sound?",
+    "Would repeated optional playback still feel welcome in the actual project-reading context?"
+  ]
+}

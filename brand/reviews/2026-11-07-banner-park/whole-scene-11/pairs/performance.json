@@ -1,0 +1,41 @@
+{
+  "discipline": "performance",
+  "evidenceSha256": "87943e3c1452d40b1ac535ea5bbcefa6e7676cee77165eef2d77ce5c67a32569",
+  "reviewers": [
+    "performance-a",
+    "performance-b"
+  ],
+  "sourceReviews": {
+    "performance-a": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/performance-a.json",
+    "performance-b": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/performance-b.json"
+  },
+  "individualPositions": {
+    "performance-a": {
+      "initialVerdict": "revise",
+      "score": 8.2,
+      "explicitAcceptance": true,
+      "basis": "Direct acceptance message to B and own saved pairDiscussion."
+    },
+    "performance-b": {
+      "initialVerdict": "revise",
+      "score": 8.2,
+      "explicitAcceptance": true,
+      "basis": "B\u2019s direct message proposing this joint recommendation and explicitOwnRecommendation in B\u2019s saved pairDiscussion."
+    }
+  },
+  "jointRecommendation": "Revise the demonstrated material finish using 07 as a quality control. Preserve the original identity, tiny anatomy, four guests, composition, corrected eyes and useful leaf contact. Attention, invitation and bracing refinements are optional; no forced gaze, new pupils, lengthened limbs or enlarged guests are required. Any chosen acting change remains separately reviewable. This is a recommendation, not acceptance of unseen replacement art.",
+  "required": "Recover material-specific soft cream, wings, wood and metal from the demonstrated cellular/patch-like finish regression. Keep the existing identity, staging and corrected details.",
+  "optionalDistinctions": {
+    "performance-a": "Toolbox invitation and resting-to-leaf reciprocal attention.",
+    "performance-b": "Coder focus and builder working/bracing contact.",
+    "resolution": "Both agree these are optional clarity refinements. No gestural redesign or anatomy tradeoff is required to resolve the finish blocker."
+  },
+  "remainingSubstantiveDisagreement": [],
+  "independenceRecord": "A saved before sending findings. B reports inspections, provisional score and material blocker were established before A\u2019s summary arrived during record preparation; B disclosed that timing and opened A\u2019s full file only after saving. This disclosure is preserved rather than claiming no pre-save message exposure.",
+  "limits": [
+    "Same-image still critique only.",
+    "No all18 decision is supplied by this pair.",
+    "Agreement on recovery is not approval of a future image.",
+    "No motion, night, live GitHub, physical-device or human-response claim."
+  ]
+}

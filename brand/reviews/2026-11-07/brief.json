@@ -1,0 +1,31 @@
+{
+  "objective": "Independent multidisciplinary challenge of all existing heyNag brand work, followed by adversarial cross-review and a consolidated final opinion. Audit only; do not alter artwork or implementation.",
+  "person": "Nag / Nagarjuna Boddu; works in software; fun, talkative, curious, geeky, warm, with gentle dry wit.",
+  "brand": "heyNag; owns heyNag.com; GitHub-first personal brand, future portfolio website. Long-term identity and storytelling, not an interview costume.",
+  "nonnegotiables": [
+    "Tiny innocent comic moth with oversized cream head, compact body, little mittens and attached stub feet; never make it adult-like.",
+    "Asymmetric paddle antennae with viewer-right longer; layered fore/hind wings with markings; paired light/dark identity.",
+    "Nag and his real work remain central. Do not invent biography, professional title, project outcomes, or audience responses.",
+    "Emotional connection, curiosity, fun and memorable behavior matter; human audience response is untested.",
+    "Current work includes foundation images, static expressions, 24 articulated SVG emotion studies, a local studio, brand tokens/docs, and an older V2 GitHub header/avatar draft. Website and V5 environmental scenes are not built."
+  ],
+  "protocol": [
+    "Round1 is independent: inspect source and newly captured evidence; do not read prior approvals or other panel opinions first.",
+    "Cite paths and, for video, actual timestamps or inspected frame names. Label source observations, interpretations, and proposals separately.",
+    "Do not force a finding to fill a quota. Preserve what works. A missing future deliverable is a coverage gap, not automatically a defect in the prototype.",
+    "Round2 must challenge at least two other disciplines: accept, reject, or revise a claim with reasons. Consensus alone is not evidence.",
+    "Distinguish prototype readiness, brand application readiness, and untested audience appeal. No claim of human research or legal clearance.",
+    "No browser work by child agents; root owns a single Ego task space and captures requested evidence. Ask for targeted captures if needed.",
+    "No artwork, code, profile, account or deployment edits. Write only your assigned review JSON in this folder."
+  ],
+  "reviewFormat": {
+    "role": "Specialist role",
+    "verdict": "Clear concise bounded verdict",
+    "evidenceInspected": [],
+    "strengths": [],
+    "findings": [{"id":"unique role prefix", "priority":"before-public-use | next-refinement | later | research-question", "claimType":"observed | interpretation | proposal", "finding":"specific", "evidence":[], "recommendation":"concrete", "verification":"what would demonstrate improvement"}],
+    "keep": [],
+    "challengeForOtherRoles": [],
+    "limits": []
+  }
+}

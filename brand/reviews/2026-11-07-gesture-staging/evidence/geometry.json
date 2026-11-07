@@ -1,0 +1,7 @@
+{
+  "count": 567,
+  "charactersPerSample": 3,
+  "mismatches": [],
+  "invalid": [],
+  "scope": "Current numeric poses through frozen/day/night rig; structural geometry excluding paint/defs. Byte-identical character source separately verified."
+}

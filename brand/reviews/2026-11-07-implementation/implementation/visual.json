@@ -1,0 +1,128 @@
+{
+  "workPackages": ["P3", "P5"],
+  "status": "Refined paint adopted for the documented local application scope after matched comparison and actual-size renderer inspection. Baseline and isolated alternatives remain selectable; independent specialist review is separate.",
+  "source": "brand/animation-v5/character.js",
+  "control": "brand/reviews/2026-11-07-implementation/before/animation-v5/character.js",
+  "implementationSourceSha256": "b93400daeaa43af99e4b8c30942b80d4d69aba545a808863dd92ebe1830a97fa",
+  "controlSourceSha256": "58ac4ba4125932ea4dce60deee28cfa0f744b69539dae4265b6d2f2c2fe6f2e4",
+  "defaultPaintVariant": "refined",
+  "provenance": "Native SVG interpretation of the selected V5 raster; this work changes paint only. Original raster files are preserved.",
+  "inspected": [
+    "AGENTS.md",
+    "brand/reviews/2026-11-07-expanded-panel/team-proposal-v1.json, P3 and P5",
+    "brand/reviews/2026-11-07-expanded-panel/independent/visual-a.json",
+    "brand/reviews/2026-11-07-expanded-panel/independent/visual-b.json",
+    "brand/animation-v5/character.js",
+    "/Users/nag/Downloads/ChatGPT Image Nov 7, 2026, 01_30_25 PM.png",
+    "brand/reviews/2026-11-07-implementation/evidence/paint.png",
+    "brand/reviews/2026-11-07-implementation/evidence/sizes.png (baseline actual-size control)",
+    "brand/reviews/2026-11-07-implementation/evidence/sizes-refined.png (original-resolution actual CSS size inspection)",
+    "brand/reviews/2026-11-07-implementation/evidence/geometry.json",
+    "brand/reviews/2026-11-07-implementation/evidence/harness.html",
+    "brand/source/applications-v5.js"
+  ],
+  "api": {
+    "constructor": "new HeyNagCharacter(host, { theme: 'night', paintVariant: 'quiet-antenna' })",
+    "runtime": "character.setPaintVariant('baseline')",
+    "catalogue": "HeyNagCharacter.paintVariants is a frozen keyed object with label, description and paint parameters.",
+    "default": "HeyNagCharacter.defaultPaintVariant reports the explicit selected default.",
+    "inspection": "The SVG data-paint-variant attribute reports the active variant.",
+    "queryHarness": "A comparison harness can map ?paint=baseline|quiet-antenna|reduced-rim|soft-falloff|refined to the constructor option. The renderer itself does not read global URL state.",
+    "invalidValue": "An unknown constructor option falls back to the explicit default; an unknown runtime name throws RangeError without changing the current variant."
+  },
+  "variants": {
+    "baseline": {
+      "nightAntennaOpacity": 0.85,
+      "nightRimOpacity": 0.55,
+      "material": "Original two-stop linear cream and forewing gradients.",
+      "purpose": "Retain the current refined native control."
+    },
+    "quiet-antenna": {
+      "nightAntennaOpacity": 0.62,
+      "nightRimOpacity": 0.55,
+      "material": "Baseline.",
+      "hypothesis": "A quieter local keyline may make the night paddles feel less doubled while retaining the repaired stem connection."
+    },
+    "reduced-rim": {
+      "nightAntennaOpacity": 0.85,
+      "nightRimOpacity": 0.25,
+      "material": "Baseline.",
+      "hypothesis": "A weaker whole-character rim may improve small night ruff/mitten separation without weakening the local stem repair."
+    },
+    "soft-falloff": {
+      "nightAntennaOpacity": 0.85,
+      "nightRimOpacity": 0.55,
+      "material": "Original cream and forewing endpoints, with a midpoint at gradient offset 0.58 blended 0.38 of the way from the first to last endpoint. Other fills remain unchanged.",
+      "hypothesis": "A broad light area followed by monotonic lower-form shading may make cream and forewings feel softly rounded while retaining matte face-first hierarchy."
+    },
+    "refined": {
+      "nightAntennaOpacity": 0.62,
+      "nightRimOpacity": 0.55,
+      "material": "soft-falloff",
+      "hypothesis": "The quieter antenna and restrained tonal falloff may coexist without additional small-size contrast loss. The name identifies a combined candidate, not an approval."
+    }
+  },
+  "preserved": [
+    "All anatomical paths, shape dimensions, stroke widths, transforms, clipping geometry and pose math.",
+    "Identical day/night geometry and numeric poses.",
+    "Both antenna edge paths follow their original deforming paddle/stem paths with the original 16-unit stroke, linecap and linejoin.",
+    "The existing whole-character rim filter uses unchanged 0.8 standard deviation and filter bounds. Only its opacity is varied in the dedicated experiment.",
+    "Original palette endpoints, markings, silhouette, proportions, facial geometry, tiny mittens, compact torso and stub feet.",
+    "No new gloss, blur, fur, texture, shine, highlight or glow.",
+    "The documented day paper-ground universal GitHub avatar remains the application choice pending root's export/review work."
+  ],
+  "verification": {
+    "syntax": "node --check brand/animation-v5/character.js passed.",
+    "method": "A Node VM with a minimal SVG DOM loaded the frozen pre-implementation renderer and current renderer. It sampled each of the frozen motion catalogue's 24 clips at 21 evenly spaced times, including endpoints. Compared SVG geometric attributes across all five paint variants and both themes; excluded gradient/stop nodes from geometry comparison.",
+    "sampledPoses": 504,
+    "variantThemeComparisons": 5040,
+    "result": "Geometric attributes and numeric poses equal in all comparisons. Antenna edge d matches its antenna d in every case; 16-unit stroke preserved. Runtime soft-to-baseline switching restores cream arm/body material references. Unknown runtime variant rejection preserves current variant.",
+    "browserGeometry": {
+      "evidence": "brand/reviews/2026-11-07-implementation/evidence/geometry.json",
+      "performedBy": "Root browser QA; result inspected by visual implementer.",
+      "sampledPoses": 567,
+      "charactersPerSample": 3,
+      "comparison": "Frozen baseline, updated day and updated night receive identical numeric inputs. Browser SVG geometric attributes compared; paint, gradients and filters excluded.",
+      "mismatches": 0
+    },
+    "limits": "Mocked DOM/numeric evidence establishes renderer invariants and reversible state changes. It does not establish rasterized equality, small-size contour readability, tactile appeal or audience response. The later rendered comparison observations below are separate subjective implementation judgments."
+  },
+  "renderedSelection": {
+    "reviewerRole": "Implementer challenging root's proposed selection, not an independent specialist score or audience test.",
+    "evidence": "paint.png shows all five variants at identical geometry and matched scale in day/night. sizes.png is the baseline size control. sizes-refined.png renders current selected-paint avatars and full figures at actual CSS dimensions. Its header PNGs are application-export controls, not proof of refreshed header exports.",
+    "selected": "refined",
+    "observedBenefit": "In the paint sheet, the selected night's antenna edge reads less insistently doubled than baseline while the visible stems still connect to the head. The tonal variant creates a subtly lighter broad cream/forewing area with a calm matte appearance. This is modest refinement, not a demonstrated dramatic gain in tactile appeal.",
+    "reducedRimDecision": "Retain the original whole-character rim. Reduced-rim gives up night boundary definition around outer wing and foot edges without a clear compensating improvement in hand/ruff articulation in the inspected pose.",
+    "dayObservation": "The day material adjustment is subtle; the same clean face-first composition and dark contours remain. Quiet-antenna and reduced-rim do not affect the day edge treatment.",
+    "baselineActualSizeObservation": "At 128/160px full-figure controls, the unequal paddles and face remain framed, with attached feet and compact tiny anatomy. At 96px the glasses/mitten/ruff cluster is already dense. The day paper-ground head avatar remains more coherent for universal small account use than the separate night owned-surface variant.",
+    "selectedActualSizeObservation": "sizes-refined.png preserves a coherent head, compact body, layered wings, connected full-figure antenna stems and attached stub feet at 96/128/160px in both themes, with no visible new clipping or detached appendages. At 96px the glasses, mittens and ruff lose some internal detail separation; this is a detail-resolution limit, not an overall face/body failure. The day paper-ground 32/48/64px head avatars keep both unequal paddles in frame and remain usable as the documented account mark. This does not establish recognition of every facial expression at 32px.",
+    "adoptionScope": {
+      "default": "refined",
+      "fullFigures": "96/128/160px CSS boxes on the inspected light #EAF0DC and night #202B21 grounds; larger matched paint-sheet inspection also supports selection. Figure art sits within the renderer's fixed 640×660 composition.",
+      "universalAccountAvatar": "Day avatar with its paper #F1F1EF ground, inspected at 32/48/64px.",
+      "nightAvatar": "Separate owned-surface alternative. The 32px night probe has weak fine-stem contrast and is not the universal account-avatar recommendation. No claim of equal day/night clarity at that size.",
+      "header": "The 390px header controls preserve their framing and wordmark hierarchy. Final regenerated refined header export inspection belongs to root's application-export QA.",
+      "sourceDecision": "Keep the selected source unchanged after actual-size inspection; no visible regression justifies reverting it. Retain all comparison variants."
+    },
+    "reservations": [
+      "The selected night 32px avatar, like the control, has weak fine-stem readability. It is excluded from the universal account-avatar recommendation; the paper-ground day mark supplies that use.",
+      "The soft falloff is visibly restrained. Do not claim an increase in memorability, emotion comprehension, tactile equivalence to the raster or a new expert score from this comparison.",
+      "At 96px, glasses/mitten/ruff detail is denser than at 128/160px. Overall head/body/wing grouping remains legible; the paint change does not by itself separate every tiny gesture.",
+      "One actual-size pose and matched paint-sheet pose do not prove all contact gestures, all backgrounds, animation perception or human recognition. Independent motion/contact evidence remains separate."
+    ],
+    "nextCheck": "No further renderer source change requested by this actual-size inspection. Root continues refreshed application-export/header QA and the independent multidisciplinary review; those records must carry their own observations."
+  },
+  "completedRendererEvidence": [
+    "Matched baseline and each independent paint experiment at equal visible height, identical poses and grounds: paint.png.",
+    "Selected live 32/48/64px head avatars and 96/128/160px full figures: sizes-refined.png, with sizes.png retained as baseline.",
+    "567 identical numeric pose inputs across frozen baseline/current day/current night in the browser: geometry.json, zero geometric attribute mismatches."
+  ],
+  "separateReviewScope": [
+    "Both antenna stems and paddles, facial marks, Thinking/Focused/Grateful/Shy/Worried hand contours and selected interruption states.",
+    "Inspect night on the owned-surface ground; retain the day paper-ground universal GitHub avatar.",
+    "Refresh and inspect application exports including the 390px phone header; root owns this work.",
+    "Both affected visual specialists and affected cross-discipline reviewers independently identify gains, regressions and limitations. This implementer decision is not a substitute for their individual judgments."
+  ],
+  "score": null,
+  "scoreReason": "Implementation hypotheses and source checks are not independent creative review."
+}

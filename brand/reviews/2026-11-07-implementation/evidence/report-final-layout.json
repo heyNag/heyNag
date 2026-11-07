@@ -1,0 +1,102 @@
+[
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "images": true,
+    "fonts": [
+      {
+        "family": "Schibsted",
+        "status": "loaded",
+        "weight": "normal"
+      },
+      {
+        "family": "Schibsted",
+        "status": "loaded",
+        "weight": "500"
+      }
+    ],
+    "video": {
+      "ready": 4,
+      "duration": 88.5,
+      "error": null
+    },
+    "scoreRows": 9,
+    "heading": "The work, and the honest verdict.",
+    "allTableRows": 16
+  },
+  {
+    "width": 1024,
+    "scrollWidth": 1024,
+    "images": true,
+    "fonts": [
+      {
+        "family": "Schibsted",
+        "status": "loaded",
+        "weight": "normal"
+      },
+      {
+        "family": "Schibsted",
+        "status": "loaded",
+        "weight": "500"
+      }
+    ],
+    "video": {
+      "ready": 4,
+      "duration": 88.5,
+      "error": null
+    },
+    "scoreRows": 9,
+    "heading": "The work, and the honest verdict.",
+    "allTableRows": 16
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "images": true,
+    "fonts": [
+      {
+        "family": "Schibsted",
+        "status": "loaded",
+        "weight": "normal"
+      },
+      {
+        "family": "Schibsted",
+        "status": "loaded",
+        "weight": "500"
+      }
+    ],
+    "video": {
+      "ready": 4,
+      "duration": 88.5,
+      "error": null
+    },
+    "scoreRows": 9,
+    "heading": "The work, and the honest verdict.",
+    "allTableRows": 16
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "images": true,
+    "fonts": [
+      {
+        "family": "Schibsted",
+        "status": "loaded",
+        "weight": "normal"
+      },
+      {
+        "family": "Schibsted",
+        "status": "loaded",
+        "weight": "500"
+      }
+    ],
+    "video": {
+      "ready": 4,
+      "duration": 88.5,
+      "error": null
+    },
+    "scoreRows": 9,
+    "heading": "The work, and the honest verdict.",
+    "allTableRows": 16
+  }
+]

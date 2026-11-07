@@ -1,0 +1,115 @@
+{
+  "reviewer": "visual-b",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "assetSha256": "32ce62c11e533fcd3a7ab1856a102c7a31b9111d96c3fbf16df8d469b8f08469",
+  "proposalSha256": "710168aea494893968a89809edc6034930e39c8ed9a0147919b3aac04c04cce5",
+  "readmeSha256": "a88ff0761cd9d7da1bb6d2ba5746612976ab52c7bc73156d32feb8a24418e90e",
+  "decision": "agree_with_named_limits",
+  "retainedImageScore": {
+    "value": 9.0,
+    "previousWholeScene11": 8.3,
+    "scope": "Whole still-image visual craft through drawing appeal, contour, material readability, composition and scale; no motion, sound or audience outcome score.",
+    "status": "Unchanged from independent13; profile story/application readiness assessed separately."
+  },
+  "counterpartChallenge": {
+    "counterpart": "visual-a",
+    "record": "brand/reviews/2026-11-07-banner-park/whole-scene-13/independent/visual-a.json",
+    "readAfterOwnIndependentSave": true,
+    "BChallengeToA": "A retains8.8 partly for native hero embossing. In the actual846px desktop and308px narrow profile images, the motif does not meaningfully compete with broad soft form. It should not impose a theme-specific treatment or another retouch requirement. This challenges the application of the deduction, not A\u2019s right to retain its native craft score.",
+    "AResponse": "Explicitly agrees: the8.8 reservation applies to native whole-still material inspection/original Downloads image only, with no light/dark profile constraint or retouch requirement.",
+    "AChallengeToB": "Native profile spacing gives enough visual rest at846/308px; B\u2019s highlight-density preference has no demonstrated profile benefit requiring a further pass.",
+    "BResponse": "Explicitly accepts after inspecting all four previews. Highlight quieting remains future taste only; no new render requested.",
+    "scoresRetained": {
+      "visual-a": 8.8,
+      "visual-b": 9.0
+    },
+    "remainingSubstantiveObjection": false
+  },
+  "pairRecommendation": {
+    "recommendation": "Present actual13, deliver the original2172\u00d7724 image in Downloads, and publish the exact frozen personal-story README/banner to heyNag/heyNag within the owner\u2019s authorization. Keep the same day image in both themes, preserve individual scores and named nonblocking limits, and make no account-settings, unanimous9, audience-validation or night/animation claim.",
+    "BExplicitlyConfirms": true,
+    "AExplicitlyConfirms": true,
+    "confirmationEvidence": "Direct A/B exchange after independent13 saves and new application review; A explicitly confirmed both the counterchallenge and exact bounded recommendation.",
+    "status": "resolved_pair_recommendation; no claim that all18 final votes are complete"
+  },
+  "profileReadiness": {
+    "decision": "ready_for_authorized_README_banner_publication",
+    "story": "The frozen prose connects Nag\u2019s software interests, curiosity, glasses and eye-detail care to the existing moth metaphor. Emojis act as small paragraph cues. Broad public-work descriptions, unnamed allowed private themes and future-sharing language match the supplied story-source scope; no private project identifier or employer/incident narrative appears in this README.",
+    "visualApplication": "The full panoramic image fits the shown desktop and390px local preview layouts without an artwork crop or visible text overflow. The coder remains the clear lead in both themes; the dark surround does not require changing the daylight image. At308px actual banner width, guest micro-actions become incidental, an accepted scale limit.",
+    "scopeBoundary": "This is readiness of the inspected frozen README and local preview application. It does not certify publication already occurred, private-source research beyond supplied provenance, account avatar/bio/pins/org changes or future app behavior."
+  },
+  "mustFix": [],
+  "limits": [
+    "Retain image scores A8.8/B9.0; no unanimous9 claim. Story readiness does not retroactively increase the still-image rating.",
+    "Native hero surface embossing and occasional rich highlights remain nonblocking preferences. No further image pass, guest enlargement, new cast or changed pose is requested.",
+    "Same unchanged day art in both GitHub themes; no night or animated counterpart is implied.",
+    "Downloads delivery is the original2172\u00d7724 export, not an upscaled or newly higher-resolution image.",
+    "The screenshots are marked local preview and are not evidence of a published GitHub update or physical-phone validation.",
+    "README story review is bounded to supplied provenance and frozen visible text; no independent confidential-source audit, human-response result or unrelated account-setting change is claimed."
+  ],
+  "evidenceInspected": [
+    "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-banner-park/whole-scene-13/proposal-v1.json",
+    "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-banner-park/whole-scene-13/proposal-v1.sha256",
+    "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-banner-park/whole-scene-13/independent/visual-a.json",
+    "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-banner-park/whole-scene-13/full-intake.json",
+    "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-banner-park/whole-scene-13/README-reviewed.md",
+    "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-banner-park/whole-scene-13/story-source.json",
+    "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-banner-park/whole-scene-13/profile-evidence/render-checks.json",
+    "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-banner-park/whole-scene-13/profile-evidence/profile-light-1440.png",
+    "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-banner-park/whole-scene-13/profile-evidence/profile-dark-1440.png",
+    "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-banner-park/whole-scene-13/profile-evidence/readme-light-390.png",
+    "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-banner-park/whole-scene-13/profile-evidence/readme-dark-390.png",
+    "Actual13 whole-frame, local1280/880/420, native hero/tree/workshop and integrated native/5x companion/grip inspections reused from own independent13 record; original controls/references and relevant full skill readings reused honestly."
+  ],
+  "verifiedFiles": [
+    {
+      "label": "actual13",
+      "path": "/Users/nag/projects/personal/heyNag/assets/brand/banner-park/park-film-study-13-muse-face-cleanup.png",
+      "sha256": "32ce62c11e533fcd3a7ab1856a102c7a31b9111d96c3fbf16df8d469b8f08469",
+      "matchesFrozenProposal": true
+    },
+    {
+      "label": "frozenREADME",
+      "path": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-banner-park/whole-scene-13/README-reviewed.md",
+      "sha256": "a88ff0761cd9d7da1bb6d2ba5746612976ab52c7bc73156d32feb8a24418e90e",
+      "matchesFrozenProposal": true
+    },
+    {
+      "label": "currentREADME",
+      "path": "/Users/nag/projects/personal/heyNag/README.md",
+      "sha256": "a88ff0761cd9d7da1bb6d2ba5746612976ab52c7bc73156d32feb8a24418e90e",
+      "matchesFrozenProposal": true
+    },
+    {
+      "label": "profile-light-1440.png",
+      "path": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-banner-park/whole-scene-13/profile-evidence/profile-light-1440.png",
+      "sha256": "44f1141c8b95e406d2c683a7362832b4617bee09aa3ed2d06db4f063a0034ccf",
+      "matchesFrozenProposal": true
+    },
+    {
+      "label": "profile-dark-1440.png",
+      "path": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-banner-park/whole-scene-13/profile-evidence/profile-dark-1440.png",
+      "sha256": "255628e7cd14619f0e45cc736a53a23e9ddbf7ba1ce3e87034df7f5a062c0572",
+      "matchesFrozenProposal": true
+    },
+    {
+      "label": "readme-light-390.png",
+      "path": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-banner-park/whole-scene-13/profile-evidence/readme-light-390.png",
+      "sha256": "335f847ac10aa1ff80f98ffd51235ce9382287bfd7b87883bb66c920aa17bfe2",
+      "matchesFrozenProposal": true
+    },
+    {
+      "label": "readme-dark-390.png",
+      "path": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-banner-park/whole-scene-13/profile-evidence/readme-dark-390.png",
+      "sha256": "d19c463bf02193c5c3a150894fc9eb48f163c5705a0aa1eb2eb755c3e9e1ecb8",
+      "matchesFrozenProposal": true
+    }
+  ],
+  "verifiedOriginalDimensions": [
+    2172,
+    724
+  ],
+  "skillsAndWorkflow": "Reused full emil-design-eng/apple-design/prototype readings and prior catalog intake. Checked real application scale/context, separated still-image score from publication readiness, and retained named optional limits without extending the repair scope.",
+  "execution": "Only this vote record written; no artwork/source edits, generation, publication, Downloads copy or extra agents performed by this reviewer."
+}

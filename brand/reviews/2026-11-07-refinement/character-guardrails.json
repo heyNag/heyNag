@@ -1,0 +1,83 @@
+{
+  "role": "Independent character, identity and motion art guardian",
+  "status": "Pre-implementation guardrails; fresh rendered evidence still required",
+  "scope": "Bounded V5 application and acting refinements. No raster-master, anatomy or scene redesign.",
+  "inspected": [
+    "brand/animation-v5/character.js at review start: ART_OFFSET_Y 30, original 10-unit antenna stroke, 0.8-unit night drop-shadow",
+    "assets/brand/heynag-moth-v5-refined.png",
+    "assets/brand/heynag-moth-v5-night.png",
+    "brand/reviews/2026-11-07/evidence/identity.png",
+    "brand/reviews/2026-11-07/round2/identity.json",
+    "brand/reviews/2026-11-07/round2/visual.json",
+    "brand/reviews/2026-11-07/round2/rigging.json",
+    "brand/reviews/2026-11-07/round2/storyboard.json"
+  ],
+  "judgment": "Keep the existing V5 vector. It retains the source character family despite flatter surfaces and different rest-smile and mitten contours. The visible night-stem weakness is contrast, and the former circular-avatar weakness is framing. Neither demonstrates a need to reconstruct the head or grow the body.",
+  "avatar": {
+    "source": "An untransformed clone of the neutral head group from the existing native vector, with its definitions and both complete antenna paths",
+    "recommendedViewBox": "92 -25 490 490",
+    "circle": { "cx": 337, "cy": 220, "r": 245 },
+    "ifKeepingRootArtOffset30": { "viewBox": "92 5 490 490", "cx": 337, "cy": 250, "r": 245 },
+    "measuredNeutralFillBounds": { "left": 150.82, "top": 37.83, "right": 475.97, "bottom": 412.74 },
+    "measurementMethod": "300 samples per cubic Bezier in the exact neutral antenna and head paths; approximate geometric measurement, not a browser-render approval",
+    "measuredMaximumFillRadius": 219.66,
+    "current10UnitStrokeClearance": 20.34,
+    "clearanceAt32Pixels": 1.33,
+    "constraints": [
+      "Use the same frame, scale, pose and geometry for day and night. Paint may differ.",
+      "Retain the full right and left paddles and their continuous stem-to-head connections inside the actual circular mask. Rectangular path bounds alone do not prove a safe circular crop.",
+      "The tall right paddle needs extra space at the upper-right arc; do not center only on the facial oval or enlarge the face independently.",
+      "At 32px, preserve approximately one physical pixel of visible clearance at the narrowest arc. Account for the final night contour, rather than measuring the underlying fill alone.",
+      "Keep a head-only avatar intentional: do not leave detached mitten or ruff fragments at the lower edge. The entire cheek/jaw silhouette fits this proposed frame.",
+      "Treat this composition as a static neutral avatar. Animated head or antenna extremes require their own radial-envelope check and must not silently reuse the neutral safe-crop claim.",
+      "32px is a provisional minimum to inspect, not a proven guarantee. 24px may be a secondary preview but must not force master simplification."
+    ]
+  },
+  "nightAntennae": {
+    "preferredRemedy": "A crisp restrained local edge behind the original antenna contours, keeping the original charcoal interior and the same paths",
+    "trialBounds": "For a 10-unit original outline, a 16–18-unit local under-stroke exposes approximately 3–4 native units per side. This is a starting range for output-size review, not a prescribed final thickness.",
+    "constraints": [
+      "Render the edge below the original antenna paths and below the head so the insertion remains natural and the cream forehead is not outlined twice.",
+      "Carry the exact same bent path into the local edge on every render; a neutral-only edge must not lag behind moving antennae.",
+      "Use the existing warm rim family, sufficiently subdued that the paddle remains green and charcoal rather than becoming a luminous accessory.",
+      "Do not enlarge the global blur or outline every body part to solve two stems. The existing 0.8-unit blur becomes subpixel when reduced and is not sufficient proof of stem continuity.",
+      "Compare the actual studio night ground #202b21 and exported header/avatar ground; include a near-black portable-use ground such as #0d1117 when transparency is promised."
+    ]
+  },
+  "lineWeightAndInnocence": {
+    "keep": "Large soft head, small round torso, stub feet, compact mittens, asymmetrical antennae and overlapping four-panel wing construction",
+    "critique": "The source is already boldly outlined. Increasing every contour would consume facial and mitten negative space and give the vector a harder sticker-like surface. Outline weight alone does not establish an adult character; adult drift would come from changing head-to-body scale, lengthening limbs or stance, and sharpening forms. None is justified here.",
+    "applicationRule": "Use framing and local contrast to improve small output. Do not lengthen arms, enlarge hands, expose wing roots, or permanently spread the protective pose to inventory all four panels."
+  },
+  "actingConstraints": [
+    "Keep the outgoing difficult-feeling facial intention during transitions until the incoming feeling is established; do not force every transition through the open welcoming neutral.",
+    "For Thinking, lower or separate the supporting mitten and let the head meet the acting mitten within existing reach. Preserve at least a readable negative-space distinction at the intended output size; do not infer deficient anatomy from the old cluster.",
+    "Review the excited hop in uninterrupted playback. A still strip can prove silhouette and contacts, but cannot certify descent cadence.",
+    "Day and night must share identical numeric pose and timing. Temporary hindwing occlusion remains valid acting."
+  ],
+  "threeHighValueRenderChecks": [
+    {
+      "id": "CHAR-CHECK-01",
+      "artifact": "Actual-size circular avatar sheet",
+      "samples": "32, 48, 64 and 128 CSS pixels; day and night; both actual circular clipping and square export preview",
+      "pass": "Both paddles and stems are complete, no clipped outer arc, face reads immediately, jaw is complete, and night stays equally connected. Check at 100% display scale, not only enlarged screenshots."
+    },
+    {
+      "id": "CHAR-CHECK-02",
+      "artifact": "Before/after night-continuity sheet",
+      "samples": "Full-body neutral at 96, 128 and 160 CSS pixels on #202b21 and the intended export ground; add the raised happy-hop/antenna extreme at the smallest supported size",
+      "pass": "Each paddle can be traced to its forehead insertion without an apparent break. The edge follows the moving path, adds no detached halo, and does not overtake the original charcoal contour."
+    },
+    {
+      "id": "CHAR-CHECK-03",
+      "artifact": "Matched-size character-preservation and acting comparison",
+      "samples": "Before/after neutral and Thinking contact hold at identical visible character height, paired day/night; include final desktop and phone header crops and one uninterrupted excited-hop pass",
+      "pass": "The large-head/tiny-body read, feet and hand size remain stable; Thinking has one readable acting mitten and a quieter supporting mitten; header framing preserves both antennae; hop has a readable apex and continuous descent without an unintended second stop."
+    }
+  ],
+  "limits": [
+    "The proposed avatar bounds are geometry-derived and still need final-render inspection; they are not a claimed approved crop.",
+    "These conditions apply to the affected V5 exports and transitions. They are not a gate on unrelated stills or README copy.",
+    "No new master illustration, scene suite, biography, sound treatment or audience research quota is required for this refinement."
+  ]
+}

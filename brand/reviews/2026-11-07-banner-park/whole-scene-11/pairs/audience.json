@@ -1,0 +1,36 @@
+{
+  "discipline": "audience",
+  "recordedBy": "audience-a",
+  "scope": "Paired recommendation on the inspected whole-scene 11 still and the bounded correction direction; no repaired-art approval.",
+  "reviewedAssetSha256": "87943e3c1452d40b1ac535ea5bbcefa6e7676cee77165eef2d77ce5c67a32569",
+  "records": {
+    "audienceA": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/audience-a.json",
+    "audienceB": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/audience-b.json"
+  },
+  "currentPositions": {
+    "audienceA": {"verdict": "revise", "score": 8.5},
+    "audienceB": {"verdict": "revise", "score": 8.4}
+  },
+  "exactJointRecommendation": "Revise 11’s visible cross-material surface regression while preserving its composition, exclusive foreground coder, moth identity and corrected companion eyes. Use 07 as a material-quality control, not a full revert; keep secondary-story refinements optional and all human attribution, emotion and recall outcomes unmeasured.",
+  "confirmations": {
+    "audienceA": {
+      "explicitlyAccepted": true,
+      "evidence": "A read B's saved record after A's save, accepted the exact recommendation in direct reply, and recorded that acceptance in A's pairDiscussion."
+    },
+    "audienceB": {
+      "explicitlyAccepted": true,
+      "evidence": "B's saved pairDiscussion.audienceBExplicitAcceptance is true; B's direct message proposed the exact recommendation and explicitly accepted it. This is evidence of B's actual position, not A supplying a proxy vote."
+    }
+  },
+  "challengeResolved": "B clarified material differentiation rather than blanket softness. A explicitly agrees: preserve cloth weave, useful wood grain, existing depth, current eyes and leaf contact. No global blur, full 07 revert, enlarged guests or added explanatory marks are required.",
+  "remainingDifferences": "A 8.5 and B 8.4 retain independent weighting of visible material regression and secondary-story limits. They are not reconciled into a joint score.",
+  "remainingSubstantiveObjections": [],
+  "practicalWorkflow": "Hash the exact image; inspect whole frame, local scales, native crops and integrated magnified details; compare 07 as a material/construction control; preserve evidence and separate observed craft from untested response.",
+  "independenceDisclosure": "A saved before reading B. B formed its image judgment before receiving A's unsolicited findings message but received it before saving; B disclosed this interruption. Neither record is presented as blinded human research.",
+  "limits": [
+    "Current scores concern inspected still-image craft only and are unchanged by plan agreement.",
+    "Human attribution, emotion comprehension, recognition, comfort, affection and recall remain unmeasured.",
+    "Local 1280/880/420 image scales are not deployed GitHub or physical-device evidence.",
+    "A future correction must be inspected; this record grants no automatic score or finished-art approval."
+  ]
+}

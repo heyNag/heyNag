@@ -1,0 +1,28 @@
+{
+  "stage": "One local comparison; unapproved pending inspection, including whether Grok inner dots actually resolved.",
+  "tool": "Built-in image_gen",
+  "prompt": "brand/reviews/2026-11-07-banner-park/film-companion-refinement-prompt.txt",
+  "editTarget": "brand/reviews/2026-11-07-banner-park/muse-review/evidence/muse-only-intermediate.png",
+  "references": [
+    "assets/brand/banner-park/park-film-study-07-clawd-plush.png",
+    "Owner Muse lineup, private reference outside public assets"
+  ],
+  "output": "assets/brand/banner-park/park-film-study-09-companion-refinement.png",
+  "dimensions": [
+    2172,
+    724
+  ],
+  "sha256": "2797db3692eccda1b9e37ab2c82272162942c79b5241d5a07bf29183fdcb5371",
+  "bytes": 2464012,
+  "rootInspection": {
+    "fullSceneViewed": true,
+    "nativeCompanionCrop": "brand/reviews/2026-11-07-banner-park/muse-review/evidence/09-companion-inspection.png",
+    "muse": "Tiny body, simple dark eyes and leaf contact retained visually; hood difference restrained.",
+    "grok": "Dark inner eye dots remain visibly present. Required eye repair did not succeed.",
+    "status": "Not promoted as complete."
+  },
+  "recovery": {
+    "changeOfEvidence": "Inspected native eye crop; replaced earlier-scene eye reference with original clean Grok identity artwork and a native diagnostic crop.",
+    "nextScope": "Only fill Grok eye interiors. No further Muse redesign."
+  }
+}

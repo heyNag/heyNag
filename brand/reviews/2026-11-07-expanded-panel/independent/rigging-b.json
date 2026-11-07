@@ -1,0 +1,44 @@
+{
+  "reviewer": "Technical animation/rigger B",
+  "lens": "Rendering integrity and production reuse",
+  "independent": true,
+  "strengths": [
+    {
+      "finding": "The rig protects the chosen little character rather than enlarging anatomy to solve acting. Four individually hinged wings sit behind the torso; short hands reach the face through head staging. The updated thinking and focused poses separate the lower mittens while preserving the oversized head and stub feet.",
+      "evidence": ["animation-v5/character.js:118-135,187-195,249-268", "reviews/2026-11-07-refinement/evidence/poses.png"]
+    },
+    {
+      "finding": "Theme parity is structurally strong: one renderer changes paint, edge treatment and glint. Antenna edges copy the actual bent paths. Application exports reuse the same rig and crop the existing head instead of redrawing it.",
+      "evidence": ["animation-v5/character.js:225-258", "source/applications-v5.js:25-37"]
+    },
+    {
+      "finding": "Measured: all nine motion tests passed locally. They cover the 24-clip numeric contract, finite completion, no remaining scheduled frames, deterministic reduced motion, interruption continuity and a continuously descending hop. The exact hop sheet visibly retains four connected wing panels and compact proportions.",
+      "evidence": ["node --test brand/animation-v5/motion.test.mjs", "reviews/2026-11-07-refinement/evidence/exact-case-8.png"]
+    }
+  ],
+  "concreteConcerns": [
+    {
+      "severity": "minor visual refinement",
+      "finding": "The updated thinking chin mitten still meets several ruff and jaw contours; grateful intentionally gathers both mittens against the ruff. These areas remain denser than the otherwise clean silhouette. This is a reading concern, not evidence of detached limbs or permission to enlarge hands.",
+      "evidence": ["reviews/2026-11-07-refinement/evidence/poses.png", "animation-v5/character.js:135,187-195"]
+    },
+    {
+      "severity": "verification gap",
+      "finding": "The inspected test suite loads motion.js but never character.js. Passing hand-distance and wing-angle assertions therefore does not establish rendered attachment, unobstructed eyes, export bounds or theme geometry equality. Numeric uniqueness of 24 settled poses likewise does not establish perceptually distinct acting.",
+      "evidence": ["animation-v5/motion.test.mjs:6-10,28-49,119-125"]
+    },
+    {
+      "severity": "bounded uncertainty",
+      "finding": "Interrupted motion carries bounded velocity then clamps channels and hand reach. This is sensible protection, but the tests exercise selected compatible switches; the supplied sheets cannot establish visual continuity for every cross-family interruption, particularly while the hop is airborne.",
+      "evidence": ["animation-v5/motion.js:47-63,548-601", "animation-v5/motion.test.mjs:66-89,150-170,194-223"]
+    }
+  ],
+  "qualityCriteriaForNine": [
+    "Keep exact shared geometry and numeric poses across themes; preserve four connected wings, tiny mittens, attached feet and unequal continuous antennae.",
+    "At the intended application sizes, inspect current rendered key poses and interruption frames in both themes: no clipping, floating pieces, accidental facial occlusion or confusing hand/ruff tangencies.",
+    "Verify difficult interruption cases visually as well as numerically, and retain finite playback and static reduced-motion choices.",
+    "Require expressive clarity and appealing timing in actual playback. Test success and an agent score cannot certify creative excellence or audience recognition."
+  ],
+  "highestValueExperiment": "Make one compact renderer-based proof sheet and playback sequence covering thinking/focused/grateful hand contact, excited-to-sad interrupted during descent, and a rapid reflective-to-joy switch. Show both themes at the actual minimum intended sizes. Adjust only staging or timing where reviewers can identify a concrete defect; add narrow regression checks for confirmed defects.",
+  "limits": "Source inspection, two supplied evidence sheets and nine executed tests; no new browser session or real-time playback. No prior review or score read. Website architecture is outside this assessment. Human attachment, unaided recognition and delayed recall remain unmeasured."
+}

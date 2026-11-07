@@ -1,0 +1,73 @@
+{
+  "role": "Visual development, environment, and lighting artist",
+  "verdict": "The current V5 is a coherent character prototype with a useful paired palette. Its tiny anatomy should be preserved. Night contour separation needs refinement before small public applications; environmental readiness remains unproven because V5 scenes are not built.",
+  "evidenceInspected": [
+    "assets/brand/heynag-moth-v5-refined.png; assets/brand/heynag-moth-v5-night.png",
+    "assets/brand/expressions-v5/anchors-day-r3.png; anchors-night.png; joy-day.png; joy-night-r2.png; mind-day-r2.png; mind-night.png; tender-day.png; tender-night.png",
+    "brand/design-system.md; brand/design-system.css; brand/world.md",
+    "brand/reviews/2026-11-07/evidence/identity.png; all-24.png; studio-desktop.png; expressions-desktop.png; readme-phone-night.png",
+    "brand/reviews/2026-11-07/evidence/video-sheet-1.png, sampled 0.167–25.1s; video-sheet-2.png, sampled 25.3–48.233s; video-sheet-3.png, sampled 52.133–86.4s"
+  ],
+  "strengths": [
+    "Observed: Both foundation exports retain the oversized scalloped cream head, short body, attached stub feet, small mittens, longer viewer-right paddle, overlapping wings, and green teardrop markings. Night changes warmth and edge treatment without replacing the anatomy.",
+    "Observed: The eight selected expression sheets carry a restrained cream, charcoal, and green family through joy, uncertainty, and difficult feelings. Angry and frustrated remain compact rather than gaining adult shoulders, long limbs, or an assertive hip stance.",
+    "Observed: The rendered expression studio separates the character from quiet grounds, while design-system.css reserves chartreuse for a signature accent and forest for functional light-theme color. The warm face remains the principal focal area in both displayed themes.",
+    "Interpretation: world.md offers a scalable direction through sparse props and meaningful project fragments. Its one-primary-prop rule supports the little silhouette and leaves room for Nag’s actual work."
+  ],
+  "findings": [
+    {
+      "id": "VIS-01",
+      "priority": "before-public-use",
+      "claimType": "observed",
+      "finding": "Night does not preserve equivalent antenna-stem readability. In identity.png the connecting stems become much harder to follow at 96–160px, and the smaller examples increasingly read as green paddles separated from the head. The dark halves of all-24.png and reel samples repeat this loss. The face remains clear; this is a selective silhouette problem, not total illegibility.",
+      "evidence": [
+        "evidence/identity.png, night size rows",
+        "evidence/all-24.png, dark columns",
+        "evidence/video-sheet-1.png, 4.7s",
+        "evidence/video-sheet-3.png, 75.167s"
+      ],
+      "recommendation": "Test a restrained local edge value or lighter immediate stage behind the stems. Preserve stem thickness, asymmetric length, and charcoal character; avoid solving it with a broad luminous aura.",
+      "verification": "Compare day/night at actual 96, 128, and 160px on intended application grounds. Both stems should remain traceable from head to paddle without zoom; make a separate simplified avatar decision below that range."
+    },
+    {
+      "id": "VIS-02",
+      "priority": "next-refinement",
+      "claimType": "interpretation",
+      "finding": "The raster and articulated versions belong to the same family but communicate different surface character. Foundation shading is softly mottled and the contours are fuller; the rig appears flatter with a more compressed, horizontally spread head. The quiet palette survives, but “same model” should not imply exact shape or material parity.",
+      "evidence": [
+        "evidence/identity.png, top comparison",
+        "evidence/expressions-desktop.png, Thinking",
+        "evidence/studio-desktop.png, Thinking"
+      ],
+      "recommendation": "Set a short material and contour target for future exports: allowable shading, outline weight relative to head, scallop shape, and head-to-body balance. Favor the selected innocent construction over added rendering complexity.",
+      "verification": "Review matched resting and Thinking poses at equal occupied height on identical grounds. Record intentional differences; verify that no added texture hides eyes, mitten joins, or wing layering."
+    },
+    {
+      "id": "VIS-03",
+      "priority": "later",
+      "claimType": "proposal",
+      "finding": "The palette is demonstrated on isolated stages, not across V5 environments. Scenes, lighting pools, project fragments, and varied compositions remain coverage gaps rather than defects in the present prototype.",
+      "evidence": [
+        "brand/world.md, parked scene and day/night sections",
+        "evidence/studio-desktop.png",
+        "evidence/video-sheet-2.png, 37.067s"
+      ],
+      "recommendation": "When scene work begins, build three paired proofs: open greeting, close inspection of one note, and presentation of one real project fragment. Keep backgrounds quieter than the face and preserve clearance around antennae and mittens.",
+      "verification": "Check each pair at desktop and phone sizes, without motion marks, and with the actual project content. Confirm readable content and complete silhouette before expanding into weather or holidays."
+    }
+  ],
+  "keep": [
+    "Head-dominant innocent anatomy and attached tiny feet.",
+    "Asymmetric paddles, layered wing markings, limited palette, and quieter props.",
+    "Historical separation: readme-phone-night.png shows the V2 header, not a failed V5 application."
+  ],
+  "challengeForOtherRoles": [
+    "Identity: distinguish familial recognition from exact raster/rig model parity; neither establishes audience memorability.",
+    "Animation and rigging: preserve dark-theme silhouette during the strongest wing and antenna poses; additional adult-like limb articulation is not a solution."
+  ],
+  "limits": [
+    "Independent inspection; prior review opinions were not consulted or treated as evidence.",
+    "Video judgments use the named sampled frames, not continuous playback.",
+    "No audience study, physical print proof, calibrated-display review, or implemented V5 environmental scene was available."
+  ]
+}

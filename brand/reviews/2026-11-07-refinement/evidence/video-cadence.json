@@ -1,0 +1,26 @@
+{
+  "full-reel.webm": {
+    "decodedFrames": 2655,
+    "firstPTS": 0.0,
+    "lastPTS": 88.639,
+    "fps": 29.9416735297104,
+    "maxGapSeconds": 0.06700000000000728,
+    "gapsOver100ms": 0
+  },
+  "transitions.webm": {
+    "decodedFrames": 1091,
+    "firstPTS": 0.0,
+    "lastPTS": 41.971,
+    "fps": 25.970312835052777,
+    "maxGapSeconds": 0.9919999999999973,
+    "gapsOver100ms": 4,
+    "status": "Rejected for continuous timing evaluation; SVG rasterization caused capture gaps. Superseded by deterministic transitions-exact.mp4."
+  },
+  "transitions-exact.mp4": {
+    "method": "Deterministic engine scheduler, exact30fps frame rendering, FFmpeg encoding. Replaces the rejected realtime comparison capture for review.",
+    "frames": 1260,
+    "duration": 42,
+    "maxGapSeconds": 0.03333400000000353,
+    "gapsOver100ms": 0
+  }
+}

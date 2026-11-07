@@ -1,0 +1,59 @@
+{
+  "scope": "Numeric replay-envelope diagnostic using existing deterministic controller fixture; no browser, rendering, perception or device-performance proof.",
+  "sourceManifest": "review-source-v1.json",
+  "bearings": [
+    {
+      "width": 320,
+      "x": -0.016922090668295316,
+      "y": -0.9998568111721868
+    },
+    {
+      "width": 390,
+      "x": 0.10595145529009306,
+      "y": -0.9943713034485213
+    },
+    {
+      "width": 650,
+      "x": 0.68591025589631,
+      "y": -0.7276861417233796
+    },
+    {
+      "width": 651,
+      "x": 0.9891674457273568,
+      "y": -0.1467915675821219
+    },
+    {
+      "width": 768,
+      "x": 0.993525987052903,
+      "y": -0.11360507493309766
+    },
+    {
+      "width": 1440,
+      "x": 0.9989716702702709,
+      "y": -0.045338747197350954
+    }
+  ],
+  "phaseStepMs": 50,
+  "replayStepMs": 2,
+  "replayDurationMs": 400,
+  "startModes": [
+    "seek",
+    "active with16ms advancement"
+  ],
+  "fixtureReuse": "One isolated controller per measured bearing; explicit seek/version reset clears pose velocity and replay correction between cases.",
+  "cases": 2136,
+  "frames": 429336,
+  "maxGaze": 5.140108514480664,
+  "worst": {
+    "width": 650,
+    "id": "curious-investigate",
+    "mode": "active",
+    "phase": 250,
+    "afterReplayMs": 82,
+    "gazeX": 5.140108514480664,
+    "gazeY": -2.6564721898319403
+  },
+  "rendererGazeLimit": 6,
+  "violationCount": 0,
+  "violations": []
+}

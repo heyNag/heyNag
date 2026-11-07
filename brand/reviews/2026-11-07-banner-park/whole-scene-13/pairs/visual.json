@@ -1,0 +1,64 @@
+{
+  "discipline": "visual",
+  "proposalSha256": "710168aea494893968a89809edc6034930e39c8ed9a0147919b3aac04c04cce5",
+  "assetSha256": "32ce62c11e533fcd3a7ab1856a102c7a31b9111d96c3fbf16df8d469b8f08469",
+  "readmeSha256": "a88ff0761cd9d7da1bb6d2ba5746612976ab52c7bc73156d32feb8a24418e90e",
+  "state": "Both members explicitly confirm the same scoped recommendation after reciprocal challenge; individual scores and limits retained",
+  "members": [
+    {
+      "reviewer": "visual-a",
+      "decision": "agree_with_named_limits",
+      "score": 8.8,
+      "vote": "brand/reviews/2026-11-07-banner-park/whole-scene-13/votes/visual-a.json",
+      "explicitRecommendation": {
+        "text": "Present the exact actual13 daylight scene as reviewed, retain all individual scores and named nonblocking limits, provide the original2172x724 file in Downloads, and publish the exact frozen personal-story README/banner to heyNag/heyNag within the owner's instruction. Use the same unchanged day art in both GitHub themes. Make no additional art pass and no unrelated avatar, bio, pin or organization-setting change.",
+        "AConfirmation": "I explicitly accept this bounded joint recommendation from Visual A's side.",
+        "BConfirmation": "Explicitly confirmed by direct message after B inspected all four previews and frozen sources. Both accept the exact bounded recommendation, retain A8.8/B9.0 and request no further art pass.",
+        "substantiveObjectionFromA": false,
+        "scopeBoundary": "This vote supports the exact proposal, not unseen artwork, unreviewed copy revisions, a night scene, animation or a claim of unanimous9."
+      },
+      "counterpartChallenge": {
+        "reviewer": "visual-b",
+        "recordRead": "whole-scene-13/independent/visual-b.json, after own independent13 save",
+        "counterpartPosition": "B independently finds the whole still ready, scores9.0 and retains optional reservations about faint hero embossing and busy fine highlights on canopy/grass/blanket/bench.",
+        "concreteChallenge": "I give the highlight-density reservation less practical weight in the actual GitHub application. At the inspected846px desktop banner and308px narrow banner, native spacing around the image already provides visual rest, while the cream coding face and dark glasses remain the dominant shapes. I see no demonstrated profile benefit from another path/blanket highlight pass. Richness can remain an intentional park quality rather than an unmet simplification target.",
+        "evidence": "Both1440 profile previews and both390 README previews; actual image widths confirmed in render-checks.json. The narrow previews keep the hero and three broad activity zones, while fine guest details naturally reduce.",
+        "scoreDifference": "I retain8.8 because the native hero surface motif carries more weight in my material lens. B's9.0 reflects a different, explicitly bounded craft weighting; neither score should be changed to manufacture consensus.",
+        "classification": "Challenge to the weight and application relevance of an optional preference, not a substantive publication objection.",
+        "messageSent": "Concise challenge and exact scoped recommendation sent directly to Visual B before saving this vote.",
+        "counterpartResponseStatus": "Resolved by B's explicit direct response after its full application review: B accepts that highlight quieting has no demonstrated current profile benefit and confirms the exact bounded recommendation.",
+        "BChallengeAndAResponse": "B challenges applying A's native embossed-texture deduction to the846/308px profile: it is not meaningfully competing at846 and becomes imperceptible at308. A explicitly accepts this distinction. The8.8 reservation remains a native whole-still/Downloads material judgment, with no light/dark application constraint or retouch requirement."
+      }
+    },
+    {
+      "reviewer": "visual-b",
+      "decision": "agree_with_named_limits",
+      "score": 9,
+      "vote": "brand/reviews/2026-11-07-banner-park/whole-scene-13/votes/visual-b.json",
+      "explicitRecommendation": {
+        "recommendation": "Present actual13, deliver the original2172×724 image in Downloads, and publish the exact frozen personal-story README/banner to heyNag/heyNag within the owner’s authorization. Keep the same day image in both themes, preserve individual scores and named nonblocking limits, and make no account-settings, unanimous9, audience-validation or night/animation claim.",
+        "BExplicitlyConfirms": true,
+        "AExplicitlyConfirms": true,
+        "confirmationEvidence": "Direct A/B exchange after independent13 saves and new application review; A explicitly confirmed both the counterchallenge and exact bounded recommendation.",
+        "status": "resolved_pair_recommendation; no claim that all18 final votes are complete"
+      },
+      "counterpartChallenge": {
+        "counterpart": "visual-a",
+        "record": "brand/reviews/2026-11-07-banner-park/whole-scene-13/independent/visual-a.json",
+        "readAfterOwnIndependentSave": true,
+        "BChallengeToA": "A retains8.8 partly for native hero embossing. In the actual846px desktop and308px narrow profile images, the motif does not meaningfully compete with broad soft form. It should not impose a theme-specific treatment or another retouch requirement. This challenges the application of the deduction, not A’s right to retain its native craft score.",
+        "AResponse": "Explicitly agrees: the8.8 reservation applies to native whole-still material inspection/original Downloads image only, with no light/dark profile constraint or retouch requirement.",
+        "AChallengeToB": "Native profile spacing gives enough visual rest at846/308px; B’s highlight-density preference has no demonstrated profile benefit requiring a further pass.",
+        "BResponse": "Explicitly accepts after inspecting all four previews. Highlight quieting remains future taste only; no new render requested.",
+        "scoresRetained": {
+          "visual-a": 8.8,
+          "visual-b": 9
+        },
+        "remainingSubstantiveObjection": false
+      }
+    }
+  ],
+  "remainingSubstantiveObjections": [],
+  "scope": "Present actual13 as the reviewed day-scene and publish this personal-story README/banner to heyNag/heyNag within the owner’s explicit instruction. Preserve all individual image scores and named nonblocking limits. Do not claim unanimous9, audience validation or a night/animated counterpart.",
+  "limits": "Pair recommendation does not supply any other specialist’s vote, prove human outcomes or claim publication has already happened."
+}

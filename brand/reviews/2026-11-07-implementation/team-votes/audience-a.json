@@ -1,0 +1,31 @@
+{
+  "reviewer": "audience-a — emotion comprehension and Nag attribution",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "proposalFile": "team-proposal-v2.json",
+  "proposalSha256": "4eef022ccecba73621ca188b29c13cbc41d08b5268ffeaa6e98e2c4c5ea08c5c",
+  "sourceManifest": "review-source-v4.json",
+  "sourceManifestSha256": "4b70d40e6c6fed47936377ff71d915379cbe84bc2a23020ac2ab2fb9696b2caa",
+  "verification": "Proposal and manifest hashes verified; all 18 source-manifest files matched v4.",
+  "decision": "agree_with_named_nonblocking_limits",
+  "acceptedScope": "Accept the implemented LOCAL foundation defined by proposal v2: the native SVG V5 and 24 emotions plus three studies, owner-selected Investigate & share portrait study, current avatar/header exports and deterministic films, and the recorded control/mobile CSS/description improvements. This permits continued design and future website work within actual authorization; it is not publication approval, human-outcome certification, continuous-motion approval or a universal 9/10 score.",
+  "personalScore": {"value": 8.2, "outOf": 10, "changedFromIndependent": false},
+  "scoreMeaning": "Subjective expert craft readiness of inspected static emotional staging and attribution in this local study. Independent deductions for quiet-pose separation, small night antenna continuity and scrolled-scene attribution remain visible.",
+  "namedLimits": [
+    "Audience comprehension, Nag attribution, delayed recall, attachment and population preference remain unscored. Nag's explicit Investigate & share choice is categorical personal-fit evidence only.",
+    "Authoring labels and explanations prime intent. Future comprehension work requires separate neutral prompts and explicit exposure records; the current labels need not be removed from the local studio.",
+    "Portrait views improve visible character size, but name/moth exposure differs with viewport and scroll. The authored screen-right eyeline is less literally aligned with the stacked question.",
+    "Quiet held-pose families and the small sharing mitten retain subtle semantic distinctions; these are craft hypotheses, not measured human confusion.",
+    "Night antenna stems are less robust at 32–48px. Accept the proposal's day universal 32px avatar and larger night usage without erasing that observed limitation.",
+    "No continuous-motion perception claim is supported by this review. The active-only 119-interval local desktop sample does not establish physical-phone or GPU behavior and does not attribute earlier mixed idle gaps to SVG.",
+    "Native-menu keyboard commit and spoken screen-reader output remain unverified. No remote publication or deployment is included."
+  ],
+  "substantiveObjections": [],
+  "pairRecommendationConfirmed": true,
+  "acceptedJointRecommendation": "Keep hypotheses separate from owner preference and expert craft. Audience outcomes remain unscored; authoring labels are not neutral research stimuli.",
+  "pairDiscussion": "pairs/audience-a-discussion.json",
+  "skillsMessageAcknowledged": true,
+  "skillsAcknowledgment": "Nag's message to the entire team is acknowledged. My independent record lists all 17 catalog entries read and the three relevant full skills actually read. The pair response accepts concrete full-size comparison, exposure logging, purpose-based UI timing and hardware-evidence practices, with explicit character, accessibility and historical-evidence exceptions.",
+  "audienceOutcomeScores": {"unprimedComprehension": null, "nagAttribution": null, "delayedRecall": null, "attachment": null, "populationPreference": null},
+  "consensusLimit": "This is Audience A's individual vote. It does not speak for B or establish all-18 consensus."
+}

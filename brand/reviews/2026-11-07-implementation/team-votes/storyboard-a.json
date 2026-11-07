@@ -1,0 +1,38 @@
+{
+  "reviewer": "Storyboard A — visual storytelling and setup/payoff",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "proposalFile": "team-proposal-v2.json",
+  "proposalSha256": "4eef022ccecba73621ca188b29c13cbc41d08b5268ffeaa6e98e2c4c5ea08c5c",
+  "sourceManifestSha256": "4b70d40e6c6fed47936377ff71d915379cbe84bc2a23020ac2ab2fb9696b2caa",
+  "decision": "agree_with_named_nonblocking_limits",
+  "acceptedScope": "Accept the implemented local foundation described in immutable proposal v2 against source v4 for continued design and future website work: the native V5 rig and 24 emotions plus three separate studies, owner-selected portrait Investigate & share, current exports and deterministic films, and control/accessibility improvements. This is not publication authorization, a 9/10 certification, audience research, physical-device validation or continuous-motion proof.",
+  "personalScore": {"value": 8.2, "outOf": 10},
+  "scoreMeaning": "Score of authored visual setup/payoff and directly inspected rendered staging. My independent deductions for offer specificity and phone eyeline-to-question alignment remain. Continuous rhythm and human response remain unscored.",
+  "scoreHistory": [
+    {"stage": "independent v4", "value": 8.2, "source": "independent/storyboard-a.json"},
+    {"stage": "immutable v2 vote", "value": 8.2, "reason": "No new evidence removes the two craft weaknesses; agreement on the implemented local scope does not raise the number."}
+  ],
+  "namedLimits": [
+    "The presenting hand is visible but remains close to the ruff/forewing; its invitation is less specific than the face and glasses.",
+    "Portrait staging improves character visibility while the screen-right/lower reading scan is less literally aligned with the question above. At 320 px the initial viewport postpones the face; this is a composition tradeoff, not an overflow finding.",
+    "One-peek is a controlled alternative, not a proven comic improvement. Its isolated subtlety does not establish the continuous sequence's success or failure.",
+    "I inspected source, final rendered stills, selected decoded sheets and metadata; I did not watch uninterrupted normal-speed performance. Continuous rhythm, weight and live smoothness are not certified.",
+    "The active Thinking record is local desktop cadence evidence only: 119 intervals, mean 34.45 ms, p95 35 ms, maximum 67 ms, four above 50 ms. It neither proves physical-phone performance nor attributes older mixed idle/playback one-second gaps to SVG.",
+    "No new unprimed-human comprehension, attribution, attachment or recall evidence; owner preference and authoring labels do not establish those outcomes.",
+    "Physical-phone operation, spoken screen-reader output and native menu keyboard commit retain the proposal's separate validation limits."
+  ],
+  "substantiveObjections": [],
+  "pairRecommendationConfirmed": true,
+  "acceptedPairRecommendation": "Keep Investigate & share as the lead and the one-peek audition as an alternative. Continue challenging hand specificity, comic rhythm and the phone eyeline-to-question relation within the same anatomy.",
+  "pairDiscussion": "pairs/storyboard-a-discussion.json",
+  "skillsMessageAcknowledged": true,
+  "skillsAcknowledgment": "Read all 17 installed catalog summaries and the full relevant choreograph, review-animations and animation-vocabulary instructions, plus review-animations/STANDARDS.md. Practical beat casting, controlled auditions, responsive staging and split perceptual/forensic evidence are recorded in the independent and pair records. Purpose-based UI/content and SVG exceptions remain explicit.",
+  "verification": {
+    "proposalAndManifestSha256Verified": true,
+    "relevantCurrentSourceHashesMatchV4": true,
+    "filesChecked": ["brand/animation-v5/motion.js", "brand/animation-v5/character.js", "brand/animation-v5/signature.js", "brand/animation-v5/signature.html", "brand/animation-v5/signature.css"],
+    "localReportFileExists": true,
+    "sourceEditedByReviewer": false
+  }
+}

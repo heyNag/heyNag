@@ -1,0 +1,18 @@
+{
+  "method": "OpenAI built-in image generation",
+  "selectedConcept": "Curious moth",
+  "status": "Historical original concept and avatar. Current character direction is recorded in mascot-v5.json.",
+  "masters": {
+    "fullBody": "assets/brand/heynag-moth.png",
+    "avatar": "assets/brand/heynag-moth-avatar.png"
+  },
+  "fullBodyPrompt": "Edit the supplied character sheet. Extract and refine ONLY candidate C, the curious little moth in the RIGHT column, into one standalone full-body brand mascot on a genuinely transparent background. This is the user's chosen recurring ambassador for heyNag. Preserve its distinctive two flexible leaf-tipped antennae, cream-white fluffy round head and body, large expressive charcoal oval eyes, sage/light green leaf-shaped wings and gentle curious personality. Simplify for small-avatar legibility: clean smooth silhouette, only a few rounded cheek tufts, ONE simple darker green teardrop marking per wing, sturdy short feet, no tiny hatching. Pose: an attentive slight head tilt and small friendly open smile, wings resting open enough to show their shape, arms relaxed. Keep proportions endearing and compact. Contemporary flat 2D comic illustration, confidently uniform charcoal outlines, solid flat cream, pale green and fresh sage fills. Remove all gradients, texture, shading, shadows, ground, framing, lettering, motion marks and labels. No A or B characters, no extra expression studies, no props, no text. Center the complete character with all antennae and feet comfortably inside a square canvas with modest breathing room. The transparent alpha must be real. Do not imitate other mascots. Final image is one single clean production-style character cutout.",
+  "avatarPrompt": "Create a clean small-avatar version of this exact chosen moth character. Preserve its exact facial style and colors. Show only the COMPLETE FLOATING HEAD with both leaf-tipped antennae and the rounded fluffy chin. Remove the entire neck, chest, body and wings. Nothing may be cropped by an edge. The outline around the bottom of the chin must be a clean, closed, gently scalloped curve. Center the head in a square canvas with comfortable circular-avatar safe margins. Keep its happy curious expression and slight tilt. Simple charcoal contours, cream-white head, green leaf antenna tips and green inside mouth. Genuinely transparent background with absolutely no stray pixels, fragments, smudges, white strips or bottom-edge residue. No text, labels, marks, frame, shading or props. One single isolated complete head, not a bust crop.",
+  "invariants": [
+    "Leaf-tipped antennae",
+    "Cream head and body",
+    "Expressive charcoal eyes and contour",
+    "Pale green wings with one darker teardrop mark each"
+  ],
+  "reproducibility": "Prompts do not reproduce identical pixels. These original PNGs document this historical concept. See mascot-v5.json and the character guide for the current visual references."
+}
