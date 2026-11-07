@@ -1,0 +1,465 @@
+{
+  "sourceSha256": "87943e3c1452d40b1ac535ea5bbcefa6e7676cee77165eef2d77ce5c67a32569",
+  "reviewers": [
+    {
+      "reviewer": "brand-a",
+      "agent": "/root/panel_brand_a_implementation",
+      "score": 8.2,
+      "scope": "Whole-scene still-image craft within Brand A's lens: personal story, hierarchy, identity and cohesion of environment, light and materials. Fresh scope; earlier eye or concept verdicts are not inherited approval.",
+      "verdict": "revise",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/brand-a.json",
+      "sourceHashPresent": true,
+      "mustFix": [
+        {
+          "id": "brand-a-whole11-materials",
+          "action": "Repair the cross-material faceting/crackle, prioritizing the foreground moth and bench and checking the trunk/path for the same treatment. Use07's quieter material separation as a finish reference while retaining11's intentional story/identity corrections.",
+          "acceptance": "At native and1280, soft face and paddles read as soft forms, timber reads as timber and stone as stone; no single etched texture visually spreads across all of them. Recheck the complete image and crops so cleanup does not erase eyes, markings, contact or detail elsewhere.",
+          "notRequired": "No anatomy redraw, guest removal, extra props, text or composition restart. I do not prescribe a generation technique or claim the exact cause."
+        }
+      ],
+      "limits": [
+        "1280/880/420 are local raster scales, not GitHub previews or physical mobile tests.",
+        "No exact product-likeness verdict: original companion references were not freshly inspected in this round. Feature observations refer to the owner-specified eyes/forms and actual11 evidence.",
+        "No night counterpart, live profile layout, animation, sound, rig or audience recognition is scored.",
+        "No publication, finished-art declaration or acceptance of an unbuilt repair. Previous narrow eye review is not whole-image approval."
+      ]
+    },
+    {
+      "reviewer": "brand-b",
+      "agent": "/root/panel_brand_b_implementation",
+      "score": 8.4,
+      "scope": "Whole day still-image craft through personal identity, narrative hierarchy, material coherence and suitability for long-term heyNag application. No score for unbuilt animation, website, sound or audience response.",
+      "verdict": "revise",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/brand-b.json",
+      "sourceHashPresent": true,
+      "mustFix": [
+        {
+          "priority": "before calling the whole image finished",
+          "location": "Hero head/antennae/wing and bench; workshop surfaces; tree/path/foliage across the frame",
+          "problem": "Visible irregular patch/crease treatment weakens material differentiation compared with 07. It is not confined to a tiny companion crop.",
+          "request": "Repair the cross-material finish using 07 as a material-quality control while retaining 11's intended story and exact eye constraints. Keep the existing composition and original anatomy. Assess the resulting whole frame again rather than approving only the repaired area.",
+          "verification": "Native crops plus matched full-frame 1280/880/420 evidence. The hero should read soft, bench as wood and path as stone without the same surface pattern running through them."
+        }
+      ],
+      "limits": [
+        "The 1280/880/420 images are local resizes, not actual GitHub/browser/mobile-device evidence. At 420 the foreground idea survives while supporting actions become tiny.",
+        "Repeated-edit artifacts are a possible explanation, not a verified cause. The finding is the visible surface difference itself.",
+        "This is a generated day raster, not a controllable 3D scene, full animation, matched night treatment or proven reusable rig.",
+        "No human recognition, emotional attachment, tool affiliation or long-term recall results are claimed. The role scores only inspected still-image evidence.",
+        "No final/publication approval. Any changed output needs fresh assessment of the repaired frame, including remaining concrete panel objections."
+      ]
+    },
+    {
+      "reviewer": "performance-a",
+      "agent": "/root/panel_performance_a_implementation",
+      "score": 8.2,
+      "scope": "The complete still's intention, emotional staging, support/contact, hierarchy and material/light coherence insofar as they sustain acting. Fresh whole-picture assessment, not inherited approval from earlier character passes.",
+      "verdict": "revise",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/performance-a.json",
+      "sourceHashPresent": true,
+      "mustFix": [
+        {
+          "issue": "Material-crossing surface degradation",
+          "action": "Recover the cleaner soft-face, wing, wood and metal separation evident in 07; preserve the intentional 11 acting/eye corrections. This is one whole-image finish issue, not an invitation to redesign the scene.",
+          "acceptance": "Native hero/workshop comparison no longer shows the extra crackle pattern or faceted patches overriding material identity; the same improvements survive the full 1280px view."
+        }
+      ],
+      "limits": [
+        "The scales are local resized images, not a tested GitHub layout, mobile device or live publication.",
+        "No continuous animation, physics, sound, night treatment or audience recognition/emotional response is scored.",
+        "Some far wing panels and contacts are occluded; visible layering does not certify hidden anatomy.",
+        "Guest product likeness was not independently audited against the separate external reference set; their stated eye constraints and scene function were inspected."
+      ]
+    },
+    {
+      "reviewer": "performance-b",
+      "agent": "/root/panel_performance_b_implementation",
+      "score": 8.2,
+      "scope": "Whole still-image performance craft: staging, pantomime, gaze, apparent weight/contact, emotional clarity and material/environment coherence supporting the acting. No motion score.",
+      "verdict": "revise",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/performance-b.json",
+      "sourceHashPresent": true,
+      "mustFix": [
+        {
+          "issue": "Remove the widespread cellular/patch-like finish that weakens material identity and the soft face.",
+          "location": "Hero cream face/wing/antennae, bench wood and metal, workshop and path.",
+          "requiredOutcome": "Restore smooth readable form and material-specific detail comparable to07, while retaining current intended poses, original anatomy, guest arrangement and corrected eyes. Do not call the current 11 final film-quality artwork until the revised whole image and these crops are checked."
+        }
+      ],
+      "limits": [
+        "No continuous animation, built 3D rig, matched night image, live GitHub presentation or physical-device behavior was inspected.",
+        "No human recognition, emotional response or comprehension result is established by this panel.",
+        "Occluded wing panels cannot all be counted from these views; visible layering does not certify complete hidden geometry.",
+        "The 5x crop exposes local pixel detail; only full/native views support overall material and staging conclusions.",
+        "Prior image 05 advancement and any earlier eye-only approval do not approve this whole-scene11."
+      ]
+    },
+    {
+      "reviewer": "identity-a",
+      "agent": "/root/panel_identity_a_implementation",
+      "score": 8.1,
+      "scope": "Whole still-image craft through identity coherence, silhouette, cameo hierarchy and communication across supplied image scales. This is neither an animation score nor a continuation of the earlier profile or eye-only judgment.",
+      "verdict": "revise",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/identity-a.json",
+      "sourceHashPresent": true,
+      "mustFix": [
+        {
+          "id": "WHOLE-IDA-01",
+          "action": "Restore soft, coherent material rendering across the character and environment, using07's cleaner separation as the quality control while preserving11's corrected companion eyes and accepted scene arrangement.",
+          "acceptance": "No distracting polygon/crackle network crossing cream/plush, wood and foliage in native hero/workshop/tree crops; the whole image reads as one dimensional scene at1280/880. Do not solve this with indiscriminate blur or a mascot anatomy redesign."
+        }
+      ],
+      "limits": [
+        "Local image scales are not actual narrow GitHub or physical-device tests.",
+        "No built 3D scene, continuous animation, matched night version, audio or website assessed.",
+        "No unfamiliar-human recognition, emotional response or owner approval inferred from AI judgments.",
+        "No full18 consensus or approval of an unbuilt repair; no private project evidence disclosed."
+      ]
+    },
+    {
+      "reviewer": "identity-b",
+      "agent": "/root/panel_identity_b_implementation",
+      "score": 8.3,
+      "scope": "Whole-frame still-image identity, hierarchy, scale readability and coherent animated-film finish; no animation or audience-outcome score.",
+      "verdict": "revise",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/identity-b.json",
+      "sourceHashPresent": true,
+      "mustFix": [
+        {
+          "id": "identity-b-1",
+          "location": "Whole-frame finish, especially native hero and workshop crops",
+          "action": "Resolve the visible surface/contour breakup before presenting the entire image as polished. Use07\u2019s softer material handling as a control while retaining11\u2019s approved local eye/identity corrections; do not treat all surfaces with the same faceted texture.",
+          "why": "The requested finish concerns the entire animated-film world. Correct eyes and recognizable silhouettes alone do not resolve the inconsistent material language."
+        }
+      ],
+      "limits": [
+        "Local image widths are not native GitHub or physical-phone evidence.",
+        "No human recognition, emotional response, motion, sound, night pairing, publication or full18 approval is inferred.",
+        "This is a still-image craft judgment; surface differences are observed, not a diagnosis of the image generator\u2019s internal cause."
+      ]
+    },
+    {
+      "reviewer": "rigging-a",
+      "agent": "/root/panel_rigging_a_implementation",
+      "score": 8.3,
+      "scope": "Whole-scene still-image craft through the articulation/contact and rendering-integrity lens. Not a score for a 3D model, rig, animation, interaction or audience response.",
+      "verdict": "revise",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/rigging-a.json",
+      "sourceHashPresent": true,
+      "mustFix": [
+        {
+          "id": "surface-coherence",
+          "priority": "must-fix",
+          "location": "Hero cream head and lime wing; bench slats and arm; workshop timber; left tree and adjacent foliage.",
+          "observation": "11 has stronger angular/scaly contour patches than 07 across unrelated materials. The hero crop shows cream, wing and wood sharing an embossed surface treatment; the workshop boards and tree repeat it. This remains visible in the full image and 1280px view, so it is not merely a magnified-eye artifact.",
+          "effect": "The form shading still establishes volume, but repetitive surface segmentation reduces the distinction between soft character, fabric, timber and foliage. It pulls the whole frame toward a processed illustration instead of the intended coherent animated-feature still.",
+          "evidence": [
+            "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-hero-native.png",
+            "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene07-hero-native.png",
+            "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-workshop-native.png",
+            "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene07-workshop-native.png",
+            "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-width-1280.png"
+          ],
+          "improvementCriterion": "Retain intentional fine material texture while restoring calm gradients and material-specific detail at least as coherent as 07. The cream face must read soft, the bench as continuous wood and the wing as a clean form in native and 1280px views. Preserve the scene, guest placement and corrected flat Grok eyes; no anatomy redesign is indicated.",
+          "confidence": "High for the visible difference; its technical cause is not established."
+        },
+        {
+          "id": "hammer-grip",
+          "priority": "must-fix-local",
+          "location": "Workshop, raised hand just below the hammer head and above the left side of the toolbox; approximately 41\u201343% across, 34\u201342% down the complete frame.",
+          "observation": "The 11 native workshop crop resolves the raised grip as an angular cream/black loop or linkage; 07 has a clearer rounded cream mitten around the handle. The hand-to-handle boundary in 11 is ambiguous, even though the raised-hammer action remains recognizable at reduced scale.",
+          "effect": "This is the workshop\u2019s defining contact. The angular gap weakens the otherwise compact, soft character construction and makes the tool connection less convincing.",
+          "evidence": [
+            "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-workshop-native.png",
+            "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene07-workshop-native.png"
+          ],
+          "improvementCriterion": "Show one solid rounded mitten contacting and wrapping the handle, with a short continuous wrist and no hollow strap reading. Keep the existing tiny reach and hammer pose; do not add human fingers or lengthen the arm.",
+          "confidence": "Moderate: a small raster contact, not proof of physically detached geometry."
+        }
+      ],
+      "limits": [
+        "This is a review of one raster still. There is no inspected 3D mesh, complete hidden construction, physical simulation, animation, sound or editable scene graph.",
+        "The 1280/880/420 images are local scales, not actual GitHub/mobile/browser or physical-device evidence.",
+        "The matte/soft dimensional direction is supported, but this review does not certify a studio-equivalent production pipeline or an external studio\u2019s endorsement.",
+        "No audience recognition, emotional response, future night image, publication quality or unbuilt correction is approved."
+      ]
+    },
+    {
+      "reviewer": "rigging-b",
+      "agent": "/root/panel_rigging_b_implementation",
+      "score": 7.8,
+      "scope": "Still-image technical craft across the entire frame: visible construction, contact, material distinction, contours and coherent spatial integration. No score for an unbuilt 3D rig or animation.",
+      "verdict": "revise",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/rigging-b.json",
+      "sourceHashPresent": true,
+      "mustFix": [
+        {
+          "id": "RB-01",
+          "priority": "high for final still-image approval",
+          "action": "Repair the workshop grip/readable short wrist connection, using 07's clearer contact as a construction reference. Keep mitten anatomy and prop scale.",
+          "acceptance": "The hand visibly encloses the handle and belongs to the moth at native size; the mallet reads as held in the full composition. No elongated fingers or limb workaround."
+        },
+        {
+          "id": "RB-02",
+          "priority": "high for the requested film-like finish",
+          "action": "Recover material separation and clean hero contours from the cleaner baseline rather than carrying the crinkled/faceted look forward as finished polish.",
+          "acceptance": "Face and paddles read as soft rounded forms, glasses as continuous constructed rims, and the bench as wood with coherent grain. Native hero inspection and 1280 px full-frame inspection must both improve without losing the corrected companion eyes."
+        }
+      ],
+      "limits": [
+        "The image confirms visible anatomy only. Occluded far-side wings and limb connections cannot establish complete four-wing topology in every pose.",
+        "The cause of texture/contour changes is not established from images; repeated raster editing is history, not a technical diagnosis.",
+        "The 1280/880/420 files are local resizes, not actual GitHub viewport, browser, display-density or phone evidence.",
+        "No continuous motion, production 3D rig, sound, future night version, user recognition or audience preference was tested.",
+        "Agreement on these repairs would not approve an unbuilt replacement."
+      ]
+    },
+    {
+      "reviewer": "interaction-a",
+      "agent": "/root/panel_interaction_a_implementation",
+      "score": 8.4,
+      "scope": "Whole still-image craft within the interaction lens: ease of scanning, focal hierarchy, scene comprehension and surface clarity at native and supplied local banner scales. Not a keyboard, accessibility-conformance, motion, audience or device score.",
+      "verdict": "revise",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/interaction-a.json",
+      "sourceHashPresent": true,
+      "mustFix": [
+        {
+          "id": "IXA11-SURFACE",
+          "action": "Reduce the visible surface breakup introduced relative to 07, especially on the hero face/antennae and broad wood surfaces. Preserve natural texture and lighting; recover material clarity rather than smoothing the entire image indiscriminately.",
+          "why": "The current cross-material crackling is a whole-image finish regression against the requested soft cinematic craft."
+        },
+        {
+          "id": "IXA11-GRIP",
+          "action": "Clarify the workshop mitten-to-hammer connection while leaving the established vignette and tiny proportions intact.",
+          "why": "A convincing held tool supports the central building story when the scene is viewed at native or large presentation sizes."
+        }
+      ],
+      "limits": [
+        "No physical-device, native GitHub rendering, keyboard or spoken-screen-reader evidence was gathered for this asset.",
+        "No audience response, recognition, recall, affection, comfort over repeated visits or measured attention order is established. Hierarchy/comfort statements are this reviewer's bounded visual judgment.",
+        "No animation, sound, performance timing, future website behavior or night variant is scored.",
+        "This review does not certify companion likeness against their original references; the companion observations concern visible staging and the specified eye shapes.",
+        "This initial revise verdict does not approve an unbuilt correction or declare the image finished."
+      ]
+    },
+    {
+      "reviewer": "interaction-b",
+      "agent": "/root/panel_interaction_b_implementation",
+      "score": 8.4,
+      "scope": "Whole still-image craft within Interaction B\u2019s hierarchy and comfort lens; not animation or interface quality.",
+      "verdict": "revise",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/interaction-b.json",
+      "sourceHashPresent": true,
+      "mustFix": [
+        {
+          "priority": "before calling the whole scene finished",
+          "location": "Native hero crop, especially cream forehead/cheek and bench slats; corresponding tree/workshop surfaces.",
+          "issue": "The later version\u2019s conspicuous crackle/cellular surface treatment reduces the material separation and soft finish achieved in 07.",
+          "requestedOutcome": "A restrained local material cleanup or controlled return toward the cleaner 07 rendering, preserving 11\u2019s intentional story and eye corrections. Avoid a fresh whole-frame restyle that alters already working hierarchy.",
+          "verification": "Compare final and 07 native hero/workshop crops plus final 1280 view; the improvement must be visible without requiring magnification."
+        }
+      ],
+      "limits": [
+        "No browser, actual GitHub placement, physical device, display-calibration or screen-reader test was performed.",
+        "No animation, sound, interactive scene, website behavior, human attention or return-visit response is scored.",
+        "The intended three appearances of one moth and parent/kids metaphor remain authorial readings; these images do not establish unprimed audience interpretation.",
+        "Observed texture differences are real visual comparisons; their production cause is not established.",
+        "This is an independent still-image recommendation, not full-team approval or approval of replacement art."
+      ]
+    },
+    {
+      "reviewer": "audience-a",
+      "agent": "/root/panel_audience_a_implementation",
+      "score": 8.5,
+      "scope": "Ordinal expert still-image craft judgment for this complete scene's emotional staging, clear hero, identity cues and comfortable visual coherence. Not an audience result or animation score.",
+      "verdict": "revise",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/audience-a.json",
+      "sourceHashPresent": true,
+      "mustFix": [
+        {
+          "id": "AA-WS11-1",
+          "location": "Foreground hero face and antennae; bench boards; left trunk; middle workshop surfaces",
+          "requestedOutcome": "Recover soft facial modeling and coherent, distinct surface materials closer to the cleaner 07 control while preserving 11's intended eye corrections. Judge the full-frame result as well as the corrected detail.",
+          "whyBlocking": "The owner explicitly requested whole-scene animated-feature craft before presentation as finished. The broad surface regression is visible beyond the eye crop and affects that requested finish. It does not justify a new cast, new composition or anatomy redesign."
+        }
+      ],
+      "limits": [
+        "Local scales at 1280/880/420px are not actual GitHub rendering or physical-device evidence.",
+        "No unfamiliar-human responses: comprehension, attribution, emotional comfort, attachment and delayed recall remain unmeasured.",
+        "No animation, audio, night version, interaction or website quality is scored.",
+        "Stylistic feature-animation inspiration is assessed through the supplied still's craft, not certified equivalence to a studio production.",
+        "This review does not authorize publication or approve an unbuilt correction."
+      ]
+    },
+    {
+      "reviewer": "audience-b",
+      "agent": "/root/panel_audience_b_implementation",
+      "score": 8.4,
+      "scope": "Expert still-image craft within audience lens: readable emotion/identity cues, hierarchy and coherent visual storytelling across the entire scene. No score for recognition, recall, affection, motion or a published application.",
+      "verdict": "revise",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/audience-b.json",
+      "sourceHashPresent": true,
+      "mustFix": [
+        {
+          "id": "AB11-material",
+          "action": "Restore coherent soft material separation in the visibly affected regions before claiming this whole image finished. Preserve approved staging, foreground exclusivity and the corrected eye designs. Do not replace the composition to address a surface-quality defect.",
+          "priority": "Must fix for stated film-still craft target."
+        }
+      ],
+      "limits": [
+        "No human viewers, fixation measures, name attribution trials, delayed recall, emotion interviews or population preference data.",
+        "No motion, sound, night edition, implementation or publication approval.",
+        "The still supports plausible friendly focus, making and resting; precise causal narratives and emotional response remain hypotheses.",
+        "This is a new whole-scene judgment, not inherited approval from an earlier eye-only review."
+      ]
+    },
+    {
+      "reviewer": "storyboard-a",
+      "agent": "/root/panel_storyboard_a_implementation",
+      "score": 8.3,
+      "scope": "Current 11 as one silent animated-feature-inspired still: visual hierarchy, continuous park composition, action grouping, spatial storytelling and material clarity supporting those jobs. This is a fresh whole-scene craft score, not a revision of the earlier static GitHub profile score and not a motion score.",
+      "verdict": "revise",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/storyboard-a.json",
+      "sourceHashPresent": true,
+      "mustFix": [
+        {
+          "id": "SB-A-WS11-01",
+          "priority": "required before describing 11 as a finished whole-scene result",
+          "location": "Whole image, especially the native hero and workshop areas compared against 07",
+          "defect": "The pervasive mottled/faceted texture and unstable contour detail reduce soft-form clarity and material differentiation across the picture. This is a visible regression relative to 07, not an assumed consequence of a particular editing process.",
+          "repairCriterion": "Restore clean, deliberate material boundaries and calmer supporting surfaces while retaining the selected scene and current character corrections. Soft moth forms, woven blanket, wood and stone should read as different materials, with detail supporting the focal order. Do not solve this by flattening all texture or by broadly redesigning the cast.",
+          "verification": "Compare the complete frame with 07, then verify the native hero/workshop/tree details and 1280/880/420 scales. Preserve the existing 5x eye check so a whole-image cleanup does not silently undo the corrected companion eyes."
+        }
+      ],
+      "limits": [
+        "No human recognition, attribution, affection, comprehension or recall was measured. Descriptions of hierarchy and story are specialist readings, not audience results.",
+        "No new motion, sound, website interaction or night treatment was inspected or scored.",
+        "Companion identity is assessed here only against the explicit visible-feature constraints in the brief; this is not a fresh recognizable-likeness audit against every original companion reference.",
+        "The 5x crop supports the stated eye observation at the supplied inspection scale; it is not an exhaustive pixel-purity or asset-production certification.",
+        "No whole-team approval or finished-art claim follows from this independent record."
+      ]
+    },
+    {
+      "reviewer": "storyboard-b",
+      "agent": "/root/panel_storyboard_b_implementation",
+      "score": 8.4,
+      "scope": "Current 11 as one static animated-feature-inspired park composition: hierarchy, depth, economy, environmental coherence and action legibility. No score for actual animation, studio equivalence, GitHub deployment, audience response or an unbuilt replacement.",
+      "verdict": "revise",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/storyboard-b.json",
+      "sourceHashPresent": true,
+      "mustFix": [
+        {
+          "id": "SB11-01",
+          "action": "Resolve the visibly uneven surface/edge finish across the main character and setting before representing 11 as the finished whole-scene animated-film image.",
+          "bounds": "Preserve composition, four guests, stools, solo foreground, tiny anatomy, accepted Clawd face and the corrected Muse/Grok eye treatment. This is not a request to regenerate the concept, remove the cast or automatically revert all of 11 to 07.",
+          "evidence": "Full 07/11 comparison, native hero/workshop pairs and 1280px 11. The objection is not based only on 5x magnification."
+        }
+      ],
+      "limits": [
+        "No unfamiliar-viewer recognition, eye tracking, humor response, parental-metaphor comprehension or emotional attachment measured.",
+        "No final night counterpart, live profile application, animation, sound or unbuilt correction scored.",
+        "The oblique pose and laptop obscure some appendages; visual consistency with V5 is not a measured proof of every hidden anatomical relationship.",
+        "Visible irregularities are evidence; their precise generation or editing cause was not independently determined.",
+        "This is one independent specialist judgment. No full-18 agreement or pair acceptance is claimed in the initial record."
+      ]
+    },
+    {
+      "reviewer": "visual-a",
+      "agent": "/root/panel_visual_development_astra",
+      "score": 8.2,
+      "scope": "Subjective still-image craft of the complete11 frame through material, lighting, color, depth and environmental integration. Not a precise measurement, studio-equivalence rating, animation score or continuation of the earlier GitHub application score.",
+      "verdict": "revise",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/visual-a.json",
+      "sourceHashPresent": true,
+      "mustFix": [
+        {
+          "id": "VA-W11-01",
+          "request": "Address the accumulated cross-material etched/faceted finish before calling the whole image finished at the requested film-like bar. Prioritize the large cream head and pale wing, then the adjoining bench and repeated environmental surface pattern.",
+          "guardrail": "This is a controlled material-cleanup request, not permission for another unrestricted whole-scene regeneration, new props or different composition. Preserve the accepted small faces, plush Clawd, source proportions, warm light and actual eye correction.",
+          "acceptance": "Matched native crops visibly recover soft continuous form and distinct material structure; the full frame retains its depth and current storytelling without new anatomy/contact artifacts."
+        }
+      ],
+      "limits": [
+        "1280/880/420 files are local image scales, not actual GitHub or physical-phone evidence.",
+        "No motion, audio, night adaptation, interaction, screen-reader or delivery/performance quality is scored.",
+        "No human recognition, affection, recall, studio-equivalence or owner preference claim follows from this judgment.",
+        "No finished/full-team status, publication or approval of an unbuilt cleanup. Pair discussion and shared proposal remain pending."
+      ]
+    },
+    {
+      "reviewer": "visual-b",
+      "agent": "/root/panel_visual_b_implementation",
+      "score": 8.3,
+      "scope": "Whole still-image visual craft through drawing appeal, contour, material readability, composition and scale; no motion, sound or audience outcome score.",
+      "verdict": "revise",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/visual-b.json",
+      "sourceHashPresent": true,
+      "mustFix": [
+        {
+          "priority": "high for finished film-still claim",
+          "location": "Clawd face/body and representative hero/environment surfaces",
+          "problem": "Material drift from07 is visible across the scene, not merely a hypothetical consequence of rerendering. Clawd particularly loses the requested plush read through squared surface divisions; the hero and furniture show related etched/faceted treatment.",
+          "requiredOutcome": "Restore material-specific softness and texture restraint while preserving11 composition, poses, identity and repaired eyes. Do not solve by blurring the whole image, adding fur everywhere, changing the cast or enlarging anatomy."
+        }
+      ],
+      "limits": [
+        "This is AI craft judgment, not audience research or evidence of human attachment.",
+        "No animation, sound, physical-device, live GitHub or mobile-browser claims.",
+        "No score for unbuilt art; no publication or full-team consensus claimed.",
+        "Companion references include angled photographs and a flat logo; translation into this scene is assessed by visible identity cues rather than literal reproduction."
+      ]
+    },
+    {
+      "reviewer": "sound-a",
+      "agent": "/root/panel_sound_a_implementation",
+      "score": 8.2,
+      "scope": "Still-image craft within silent action legibility, hierarchy, atmosphere and visual rest across the entire frame. No audio or motion score.",
+      "verdict": "revise",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/sound-a.json",
+      "sourceHashPresent": true,
+      "mustFix": [
+        {
+          "findingId": "SOUND-A-W11-1",
+          "reason": "Before calling11 finished at the requested whole-image craft level, restore deliberate material hierarchy and quiet planes where the current patch network distracts from face/action."
+        },
+        {
+          "findingId": "SOUND-A-W11-2",
+          "reason": "The making vignette should show a clearly attached tiny hand holding its tool; the current angular join is avoidable silent-action ambiguity."
+        }
+      ],
+      "limits": [
+        "No audio heard, no motion observed, no listening or temporal-rhythm score.",
+        "Local resized images are not actual GitHub/mobile DOM or physical-device evidence.",
+        "No unfamiliar-human response, repeated viewing comfort, recognition or attention-tracking test.",
+        "No numerical anatomy parity or production-rig equivalence is established by this raster review.",
+        "Original supplied companion references were inspected in the earlier art-direction round; this pass does not certify precise likeness. Current brief-specific eye states were checked against actual5\u00d7 evidence.",
+        "No art/source/browser edits, extra agents or publication. No approval of unbuilt cleanup or consensus claim."
+      ]
+    },
+    {
+      "reviewer": "sound-b",
+      "agent": "/root/panel_sound_b_implementation",
+      "score": 8.4,
+      "scope": "Silent still-image story hierarchy, coherent atmosphere and visual rhythm/rest across the inspected whole frame and local scales. This is not an audio, animation, audience or deployed-banner score.",
+      "verdict": "revise",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/sound-b.json",
+      "sourceHashPresent": true,
+      "mustFix": [
+        {
+          "location": "Whole frame, especially hero face/antennae and bench right; left trunk; workshop and central/lower path",
+          "issue": "Visible increase in repeated surface contouring and highlight flecks relative to07 erodes calm material separation.",
+          "action": "Restore controlled, material-specific surfaces and quieter transitional ground while retaining the accepted composition and current eye corrections. Verify the full frame, native crops and1280 together before calling the image finished.",
+          "reason": "This affects the requested whole-scene animated-feature finish, beyond optional taste about guest count."
+        }
+      ],
+      "limits": [
+        "All observations are specialist image judgments. No unprimed human interpretation, attachment, recognition or repeat-visit comfort was measured.",
+        "No continuous animation, audio or future website behavior inspected or scored.",
+        "The numeric score is this Sound B whole-still lens, not a composite team score or a demand that other reviewers converge.",
+        "No new artwork, source changes, publication or finished-art approval. Optional pose refinements remain unbuilt."
+      ]
+    }
+  ],
+  "all18InitialPositionsRecorded": true,
+  "planConsensus": false
+}

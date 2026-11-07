@@ -1,16 +1,17 @@
 {
-  "state": "review_branch_published_profile_pending",
+  "state": "owner_authorized_publication_preparing",
   "repository": "heyNag/heyNag",
-  "profileReadme": "Not merged to the default branch; live profile unchanged.",
+  "profileReadme": "Updated park banner and personal-story text prepared locally. Final paired review and merge are pending; live profile has not yet changed.",
   "accountNameAndBio": "Not applied.",
   "avatar": "Not applied.",
   "pins": "Not applied.",
   "repositoryDescriptions": "Not applied.",
-  "personalProfileLinks": "Not applied.",
+  "personalProfileLinks": "The previous organization badge is hidden through GitHub public-membership visibility. The account remains a member; only the public display changed. README replacement is pending the authorized merge.",
   "website": "Not built. No profile website link proposed yet.",
   "evidence": [
     "Signed source commit verified locally and pushed to the review branch.",
-    "GitHub connector returned draft PR #1 for the expected heyNag repository and branch."
+    "GitHub connector returned draft PR #1 for the expected heyNag repository and branch.",
+    "Authenticated GitHub identity matched heyNag. Public organization-members listing changed from containing heyNag to empty after the documented visibility-only API action. Actual membership remained active."
   ],
   "repositorySource": {
     "branch": "codex/heynag-personal-brand",
@@ -18,5 +19,11 @@
     "pullRequest": "https://github.com/heyNag/heyNag/pull/1",
     "draft": true,
     "signatureVerified": true
-  }
+  },
+  "currentHeaderStatus": "All18 accepted current13 day-scene and personal story; scores8.8–9.1. Owner-authorized publication pending.",
+  "ownerFeedback": "brand/reviews/2026-11-07-banner-park/owner-feedback.json",
+  "currentBannerCandidate": "assets/brand/banner-park/park-film-study-13-muse-face-cleanup.png",
+  "currentBannerRecord": "brand/reviews/2026-11-07-banner-park/whole-scene-13/consensus.json",
+  "ownerPublicationInstruction": "Keep a high resolution copy of it in downloads folder and then update the GitHub",
+  "currentStory": "Native personal narrative with emojis; unnamed public-project descriptions and explicitly authorized broad private-work themes, with future sharing when ready."
 }

@@ -1,0 +1,24 @@
+{
+  "reviewerId": "performance-a",
+  "role": "Intention and comic acting",
+  "position": "agree_with_limits",
+  "testJudgment": "A coherent matte dimensional treatment could reconcile the graphic moth with its detailed park. Preserve the original expressive vocabulary; dimensional rendering alone does not improve acting.",
+  "guardrails": [
+    "Keep eyes, eyebrows and wing markings graphically simple; add restrained volume and shared light to cream forms, props and environment. Avoid plush fur, glassy eyes, mature cheeks or enlarged limbs.",
+    "Coder stays primary: eyes attend the MacBook through clear glasses; mittens meet its keyboard; bench supports the compact body and attached stub feet.",
+    "Builder needs a readable tool grip and bracing mitten. Preserve four anatomical wing panels, their markings and unequal antennae through occlusion and turns.",
+    "Keep the meditation peek innocent. All three moths retain identical proportions rather than becoming differently aged characters.",
+    "Exactly two rear workshop watchers: the owner-selected terracotta crab and charcoal white-face companion. Turn attention toward the builder; lower pincers/arms instead of copying the reference cast's broad waving. Keep foreground bench and path cameo-free."
+  ],
+  "failureCriterion": "Reject the variation if apparent tool reach or dimensional appeal depends on lengthening the moth's arms, legs or torso. Remove cameos if they become the first readable action at banner size.",
+  "evidence": {
+    "read": "animated-film-proposal.json, including crab revision; ai-cameo-brief.json",
+    "viewed": [
+      "assets/brand/banner-park/park-day-study-02-macbook.png",
+      "assets/brand/heynag-moth-v5-refined.png",
+      "/tmp/codex-remote-attachments/01a1b473-8621-7941-ba03-4b47867c136c/D31EE005-F5E8-41CB-97E7-95E073243BDD/1-Photo-1.jpg"
+    ]
+  },
+  "skills": "Reused previously fully read choreograph, review-animations, emil-design-eng and design-taste-frontend: attention hierarchy, purposeful restraint, actual-size review. No new skill intake.",
+  "limits": "Independent TEST position only; no partner read, score, unseen-art approval, motion claim or audience validation."
+}

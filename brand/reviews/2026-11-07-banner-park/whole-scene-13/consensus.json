@@ -1,0 +1,203 @@
+{
+  "state": "All18 accept actual13 and the frozen personal-story README for authorized presentation and publication, with named nonblocking limits",
+  "proposal": "brand/reviews/2026-11-07-banner-park/whole-scene-13/proposal-v1.json",
+  "proposalSha256": "710168aea494893968a89809edc6034930e39c8ed9a0147919b3aac04c04cce5",
+  "asset": "assets/brand/banner-park/park-film-study-13-muse-face-cleanup.png",
+  "assetSha256": "32ce62c11e533fcd3a7ab1856a102c7a31b9111d96c3fbf16df8d469b8f08469",
+  "readme": "README.md",
+  "readmeSha256": "a88ff0761cd9d7da1bb6d2ba5746612976ab52c7bc73156d32feb8a24418e90e",
+  "specialists": 18,
+  "disciplines": 9,
+  "reviewersPerDiscipline": 2,
+  "independentReviews": 18,
+  "explicitVotes": 18,
+  "pairRecords": [
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/pairs/brand.json",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/pairs/performance.json",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/pairs/identity.json",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/pairs/rigging.json",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/pairs/interaction.json",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/pairs/audience.json",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/pairs/storyboard.json",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/pairs/visual.json",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/pairs/sound.json"
+  ],
+  "scores": [
+    {
+      "reviewer": "brand-a",
+      "discipline": "brand",
+      "value": 9,
+      "model": "gpt-6-astra",
+      "reasoning": "ultra",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-13/votes/brand-a.json"
+    },
+    {
+      "reviewer": "brand-b",
+      "discipline": "brand",
+      "value": 8.9,
+      "model": "gpt-6-astra",
+      "reasoning": "ultra",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-13/votes/brand-b.json"
+    },
+    {
+      "reviewer": "performance-a",
+      "discipline": "performance",
+      "value": 8.8,
+      "model": "gpt-6-astra",
+      "reasoning": "ultra",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-13/votes/performance-a.json"
+    },
+    {
+      "reviewer": "performance-b",
+      "discipline": "performance",
+      "value": 8.8,
+      "model": "gpt-6-astra",
+      "reasoning": "ultra",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-13/votes/performance-b.json"
+    },
+    {
+      "reviewer": "identity-a",
+      "discipline": "identity",
+      "value": 9,
+      "model": "gpt-6-astra",
+      "reasoning": "ultra",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-13/votes/identity-a.json"
+    },
+    {
+      "reviewer": "identity-b",
+      "discipline": "identity",
+      "value": 9,
+      "model": "gpt-6-astra",
+      "reasoning": "ultra",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-13/votes/identity-b.json"
+    },
+    {
+      "reviewer": "rigging-a",
+      "discipline": "rigging",
+      "value": 9,
+      "model": "gpt-6-astra",
+      "reasoning": "ultra",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-13/votes/rigging-a.json"
+    },
+    {
+      "reviewer": "rigging-b",
+      "discipline": "rigging",
+      "value": 9,
+      "model": "gpt-6-astra",
+      "reasoning": "ultra",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-13/votes/rigging-b.json"
+    },
+    {
+      "reviewer": "interaction-a",
+      "discipline": "interaction",
+      "value": 9,
+      "model": "gpt-6-astra",
+      "reasoning": "ultra",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-13/votes/interaction-a.json"
+    },
+    {
+      "reviewer": "interaction-b",
+      "discipline": "interaction",
+      "value": 8.9,
+      "model": "gpt-6-astra",
+      "reasoning": "ultra",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-13/votes/interaction-b.json"
+    },
+    {
+      "reviewer": "audience-a",
+      "discipline": "audience",
+      "value": 9.1,
+      "model": "gpt-6-astra",
+      "reasoning": "ultra",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-13/votes/audience-a.json"
+    },
+    {
+      "reviewer": "audience-b",
+      "discipline": "audience",
+      "value": 9,
+      "model": "gpt-6-astra",
+      "reasoning": "ultra",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-13/votes/audience-b.json"
+    },
+    {
+      "reviewer": "storyboard-a",
+      "discipline": "storyboard",
+      "value": 9,
+      "model": "gpt-6-astra",
+      "reasoning": "ultra",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-13/votes/storyboard-a.json"
+    },
+    {
+      "reviewer": "storyboard-b",
+      "discipline": "storyboard",
+      "value": 9,
+      "model": "gpt-6-astra",
+      "reasoning": "ultra",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-13/votes/storyboard-b.json"
+    },
+    {
+      "reviewer": "visual-a",
+      "discipline": "visual",
+      "value": 8.8,
+      "model": "gpt-6-astra",
+      "reasoning": "ultra",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-13/votes/visual-a.json"
+    },
+    {
+      "reviewer": "visual-b",
+      "discipline": "visual",
+      "value": 9,
+      "model": "gpt-6-astra",
+      "reasoning": "ultra",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-13/votes/visual-b.json"
+    },
+    {
+      "reviewer": "sound-a",
+      "discipline": "sound",
+      "value": 9.1,
+      "model": "gpt-6-astra",
+      "reasoning": "ultra",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-13/votes/sound-a.json"
+    },
+    {
+      "reviewer": "sound-b",
+      "discipline": "sound",
+      "value": 9.1,
+      "model": "gpt-6-astra",
+      "reasoning": "ultra",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-13/votes/sound-b.json"
+    }
+  ],
+  "scoreRange": [
+    8.8,
+    9.1
+  ],
+  "allAtLeastNine": false,
+  "scoreScope": "Whole still-image craft; qualitative story/application acceptance is separate and does not raise image scores.",
+  "requiredCorrections": [
+    "Distinct materials and clean contours restored throughout scene",
+    "Solid rounded workshop mitten visibly encloses mallet handle",
+    "Grok has flat pupil-free light ovals; Muse lower-face stray mark removed in54-pixel authorized retouch"
+  ],
+  "unresolvedSubstantiveObjections": [],
+  "retainedLimits": [
+    "Fine native-scale hero surface texture",
+    "Presentational gaze versus more specific reciprocal acting",
+    "Tiny companion micro-stories become optional at narrow banner widths",
+    "Longer personal narrative precedes native repository cards; quick discovery and human curiosity/recall unmeasured"
+  ],
+  "evidence": "Independent full/native/1280/880/420 scene inspection, native and5x final detail crops, exact source hashes; GitHub Markdown rendering and local native-layout1440/390 previews in both themes.",
+  "publication": {
+    "ownerAuthorized": true,
+    "status": "Root will publish and separately verify live result; review consensus alone is not publication evidence"
+  },
+  "downloads": {
+    "fileName": "heyNag-park-banner-2172x724.png",
+    "nativeDimensions": [
+      2172,
+      724
+    ],
+    "exactOriginalHashVerified": true
+  },
+  "boundary": "Same day artwork in both GitHub themes. No unbuilt night/animation/website, audience, physical-device or assistive-technology claim. Account settings are separately tracked."
+}

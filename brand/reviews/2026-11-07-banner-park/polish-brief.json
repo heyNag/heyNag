@@ -1,0 +1,15 @@
+{
+  "ownerRequest": "Yeah. Like that we are thinking",
+  "context": "Owner accepted the proposed focused acting and lighting pass after liking study07.",
+  "source": "assets/brand/banner-park/park-film-study-07-clawd-plush.png",
+  "sourceSha256": "8a79349e46ed39fca6d375d405d67eba66cce251187d89b44b119c82da3dfa1a",
+  "advice": "brand/reviews/2026-11-07-banner-park/scene-elevation-advice.json",
+  "requestedChanges": [
+    "Builder's existing free mitten invites attention to toolbox; Dot subtly attends, while Clawd remains unchanged.",
+    "Muse nudges the existing leaf, Grok attends, and the resting moth looks subtly down through its already-open eye while keeping the other closed.",
+    "Clear broad lens glare over foreground eyes, preserving glasses rims and delicate curved reflections.",
+    "Quiet selected blanket/bench/path/foliage highlights while keeping the scene warm and the coding moth face primary."
+  ],
+  "preserve": ["Original tiny innocent moth anatomy and graphic faces", "Clawd soft plush texture, both square eyes and seated pose", "Four guests, two stools and original scene composition", "Exclusive foreground coding moth with Apple MacBook", "No additional props or cast"],
+  "stage": "Local new version under generation; preserve07 and judge actual output before promotion. Moonlit version and website motion are later steps."
+}

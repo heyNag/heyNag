@@ -1,0 +1,69 @@
+{
+  "stage": "Art-direction proposal for all 18 specialists; not rendered artwork or a score request.",
+  "ownerSteering": [
+    "Ask our team how it fits. If needed we can make entire picture more of animation type, rather than artistic look above",
+    "Think Pixar or Disney style",
+    "Claude can be the crab like",
+    "Some inspiration from this: Clawd pixel and plush references.",
+    "For OpenAI, you can pick Dots characters",
+    "Some muse from meta: reference lineup supplied.",
+    "What about Grok Bot",
+    "Let muse and grok bot playing infront of while we rest, and other two watching us building",
+    "Add two stools near workshop where two are sitting and watching workshop",
+    "You can see how they fit",
+    "Ask our team",
+    "Just being muse and grok bot infront of me, while our mascot rest. It's like parent resting while kids are playing"
+  ],
+  "inputBrief": "brand/reviews/2026-11-07-banner-park/ai-cameo-brief.json",
+  "currentArt": "assets/brand/banner-park/park-day-study-02-macbook.png",
+  "mascotReference": "assets/brand/heynag-moth-v5-refined.png",
+  "companionReference": "/tmp/codex-remote-attachments/01a1b473-8621-7941-ba03-4b47867c136c/D31EE005-F5E8-41CB-97E7-95E073243BDD/1-Photo-1.jpg",
+  "proposal": "Test a cohesive stylized 3D animated-feature film still of the existing continuous park scene. Soft matte forms, appealing dimensional rendering, expressive original moth, clear staging and warm cinematic light. Preserve the selected moth's tiny innocent anatomy and marked four-wing structure. Translate the whole environment and all characters together rather than pasting glossy logo toys onto a painted landscape. This is a still-image art-direction study, not a claim of finished animation.",
+  "cameoTest": "Updated owner references now cover four candidates: Clawd, one OpenAI Dot, Muse and Grok Bot. Compare an uncluttered 3D base, a two-cameo rear workshop group (Clawd and blue Dot), and a four-cameo study with Muse/Grok quietly playing deeper behind the tree-root vignette. All cameo figures remain much smaller and farther back than Nag; no foreground companions. Assess actual fit versus overload; earlier two-character recommendations predate final roster and are not vetoes. No full first-reference picnic ensemble or logo pile.",
+  "foreground": "Exclusive to the coding moth on its bench with the requested silver Apple MacBook. No logo characters on, beside or in front of the bench, no logo figures hidden in foreground props, no companions on foreground path. Preserve existing small cup/books/blanket unless their simplification is needed for cohesion; don't add new props.",
+  "characterInvariants": [
+    "Oversized soft cream head and tiny compact body",
+    "Tiny mitten hands and attached stub feet, no elongated human limbs",
+    "Unequal paddle antennae",
+    "Four layered wings with recognizable green markings",
+    "Small innocent face, no mature proportions",
+    "The three moth appearances are the same personal mascot at different activities"
+  ],
+  "reviewQuestions": [
+    "Does a cohesive animated-feature rendering improve companion integration, or would it weaken the moth's distinctiveness?",
+    "What should stay graphic/flat versus become dimensional?",
+    "Does the two-cameo background plan fit, and what concrete revision is needed?",
+    "State agree / agree_with_limits / object for this TEST, with one named failure criterion. No approval or score of unseen art."
+  ],
+  "evidencePolicy": "Inspect both scene and companion reference via view_image; reuse prior inspection in same conversation if already seen. Read own standing role and relevant full skills if not previously read. Write a concise own-role JSON under animated-film/<discipline>-<a|b>.json (maximum about 250 words), including evidence and skill intake/limits. First independently, then paired discussion when root supplies/partner responds. Other specialists' positions are not audience evidence.",
+  "publication": "Local concept only, no GitHub changes or brand replacement. Palette and geometry for a future night version remain to be tested.",
+  "revision": "Latest owner-selected staging overrides prior rear-only tree placements, count recommendation and tabletop-perching draft. A pending tabletop-placement image generation was terminated after the stool request; no result was adopted. Need actual stool study and fresh review.",
+  "companionCandidates": [
+    {
+      "name": "Clawd",
+      "reference": "/tmp/codex-remote-attachments/01a1b473-8621-7941-ba03-4b47867c136c/AB4973C2-5478-4DC6-A7E4-D6C416197667/1-Photo-1.jpg",
+      "plushReference": "/tmp/codex-remote-attachments/01a1b473-8621-7941-ba03-4b47867c136c/AB4973C2-5478-4DC6-A7E4-D6C416197667/2-Photo-2.jpg",
+      "design": "Terracotta block-like body, two square dark eyes, simple horizontal arms, four short feet; use supplied silhouette, not a biological crab with eye stalks."
+    },
+    {
+      "name": "OpenAI Dot",
+      "reference": "/Users/nag/projects/personal/.heynag-profile-work/references/openai-dots-reference.png",
+      "source": "https://openai.com/index/introducing-dots/",
+      "imageSource": "https://cdn.mos.cms.futurecdn.net/KTQc5i5yh9CnQxg4TVgKMF.png",
+      "candidate": "Small blue soft cloud-shaped Dot with dark beret; use the pictured design without inventing a character name."
+    },
+    {
+      "name": "Muse",
+      "reference": "/tmp/codex-remote-attachments/01a1b473-8621-7941-ba03-4b47867c136c/13EE6D2C-678B-429A-A4BF-0CC022126E1F/1-Photo-1.jpg",
+      "candidate": "Simple cream rounded hooded companion from the supplied Muse examples; simplify costume so it remains background support."
+    },
+    {
+      "name": "Grok Bot",
+      "reference": "/Users/nag/projects/personal/heynag-brand/assets/grok-bot-showcase.webp",
+      "design": "Simple charcoal spherical character with two white oval eyes, from Nag's existing unofficial Grok Bot animation study; no invented robot limbs."
+    }
+  ],
+  "base3DStudy": "assets/brand/banner-park/park-film-study-01-moth-only.png",
+  "currentStaging": "Owner-selected four guests. Muse and Grok play with one fallen leaf directly in front of the resting moth locally under the tree, without covering its silhouette. Clawd and blue beret Dot SIT ON TWO SMALL WOODEN STOOLS BESIDE THE WORKSHOP, turned toward the builder and toolbox. Seats must lift their eyes enough to see the work, feet/legs supported plausibly. No tabletop-perching. The coding bench and its foreground remain exclusively Nag/MacBook.",
+  "treeEmotionalIntent": "Peaceful resting-while-the-kids-play feeling: Muse and Grok share a leaf game directly in front of the resting moth. A staging metaphor only; do not age, enlarge or humanize the selected moth into an adult/parent character."
+}

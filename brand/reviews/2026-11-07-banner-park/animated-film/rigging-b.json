@@ -1,0 +1,19 @@
+{
+  "reviewerId": "rigging-b",
+  "lens": "Rendering integrity and production reuse",
+  "position": "agree_with_limits",
+  "scope": "Independent approval of controlled tests only; saved before partner reading.",
+  "evidence": [
+    "animated-film-proposal.json: updated four-candidate roster",
+    "assets/brand/banner-park/park-film-study-01-moth-only.png: viewed",
+    "assets/brand/banner-park/park-day-study-02-macbook.png: viewed",
+    "assets/brand/heynag-moth-v5-refined.png: viewed",
+    "Proposal companionReference and all candidate reference images, including Clawd plush, Dots, Muse and Grok: viewed"
+  ],
+  "findings": "The dimensional base keeps oversized heads, compact bodies, unequal paddles and attached stub feet. Bench and workshop contacts read plausibly. Occlusion prevents confirming four distinct wings in every pose. Rounded shading integrates the scene; preserve graphic eyes, green markings and simple mittens rather than introducing human fingers.",
+  "recommendation": "Compare matched 0/2/4-cameo variants with foreground moth, MacBook, camera and lighting fixed. Clawd/blue Dot stay behind the workshop; Muse/Grok stay deeper behind the tree vignette. Preserve reference silhouettes: no eye-stalk crab or invented Grok limbs. Count alone cannot guarantee hierarchy; compare aggregate contrast and silhouette separation at actual banner size.",
+  "failureCriterion": "Reject a variant if a cameo competes with the foreground face/laptop, merges with moth appendages, or requires enlarging background figures until the three moth activities become secondary.",
+  "production": "This raster is art direction, not a reusable 3D rig. Preserve V5 source authority; retain references, prompt and output provenance. Any later mesh needs explicit wing topology and contact review.",
+  "skills": "Reused previously fully read emil-design-eng, design-taste-frontend and review-animations: coherent assets, actual-size inspection, anatomy/evidence boundaries. No new skill reading.",
+  "limits": "No score, unseen-cameo approval, night validation, audience evidence or animation-performance claim."
+}

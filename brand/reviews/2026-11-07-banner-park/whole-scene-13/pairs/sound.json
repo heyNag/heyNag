@@ -1,0 +1,75 @@
+{
+  "discipline": "sound",
+  "proposalSha256": "710168aea494893968a89809edc6034930e39c8ed9a0147919b3aac04c04cce5",
+  "assetSha256": "32ce62c11e533fcd3a7ab1856a102c7a31b9111d96c3fbf16df8d469b8f08469",
+  "readmeSha256": "a88ff0761cd9d7da1bb6d2ba5746612976ab52c7bc73156d32feb8a24418e90e",
+  "state": "Both members explicitly confirm the same scoped recommendation after reciprocal challenge; individual scores and limits retained",
+  "members": [
+    {
+      "reviewer": "sound-a",
+      "decision": "agree",
+      "score": 9.1,
+      "vote": "brand/reviews/2026-11-07-banner-park/whole-scene-13/votes/sound-a.json",
+      "explicitRecommendation": {
+        "actualArtConfirmedSharedPosition": "Both saved independent records find actual 13 ready for owner review with no must-fix, W1/W2 resolved and purposeful silence sufficient. Both retain 9.1; residual surface, gaze and small-scale limits remain nonblocking.",
+        "exactRecommendationSupportedByA": "Publish this unchanged silent day artwork and the frozen personal-story README within the owner's instruction. Preserve individual image scores and named nonblocking limits; provide the original 2172 x 724 Downloads copy. Do not add audio, motion, a night counterpart, enlarged guests or another cosmetic art pass.",
+        "soundAExplicitPosition": "Accept this exact proposal and recommendation.",
+        "soundBCurrentEvidence": "B explicitly accepts the same exact artwork/story proposal in votes/sound-b.json and its direct message; B's separate story readiness is confirmed.",
+        "substantiveObjectionFromA": false,
+        "substantiveImageObjectionFromBInitial": false,
+        "combinedProposalPairStatus": "Confirmed by both explicit votes and reciprocal challenge/acknowledgment; no substantive objection remains.",
+        "substantiveObjectionRemaining": false,
+        "sharedRecommendationChanged": false
+      },
+      "counterpartChallenge": {
+        "counterpart": "sound-b",
+        "actualPositionChallenged": "B deducts for finer narrative detail compression at 420 px and retains a frontal-workshop-attention preference, while independently finding the actual still ready.",
+        "challenge": "I assign the small-scale detail loss primarily to the delivery scale rather than a defect in this profile application. The actual 390 px previews show a 308 px banner: the coding moth remains dominant while the exact leaf exchange and small grip become discoveries. Native README paragraphs explicitly provide the broad personal meaning of building, wondering and taking a breather. Keep the finer-story deduction scoped to image richness; it does not justify enlarged guests, added explanatory effects or audio.",
+        "evidence": [
+          "profile-evidence/readme-light-390.png",
+          "profile-evidence/readme-dark-390.png",
+          "profile-evidence/render-checks.json: 308 px image width in a 390 px viewport",
+          "README-reviewed.md: moth/personality paragraph",
+          "Previously inspected actual-13 whole frame and native workshop/leaf evidence"
+        ],
+        "qualification": "Native copy does not prove human comprehension or make exact tiny interactions visible. I accept B's right to retain its distinct deduction and keep watcher gaze optional. Both independently arrived at 9.1 for different reasons.",
+        "communication": "Sent this concrete challenge and explicit proposal acceptance directly to Sound B through collaboration.send_message before saving the vote.",
+        "responseStatus": "Received B's explicit response and counterchallenge; acknowledged directly. See pairCloseAcknowledgment."
+      }
+    },
+    {
+      "reviewer": "sound-b",
+      "decision": "agree",
+      "score": 9.1,
+      "vote": "brand/reviews/2026-11-07-banner-park/whole-scene-13/votes/sound-b.json",
+      "explicitRecommendation": {
+        "status": "Both explicit positions support the same exact recommendation; root reconciles final pair record.",
+        "exactRecommendation": "Publish this unchanged silent day artwork and the frozen personal-story README within the owner's instruction. Preserve individual image scores and named nonblocking limits; provide the original 2172 x 724 Downloads copy. Do not add audio, motion, a night counterpart, enlarged guests or another cosmetic art pass.",
+        "soundBExplicitPosition": "Accept this exact recommendation and proposal.",
+        "soundAExplicitEvidence": "Counterpart votes/sound-a.json and direct challenge explicitly accept the same verified proposal and recommendation.",
+        "sharedArtPosition": "W1/W2 are resolved to still-image readiness, no must-fix remains, and purposeful silence is sufficient. Both independently scored 9.1 using distinct deductions; equal numbers do not erase weighting differences.",
+        "substantiveObjectionRemaining": false,
+        "retainedDifferences": "B retains a fine-story scale deduction and optional frontal watcher preference. A chiefly treats small detail loss as a scale limit and retains a selective-highlight taste reservation. Neither requests another art pass."
+      },
+      "counterpartChallenge": {
+        "counterpart": "sound-a",
+        "responseToA": "Accept A's delivery-scale point: the 390 px previews contain a 308 px banner, and coding remains dominant. My 0.3 small-scale deduction concerns richness of tiny supporting stories, not a profile defect. Native text supplies broad personal meaning without restoring exact leaf/grip details or proving unfamiliar-viewer comprehension. No enlargement or added effects follow.",
+        "actualCounterpartFindingChallenged": "SOUND-A-W13-2: selected bright bench/path/grass accents compete with quiet transitional space.",
+        "challenge": "I give that reservation less weight in the applied profile. At the 846 px desktop banner and 308 px narrow banner, the continuous path remains a quiet separator and the bright bench edge helps define the coding foreground. The coder stays primary in both themes. I see no required highlight reduction; A may retain its distinct optional taste judgment.",
+        "evidence": [
+          "profile-light-1440.png",
+          "profile-dark-1440.png",
+          "readme-light-390.png",
+          "readme-dark-390.png",
+          "render-checks.json",
+          "README-reviewed.md"
+        ],
+        "communication": "Sent direct response, concrete counterchallenge and exact recommendation acceptance to Sound A before saving this vote.",
+        "responseBoundary": "A explicitly accepted this exact proposal and shared publication recommendation in its direct message and saved vote. No response to B's latest highlight counterchallenge is invented; it is a nonblocking weighting difference."
+      }
+    }
+  ],
+  "remainingSubstantiveObjections": [],
+  "scope": "Present actual13 as the reviewed day-scene and publish this personal-story README/banner to heyNag/heyNag within the owner’s explicit instruction. Preserve all individual image scores and named nonblocking limits. Do not claim unanimous9, audience validation or a night/animated counterpart.",
+  "limits": "Pair recommendation does not supply any other specialist’s vote, prove human outcomes or claim publication has already happened."
+}

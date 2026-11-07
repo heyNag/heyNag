@@ -1,0 +1,16 @@
+{
+  "status": "Concept exploration requested by Nag; previous header is not owner-approved. No live profile changes.",
+  "userDirection": [
+    "The whole composition feels too plain.",
+    "A banner with a series of our mascot doing things in a park: one coding on a bench, one farther back building a toolbox.",
+    "Think like a movie scene."
+  ],
+  "creativeDirection": "One continuous cinematic park panorama with three moments of the same tiny moth; coherent environment, layered depth and clear primary action. No giant wordmark and no separate vignette boxes.",
+  "invariants": [
+    "Same oversized cream head, compact round body, tiny mitten hands, stub feet, unequal paddle antennae, four marked wings.",
+    "Glasses only for the coding/focus action.",
+    "Pair light and dark around the same composition; atmosphere changes, not anatomy."
+  ],
+  "stage": "Generate and critique visual concept first; previous profile consensus does not approve the replacement.",
+  "tools": "Built-in image_gen using the existing V5 moth references; original assets preserved."
+}

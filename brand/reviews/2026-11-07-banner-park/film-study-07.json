@@ -1,0 +1,21 @@
+{
+  "stage": "Current day-scene concept after owner-requested Clawd recognition/material repair; no live profile application.",
+  "tool": "Built-in image_gen",
+  "prompt": "brand/reviews/2026-11-07-banner-park/film-clawd-plush-prompt.txt",
+  "editTarget": "assets/brand/banner-park/park-film-study-04-stools-and-play.png",
+  "identityReference": "Owner Clawd block icon; durable private copy in .heynag-profile-work/references/owner-clawd-block.jpg",
+  "materialReference": "Owner orange plush photograph; durable private copy in .heynag-profile-work/references/owner-clawd-plush.jpg",
+  "output": "assets/brand/banner-park/park-film-study-07-clawd-plush.png",
+  "dimensions": [
+    2172,
+    724
+  ],
+  "sha256": "8a79349e46ed39fca6d375d405d67eba66cce251187d89b44b119c82da3dfa1a",
+  "bytes": 2441808,
+  "rootObservations": [
+    "Orange character now has rounded stuffed volume and short fabric-like texture, distinct from the wooden stool.",
+    "Two black square eyes remain visible; tiny seated scale retained.",
+    "Owner-selected tree play, two workshop stools and exclusive foreground coder remain visually intact.",
+    "A generated raster study is not a finished 3D rig, matched night image or pixel-identical edit."
+  ]
+}

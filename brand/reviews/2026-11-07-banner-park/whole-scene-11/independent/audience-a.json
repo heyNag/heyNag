@@ -1,0 +1,116 @@
+{
+  "reviewer": "audience-a",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "lens": "Emotion comprehension and attribution; whole-scene hierarchy, comfort and coherent visual storytelling",
+  "independence": "Initial whole-scene verdict saved before reading any new whole-scene peer findings. Earlier concept agreement and any other reviewer's eye approval do not pre-approve this image.",
+  "referenceAsset": "assets/brand/banner-park/park-film-study-11-flat-grok-eyes.png",
+  "verifiedSha256": "87943e3c1452d40b1ac535ea5bbcefa6e7676cee77165eef2d77ce5c67a32569",
+  "evidenceInspected": [
+    "AGENTS.md; brand/workflow.json; whole-scene-11/brief.json",
+    "assets/brand/banner-park/park-film-study-11-flat-grok-eyes.png — view_image full frame; SHA-256 verified",
+    "assets/brand/banner-park/park-film-study-07-clawd-plush.png — view_image full frame",
+    "assets/brand/heynag-moth-v5-refined.png — view_image",
+    "whole-scene-11/evidence/scene11-width-1280.png — view_image",
+    "whole-scene-11/evidence/scene11-width-880.png — view_image",
+    "whole-scene-11/evidence/scene11-width-420.png — view_image",
+    "whole-scene-11/evidence/scene11-hero-native.png — view_image",
+    "whole-scene-11/evidence/scene07-hero-native.png — view_image",
+    "whole-scene-11/evidence/scene11-tree-play-native.png — view_image",
+    "whole-scene-11/evidence/scene11-workshop-native.png — view_image",
+    "whole-scene-11/evidence/scene07-workshop-native.png — view_image",
+    "muse-review/evidence/11-companion-inspection-enlarged.png — view_image, supplied 5x inspection",
+    "/Users/nag/projects/personal/.heynag-profile-work/references/owner-muse-lineup.jpg — view_image",
+    "/Users/nag/projects/personal/.heynag-profile-work/references/owner-clawd-plush.jpg — view_image",
+    "/Users/nag/projects/personal/.heynag-profile-work/references/nag-grok-bot-reference.webp — view_image"
+  ],
+  "evidencePathBase": "Short review paths above are relative to brand/reviews/2026-11-07-banner-park/.",
+  "initialWholeSceneVerdict": "revise",
+  "score": {
+    "value": 8.5,
+    "scope": "Ordinal expert still-image craft judgment for this complete scene's emotional staging, clear hero, identity cues and comfortable visual coherence. Not an audience result or animation score.",
+    "confidence": "moderate-high for visible composition and before/after surface differences; moderate for the stylistic significance of texture. No empirical confidence for audience interpretation.",
+    "deductions": [
+      {
+        "id": "AA-WS11-1",
+        "priority": "must-fix before calling the whole scene finished",
+        "finding": "Version 11 carries a stronger cellular/faceted surface pattern across the hero's cream face and antenna paddles, bench boards, tree trunk and workshop. The same angular treatment appears on materials that should read differently. At native hero/workshop crops it is visible without 5x inspection; at 1280px it contributes a busier, brittle surface finish than 07's softer forms.",
+        "effectWithinLens": "The face remains readable, but its tactile softness competes with the irregular surface pattern. Repeating this pattern through the environment weakens the intended cohesive, soft animated-feature finish and adds visual noise around otherwise appealing staging. This is an expert craft concern, not a measured discomfort or rejection result.",
+        "confidence": "High for the visible difference; moderate for the art-direction deduction."
+      },
+      {
+        "id": "AA-WS11-2",
+        "priority": "optional refinement; not a blocking audience claim",
+        "finding": "Secondary relationships are carried mainly by placement and props: the workshop guests sit near the builder, while Muse/Grok sit with one leaf. The exact watching/playing intention is less explicit than the primary moth-with-laptop action. At 420px these become small supporting groups rather than fully legible actions.",
+        "effectWithinLens": "The scene supports a broad coding/building/resting reading, but the precise parent/kids metaphor and one-moth-across-three-moments interpretation should remain editorial intentions. No evidence establishes that unfamiliar viewers infer them.",
+        "confidence": "High for scale loss; moderate for action-specificity judgment."
+      }
+    ],
+    "criteriaForNine": [
+      "Restore a softer, materially differentiated finish in the face, antennae, bench, tree and workshop without losing the current corrected companion eyes or established composition. Compare native crops and 1280/880 views with 07; do not trade one small correction for broader surface degradation.",
+      "Retain the dominant, isolated coding moth and readable MacBook silhouette at 420px, with the guests visibly subordinate and no extra foreground cast. Fine secondary actions may remain optional at that scale.",
+      "Keep the recognizable cream face, compact body, unequal paddles and layered green wing cues through the cleanup. A nine would remain a still-image craft judgment, not demonstrated Nag attribution or affection."
+    ]
+  },
+  "strengths": [
+    "The whole frame has a deliberate depth hierarchy: a large foreground coder, smaller workshop and tree vignettes, a winding open path, and a distant bridge/water plane. The foreground bench stays exclusive to the moth, laptop and established props.",
+    "The large cream head, open smile, round glasses and green wing masses remain the principal character shapes at 1280, 880 and 420px. Cameos do not become equal-scale co-stars, and their combined group does not obscure the coding silhouette.",
+    "Warm light from the upper right is shared across characters, bench, canopy and foliage, while distant trees and water are softer. Cloth, cup, books and MacBook have understandable placement and useful scale; the environment is more than a backdrop behind isolated mascots.",
+    "The original moth's main identity cues survive the dimensional interpretation: oversized soft head, small body, attached feet, unequal paddle antennae and layered marked wings. Occluded far-side parts are not evidence of missing anatomy.",
+    "At the inspected 5x companion crop, Grok has flat white ovals without a visible pupil spot; Muse has dark eyes. Clawd's two square eyes remain visible. These are bounded visual findings, not a substitute for the whole-scene judgment.",
+    "The single leaf connects the two lower-left guests without introducing another prop ensemble. The quiet tree pose contrasts with the open smiles and raised workshop mallet, supplying useful emotional variety in a silent still."
+  ],
+  "mustFix": [
+    {
+      "id": "AA-WS11-1",
+      "location": "Foreground hero face and antennae; bench boards; left trunk; middle workshop surfaces",
+      "requestedOutcome": "Recover soft facial modeling and coherent, distinct surface materials closer to the cleaner 07 control while preserving 11's intended eye corrections. Judge the full-frame result as well as the corrected detail.",
+      "whyBlocking": "The owner explicitly requested whole-scene animated-feature craft before presentation as finished. The broad surface regression is visible beyond the eye crop and affects that requested finish. It does not justify a new cast, new composition or anatomy redesign."
+    }
+  ],
+  "optional": [
+    "If a later localized staging adjustment is worthwhile, strengthen a single existing guest-to-task orientation or leaf contact rather than add props or explanatory marks. Do not require every tiny action to survive 420px.",
+    "Consider slightly quieter small highlights in the path/grass after material cleanup if the middle plane still competes. The present large-shape hierarchy already works; this is polish, not a demand to remove the park's richness."
+  ],
+  "baselineComparison": "07 and 11 preserve essentially the same scene architecture and strong right-hand hero. 11 makes the companion eye treatment clearer and shows the leaf interaction more explicitly at native scale. However, 07's hero face, bench and workshop surfaces look smoother and more materially consistent; 11 shows more angular/cellular texture across these areas. I prefer 11's bounded companion correction but 07's broader surface restraint. This comparison does not assume every changed pixel is a defect or recommend reverting the whole scene.",
+  "skillsReviewed": [
+    {"path": "/Users/nag/.agents/skills/emil-design-eng/SKILL.md", "intake": "Prior full read reused", "applied": "Purpose, restraint and inspection of the whole experience rather than isolated polish."},
+    {"path": "/Users/nag/.agents/skills/prototype/SKILL.md", "intake": "Prior full read reused", "applied": "Use the actual baseline as a control and preserve separate evidence; no variant-building workflow invoked."},
+    {"path": "/Users/nag/.agents/skills/mobile-native/SKILL.md", "intake": "Prior full read reused", "applied": "Keep local image-scale evidence distinct from browser or physical-phone behavior."},
+    {"path": "/Users/nag/.agents/skills/taste-skill/SKILL.md", "intake": "Prior full read reused", "applied": "One coherent visual treatment and concrete visible evidence; commercial layout prescriptions do not apply."},
+    {"catalog": "All 17 Emil catalog summaries previously read; relevant full reading only is claimed. No newly read full skill in this round."}
+  ],
+  "workflowChanges": [
+    "Verify the reviewed asset hash and inspect full-frame, actual-size local scales, native material crops and enlarged critical details before making a finished-art claim.",
+    "Use magnification to check the eye correction, but base broad texture deductions on native and scaled views rather than magnification alone.",
+    "Separate observed surface/cue changes from inferred production causes. Repeated edits are a known risk, not proof of how a particular pattern arose.",
+    "Keep identity and memory hypotheses separate from art inspection. Any future requested audience work should preserve natural Nag/profile attribution, ask open descriptions before priming with the intended story, and distinguish visual recall from maker recall. No study is run here."
+  ],
+  "rulesNotApplicableWithReason": [
+    "UI timing, compositor budgets, hover, touch and keyboard prescriptions do not apply to a static raster illustration.",
+    "No prototype picker, browser checker or website layout is being built; root requested read-only review of supplied evidence.",
+    "A three-scene personal metaphor does not require added labels inside artwork. Actual native profile context should supply Nag's name; this bare image alone is not an attribution test.",
+    "No numerical threshold can turn reviewer agreement into a human recognition, attachment or comfort result."
+  ],
+  "limits": [
+    "Local scales at 1280/880/420px are not actual GitHub rendering or physical-device evidence.",
+    "No unfamiliar-human responses: comprehension, attribution, emotional comfort, attachment and delayed recall remain unmeasured.",
+    "No animation, audio, night version, interaction or website quality is scored.",
+    "Stylistic feature-animation inspiration is assessed through the supplied still's craft, not certified equivalence to a studio production.",
+    "This review does not authorize publication or approve an unbuilt correction."
+  ],
+  "pairDiscussion": {
+    "partnerReviewReadAfterOwnSave": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/audience-b.json",
+    "agreement": "Both recommend revising the broad visible material regression. The coding hero remains dominant, guests remain subordinate, corrected companion eyes pass the supplied inspection, and precise secondary stories remain optional at narrow size.",
+    "partnerChallenge": "B cautions against uniform smoothing or a global 07 revert: preserve purposeful cloth weave, wood grain, depth and 11's eye/leaf corrections. Do not enlarge guests or add explanatory marks to force tiny actions to read at 420px.",
+    "response": "Explicitly accepted. My request for softness means recovering coherent material-specific modeling, not removing useful texture. The exact joint recommendation captures this distinction and needs no score harmonization.",
+    "exactJointRecommendation": "Revise 11’s visible cross-material surface regression while preserving its composition, exclusive foreground coder, moth identity and corrected companion eyes. Use 07 as a material-quality control, not a full revert; keep secondary-story refinements optional and all human attribution, emotion and recall outcomes unmeasured.",
+    "audienceAExplicitAcceptance": true,
+    "audienceBExplicitAcceptanceEvidence": "B's saved pairDiscussion.audienceBExplicitAcceptance is true; B also sent the same exact recommendation with explicit acceptance by direct message.",
+    "remainingSubstantiveObjections": [],
+    "scoresRetained": {"audienceA": 8.5, "audienceB": 8.4},
+    "workflow": "Verify exact asset, inspect whole frame, representative local scales, native material crops and magnified delicate details; compare the control; preserve individual scores and human-outcome limits.",
+    "independenceDisclosure": "A saved before reading B. B reports forming inspection/judgment before A's message, but receiving that unsolicited message before saving. This interruption is retained; strict message-blindness through both saves is not claimed.",
+    "consolidatedPlan": "Verified proposal-v1 SHA-256 f22147674c4537a20f89925d335e107abb9a8bc9e322559b92209c35981d40b4. W1 matches the pair recommendation; W2 restores the angular workshop contact to a tiny solid mitten without an anatomy or pose expansion. Plan acceptance is not approval of an unbuilt correction."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "reviewer": "storyboard-b",
+  "proposal": "brand/reviews/2026-11-07-banner-park/whole-scene-11/proposal-v1.json",
+  "proposalSha256": "f22147674c4537a20f89925d335e107abb9a8bc9e322559b92209c35981d40b4",
+  "hashVerification": "Independently computed with shasum -a 256; exact match to the requested immutable proposal.",
+  "position": "agree",
+  "voteScope": "Acceptance of the exact consolidated correction PLAN. No approval or score for an unbuilt replacement.",
+  "currentScore": 8.4,
+  "currentVerdict": "revise",
+  "scoreScope": "Existing scene11 as a static park composition: hierarchy, depth, economy, environmental coherence and action legibility. The score is unchanged from B's independent whole-scene review.",
+  "reasons": [
+    {
+      "id": "W1-materials-contours",
+      "position": "accept required repair",
+      "reason": "The plan addresses B's principal observed defect: patchy surface rhythm and irregular contours across character, bench, workshop and setting weaken material distinction and large-form clarity. Using07 as a control while preserving11's composition, useful leaf staging and corrected eyes is appropriate. The explicit bans on global blur, uniform plastic smoothing and unrestricted restyling preserve the park's richness."
+    },
+    {
+      "id": "W2-workshop-grip",
+      "position": "accept required construction repair",
+      "reason": "B re-inspected the actual scene11-workshop-native.png during this vote. The hand/handle junction can read as an angular strap or open construction rather than a solid tiny mitten enclosing the handle. Restoring one rounded enclosing mitten with a short readable connection addresses construction clarity.",
+      "requiredVersusOptional": "This is distinct from optional builder invitation, head/gaze changes or watcher orientation. Preserve the existing reach, raised mallet, scale and compact anatomy. Do not add fingers, lengthen the arm or demand hammer-to-box impact: the raised tool can remain an anticipation pose."
+    },
+    {
+      "id": "retention-and-verification",
+      "position": "accept",
+      "reason": "The plan keeps the established three moth activities, four guests, two stools, solo foreground coder and accepted companion identities. It requires inspection of the actual complete result and integrated details rather than treating a successful patch or prompt as proof of preservation."
+    }
+  ],
+  "pairConfirmation": {
+    "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/pairs/storyboard.json",
+    "read": true,
+    "bothExplicitlyConfirmed": true,
+    "sharedRecommendation": "Preserve the selected composition, four guests and stools, solo foreground coder, tiny anatomy and corrected eyes. Recover clean material and contour differentiation using07 as a control, while retaining distinct materials and useful current story details. Keep further micro-acting optional.",
+    "challengeResolved": "A explicitly accepted B's qualification that calming surfaces must preserve distinct wood, weave and foliage rather than globally blur or flatten the image. B explicitly accepts W2's construction-versus-acting distinction in this vote and sent that confirmation directly to A.",
+    "individualScoresRetained": {"storyboard-a": 8.3, "storyboard-b": 8.4},
+    "remainingSubstantiveDisagreements": []
+  },
+  "limits": [
+    "Further acting adjustments remain optional and must not be introduced as hidden requirements of W2. Preserve accepted Clawd plush pose and both square eyes.",
+    "07 is a quality and construction control, not permission for a blanket rollback of current identity or story corrections.",
+    "Plan agreement does not award9, change the current8.4, certify studio equivalence or approve a future image before inspection.",
+    "The review concerns still-image craft. No animation, audio, audience response, night counterpart or deployed GitHub behavior is certified.",
+    "This vote supplies only B's individual position. It does not itself establish all18 votes or authorize publication."
+  ],
+  "evidenceThisVote": [
+    "Entire proposal-v1.json read and exact hash independently verified.",
+    "Confirmed pairs/storyboard.json read.",
+    "Direct view_image re-inspection of existing whole-scene-11/evidence/scene11-workshop-native.png for W2.",
+    "Previously completed independent full11/07/V5, local-scale, native-crop and5x evidence remains the basis for W1 and the unchanged score."
+  ],
+  "skillsIntake": "Reused the full skills and evidence discipline recorded in B's independent review; no new skill reading, art generation, source mutation or rescoring in this plan vote."
+}

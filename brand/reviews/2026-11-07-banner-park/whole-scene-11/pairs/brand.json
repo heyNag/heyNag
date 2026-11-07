@@ -1,0 +1,32 @@
+{
+  "discipline": "brand",
+  "scope": "Whole-scene11 day still-image review and bounded finish repair",
+  "evidenceSha256": "87943e3c1452d40b1ac535ea5bbcefa6e7676cee77165eef2d77ce5c67a32569",
+  "jointVerdict": "revise",
+  "jointRecommendation": "Agree: retain11's current story, clear coder lead, four guests in two supporting groups, wing-mark improvements and exact eye constraints; recover07-level material differentiation; inspect the entire replacement at native and1280/880/420 scales before any finished claim. No wholesale rollback or new composition required.",
+  "acceptedQualification": "Recover intentional material differences without uniform smoothing into plastic; preserve tactile warmth and graphic contours. Golden-edge/detail restraint is optional, not part of the material must-fix.",
+  "individualPositions": [
+    {
+      "reviewer": "brand-a",
+      "score": 8.2,
+      "position": "Explicitly accepts the exact jointRecommendation and Brand B's qualification",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/brand-a.json",
+      "evidence": "Own pairDiscussion saved after reading Brand B and its direct challenge."
+    },
+    {
+      "reviewer": "brand-b",
+      "score": 8.4,
+      "position": "Explicitly accepts the exact jointRecommendation; originated acceptedQualification",
+      "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/brand-b.json",
+      "evidence": "Saved pairDiscussion.explicitOwnJointRecommendation and challengeSent, plus direct message to Brand A confirming this same bounded scope."
+    }
+  ],
+  "discussion": "Both independently found the same cross-material finish regression while retaining the composition, depth and personal hierarchy. B challenged any interpretation of cleanup as erasing all tactile texture; A explicitly accepted. Optional light restraint remains separate. Scores differ and are retained.",
+  "remainingSubstantiveDisagreements": [],
+  "scopeLimits": [
+    "Only the brand pair is confirmed; no all18 consensus claim.",
+    "No scores changed to meet a target.",
+    "No approval of unbuilt replacement art or publication.",
+    "No human-recognition or emotional-response claims."
+  ]
+}

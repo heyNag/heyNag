@@ -1,0 +1,34 @@
+{
+  "reviewerId": "visual-a",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "independence": "Recorded after inspecting both supplied images and before partner discussion.",
+  "recommendation": "Test two supporting companions as one quiet workshop group; retain the moth-only image as the comparison. The picnic reference's social warmth could fit, but its saturated plush cast, basket of symbols and equal-sized ensemble would overload this park if transferred wholesale. Preserve the park's painted materials and golden light, with the moth remaining its brightest expressive face. Do not copy the full cast or add a logo collection.",
+  "count": {"test": 2, "initialMaximum": 2, "currentAdopted": 0},
+  "placement": "Both further back beside or behind the LEFT side of the distant workshop, watching the moth's box-making as a shared action. Use a small, separated cluster, around one-third the builder moth's apparent height, grounded in the rear grass and partly integrated with existing foliage. Preserve the resting tree vignette for this first test. Hard exclusion: no companion on or near the foreground bench, on the foreground path, or beside the coder/MacBook. Foreground remains exclusively the working moth and bench arrangement.",
+  "failureCriterion": [
+    "Remove or reduce cameos if their bright brand colors, hard black marks or gloss attract attention before the foreground moth's face and work.",
+    "Reject placement that crowds the builder's hands/tool/box, obscures the tree moth, occupies the foreground path, or reads as a row of product badges.",
+    "At actual desktop banner size the cluster must read as watching the work; at 238px width it may recede into atmosphere but must not become conspicuous colored specks or extra competing faces. If recognition requires enlargement or stronger contrast, keep the moth-only version."
+  ],
+  "evidenceInspected": [
+    "assets/brand/banner-park/park-day-study-02-macbook.png via view_image",
+    "/tmp/codex-remote-attachments/01a1b473-8621-7941-ba03-4b47867c136c/D31EE005-F5E8-41CB-97E7-95E073243BDD/1-Photo-1.jpg via view_image",
+    "brand/reviews/2026-11-07-banner-park/ai-cameo-brief.json",
+    "Owner clarification relayed by root: foreground is only the moth working at the bench; all cameos stay in further-back workshop/tree areas."
+  ],
+  "skillsReviewed": {"newFullRead": [], "reusedFullRead": ["emil-design-eng", "apple-design", "prototype", "design-taste-frontend"]},
+  "skillsReused": "Use actual-scale hierarchy, restrained material integration and a named-benefit comparison: warmer social context versus visual competition. Reuse characteristic marks/colors only after the roster is chosen; shade companion bodies into the park's light. Commercial-site templates, mandatory animation and arbitrary palette replacement do not apply to this illustration.",
+  "pairResolution": {
+    "status": "Explicitly agreed by Visual A and Visual B after independent saves and direct challenge.",
+    "recommendation": "Test two versus zero: one quiet pair behind the rear-left workshop post, watching the builder, starting around one-third builder height. Keep tree rest and the entire foreground bench/path cameo-free. No adoption or score.",
+    "discussion": "B independently proposed the same count and zone, with a two-fifths scale upper bound. Both agreed to begin around one-third. Logo identities may disappear into optional atmosphere at 238px; conspicuous high-contrast specks or enlarging cameos to rescue phone recognition are the failure. This is consistent with A's independent limit.",
+    "remainingSubstantiveDifferences": []
+  },
+  "limits": [
+    "This is permission to explore a concept, not adoption, numerical scoring or final artwork approval.",
+    "Specific product identities and roster remain unchosen; the reference contains assorted visible logo-like forms, not a verified all-AI inventory.",
+    "No companion version, dark counterpart or native-size GitHub rendering has been inspected. Fit, logo recognition and human attention remain unproven.",
+    "Keep all three existing moth appearances as one person's activities, preserving innocent anatomy and requested MacBook. Do not turn the scene into an equal-status cast portrait."
+  ]
+}

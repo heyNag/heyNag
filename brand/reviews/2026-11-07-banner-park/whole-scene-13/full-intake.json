@@ -1,0 +1,548 @@
+{
+  "assetSha256": "32ce62c11e533fcd3a7ab1856a102c7a31b9111d96c3fbf16df8d469b8f08469",
+  "independentReviewCount": 18,
+  "scoreRange": [
+    8.8,
+    9.1
+  ],
+  "allAtLeastNine": false,
+  "reviews": [
+    {
+      "id": "brand-a",
+      "discipline": "brand",
+      "score": 9,
+      "readiness": "ready_for_owner_review",
+      "mustFix": [],
+      "newRegressions": [],
+      "deductions": [
+        {
+          "finding": "Fine repeating contour-like texture remains visible on the large antenna paddles, upper wing and parts of the cream forehead at native inspection. It is now restrained and no longer overwhelms wood, metal and stone, but some broad character planes could feel a little less patterned.",
+          "severity": "Minor, optional finish preference; not the earlier whole-frame material defect",
+          "evidence": "scene13-hero-native.png; much less salient at1280/880"
+        },
+        {
+          "finding": "The golden foliage and floral/path detail remain richly active around the secondary scenes. The coding lead survives clearly, but there is still limited quiet space immediately around the smaller workshop and leaf game at reduced widths.",
+          "severity": "Minor composition/detail preference; no requirement to simplify the owner-selected park or enlarge guests",
+          "evidence": "scene13-width-880.png and scene13-width-420.png"
+        }
+      ],
+      "optional": [
+        "If a later finish pass is otherwise warranted, slightly quiet the fine motif on broad hero paddles/wing/forehead without removing soft texture. This is not a reason to reopen the accepted repair or chase a higher score.",
+        "Selective reduction of incidental detail around supporting areas could offer a little more visual rest. Keep the lively golden park, current acting and guest scale; no new gaze or pose requirement."
+      ]
+    },
+    {
+      "id": "brand-b",
+      "discipline": "brand",
+      "score": 8.9,
+      "readiness": "ready_for_owner_review",
+      "mustFix": [],
+      "newRegressions": [],
+      "deductions": [
+        {
+          "finding": "Faint embossed/cellular surface lines remain on the hero's upper cream head, antenna paddles and near wing at native size.",
+          "effect": "These are much quieter and no longer spread conspicuously through unrelated materials, but the finish is slightly less uniformly soft and material-specific than an exceptional final still.",
+          "severity": "Minor nonblocking native-size finish deduction; not a repeat of11's whole-frame must-fix."
+        },
+        {
+          "finding": "The lush golden foliage and small secondary moments still carry considerable detail at reduced widths.",
+          "effect": "At420 the coder is clear while the exact workshop/leaf exchanges become tiny discoveries rather than fully legible narrative beats.",
+          "severity": "Small compositional tradeoff, consistent with the retained panorama; not a request to enlarge guests or redesign the scene."
+        }
+      ],
+      "optional": [
+        "A future native-resolution polish pass could quiet the faint hero surface embossing, but it should not trade the current warmth for generic smooth plastic or trigger repeated broad regeneration.",
+        "Retain the four guests as optional scene content in future applications; do not make third-party recognition the permanent heyNag identity or enlarge them just for420px readability."
+      ]
+    },
+    {
+      "id": "performance-a",
+      "discipline": "performance",
+      "score": 8.8,
+      "readiness": "ready_for_owner_review",
+      "mustFix": [],
+      "newRegressions": [],
+      "deductions": [
+        {
+          "finding": "The broad activities read more decisively than reciprocal thought: the builder's free mitten now relates to the box but does not specifically offer it toward the guests; the resting moth's open-eye/head arrangement still reads outward more clearly than deliberately down to the leaf pair.",
+          "evidence": [
+            "scene13-workshop-native.png",
+            "scene13-tree-play-native.png",
+            "scene13-width-880.png"
+          ],
+          "severity": "Minor optional acting specificity; no required repair or new anatomy."
+        },
+        {
+          "finding": "The coding action is clear through keyboard contact and laptop, while the open smiling face feels closer to a friendly pause than absorbed screen attention. This is a valid captured beat, but the precise intention is less specific.",
+          "evidence": [
+            "scene13-hero-native.png",
+            "scene13-width-880.png"
+          ],
+          "severity": "Optional choice of acting beat; not a defective face or a demand to add pupils."
+        },
+        {
+          "finding": "At 420px the three zones and foreground coder survive, while the small leaf contact, workshop grip and resting glance become general activity clusters.",
+          "evidence": [
+            "scene13-width-420.png"
+          ],
+          "severity": "Scale limitation, not a reason to enlarge guests or redesign the composition."
+        }
+      ],
+      "optional": [
+        "If a later application needs a stronger specific beat, choose between absorbed coding and a deliberate glance up; do not force gaze through new pupils or proportions.",
+        "Workshop invitation and resting-to-leaf attention may be refined within the existing pose vocabulary, but are not prerequisites for owner review.",
+        "Let the narrow rendition communicate the broad park story; retain the current cast size rather than exaggerating micro-actions."
+      ]
+    },
+    {
+      "id": "performance-b",
+      "discipline": "performance",
+      "score": 8.8,
+      "readiness": "ready_for_owner_review",
+      "mustFix": [],
+      "newRegressions": [],
+      "deductions": [
+        {
+          "finding": "The hero's keyboard mitten and laptop identify computing clearly, while the broad outward smile and eye shapes still convey a welcoming posed moment more decisively than absorbed screen attention.",
+          "location": "Foreground coder face and laptop relationship.",
+          "evidence": [
+            "scene13-hero-native.png",
+            "scene13-width-880.png"
+          ],
+          "classification": "Minor optional acting-specificity limit; carried forward, not a new defect or condition of readiness."
+        },
+        {
+          "finding": "The workshop spectators and tree companions are convincingly grouped, but a precise shared invitation or particular leaf game remains inferred. The repaired mallet grip establishes holding; it does not by itself establish the builder's intended communication to the stool guests.",
+          "location": "Workshop group and tree/leaf group.",
+          "evidence": [
+            "scene13-workshop-native.png",
+            "scene13-tree-play-native.png",
+            "scene13-companions-5x.png"
+          ],
+          "classification": "Minor optional narrative-specificity limit. No forced gaze, new gesture, enlarged guest or pupil is required."
+        }
+      ],
+      "optional": [
+        "Keep the current outward warmth if it is the desired captured beat. More screen-directed coder attention is an optional alternative, not a repair.",
+        "Any later refinement to reciprocal workshop/tree attention should use existing head/body/contact relationships without added pupils, mature anatomy or larger guests.",
+        "Accept that 420px preserves the broad three-zone story while secondary micro-actions become small. This is a local-scale limitation, not justification for crowding the composition."
+      ]
+    },
+    {
+      "id": "identity-a",
+      "discipline": "identity",
+      "score": 9,
+      "readiness": "ready_for_owner_review",
+      "mustFix": [],
+      "newRegressions": [],
+      "deductions": [
+        {
+          "severity": "minor; optional finish preference",
+          "finding": "Fine looping texture remains on the hero's cream face and lime wing/paddles at native size. It no longer imposes the same hard network on wood, metal and foliage, but a calmer broad-surface treatment could be slightly more restrained."
+        },
+        {
+          "severity": "minor; retained staging limit",
+          "finding": "Clawd's workshop attention is mostly contextual because its face remains frontal. Both square eyes are preserved; this does not require another turn or anatomy change."
+        },
+        {
+          "severity": "minor; scale limit",
+          "finding": "At420px, the main coding moth remains clear while the precise leaf game and workshop action simplify into secondary groups. Fine guest stories should remain optional rather than demand enlargement."
+        }
+      ],
+      "optional": [
+        "Retain the named texture and frontal-attention preferences as nonblocking observations; do not reopen successful anatomy, eye or pose work simply to chase a higher score.",
+        "Keep tiny secondary stories optional in later narrow applications. Actual platform layout and accompanying native text require their own evidence."
+      ]
+    },
+    {
+      "id": "identity-b",
+      "discipline": "identity",
+      "score": 9,
+      "readiness": "ready_for_owner_review",
+      "mustFix": [],
+      "newRegressions": [],
+      "deductions": [
+        {
+          "points": 0.3,
+          "location": "Native hero forehead, lime wings and paddles",
+          "finding": "Low-contrast embossed/curl-like surface pattern remains. It is substantially calmer than11 and no longer dominates the different materials, but slightly limits the natural plush impression. Nonblocking finish preference."
+        },
+        {
+          "points": 0.4,
+          "location": "Clawd/Dot workshop grouping",
+          "finding": "Clawd still faces the viewer, so watching intent relies mainly on stool placement and the neighboring action. This remains the previous optional staging limitation; no new pose demand."
+        },
+        {
+          "points": 0.3,
+          "location": "420-width secondary vignettes",
+          "finding": "Hero and activity groups remain clear, while the leaf game, tiny grip and guest facial details become accents. The reduced image carries the overall world more strongly than every micro-story; no guest enlargement is warranted."
+        }
+      ],
+      "optional": [
+        "Existing frontal Clawd attention and tiny-scale secondary-detail limits remain optional; do not re-pose or enlarge companions merely to chase them.",
+        "Further softening of the hero’s faint surface pattern could be a taste refinement, but is not required before owner review.",
+        "No further Muse anatomy/hood remodeling or composition change is justified."
+      ]
+    },
+    {
+      "id": "rigging-a",
+      "discipline": "rigging",
+      "score": 9,
+      "readiness": "ready_for_owner_review",
+      "mustFix": [],
+      "newRegressions": [],
+      "deductions": [
+        {
+          "id": "fine-hero-texture",
+          "severity": "minor, optional finish refinement",
+          "finding": "Fine curled/cellular texture remains on the hero’s upper head, paddles and forewing. It is localized and low-contrast; it no longer makes wood, glass, metal and character skin share the coarse segmented finish seen in 11.",
+          "evidence": [
+            "brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-hero-native.png",
+            "brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-width-1280.png"
+          ],
+          "improvementCriterion": "If revisited for another purpose, reduce the fine pattern contrast selectively while preserving soft volume, contours and intentional texture. This is not a required repair or a reason to start another rendering round."
+        },
+        {
+          "id": "coder-mitten-grooves",
+          "severity": "minor, existing stylistic limit",
+          "finding": "Rounded grooves on the coder’s closed hand remain slightly more paw-like than the simplest V5 mitten reference. The hand is compact and its keyboard contact is readable; this is unchanged from the preceding studies.",
+          "evidence": [
+            "brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-hero-native.png",
+            "assets/brand/heynag-moth-v5-refined.png — prior actual inspection reused"
+          ],
+          "improvementCriterion": "Preserve a single small mitten mass in any future character application; do not add separate long fingers. No change to this accepted contact is required."
+        }
+      ],
+      "optional": [
+        {
+          "id": "fine-hero-texture",
+          "severity": "minor, optional finish refinement",
+          "finding": "Fine curled/cellular texture remains on the hero’s upper head, paddles and forewing. It is localized and low-contrast; it no longer makes wood, glass, metal and character skin share the coarse segmented finish seen in 11.",
+          "evidence": [
+            "brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-hero-native.png",
+            "brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-width-1280.png"
+          ],
+          "improvementCriterion": "If revisited for another purpose, reduce the fine pattern contrast selectively while preserving soft volume, contours and intentional texture. This is not a required repair or a reason to start another rendering round."
+        },
+        {
+          "id": "coder-mitten-grooves",
+          "severity": "minor, existing stylistic limit",
+          "finding": "Rounded grooves on the coder’s closed hand remain slightly more paw-like than the simplest V5 mitten reference. The hand is compact and its keyboard contact is readable; this is unchanged from the preceding studies.",
+          "evidence": [
+            "brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-hero-native.png",
+            "assets/brand/heynag-moth-v5-refined.png — prior actual inspection reused"
+          ],
+          "improvementCriterion": "Preserve a single small mitten mass in any future character application; do not add separate long fingers. No change to this accepted contact is required."
+        }
+      ]
+    },
+    {
+      "id": "rigging-b",
+      "discipline": "rigging",
+      "score": 9,
+      "readiness": "ready_for_owner_review",
+      "mustFix": [],
+      "newRegressions": [],
+      "deductions": [
+        {
+          "severity": "minor, nonblocking",
+          "finding": "A shallow patterned relief remains on the hero's cream head and green paddles/forewing at native size. It is much finer and less intrusive than 11, and no longer spreads as the same broken contour treatment across hard props, but it still feels somewhat embossed rather than entirely plush or velvet.",
+          "evidence": "scene13-hero-native.png, compared with scene11-hero-native.png and scene07-hero-native.png",
+          "effect": "A small material-naturalness limit at close inspection, not a recurrence of the prior whole-frame defect.",
+          "improvementCriterion": "If the material language is revisited for another authorized reason, retain broad soft volumes with finer, less recognizable repeating relief. No additional repair round is required for current owner review."
+        },
+        {
+          "severity": "minor, nonblocking",
+          "finding": "The coder's mitten still has rounded digit grooves that read slightly more paw-like than the simplest V5 reference. The hand remains compact and attached to the keyboard action; this is a retained stylization, not a new defect.",
+          "evidence": "scene13-hero-native.png and the previously inspected V5 identity reference",
+          "improvementCriterion": "Preserve simple mitten masses in future derivatives rather than adding independently articulated human fingers. Do not reopen the current pose merely to chase this preference."
+        }
+      ],
+      "optional": [
+        "Retain the fine-relief and mitten-shape observations as future material/derivative guidance, not a request for another corrective pass.",
+        "Earlier optional watcher orientation, gaze and dapple preferences remain optional. The actual repair has improved visual rest enough that I do not require further lighting or posing changes."
+      ]
+    },
+    {
+      "id": "interaction-a",
+      "discipline": "interaction",
+      "score": 9,
+      "readiness": "ready_for_owner_review",
+      "mustFix": [],
+      "newRegressions": [],
+      "deductions": [
+        {
+          "id": "IXA13-NATIVE-TEXTURE",
+          "severity": "minor optional finish preference",
+          "location": "Hero antenna paddles, upper cream face and large pale wing at native size.",
+          "finding": "A faint looping/embossed texture remains more apparent here than on the quieter central moth. It is considerably subtler than11's angular breakup and does not obscure the broad soft forms or spread indiscriminately across wood, cloth and metal. I would still prefer a slightly quieter treatment for especially large presentation, but it is not a remaining W1 blocker or a reason for another required edit."
+        }
+      ],
+      "optional": [
+        "The faint decorative texture on the hero paddles/upper face/wing could be quieter in a future deliberately larger presentation. Do not reopen the whole frame or apply uniform smoothing merely to pursue this small preference.",
+        "Keep the friendly outward gaze and occasional bright garden flecks unless a separate art decision calls for change. Prior gaze/acting preferences remain optional, not new prerequisites.",
+        "Keep background identity and play details optional at narrow scales; do not enlarge guests or add labels/interactions to force recognition."
+      ]
+    },
+    {
+      "id": "interaction-b",
+      "discipline": "interaction",
+      "score": 8.9,
+      "readiness": "ready_for_owner_review",
+      "mustFix": [],
+      "newRegressions": [],
+      "deductions": [
+        {
+          "severity": "minor; nonblocking",
+          "location": "Native hero forehead, upper green antenna paddle and outer wing",
+          "finding": "A faint looping/embossed surface pattern remains perceptible on cream and green forms. It is much quieter than 11 and no longer spreads across wood and objects, but a less patterned soft finish would feel slightly more natural at large viewing size."
+        },
+        {
+          "severity": "minor; optional artistic preference",
+          "location": "Foreground hero face above the laptop",
+          "finding": "The welcoming reader-facing smile/gaze still makes the coding beat feel partly posed. Keyboard contact and laptop staging convey the activity clearly; a different gaze is not required."
+        },
+        {
+          "severity": "minor scale tradeoff; not an access defect",
+          "location": "Left leaf-play and central workshop at 420 pixels",
+          "finding": "The broad working/resting world survives, while the precise leaf interaction and small grip are incidental detail. This limits rich story discovery at the narrowest size, without defeating the hero-first read or requiring larger guests."
+        }
+      ],
+      "optional": [
+        "Keep the faint native-scale hero pattern and reader-facing gaze as recorded minor preferences; neither warrants compulsory changes before owner review.",
+        "If a future intentional refinement occurs, protect the current guest scale and quiet story hierarchy rather than increasing detail to force narrow-size recognition."
+      ]
+    },
+    {
+      "id": "audience-a",
+      "discipline": "audience",
+      "score": 9.1,
+      "readiness": "ready_for_owner_review",
+      "mustFix": [],
+      "newRegressions": [],
+      "deductions": [
+        {
+          "id": "AA13-secondary-specificity",
+          "severity": "minor; optional",
+          "location": "Workshop watchers and tree-local leaf play, especially at 420px",
+          "finding": "The primary laptop activity remains clear, while exact watching/playing relationships depend more on props and proximity. At 420px the leaf and hand details become very small. The broader supporting vignettes survive, but a precise parent/kids metaphor or one-person-through-three-moments reading is not visually guaranteed.",
+          "boundary": "This is a limited-action-specificity craft deduction, not evidence that real viewers misunderstand. Do not enlarge guests or add labels to remove it."
+        },
+        {
+          "id": "AA13-fine-surface-style",
+          "severity": "small stylistic reservation; optional",
+          "location": "Native hero face, antenna paddles and wing surfaces",
+          "finding": "A fine curled/embossed texture remains visible on close inspection. It is now low contrast and subordinate to soft form, rather than the coarse cellular treatment spread across unrelated materials in 11. A slightly plainer facial surface could be another taste choice, but the present treatment no longer blocks the intended finish.",
+          "boundary": "Do not convert this preference into a required blur or anatomy/material redesign."
+        }
+      ],
+      "optional": [
+        "Retain the current small-action scale unless an actual application reveals a problem. Precise secondary watcher/leaf stories may remain rewards for closer inspection.",
+        "A plainer hero-face microtexture is a possible later stylistic choice, not a condition for presenting this version to the owner.",
+        "When the art is applied, keep native Nag/heyNag attribution outside the image. The bare illustration supplies character continuity cues rather than an owner-name recall result."
+      ]
+    },
+    {
+      "id": "audience-b",
+      "discipline": "audience",
+      "score": 9,
+      "readiness": "ready_for_owner_review",
+      "mustFix": [],
+      "newRegressions": [],
+      "deductions": [
+        {
+          "id": "AB13-fine-surface",
+          "severity": "minor, optional",
+          "location": "Hero cream face and green wing/antenna surfaces in native crop.",
+          "finding": "A fine looping or embossed-looking texture remains more explicit than 07’s softer facial finish. It no longer produces 11’s coarse cross-material fracture pattern, and the cream volume remains soft and clear at 1280/880.",
+          "effect": "Small stylistic reservation about tactile naturalness; not a remaining W1 blocker or a reason for another global edit."
+        },
+        {
+          "id": "AB13-secondary-specificity",
+          "severity": "minor, optional",
+          "location": "Workshop guests and left leaf group, especially at 420.",
+          "finding": "Placement and props establish supporting groups, but exact watching and shared-play intentions become less specific at small scale. The three appearances of one moth are linked by repeated design cues rather than an explicit narrative transition.",
+          "effect": "The broad personal park/coding scene is clear to expert inspection; the precise metaphor should not be promised as an unfamiliar viewer’s interpretation."
+        }
+      ],
+      "optional": [
+        "If revisited for a future application, keep fine face/wing texture restrained; do not globally smooth the current image or risk losing material distinction for a small preference.",
+        "Any stronger watcher orientation or leaf interaction remains optional. Do not enlarge guests, add explanation or demand detailed420px actions.",
+        "Retain native Nag/heyNag context when applying the image; the artwork contains no name and cannot establish unaided name recall on its own."
+      ]
+    },
+    {
+      "id": "storyboard-a",
+      "discipline": "storyboard",
+      "score": 9,
+      "readiness": "ready_for_owner_review",
+      "mustFix": [],
+      "newRegressions": [],
+      "deductions": [
+        {
+          "name": "Some relationships remain deliberately presentational",
+          "severity": "minor; optional acting refinement",
+          "location": "Workshop faces and resting moth's open eye",
+          "finding": "The toolbox, raised mallet and nearby seated guests establish making and watching, but a precise shared observation is still conveyed partly by adjacency. The resting moth's attention is similarly broad rather than unmistakably directed at the leaf. The scene reads well as three related activities; it is less specific as one captured cause-and-reaction moment. These are retained limitations, not new defects or grounds to re-pose accepted Clawd."
+        },
+        {
+          "name": "Fine patterned character surfaces remain at native inspection",
+          "severity": "minor finish preference; nonblocking",
+          "location": "Hero forehead, antenna paddles and near wing",
+          "finding": "A faint embossed-looking pattern remains visible in the native crop. It is now subordinate to the continuous soft volumes and clean boundaries, and does not spread the same disruptive broken texture rhythm across every material as11 did. Completely eliminating it is not necessary to meet the current still-image brief."
+        },
+        {
+          "name": "Smallest scale preserves activity zones more than small comic details",
+          "severity": "minor communication ceiling; no cast enlargement requested",
+          "location": "420-wide local image",
+          "finding": "The coder, workshop and tree-rest grouping remain distinct, but exact leaf play, mitten contact and guest attention are tiny. Their broad supporting role survives; their full narrative specificity cannot be promised at that size."
+        }
+      ],
+      "optional": [
+        "Future use could strengthen a specific builder-to-guest observation or the resting moth's downward attention through a small existing-pose cue. Keep it optional; the present groups already communicate their roles and accepted Clawd should remain recognizable.",
+        "If native close-up use ever warrants surface refinement, reduce only the faint embossed character pattern while preserving texture differences. No extra cleanup is required merely to make the current score higher.",
+        "For very small applications, let the broad hero and activity grouping carry the image rather than increasing cast size or adding explanatory props/text."
+      ]
+    },
+    {
+      "id": "storyboard-b",
+      "discipline": "storyboard",
+      "score": 9,
+      "readiness": "ready_for_owner_review",
+      "mustFix": [],
+      "newRegressions": [],
+      "deductions": [
+        {
+          "id": "SB13-01",
+          "severity": "minor, nonblocking narrative specificity limit",
+          "location": "Workshop audience and resting moth",
+          "finding": "The characters still partly present toward the viewer. The stools, toolbox and Dot's orientation establish watching, but the builder is not unmistakably showing one particular detail to the guests. Likewise the resting moth's open eye is not a precise downward glance at the leaf game. The scene communicates code/build/rest and gentle companionship more strongly than a tightly specified cause-and-reaction gag.",
+          "status": "Previously optional acting preference; not promoted to a required redesign. Preserve recognizable Clawd and the accepted poses."
+        },
+        {
+          "id": "SB13-02",
+          "severity": "minor scale ceiling, nonblocking",
+          "location": "420px local scale, especially leaf play and stool guests",
+          "finding": "The broad three activity zones and dominant coder remain readable, but exact eye direction, the leaf interaction and tiny guest expressions become small discoveries rather than dependable story information. This limits the miniature comic payoff without compromising the banner's main identity and atmosphere.",
+          "status": "Do not enlarge the cast, add text or demand every microgesture survive this scale. Local image scaling is not a mobile usability test."
+        }
+      ],
+      "optional": [
+        "A future deliberate story pass could strengthen the builder-to-guest invitation or resting-moth glance using existing simple poses. These are not required for owner review and are not reasons to turn Clawd or alter anatomy.",
+        "Keep subtle character interactions as close-view rewards. Preserve the current hierarchy rather than making every guest equally legible at420px."
+      ]
+    },
+    {
+      "id": "visual-a",
+      "discipline": "visual",
+      "score": 8.8,
+      "readiness": "ready_for_owner_review",
+      "mustFix": [],
+      "newRegressions": [],
+      "deductions": [
+        {
+          "id": "VA-W13-01",
+          "severity": "minor, nonblocking finish reservation",
+          "location": "Foreground cream forehead, pale forewing and green paddles at native scale",
+          "finding": "A faint embossed/cellular motif remains visible on these large surfaces. It is considerably quieter than11 and no longer dominates unrelated timber, cloth and foliage. The forms read softly, but some fine marks remain more decorative than material-led.",
+          "consequence": "This limits the highest material-craft judgment without making the image unready. Another broad render, blanket smoothing or added fur would introduce more risk than the visible benefit warrants."
+        }
+      ],
+      "optional": [
+        "Keep the native-scale hero surface reservation as future material-control guidance; do not reopen this finished local correction to chase a score threshold.",
+        "No further Muse/Grok, Clawd, gaze, anatomy, guest-scale or environmental-prop changes are requested."
+      ]
+    },
+    {
+      "id": "visual-b",
+      "discipline": "visual",
+      "score": 9,
+      "readiness": "ready_for_owner_review",
+      "mustFix": [],
+      "newRegressions": [],
+      "deductions": [
+        {
+          "severity": "minor, nonblocking",
+          "location": "Hero antenna paddles, pale wing and cream forehead in native hero crop",
+          "finding": "Faint decorative embossed or looping surface marks remain. They no longer dominate the broad rounded forms or repeat at comparable strength across all materials, but a more restrained finish could feel less ornamental at close inspection."
+        },
+        {
+          "severity": "minor, nonblocking",
+          "location": "Golden canopy/grass accents and foreground blanket/bench at1280/880",
+          "finding": "The frame remains richly lit and detailed rather than exceptionally spare. Some fine highlights pull brief secondary attention, although the coder and activity hierarchy stay clear. This is a remaining art-direction preference, not a broken composition."
+        }
+      ],
+      "optional": [
+        "If a future owner-directed refinement is requested, reduce only the faint decorative micro-embossing on large wing/paddle planes; keep broad volume and original markings. No current pass is requested.",
+        "Selected highlight quieting remains optional. Do not re-pose characters, change Muse anatomy or add detail merely to increase the score."
+      ]
+    },
+    {
+      "id": "sound-a",
+      "discipline": "sound",
+      "score": 9.1,
+      "readiness": "ready_for_owner_review",
+      "mustFix": [],
+      "newRegressions": [],
+      "deductions": [
+        {
+          "id": "SOUND-A-W13-1",
+          "severity": "minor, nonblocking",
+          "location": "Native hero forehead, green antenna paddles and upper wing",
+          "finding": "Fine curling/cellular surface marks remain visible across several soft surfaces. Their lower contrast now allows the plush volume to read, but the close-up still has slightly more patterned sameness than an entirely material-specific finish would need.",
+          "evidence": [
+            "scene13-hero-native.png",
+            "fresh scene11-hero-native.png and scene07-hero-native.png comparison"
+          ],
+          "boundary": "This is a residual craft preference, not a claim that W1 failed or that all texture should be erased. It does not disrupt the face at 1280/880."
+        },
+        {
+          "id": "SOUND-A-W13-2",
+          "severity": "minor, optional emphasis refinement",
+          "location": "Sunlit bench edge, grass and stone highlights around the open path",
+          "finding": "A few bright accents still compete locally with the intended quiet transitional space. The path remains readable and useful, so any reduction would be selective taste refinement rather than a required lighting change.",
+          "evidence": [
+            "complete 13",
+            "scene13-width-1280.png"
+          ],
+          "boundary": "Preserve warm directional sunlight, stone texture and the lively garden. No global blur or dimming."
+        }
+      ],
+      "optional": [
+        "If another edit is independently desired, quiet only the remaining native cellular pattern on the hero soft surfaces; do not reopen the entire scene or remove intentional texture.",
+        "A few path/bench highlight accents could be reduced selectively, while preserving the warm light and lively garden.",
+        "Workshop watcher gaze remains an optional acting preference. It does not justify recasting, enlarging guests or changing the current making pose."
+      ]
+    },
+    {
+      "id": "sound-b",
+      "discipline": "sound",
+      "score": 9.1,
+      "readiness": "ready_for_owner_review",
+      "mustFix": [],
+      "newRegressions": [],
+      "deductions": [
+        {
+          "amount": 0.4,
+          "status": "optional preference retained from11",
+          "finding": "Clawd and the builder remain substantially viewer-facing. The raised mallet, box and inward-facing Dot communicate the workshop scene, but the spectators watching work is less specific than a carefully directed eyeline would be. This does not require reposing accepted characters."
+        },
+        {
+          "amount": 0.3,
+          "status": "minor scale tradeoff retained from11",
+          "finding": "At420 local width, coding and the three broad moth activity zones survive, while the shared leaf and small observer/hand details compress into accents. This limits fine story richness at that size; it is not a new defect or a reason to enlarge the guests."
+        },
+        {
+          "amount": 0.2,
+          "status": "optional finish preference",
+          "finding": "At native hero size, faint repeating fine surface lines remain on cream head, wing and antenna paddle. They are far quieter than11 and no longer spread harsh contour breaks across the environment, but a less similar fine pattern across those soft surfaces could increase material specificity."
+        }
+      ],
+      "optional": [
+        "Keep the previously optional inward workshop-attention preference optional; it does not justify restaging Clawd or the builder.",
+        "If a future controlled material pass is otherwise needed, consider varying the faint fine pattern across hero head/wing/paddle. Current readiness does not depend on this.",
+        "Treat420 detail compression as a known delivery tradeoff. Do not enlarge secondary characters or add effects to force every micro-story to survive."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "reviewer": "brand-a",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "proposal": "brand/reviews/2026-11-07-banner-park/whole-scene-11/proposal-v1.json",
+  "proposalSha256": "f22147674c4537a20f89925d335e107abb9a8bc9e322559b92209c35981d40b4",
+  "hashVerification": "Independently computed SHA256 and read the complete proposal; matches the requested exact plan.",
+  "position": "agree_with_named_limits",
+  "currentScore": 8.2,
+  "scoreStatus": "Unchanged whole-scene11 still-image craft judgment. No new images inspected or unbuilt work rescored for this plan vote.",
+  "reasons": [
+    "W1 implements the brand pair's material must-fix across the whole frame while preserving Nag's identity, existing composition, story, four subordinate guests and successful eye corrections.",
+    "The explicit rejection of global blur and uniform plastic smoothing respects Brand B's accepted challenge: preserve tactile warmth and meaningful differences among plush, wood, cloth, stone, metal and glass.",
+    "W2 is a bounded construction repair that clarifies the maker's action without stretching anatomy or requiring mallet contact during anticipation. I accept this consolidated technical correction; my own review had deferred precise grip assessment to the articulation specialists.",
+    "Optional lighting and acting remain optional. The plan does not turn a material repair into a new composition, cast expansion or a requirement to force guest recognition at420px.",
+    "The required assessment of the actual integrated replacement, whole frame and matching crops prevents another local eye correction from standing in for full-scene finish."
+  ],
+  "limits": [
+    "Acceptance is of this correction plan only, not approval of replacement art, publication or a promised9.",
+    "Retain the distinction between required material/grip repairs and optional gaze, acting and incidental highlight preferences.",
+    "07 is a material/construction reference; preserve11's intended changes rather than roll the whole image back.",
+    "Local image scales, AI craft scores and panel agreement do not establish live GitHub behavior, physical-device quality, human recognition or actual animation."
+  ],
+  "pairConfirmation": {
+    "confirmed": true,
+    "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/pairs/brand.json",
+    "ownRecord": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/brand-a.json",
+    "partnerRecordRead": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/brand-b.json",
+    "scope": "Both explicitly confirmed preserving11's composition/story/identity corrections while recovering07-level material differentiation; retain intentional texture and graphic contours, with golden-edge restraint optional.",
+    "individualScores": {"brand-a": 8.2, "brand-b": 8.4},
+    "remainingSubstantiveDisagreements": [],
+    "authority": "This file records only Brand A's exact-plan vote. Brand B's plan vote and all18 acceptance must be established by their own records."
+  }
+}

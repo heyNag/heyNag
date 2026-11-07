@@ -1,0 +1,48 @@
+{
+  "stage": "Final scoped comparison of rendered ART STUDIES; not publication, final identity adoption, animation certification or a score exercise.",
+  "proposal": "brand/reviews/2026-11-07-banner-park/animated-film-proposal.json",
+  "evidence": [
+    {
+      "path": "assets/brand/banner-park/park-film-study-01-moth-only.png",
+      "sha256": "5ff9786323063ef0a0704b21a4e9573d07b2129f58ae5dd681224e43bf876543",
+      "dimensions": [
+        2172,
+        724
+      ],
+      "bytes": 2368175,
+      "guests": 0
+    },
+    {
+      "path": "assets/brand/banner-park/park-film-study-02-two-guests.png",
+      "sha256": "1a1e410f52ae8f5b11e2dce068f60b530fc21cf929bdb06d62367c877c0113f2",
+      "dimensions": [
+        2172,
+        724
+      ],
+      "bytes": 2322869,
+      "guests": 2
+    },
+    {
+      "path": "assets/brand/banner-park/park-film-study-03-four-guests.png",
+      "sha256": "509e1892ede2a115014d4d5c359fad9527757f889c40b152f67f1a04126f6387",
+      "dimensions": [
+        2172,
+        724
+      ],
+      "bytes": 2327505,
+      "guests": 4
+    }
+  ],
+  "ownerConstraints": [
+    "Animated-feature film look (Pixar/Disney-inspired craftsmanship), tiny original innocent moth.",
+    "Foreground exclusively moth coding on bench and requested MacBook. No foreground companions.",
+    "Owner supplied Clawd reference and suggested Dots, Muse and Grok Bot; judge if their actual background presence fits or overloads."
+  ],
+  "questions": [
+    "Inspect all three actual PNGs. Which do you recommend as the next concept:0,2,4 or none? Give the visible reason, not loyalty to an earlier recommendation.",
+    "Does the animated-film treatment preserve the original moth? Are guests suitably secondary and plausibly engaged, or just lined up?",
+    "Name at most one concrete must-fix and one remaining limitation. No invented numeric score."
+  ],
+  "reviewMethod": "Write final-comparison/<role>-<a|b>.json <=180 words with inspected paths, honest preference, reason, mustFix, limits and actual/reused skills. First independent, then read partner when available, exchange concise challenge and explicit scoped pair position. Do not wait in a running slot for an idle partner. No user audience outcomes claimed. No browser: prior login handoff remains pending. Full/native images viewed; no claim of real GitHub-size test unless directly evidenced.",
+  "status": "Historical 0/2/4 exploration brief; owner subsequently selected four guests with stools and parent/kids tree staging. It does not define the current recommendation."
+}

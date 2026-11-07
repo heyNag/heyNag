@@ -1,0 +1,70 @@
+{
+  "reviewer": "visual-a",
+  "role": "Visual development and lighting artist A",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "assetSha256": "32ce62c11e533fcd3a7ab1856a102c7a31b9111d96c3fbf16df8d469b8f08469",
+  "proposalSha256": "710168aea494893968a89809edc6034930e39c8ed9a0147919b3aac04c04cce5",
+  "readmeSha256": "a88ff0761cd9d7da1bb6d2ba5746612976ab52c7bc73156d32feb8a24418e90e",
+  "hashVerification": "Independently verified proposal-v1.json against its .sha256, actual13, frozen README-reviewed.md, current README.md and all four proposal-listed preview PNGs. Every hash matches.",
+  "decision": "agree_with_named_limits",
+  "retainedImageScore": 8.8,
+  "imageScoreScope": "Unchanged subjective whole-still materials, lighting, color, depth and environmental-integration judgment. Previous11 was8.2; actual12 and independent13 were8.8. Profile context improves attribution but does not retroactively improve native image craft.",
+  "counterpartChallenge": {
+    "reviewer": "visual-b",
+    "recordRead": "whole-scene-13/independent/visual-b.json, after own independent13 save",
+    "counterpartPosition": "B independently finds the whole still ready, scores9.0 and retains optional reservations about faint hero embossing and busy fine highlights on canopy/grass/blanket/bench.",
+    "concreteChallenge": "I give the highlight-density reservation less practical weight in the actual GitHub application. At the inspected846px desktop banner and308px narrow banner, native spacing around the image already provides visual rest, while the cream coding face and dark glasses remain the dominant shapes. I see no demonstrated profile benefit from another path/blanket highlight pass. Richness can remain an intentional park quality rather than an unmet simplification target.",
+    "evidence": "Both1440 profile previews and both390 README previews; actual image widths confirmed in render-checks.json. The narrow previews keep the hero and three broad activity zones, while fine guest details naturally reduce.",
+    "scoreDifference": "I retain8.8 because the native hero surface motif carries more weight in my material lens. B's9.0 reflects a different, explicitly bounded craft weighting; neither score should be changed to manufacture consensus.",
+    "classification": "Challenge to the weight and application relevance of an optional preference, not a substantive publication objection.",
+    "messageSent": "Concise challenge and exact scoped recommendation sent directly to Visual B before saving this vote.",
+    "counterpartResponseStatus": "Resolved by B's explicit direct response after its full application review: B accepts that highlight quieting has no demonstrated current profile benefit and confirms the exact bounded recommendation.",
+    "BChallengeAndAResponse": "B challenges applying A's native embossed-texture deduction to the846/308px profile: it is not meaningfully competing at846 and becomes imperceptible at308. A explicitly accepts this distinction. The8.8 reservation remains a native whole-still/Downloads material judgment, with no light/dark application constraint or retouch requirement."
+  },
+  "pairRecommendation": {
+    "text": "Present the exact actual13 daylight scene as reviewed, retain all individual scores and named nonblocking limits, provide the original2172x724 file in Downloads, and publish the exact frozen personal-story README/banner to heyNag/heyNag within the owner's instruction. Use the same unchanged day art in both GitHub themes. Make no additional art pass and no unrelated avatar, bio, pin or organization-setting change.",
+    "AConfirmation": "I explicitly accept this bounded joint recommendation from Visual A's side.",
+    "BConfirmation": "Explicitly confirmed by direct message after B inspected all four previews and frozen sources. Both accept the exact bounded recommendation, retain A8.8/B9.0 and request no further art pass.",
+    "substantiveObjectionFromA": false,
+    "scopeBoundary": "This vote supports the exact proposal, not unseen artwork, unreviewed copy revisions, a night scene, animation or a claim of unanimous9."
+  },
+  "profileReadiness": {
+    "decision": "ready_for_authorized_publication",
+    "visualApplication": "The scene remains coherent within both light and dark native layouts. Its warm daylight is an intentional bounded picture on the dark page; no recoloring or invented night adaptation is needed. At390 viewport width the banner becomes an introduction to the character/world, with tiny guest actions optional rather than required information.",
+    "story": "The frozen README names Nag/Nagarjuna in native text, then connects building, curiosity, deep-work glasses and taking a breather to the illustration. The owner-requested emojis punctuate paragraphs without becoming another visual cast. Public work is described by purpose; private-derived content stays at the broad authorized themes listed in story-source.json. The future-sharing line is an intention, not an announcement of an unreleased product.",
+    "separation": "This qualitative profile/story readiness is separate from the retained image score. Source research beyond the supplied story provenance was not independently repeated by this visual reviewer.",
+    "previewDisclosure": "The yellow LOCAL README PREVIEW strip is preview chrome, absent from frozen README source. Screenshots are local unpublished evidence, not proof of a live GitHub update."
+  },
+  "mustFix": [],
+  "limits": [
+    "Faint decorative surface relief on native hero forehead, wing and paddles remains a minor nonblocking material preference. No compulsory blur, smoothing, fur or regeneration follows.",
+    "Fine leaf-play, watcher attention and guest identity are not guaranteed at the308px displayed banner width. Do not enlarge companions or add explanatory labels to force that detail.",
+    "Single daylight art is used in both themes; this review establishes neither a night version nor animation, audio, accessibility implementation or physical-device behavior.",
+    "The personal narrative and recognition cues are authorial intent, not human audience validation, studio equivalence or proof of unaided name recall.",
+    "The original is2172x724. Approval of a Downloads copy does not imply upscaling or that delivery/publication has already occurred.",
+    "A18-person intake exists and all independent records report readiness, but exact-proposal consensus still requires their explicit votes and pair resolutions. I do not proxy-vote for B or any other reviewer."
+  ],
+  "evidenceInspected": [
+    "whole-scene-13/proposal-v1.json and proposal-v1.sha256 read in full",
+    "whole-scene-13/independent/visual-b.json read in full after own independent record",
+    "whole-scene-13/full-intake.json read in full, including all18 independent scopes and limits",
+    "whole-scene-13/README-reviewed.md and story-source.json read in full",
+    "whole-scene-13/profile-evidence/profile-light-1440.png freshly viewed via view_image",
+    "whole-scene-13/profile-evidence/profile-dark-1440.png freshly viewed via view_image",
+    "whole-scene-13/profile-evidence/readme-light-390.png freshly viewed via view_image",
+    "whole-scene-13/profile-evidence/readme-dark-390.png freshly viewed via view_image",
+    "whole-scene-13/profile-evidence/render-checks.json read; viewport/image widths and local-preview status checked",
+    "Own actual13 complete/scaled/native/5x inspections reused honestly from whole-scene-13/independent/visual-a.json"
+  ],
+  "evidencePathBase": "Paths beginning whole-scene-13 are relative to brand/reviews/2026-11-07-banner-park/.",
+  "skillsReused": [
+    "Prior full emil-design-eng and apple-design readings: inspect the actual application, scale, material continuity and hierarchy instead of extrapolating from a native crop.",
+    "Prior full prototype reading: require a named visible benefit before another experiment; this task calls for a frozen-result vote, not a new prototype.",
+    "Prior full design-taste-frontend SKILL.md: retain one coherent visual system and concrete native text. Commercial site, photograph, shader and section recipes do not govern this GitHub README."
+  ],
+  "workflowExceptions": [
+    "Static art/story review does not inherit UI easing, timing, compositor or hover mandates.",
+    "No source edits, browser control, art generation, additional agents or publication performed by this reviewer."
+  ]
+}

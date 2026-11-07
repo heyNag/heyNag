@@ -1,0 +1,21 @@
+{
+  "reviewerId": "rigging-a",
+  "lens": "Articulation/contact; independent concept review",
+  "position": "agree_with_limits",
+  "scope": "Test 0/2/4 cameos; no unseen-art approval.",
+  "finding": "The actual 3D base retains oversized heads, tiny bodies, unequal paddles and convincing seated weight. Dimensional cohesion is promising. The coder’s rounded digit grooves drift toward paws; laptop occlusion prevents confirming every far-side attachment.",
+  "guardrails": [
+    "Keep face and wing markings graphically simple; add volume around them. Preserve mitten topology, attached stubs, four separate layered wing panels and fixed antenna asymmetry across all three moth appearances.",
+    "Foreground bench and path remain exclusively the coding moth, MacBook and existing props. Compare zero, Clawd/blue-Dot workshop pair, then Muse/Grok deeper behind the root vignette; count alone is not rejection.",
+    "For future animation, block out planted seat/feet, keyboard contact and tool grip before secondary motion. Adjust props to short reach; never lengthen limbs. Do not transplant existing 2D numeric poses as proof of a working 3D rig."
+  ],
+  "failureCriterion": "Reject any variant requiring elongated limbs, changing mitten/four-wing anatomy, or placing a cameo on/beside/in front of the coder’s bench.",
+  "evidence": [
+    "assets/brand/banner-park/park-film-study-01-moth-only.png",
+    "assets/brand/banner-park/park-day-study-02-macbook.png",
+    "assets/brand/heynag-moth-v5-refined.png",
+    "animated-film-proposal.json: supplied picnic, Clawd pixel, blue-Dot, Muse and Grok references viewed"
+  ],
+  "skills": "Reused prior full readings: emil-design-eng, animate, review-animations, animation-performance. Applied purpose, contact staging and evidence boundaries.",
+  "limits": "No scores, continuous-motion, night-version or audience claims. UI-duration/compositor recipes do not govern this still. Cameo variants remain unseen."
+}

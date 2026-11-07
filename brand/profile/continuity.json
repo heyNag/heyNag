@@ -1,20 +1,20 @@
 {
-  "status": "GitHub application prepared locally; website direction is a contract, not a built or tested website.",
+  "status": "GitHub park/banner and personal-story README prepared for owner-authorized publication; future website remains a design contract.",
   "identity": "heyNag — Nag / Nagarjuna Boddu",
   "story": "A curious person who builds useful software and cares about how it feels.",
   "shared": {
     "character": "Existing V5 moth. Preserve its oversized soft head, compact body, mitten hands, stub feet, unequal antennae and four marked wings. No anatomy change between themes or surfaces.",
-    "assets": "Reuse brand/animation-v5/character.js and brand/source/applications-v5.js; GitHub uses their static exported PNGs. The website will use the same versioned source and tokens.",
+    "assets": "The current GitHub scene is assets/brand/banner-park/park-film-study-13-muse-face-cleanup.png, with generation prompt, bounded pixel-retouch source and review records. Preserve the original V5 rig in brand/animation-v5/character.js for future performance work; the raster park image is not itself a rigged animation.",
     "palette": "UI color roles come from brand/design-system.css. Preserve character cream/green paints from brand/animation-v5/character.js and header grounds from brand/source/applications-v5.js; do not recolor the artwork through UI tokens. Day and night change paint and atmosphere, not proportions.",
     "name": "heyNag is the wordmark and personal handle; Nag is the conversational name; Nagarjuna Boddu is the full personal name.",
     "voice": "First person, warm, curious, plain and occasionally gently mischievous. Never let mascot dialogue replace useful project explanations.",
     "signature": "Exploring ideas worth keeping.",
-    "proof": "Use actual work, clear authorship and honest maturity. Private work appears publicly only through owner-cleared case studies."
+    "proof": "Use verified work and honest maturity. The owner authorizes broad, non-identifying themes from private work; individual private-project details and work-linked material remain excluded."
   },
   "github": {
     "role": "An introduction and a small public window into Nag's work.",
-    "treatment": "Static paired headers, universal day avatar, native accessible text and three verified public project links.",
-    "recognition": "The avatar, header moth and heyNag wordmark are intended to make the shared identity recognizable. Immediate recognition and later recall have not been measured with visitors. No essential meaning depends on a tiny gesture or color alone.",
+    "treatment": "One reviewed cinematic park still, unchanged across GitHub light/dark themes, with native first-person text, a few emojis and unnamed descriptions of current experiments. No project-name showcase. Account avatar/bio/pins remain separately tracked settings.",
+    "recognition": "The moth, heyNag handle and native Nag attribution provide continuity. Tiny companion stories are optional at narrow sizes. Human recognition and recall remain unmeasured.",
     "links": "Personal heyNag destinations only. Add heyNag.com only when a useful live destination exists."
   },
   "website": {
@@ -22,7 +22,7 @@
     "firstVisit": "Recognizable heyNag wordmark, same moth and palette, clear Nag attribution, real work visible without interacting with the mascot.",
     "characterBehavior": "Investigate & share: notice a detail, look closer, then invite the visitor to discover it. Warm curiosity is the default; glasses, comic pauses and mischief are occasional expressions.",
     "motion": "Use the existing expression and gesture rig with interruptible transitions. Reuse design-system.css tokens deliberately; do not stack its older whole-character gesture animations or scale keyframes onto the articulated rig. Static or reduced-motion paths preserve the story. No forced sound or interaction gate.",
-    "projects": "Carry public project names and factual descriptions across consistently. Add richer screenshots, demos and authorized private-work stories when ready.",
+    "projects": "Expand chosen experiments into stories, decisions and demonstrations when ready. Identify and link public work where useful; keep private details out until the owner chooses to release them.",
     "navigation": "Link each public story to its GitHub source and link the profile to the site once launched. No automatic redirects or fabricated coming-soon portfolio."
   },
   "reviewQuestions": [

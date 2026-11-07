@@ -1,23 +1,17 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/brand/header-v5-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/brand/header-v5-light.png">
-  <img alt="heyNag, with a curious little moth" src="assets/brand/header-v5-light.png" width="1200">
-</picture>
+<img alt="Nag’s curious little moth coding on a park bench, building at a workshop, and taking a breather beneath a tree while small companions play." src="assets/brand/banner-park/park-film-study-13-muse-face-cleanup.png" width="1200">
 
-## Hey, I'm Nag.
+## Hey, I’m Nag 👋
 
-I work in software. I like figuring things out, making them useful, and sharing what I find.
+I’m Nagarjuna Boddu. I work in software, and I like following a good “what if?”
 
-Most of my work lives in private repositories. These are a few things I've shared.
+🛠️ I’m building tools to explore videos and saved ideas, experiments in memory across conversations, and little animated companions. I’m drawn to useful things with a bit of personality.
 
-### Things I've shared
+🔎 I’m also exploring local AI, smoother developer workflows, and ways to make separate tools work well together. The quiet details interest me too: what happens when something fails, or an answer isn’t quite complete.
 
-**[Charms](https://github.com/heyNag/charms)** — Plugins I build for video analysis and saved-post research with coding agents. Video notes connect back to timestamps and frames.
+🤓 I’m curious, talkative, and happy to get very geeky about the details. The glasses come out for deep work. Sometimes it’s a system I’m figuring out; sometimes it’s whether a tiny character’s eyes feel right.
 
-**[Grok Bot](https://github.com/heyNag/codex-pet-grok-bot)** — My study in character animation, packaged as an unofficial Codex pet with light and dark editions.
+🌱 That little moth is a bit of me: building, wondering, taking a breather, then coming back with another idea. I want the things I make to be useful—and give someone a small reason to smile.
 
-**[eva.md](https://github.com/heyNag/eva-md)** — A memory experiment I'm building for Claude Code and Codex, using Markdown and Git to help new chats pick up where the last one left off.
+Some experiments are already here. Others are still on the workbench. I’ll share more as they’re ready.
 
----
-
-Exploring ideas worth keeping.
+Glad you wandered in.

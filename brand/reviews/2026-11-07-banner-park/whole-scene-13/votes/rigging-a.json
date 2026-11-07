@@ -1,0 +1,89 @@
+{
+  "reviewer": "rigging-a",
+  "assetSha256": "32ce62c11e533fcd3a7ab1856a102c7a31b9111d96c3fbf16df8d469b8f08469",
+  "proposalSha256": "710168aea494893968a89809edc6034930e39c8ed9a0147919b3aac04c04cce5",
+  "readmeSha256": "a88ff0761cd9d7da1bb6d2ba5746612976ab52c7bc73156d32feb8a24418e90e",
+  "decision": "agree_with_named_nonblocking_limits",
+  "retainedImageScore": 9.0,
+  "imageScoreScope": "Whole-scene still-image craft through the articulation/contact and rendering-integrity lens. No new image evidence changes the independent13 score; story readiness is a separate qualitative judgment.",
+  "counterpartChallenge": {
+    "counterpart": "rigging-b",
+    "record": "brand/reviews/2026-11-07-banner-park/whole-scene-13/independent/rigging-b.json",
+    "agreement": "Both independent reviews accept W1/W2 as fixed, find no blocking defect, retain 9.0 and name the same optional native-scale relief/mitten-groove limitations.",
+    "challenge": "B’s preserved-support/detail conclusion at native, 1280/880 and broad 420 scale must not be generalized to the smaller deployed banner. The fresh 390px GitHub previews display it at 308px. Individual grip/guest details are no longer reliably inspectable there, even though the complete composition and coding silhouette survive.",
+    "evidence": [
+      "profile-evidence/readme-light-390.png",
+      "profile-evidence/readme-dark-390.png",
+      "profile-evidence/render-checks.json"
+    ],
+    "consequence": "Keep the relief/groove observations as optional original-size finish limits. Do not enlarge guests or re-render the picture to force tiny anatomy to communicate at 308px; the frozen native story text carries the essential meaning.",
+    "directMessageSent": true,
+    "responseStatus": "B explicitly accepted the 308px deployment qualification and confirmed the identical scoped recommendation by direct message. B challenged whether native-scale relief affects application readiness at 846/308px; A explicitly accepted that it is subordinate in these previews and remains optional finish guidance, not a reason for another render or night recolor.",
+    "remainingSubstantiveObjectionsFromA": [],
+    "remainingSubstantiveObjectionsFromPair": []
+  },
+  "pairRecommendation": {
+    "exactSharedProposalRecommendation": "Present actual13 as the reviewed day-scene and publish this personal-story README/banner to heyNag/heyNag within the owner’s explicit instruction. Preserve all individual image scores and named nonblocking limits. Do not claim unanimous9, audience validation or a night/animated counterpart.",
+    "confirmedByThisReviewer": true,
+    "scopedJointRecommendationICanConfirm": "Present exact actual13 and publish the frozen personal-story README/banner to heyNag/heyNag within the owner’s explicit instruction, with an original 2172x724 Downloads copy. Preserve the same day image in both GitHub themes, individual image scores and nonblocking limits. No further anatomy/material pass is required. Native text carries the personal story and broad authorized work themes. Do not claim changes to avatar, bio, pins or organization membership, unanimous9, audience validation, or a night/animated counterpart.",
+    "counterpartConfirmation": "B explicitly confirmed this same recommendation by direct message; A acknowledged the reciprocal challenge. Both retain 9.0 and no substantive objection. B records its own independent proposal vote separately.",
+    "remainingSubstantiveObjectionsFromA": [],
+    "bothExplicitlyConfirmed": true
+  },
+  "profileReadiness": {
+    "decision": "ready_for_authorized_readme_banner_publication_and_owner_presentation",
+    "scope": "Exact frozen README and exact day artwork in the supplied local GitHub layout previews; this is not an assertion that publication or Downloads delivery has already occurred.",
+    "findings": [
+      "All four specified screenshots were inspected. The whole banner fits without cropping, stretching or added foreground characters in the 846px desktop and 308px narrow presentation, in both themes.",
+      "The same unchanged daylight image remains coherent on light and dark surrounds. A new night image or recolored anatomy is unnecessary for this scope.",
+      "Native text stays readable and explains Nag, his interests and the moth metaphor independently of small contact details. Emoji paragraph cues remain supplementary to complete sentences.",
+      "The frozen text describes public work without project names, limits private material to the authorized broad themes, and explicitly frames later sharing and unfinished experiments. No private identifiers, paths, incidents or employer story appear in this README.",
+      "The screenshot’s native account portrait, bio, organization area and popular repositories are outside this README change. Their continued presence does not contradict the scoped unnamed-project README decision."
+    ],
+    "confidence": "High for observed fit and source scope; no physical-device, screen-reader, audience or published-state claim."
+  },
+  "mustFix": [],
+  "limits": [
+    "The original image score remains 9.0, with fine localized hero relief and rounded coder mitten grooves as nonblocking limits. The story introduces no retroactive image-score gain.",
+    "Fine grip, leaf play and guest identities are incidental details at the actual 308px banner width. Native story text carries meaning; no anatomy or cast enlargement is requested.",
+    "The full intake reports all18 ready for owner review with scores 8.8–9.1; this is not unanimous9 or human audience validation.",
+    "Local previews are marked unpublished. Final GitHub delivery, original-size Downloads copy and live served image require execution/verification by the coordinating workflow; this reviewer performed none.",
+    "Only README/banner publication is covered. Account avatar, bio, pins, organization settings and future website/night/animation remain separate.",
+    "The supplied story-source authorizes broad private-work themes. This review checks the frozen wording for that boundary, not undisclosed private source implementation or outcome claims.",
+    "Visible raster anatomy does not certify hidden topology, a reusable 3D rig, motion, physics or audio."
+  ],
+  "evidenceInspected": [
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/proposal-v1.json",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/proposal-v1.sha256",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/independent/rigging-b.json",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/full-intake.json — full intake read",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/README-reviewed.md",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/story-source.json",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/profile-evidence/render-checks.json",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/profile-evidence/profile-light-1440.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/profile-evidence/profile-dark-1440.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/profile-evidence/readme-light-390.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/profile-evidence/readme-dark-390.png",
+    "Actual13 full/scaled/native/5x image evidence from own saved independent13 inspection reused honestly; no new image modification"
+  ],
+  "verification": {
+    "proposalHashVerified": true,
+    "assetHashVerified": true,
+    "frozenAndCurrentReadmeHashVerified": true,
+    "allFourPreviewHashesVerified": true,
+    "storySourceSha256": "f284858cea0d179c94db03074483ac41f1a489bc15f47f4468131f8550da1171"
+  },
+  "skillsWorkflow": {
+    "fullReadingsReused": [
+      "emil-design-eng",
+      "design-taste-frontend",
+      "animate",
+      "animation-performance",
+      "review-animations"
+    ],
+    "applied": "Actual rendered-size inspection, purposeful static delivery, native readable text and honest evidence boundaries. Read the complete new proposal/intake/source, inspected four actual previews, verified hashes and sent a concrete counterpart challenge before recording an individual vote.",
+    "exceptions": "Native GitHub does not take custom-site CSS/JS or commercial layout recipes. A static PNG/readme does not exercise motion timing, interruption or runtime performance. No browser or source edits were needed."
+  },
+  "model": "gpt-6-astra",
+  "reasoning": "ultra"
+}

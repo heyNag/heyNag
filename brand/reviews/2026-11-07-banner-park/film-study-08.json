@@ -1,0 +1,21 @@
+{
+  "stage": "Owner-approved polish intent; rendered study rejected for companion eye regressions. Not current accepted banner.",
+  "tool": "Built-in image_gen",
+  "prompt": "brand/reviews/2026-11-07-banner-park/film-polish-prompt.txt",
+  "editTarget": "assets/brand/banner-park/park-film-study-07-clawd-plush.png",
+  "output": "assets/brand/banner-park/park-film-study-08-story-and-light.png",
+  "dimensions": [
+    2172,
+    724
+  ],
+  "sha256": "0794cfb0ac392c688c9e453a954a7602436dde6ac98f360292c6e2a7dd22ad5a",
+  "bytes": 2447597,
+  "ownerFeedback": [
+    "Eyes of muse looks incorrect",
+    "They are correct before",
+    "See Grok bot eyes too.",
+    "Very subtle",
+    "I see some dot in the eyes",
+    "Looks incorrect"
+  ]
+}

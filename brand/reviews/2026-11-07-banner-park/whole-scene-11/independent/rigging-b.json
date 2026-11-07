@@ -1,0 +1,153 @@
+{
+  "reviewer": "rigging-b",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "lens": "Whole-frame rendering integrity, anatomy/contact, prop geometry and material/spatial coherence",
+  "assetSha256": "87943e3c1452d40b1ac535ea5bbcefa6e7676cee77165eef2d77ce5c67a32569",
+  "independence": "Saved initial findings before reading any new whole-scene peer review.",
+  "evidenceInspected": [
+    "AGENTS.md",
+    "brand/workflow.json",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-11/brief.json",
+    "assets/brand/banner-park/park-film-study-11-flat-grok-eyes.png \u2014 full image viewed; SHA256 independently matched",
+    "assets/brand/banner-park/park-film-study-07-clawd-plush.png \u2014 full image viewed as baseline",
+    "assets/brand/heynag-moth-v5-refined.png \u2014 viewed",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-width-1280.png \u2014 viewed",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-width-880.png \u2014 viewed",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-width-420.png \u2014 viewed",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-hero-native.png \u2014 viewed",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene07-hero-native.png \u2014 viewed",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-workshop-native.png \u2014 viewed",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene07-workshop-native.png \u2014 viewed",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-tree-play-native.png \u2014 viewed",
+    "brand/reviews/2026-11-07-banner-park/muse-review/evidence/11-companion-inspection-enlarged.png \u2014 viewed at supplied 5x inspection scale",
+    "/Users/nag/projects/personal/.heynag-profile-work/references/owner-muse-lineup.jpg \u2014 viewed",
+    "/Users/nag/projects/personal/.heynag-profile-work/references/owner-clawd-plush.jpg \u2014 viewed",
+    "/Users/nag/projects/personal/.heynag-profile-work/references/nag-grok-bot-reference.webp \u2014 viewed"
+  ],
+  "initialWholeSceneVerdict": "revise",
+  "score": {
+    "value": 7.8,
+    "scope": "Still-image technical craft across the entire frame: visible construction, contact, material distinction, contours and coherent spatial integration. No score for an unbuilt 3D rig or animation.",
+    "confidence": "moderate",
+    "deductions": [
+      {
+        "id": "RB-01",
+        "finding": "The workshop mallet grip has lost readable construction relative to 07. In 11, the cream shape around the handle is an angular sliver above the box, with an ambiguous wrist/arm connection. It no longer clearly reads as a tiny mitten wrapping the tool. This is a visible contact-readability regression, not proof that unseen geometry is physically disconnected.",
+        "location": "Middle workshop, immediately above the toolbox beside the moth's screen-right cheek; native workshop crop near x445,y175.",
+        "evidence": [
+          "scene11-workshop-native.png",
+          "scene07-workshop-native.png"
+        ]
+      },
+      {
+        "id": "RB-02",
+        "finding": "The stronger faceted/crinkled surface pattern in 11 spreads across cream head, antenna paddles, glass-frame edges and bench wood. The foreground face and glasses are particularly consequential because they occupy the hero focal area. Compared with 07, softer character volumes and continuous hard-object contours are less cleanly separated; the result reads more like a repeatedly reworked illustration than the requested polished dimensional film still.",
+        "location": "Foreground hero head, antennae, glasses and bench seat/back; additional textural busyness across path and tree.",
+        "evidence": [
+          "scene11-hero-native.png",
+          "scene07-hero-native.png",
+          "scene11-width-1280.png",
+          "full 11 versus full 07"
+        ]
+      },
+      {
+        "id": "RB-03",
+        "finding": "Bright dapple and small surface edges remain dense across several depth planes. At 880 and 420 widths the subordinate actions lose detail while the environment retains substantial visual texture. The hero silhouette still wins, so this is a refinement opportunity rather than a broken hierarchy.",
+        "location": "Central path, illuminated grass and workshop surroundings.",
+        "evidence": [
+          "scene11-width-880.png",
+          "scene11-width-420.png"
+        ]
+      }
+    ],
+    "criteriaForNine": [
+      "Restore an unmistakable small mitten gripping the mallet, with a readable short connection to the moth and no need to lengthen its limb; confirm the repair against 07 at native and full-frame scale.",
+      "Restore clean material-specific surfaces and contours: softly rounded cream anatomy, broad green wing/paddle shapes, continuous glasses rims and hard laptop edges, distinct wood grain and blanket weave. Remove the visible crinkled/faceted overlay effect without erasing intentional material texture.",
+      "Keep the complete composition, cast, compact anatomy and eye correction intact while making those repairs. Verify the whole replacement at full/native/1280/880/420 scales; a correct local crop alone is insufficient.",
+      "Retain convincing bench/seat, stool, laptop, book/cup and leaf contacts with no new clipping or detached appendage introduced by a later edit."
+    ]
+  },
+  "strengths": [
+    "The entire scene has a coherent park geography: the path recedes toward the workshop and lake, the bridge belongs to a deeper plane, and the foreground bench is firmly separated by scale, overlap and focus.",
+    "The coding moth remains the largest and clearest subject. The two other appearances preserve large heads, small bodies, unequal paddles and compact seated weight. There is no visible elongation into mature human proportions.",
+    "Bench seating, the laptop across the lap, feet, stools, the cup on stacked books and the leaf on the ground mostly read as supported. The pair of stools keeps Clawd and Dot out of the hero foreground.",
+    "Warm upper-right light, foreground occlusion and a softer distant bridge supply dimensional cohesion. Blanket, cup, wood and metal retain recognizable material roles despite the polish regression.",
+    "The 5x companion crop shows Grok's white oval interiors without a visible pupil spot; Muse has dark eyes, and Clawd's two square eyes remain visible in the workshop. This does not approve unrelated areas of the image.",
+    "At 420 px the large moth, laptop and broad three-activity arrangement survive as a scene. Fine contacts and guest identity do not survive at the same level, which is expected for this scale rather than evidence of equivalent detail."
+  ],
+  "mustFix": [
+    {
+      "id": "RB-01",
+      "priority": "high for final still-image approval",
+      "action": "Repair the workshop grip/readable short wrist connection, using 07's clearer contact as a construction reference. Keep mitten anatomy and prop scale.",
+      "acceptance": "The hand visibly encloses the handle and belongs to the moth at native size; the mallet reads as held in the full composition. No elongated fingers or limb workaround."
+    },
+    {
+      "id": "RB-02",
+      "priority": "high for the requested film-like finish",
+      "action": "Recover material separation and clean hero contours from the cleaner baseline rather than carrying the crinkled/faceted look forward as finished polish.",
+      "acceptance": "Face and paddles read as soft rounded forms, glasses as continuous constructed rims, and the bench as wood with coherent grain. Native hero inspection and 1280 px full-frame inspection must both improve without losing the corrected companion eyes."
+    }
+  ],
+  "optional": [
+    {
+      "id": "RB-03",
+      "action": "Quiet selected high-frequency dapple/edge texture around the central path and workshop so depth comes from broad light masses as well as blur. Preserve the warm light and established three-vignette layout.",
+      "reason": "The current hero hierarchy works; this would improve material and depth economy rather than fix a categorical spatial error."
+    },
+    {
+      "action": "If a later anatomy cleanup occurs, keep the coding hand a simple mitten mass rather than adding more digit grooves.",
+      "reason": "The existing rounded grooves are a mild stylistic drift also visible in 07, not the new workshop-contact regression and not a reason to alter the pose wholesale."
+    }
+  ],
+  "baselineComparison": "07 is the cleaner technical control: its workshop mitten/handle contact is clearer, and its hero face, glasses and bench surfaces are less faceted and busy. 11 retains the overall park layout and improves the specified Grok eye design, but that local correction does not outweigh the whole-image grip and material regression. I recommend retaining 11's corrected eye treatment and story arrangement as requirements while repairing the named defects, not blindly publishing 07 or approving another unseen replacement.",
+  "skillsReviewed": [
+    {
+      "skills": [
+        "emil-design-eng",
+        "design-taste-frontend"
+      ],
+      "intake": "Previously read in full in this standing review; reused, not newly reread.",
+      "application": "Inspect actual output, distinguish useful detail from surface noise, and keep one coherent material/identity system across the entire composition."
+    },
+    {
+      "skills": [
+        "animate",
+        "animation-performance",
+        "review-animations"
+      ],
+      "intake": "Previously read in full; retained rigging workflow routing.",
+      "application": "Use anatomy/contact and evidence boundaries; a still and a prompt do not establish a working rig, temporal contact or runtime quality."
+    }
+  ],
+  "workflowChanges": [
+    "Compared whole frame and matched native baseline crops before accepting a successful local repair; checked untouched-looking regions for visible regressions without assuming their cause.",
+    "Separated full-frame composition, native construction and magnified eye evidence. Used scaled images only as local scale studies, not as browser or physical-device tests.",
+    "Recorded required repairs separately from optional visual economy. No artwork edits or extra review rounds were initiated by this reviewer."
+  ],
+  "rulesNotApplicableWithReason": [
+    "UI duration, spring, keyboard and compositor rules do not govern a silent raster still.",
+    "The commercial website layouts, CSS and typography recipes in design-taste-frontend are not picture-composition requirements.",
+    "No mesh, editable 3D scene, animation sequence or production renderer was supplied; no rig reuse, topology, frame-rate or physical simulation certification is possible."
+  ],
+  "limits": [
+    "The image confirms visible anatomy only. Occluded far-side wings and limb connections cannot establish complete four-wing topology in every pose.",
+    "The cause of texture/contour changes is not established from images; repeated raster editing is history, not a technical diagnosis.",
+    "The 1280/880/420 files are local resizes, not actual GitHub viewport, browser, display-density or phone evidence.",
+    "No continuous motion, production 3D rig, sound, future night version, user recognition or audience preference was tested.",
+    "Agreement on these repairs would not approve an unbuilt replacement."
+  ],
+  "pairDiscussion": {
+    "status": "Own recommendation confirmed; explicit partner confirmation requested after both independent records were saved.",
+    "partnerReview": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/rigging-a.json",
+    "partnerScore": 8.3,
+    "ownScoreRetained": 7.8,
+    "agreement": "Both independently require repair of cross-material faceting/etched texture and the ambiguous workshop mitten grip. Both reject proof of disconnected geometry from the small raster contact, forced counting of occluded wings, and approval inherited from the corrected eyes.",
+    "challengeToPartner": "The surface repair must span the whole frame, including face/paddles/glasses, bench, workshop and tree; it cannot be narrowed to hero-only polish. The defect is visible at native and 1280 px. Observer orientation remains optional from this lens.",
+    "scoreDifference": "B places greater weight on material/contour coherence across the entire frame, retaining 7.8; A recorded 8.3. This does not change the shared required repairs.",
+    "proposedJointRecommendation": "Revise 11 before final presentation. Preserve the composition, four guests, three compact V5 moth appearances, Muse-leaf interaction and flat Grok eyes. Restore material-specific surfaces and continuous contours throughout the frame, and one clear rounded mitten gripping the mallet with a short wrist connection. Use 07 as a control for retained qualities rather than a wholesale rollback. Keep individual scores and do not approve an unseen replacement.",
+    "ownRecommendationAccepted": true,
+    "partnerConfirmation": "Pending direct response; silence is not agreement."
+  }
+}

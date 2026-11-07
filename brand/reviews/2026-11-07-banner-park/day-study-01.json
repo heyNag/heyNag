@@ -1,0 +1,19 @@
+{
+  "stage": "First generated concept, not final artwork or a reviewed GitHub application.",
+  "tool": "Built-in image_gen",
+  "prompt": "brand/reviews/2026-11-07-banner-park/day-prompt.txt",
+  "reference": "assets/brand/heynag-moth-v5-refined.png",
+  "output": "assets/brand/banner-park/park-day-study-01.png",
+  "dimensions": [
+    2172,
+    724
+  ],
+  "sha256": "7da876e96f7968dc43325b7a6d9ccd961b0b433ee3d205d16a2822a59037fbc8",
+  "rootObservations": [
+    "Single continuous park, three repeated character moments and strong foreground-to-background hierarchy.",
+    "Tiny head-dominant construction broadly retained; specific contacts and markings need closer review.",
+    "Unrequested laptop emblem must be removed.",
+    "Meditation face currently has both eyes shut; one-eye peek not delivered.",
+    "Original output preserved; this is a new scene study, not a replacement of the character source."
+  ]
+}

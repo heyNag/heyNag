@@ -1,0 +1,27 @@
+Use case: precise-object-edit / controlled whole-scene material restoration.
+Asset: a wide 3:1 heyNag GitHub banner, one cohesive high-quality 3D animated-family-feature film still inspired by the craftsmanship of Pixar and Disney. Refine the ENTIRE world, not only the characters. Deliver a high-resolution 3:1 panorama, ideally 3072 x 1024.
+
+INPUT ROLES
+Image 1: CURRENT COMPOSITION AND STORY AUTHORITY. Keep its camera, framing, relative scale, character positions, poses, environment, four guests, props and three moments.
+Image 2: EARLIER CLEANER MATERIAL QUALITY CONTROL. Recover its soft continuous character volumes, cleaner constructed contours, distinct plush/wood/cloth/stone and warm spatial lighting. Do not revert all story/eye improvements to this earlier version.
+Image 3: EARLIER WORKSHOP CONSTRUCTION REFERENCE. Use only the clear small rounded mitten wrapping the mallet handle with its short connected wrist.
+Image 4: CORRECTED EYE REFERENCE. Use only the charcoal Grok ball's two uninterrupted flat cream-white oval eyes and Muse's small dark eyes. Do not transplant the blurred close-up scenery.
+
+TWO REQUIRED CORRECTIONS
+1. Restore deliberate material-specific finish and smooth constructed contours across the WHOLE frame. Remove the accidental irregular cracked/cellular/faceted/etched surface network that has spread across unrelated materials in Image 1. It must not appear on the cream moth head, green antenna paddles or wings, glasses, plush orange Clawd, wooden bench and workshop, canopy, tree, path or leaves.
+- Cream moth: soft rounded continuous forms, subtle fine velvet/plush texture, gentle dimensional shading, innocent huge head and tiny compact body. No quilted skin, creases, polygon network, clay cracks or over-sharpening.
+- Green wing/paddle surfaces: clean broad soft forms with the original teardrop markings and restrained wing structure, not the same texture as wood.
+- Orange Clawd: softly stuffed short-pile plush volume, two clear black square eyes, no wooden grain, panel grid or stamped face divisions.
+- Wood: intentional restrained grain following shaped boards; metal and laptop: clean constructed edges; glasses: smooth continuous round rims and clear lenses with small thin reflections; blanket: soft purposeful knitted weave.
+- Tree bark, stone path, flowers and leaves: clean stylized dimensional forms with their own appropriate detail, grouped into readable depth planes. Preserve intentional leaf planes and natural grain. Keep the lush park, broad warm sunlight and atmospheric depth. Do not blanket-blur, make everything plastic, add fur everywhere, empty the garden, flatten the lighting or apply global clarity/sharpening.
+- Keep the coding moth as the brightest emotional focal point. Reducing incidental highlights or edge detail in supporting grass/path is OPTIONAL, only if still needed after restoring material clarity. Preserve the established warm, lively lighting; do not force a separate lighting change.
+
+2. Repair the middle workshop's MALLET GRIP. One solid small rounded cream mitten must visibly enclose the handle and connect to the moth through a short continuous wrist. Use Image 3's clear construction. Keep the raised mallet pose, short reach and tiny anatomy. No hollow black strap, angular linkage, long arm, separate human fingers or extra limb. A raised mallet need not touch the toolbox.
+
+PRESERVE THE ESTABLISHED SCENE
+Foreground RIGHT is only Nag's tiny cream/lime moth with round glasses, hands at its silver Apple MacBook on the wooden park bench; retain Apple logo, cup, books and blanket. Three appearances of the SAME moth show coding, building and resting. Keep huge soft scalloped head, tiny torso, short mittens, attached stub feet, asymmetric paddle antennae, four layered marked wings (natural occlusion is fine). Never age or enlarge the moth.
+Middle workshop: same tiny moth, toolbox and mallet; plush orange Clawd and blue beret Dot seated on TWO wooden stools, both Clawd square eyes visible. Do not turn Clawd's back.
+LEFT tree: same tiny moth rests with one eye closed and one open; baby Muse and charcoal spherical Grok play with the existing golden leaf directly in front. Retain leaf contact and compact proportions, Muse's modest rounded face opening and simple smile. No further Muse redesign.
+MUSE eyes are small solid dark shapes without pale rings. GROK eyes are two completely uniform flat cream-white filled ovals, no black/brown/grey center, no pupil, iris, indentation, tiny spot, gradient or texture INSIDE either eye. Use Image 4 literally for that blank oval treatment. Keep Grok a simple charcoal ball without new limbs. Do not change moth eye designs.
+
+One consistent soft dimensional animation-film world, with believable grounding/contact and clear materials throughout. No new characters, foreground companions, props, text, logo strip, unrelated story gag, camera change or composition restart. This is a controlled craft repair of the selected scene, preserving its identity and storytelling.

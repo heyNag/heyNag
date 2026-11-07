@@ -794,11 +794,11 @@
   ],
   "workflow": [
     "Engineers prepare source and fresh evidence.",
-    "Both specialists in every affected discipline review independently before seeing the partner\u2019s findings.",
+    "Both specialists in every affected discipline review independently before seeing the partner’s findings.",
     "Each pair discusses concrete differences; both explicitly confirm its joint recommendation and record any remaining objection.",
     "For major creative decisions and milestones, all eighteen specialists review the cross-disciplinary proposal and register their own position.",
     "Investigate objections, revise work or justify a scoped decision with evidence, and re-review the affected claims. Consensus is recorded only when all eighteen explicitly agree to that same scope.",
-    "Scores describe the reviewed work. A target score never changes a reviewer\u2019s recorded judgment.",
+    "Scores describe the reviewed work. A target score never changes a reviewer’s recorded judgment.",
     "Present the resulting work, agreement, evidence and remaining limits to Nag. Publication follows actual authorization."
   ],
   "invariants": [
@@ -863,8 +863,26 @@
     "state": "All 18 specialists accept the implemented local foundation with named limits. The 9/10 target has not been reached across the board."
   },
   "currentProfileReview": {
-    "record": "brand/reviews/2026-11-07-github/index.html",
-    "sourceManifest": "brand/reviews/2026-11-07-github/review-source-v2.json",
-    "state": "All 18 specialists accept the prepared GitHub application and website continuity contract with named limits."
+    "record": "brand/reviews/2026-11-07-banner-park/whole-scene-13/consensus.json",
+    "source": "README.md",
+    "sourceSha256": "a88ff0761cd9d7da1bb6d2ba5746612976ab52c7bc73156d32feb8a24418e90e",
+    "state": "Current frozen personal story and park scene accepted by all18; authorized publication pending",
+    "priorProfileReview": "brand/reviews/2026-11-07-github/consensus.json"
+  },
+  "currentOwnerDirection": {
+    "record": "brand/reviews/2026-11-07-banner-park/current-study.json",
+    "state": "Owner requires all18 review of the entire Pixar/Disney-inspired scene before finished presentation. Current11 corrects eyes but whole-frame material/contour quality is being challenged against07; see current-study and currentWholeSceneReview."
+  },
+  "currentWholeSceneReview": {
+    "record": "brand/reviews/2026-11-07-banner-park/whole-scene-13/consensus.json",
+    "asset": "assets/brand/banner-park/park-film-study-13-muse-face-cleanup.png",
+    "sha256": "32ce62c11e533fcd3a7ab1856a102c7a31b9111d96c3fbf16df8d469b8f08469",
+    "specialists": 18,
+    "state": "All18 accept actual13 and the frozen personal-story README for authorized presentation and publication, with named nonblocking limits",
+    "scoreRange": [
+      8.8,
+      9.1
+    ],
+    "allAtLeastNine": false
   }
 }

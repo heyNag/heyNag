@@ -1,0 +1,18 @@
+{
+  "discipline": "identity",
+  "state": "Both explicitly confirm bounded correction recommendation and exact consolidated plan.",
+  "sourceRecords": [
+    "independent/identity-a.json:pairDiscussion",
+    "independent/identity-b.json:pairDiscussion",
+    "votes/identity-a.json",
+    "votes/identity-b.json"
+  ],
+  "scores": {
+    "A": 8.1,
+    "B": 8.3
+  },
+  "jointRecommendation": "Restore whole-frame material/contour coherence using07 as quality control; preserve11 anatomy/layout/eyes, meaningful texture and guest scale. Both exact-plan votes accept bounded solid-mitten grip repair. Raised mallet need not strike box; other acting is optional.",
+  "unresolvedSubstantiveDifferences": [],
+  "approvalBoundary": "Correction plan only, not new artwork or publication.",
+  "compiledBy": "Root from inspected explicit A/B records; no invented confirmation."
+}

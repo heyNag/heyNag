@@ -1,0 +1,6 @@
+Use case: precise-object-edit. This is an enlarged diagnostic detail, not a new scene.
+IMAGE 1 is the edit target: cream hooded Muse and a small charcoal spherical Grok beside one golden leaf. IMAGE 2 is the original Grok reference; the black ball on the RIGHT half has pure solid white pupil-free eyes.
+
+Paint over BOTH light oval eyes on the CHARCOAL BALL in image1 with perfectly FLAT UNIFORM WARM WHITE (#FFF4DF) filled oval shapes. Completely remove the little brown spot below the middle of its viewer-right eye. Remove every interior gradient, peach tint patch, gray speck, iris, pupil, dimple, indent, highlight, grain and texture from BOTH oval interiors. Each eye must be one uninterrupted constant color from top to bottom and left to right. These are flat painted white ovals, not biological eyes, gemstones or eyeballs. Only perimeter anti-aliasing may blend into the dark charcoal outside; there must be no second color INSIDE either oval. Keep exactly the current oval outlines, sizes, tilt and placement.
+
+Preserve the dark sphere, the cream Muse and its dark eyes, all limbs, leaf, background, framing and existing image softness. Do not repaint or sharpen the rest. Do not add any new feature or object. Return only this same close-up composition with the two flat white ovals corrected.

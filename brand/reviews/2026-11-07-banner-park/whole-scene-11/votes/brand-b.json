@@ -1,0 +1,36 @@
+{
+  "reviewer": "brand-b",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "scope": "Final consolidated whole-scene correction PLAN only",
+  "proposalPath": "brand/reviews/2026-11-07-banner-park/whole-scene-11/proposal-v1.json",
+  "proposalSha256": "f22147674c4537a20f89925d335e107abb9a8bc9e322559b92209c35981d40b4",
+  "proposalHashVerified": true,
+  "reviewedAssetSha256": "87943e3c1452d40b1ac535ea5bbcefa6e7676cee77165eef2d77ce5c67a32569",
+  "position": "agree_with_named_limits",
+  "currentScore": 8.4,
+  "scoreStatus": "Unchanged whole-scene11 still-image craft score; no rescore of unbuilt work.",
+  "reasons": [
+    "W1 directly addresses the visible cross-material surface regression while retaining the personal story, original tiny moth, four guests in two supporting groups and clear foreground coder.",
+    "The plan explicitly preserves tactile material differences and graphic contours, forbids global blur and uniform plastic smoothing, and keeps golden-edge restraint optional. This incorporates the brand pair's accepted qualification.",
+    "W2 is a bounded clarification of the existing mallet grip, consistent with the native workshop evidence and original tiny anatomy. It does not require new fingers, greater reach or contact with the box during the raised pose.",
+    "The verification evaluates the complete candidate and matched scales/crops, including integrated eyes and grip, rather than treating local repairs or prompt instructions as whole-image proof."
+  ],
+  "limits": [
+    "Agreement authorizes the stated correction direction only. No unseen replacement is approved, no automatic9 is earned, and current11 remains revise.",
+    "Preserve the exact plan boundaries: no composition/cast expansion, no blanket rollback to07 and no unnecessary re-posing of accepted guests.",
+    "Local scaled images are not live GitHub or physical-device evidence. Still-image judgments do not establish a rig, animation, audio or audience recognition.",
+    "No publication approval or additional work beyond this plan vote is claimed."
+  ],
+  "pairConfirmation": {
+    "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/pairs/brand.json",
+    "readAndVerified": true,
+    "explicitOwnConfirmation": "I confirm the exact brand joint recommendation and accepted qualification recorded in pairs/brand.json.",
+    "partnerConfirmation": "Brand A explicitly accepted the same recommendation and qualification in its saved pair record and direct message.",
+    "retainedScores": {
+      "brand-a": 8.2,
+      "brand-b": 8.4
+    },
+    "remainingSubstantiveDisagreements": []
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "reviewer": "rigging-a",
+  "assetSha256": "32ce62c11e533fcd3a7ab1856a102c7a31b9111d96c3fbf16df8d469b8f08469",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "evidenceInspected": [
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/brief.json",
+    "assets/brand/banner-park/park-film-study-13-muse-face-cleanup.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-width-1280.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-width-880.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-width-420.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-hero-native.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-workshop-native.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-tree-play-native.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-companions-native.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-companions-5x.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-grip-native.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-grip-5x.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-12/evidence/scene12-companions-5x.png — fresh comparison",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-hero-native.png — fresh comparison",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene07-hero-native.png — fresh comparison",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-workshop-native.png — fresh comparison",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene07-workshop-native.png — fresh comparison",
+    "assets/brand/heynag-moth-v5-refined.png — prior actual inspection reused",
+    "Original Muse, Clawd plush, Grok and blue-Dot references — prior actual inspections reused, not freshly re-read"
+  ],
+  "readiness": "ready_for_owner_review",
+  "readinessMeaning": "Individual whole-still judgment: the required rendering/contact repairs hold, the new facial blemish is removed and no blocking defect is visible. Full-team acceptance and publication are separate.",
+  "score": {
+    "value": 9.0,
+    "previous": 9.0,
+    "previousAsset": "12",
+    "baseline11": 8.3,
+    "scope": "Whole-scene still-image craft through the articulation/contact and rendering-integrity lens. Not a score for a 3D model, rig, animation, interaction or audience response.",
+    "confidence": "High for visible anatomy/contact, materials and the precise retouch; moderate for subjective finish weighting and unobservable hidden construction.",
+    "changeExplanation": "Retained 9.0 after fresh inspection. Removing the small Muse mark resolves a named cosmetic regression, but does not materially change the whole-frame quality band or justify an automatic numerical increase. The earlier rise from 8.3 on 11 came from the substantial material and grip repairs.",
+    "deductions": [
+      {
+        "id": "fine-hero-texture",
+        "severity": "minor, optional finish refinement",
+        "finding": "Fine curled/cellular texture remains on the hero’s upper head, paddles and forewing. It is localized and low-contrast; it no longer makes wood, glass, metal and character skin share the coarse segmented finish seen in 11.",
+        "evidence": [
+          "brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-hero-native.png",
+          "brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-width-1280.png"
+        ],
+        "improvementCriterion": "If revisited for another purpose, reduce the fine pattern contrast selectively while preserving soft volume, contours and intentional texture. This is not a required repair or a reason to start another rendering round."
+      },
+      {
+        "id": "coder-mitten-grooves",
+        "severity": "minor, existing stylistic limit",
+        "finding": "Rounded grooves on the coder’s closed hand remain slightly more paw-like than the simplest V5 mitten reference. The hand is compact and its keyboard contact is readable; this is unchanged from the preceding studies.",
+        "evidence": [
+          "brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-hero-native.png",
+          "assets/brand/heynag-moth-v5-refined.png — prior actual inspection reused"
+        ],
+        "improvementCriterion": "Preserve a single small mitten mass in any future character application; do not add separate long fingers. No change to this accepted contact is required."
+      }
+    ],
+    "criteriaForNine": [
+      "Met: distinct soft-character, wood, fabric, glass/metal and environment surfaces with continuous contours across the whole frame, not merely a corrected face crop.",
+      "Met: solid compact mitten visibly enclosing the raised mallet handle, with readable short wrist and no angular hollow linkage.",
+      "Met: preserved tiny character construction, plausible seated/prop support, exclusive coding foreground and corrected companion faces.",
+      "The remaining deductions are optional finish limits, not blockers. This score does not promise a higher score for an unseen revision."
+    ]
+  },
+  "correctionAssessment": {
+    "W1": {
+      "status": "fixed",
+      "evidence": [
+        "brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-hero-native.png",
+        "brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-workshop-native.png",
+        "brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-tree-play-native.png",
+        "brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-width-1280.png"
+      ],
+      "assessment": "The material separation gained in 12 is present in 13. Bench boards and workshop timber have coherent grain and edges; glasses/laptop/bench metal have continuous constructed contours; blanket weave remains distinct. The soft moth retains broad readable volume. Native comparisons with 11/07 support the improvement despite fine residual decorative texture."
+    },
+    "W2": {
+      "status": "fixed",
+      "evidence": [
+        "brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-grip-native.png",
+        "brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-grip-5x.png",
+        "brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-workshop-native.png"
+      ],
+      "assessment": "The integrated image shows one small solid closed mitten wrapping the handle and a short continuous connection to the moth. Creases remain inside a compact hand mass; no added long fingers or extended reach are required. The raised mallet is anticipation, so contact with the box is not required."
+    },
+    "MuseRetouch": {
+      "status": "fixed",
+      "evidence": [
+        "brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-companions-native.png",
+        "brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-companions-5x.png",
+        "brand/reviews/2026-11-07-banner-park/whole-scene-12/evidence/scene12-companions-5x.png"
+      ],
+      "assessment": "The extra lower-face dash is gone. The smile, dark eyes, hood and surrounding face shading remain intact. Native and 5x inspection show no conspicuous patch boundary or replacement blemish. Grok’s white oval interiors remain pupil-free."
+    }
+  },
+  "preservation": [
+    "The entire frame keeps the three small moth appearances and four supporting guests, with no new cast, text or foreground companion.",
+    "The coding moth remains dominant and comfortably seated, with close stub feet and a compact keyboard hand. Laptop/lap, cup/book stack and bench contacts remain believable.",
+    "Clawd and blue beret Dot remain supported on separate stools, with both square Clawd eyes visible; workshop table, canopy ties and toolbox supports remain credible.",
+    "The resting moth and leaf-play group remain locally staged under the tree. Muse’s short reach meets the leaf stem, and Grok remains grounded without invented limbs.",
+    "Visible marked wing layering, large soft heads and unequal antennae preserve the moth identity; normal occlusion is not treated as missing topology.",
+    "Warm upper-right light, tree/canopy framing, path recession and distant bridge retain spatial cohesion. The full-scene/1280/880 views preserve action grouping; the 420 view preserves broad composition and coding silhouette without resolving every tiny contact."
+  ],
+  "newRegressions": [],
+  "mustFix": [],
+  "optional": [
+    {
+      "id": "fine-hero-texture",
+      "severity": "minor, optional finish refinement",
+      "finding": "Fine curled/cellular texture remains on the hero’s upper head, paddles and forewing. It is localized and low-contrast; it no longer makes wood, glass, metal and character skin share the coarse segmented finish seen in 11.",
+      "evidence": [
+        "brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-hero-native.png",
+        "brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-width-1280.png"
+      ],
+      "improvementCriterion": "If revisited for another purpose, reduce the fine pattern contrast selectively while preserving soft volume, contours and intentional texture. This is not a required repair or a reason to start another rendering round."
+    },
+    {
+      "id": "coder-mitten-grooves",
+      "severity": "minor, existing stylistic limit",
+      "finding": "Rounded grooves on the coder’s closed hand remain slightly more paw-like than the simplest V5 mitten reference. The hand is compact and its keyboard contact is readable; this is unchanged from the preceding studies.",
+      "evidence": [
+        "brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-hero-native.png",
+        "assets/brand/heynag-moth-v5-refined.png — prior actual inspection reused"
+      ],
+      "improvementCriterion": "Preserve a single small mitten mass in any future character application; do not add separate long fingers. No change to this accepted contact is required."
+    }
+  ],
+  "verification": {
+    "exactAssetSha256Verified": true,
+    "decodedRGBComparison": {
+      "method": "Independent read-only standard-library PNG decoding and full RGB pixel comparison of 12 and 13.",
+      "changedPixels": 54,
+      "changedBoundingBoxExclusive": [
+        368,
+        495,
+        377,
+        501
+      ],
+      "allPixelsOutsideBoundingBoxIdentical": true
+    },
+    "visualVersusNumeric": "Pixel equality confirms edit containment; the readiness judgment separately uses actual full/scaled/native/magnified inspection.",
+    "scaleNote": "The brief says 1380px, but the supplied scene13-width-1280.png is verified as 1280x426. I inspected that actual supplied scale and 880/420; no 1380px inspection is claimed."
+  },
+  "skillsReviewed": [
+    {
+      "skill": "emil-design-eng",
+      "intake": "Prior full reading reused.",
+      "application": "Inspect actual integrated output and meaningful detail; keep evidence separate from approval claims."
+    },
+    {
+      "skill": "animate",
+      "intake": "Prior full reading reused.",
+      "application": "Judge readable contact and purpose without inferring animation capability from a still."
+    },
+    {
+      "skill": "review-animations",
+      "intake": "Prior full reading reused.",
+      "application": "Preserve independent scoring, explicit deductions and no automatic approval from a plan or local repair."
+    },
+    {
+      "skill": "animation-performance",
+      "intake": "Prior full reading reused.",
+      "application": "Separate raster quality and byte verification from unmeasured runtime/compositor performance."
+    }
+  ],
+  "workflowChanges": [
+    "Inspected the exact complete13 and every supplied scale/native/5x crop before reaching a fresh verdict.",
+    "Freshly compared 12 facial detail and 11/07 hero/workshop controls; independently verified the asset hash and 54-pixel containment.",
+    "Kept required repairs, minor optional finish limits and hidden-topology limitations separate. No peer13 findings were read or exchanged."
+  ],
+  "rulesNotApplicableWithReason": [
+    "UI easing, durations, interruption and frame budgets cannot be scored from a silent raster image.",
+    "Native crops and 5x enlargement reveal detail but do not establish physical-device appearance or audience perception.",
+    "No source/art changes or browser work are part of this independent inspection."
+  ],
+  "limits": [
+    "Still-image scope only: no verified 3D mesh, hidden joints, complete far-side topology, motion, audio, night variant or interactive product.",
+    "Local scales are not GitHub/browser/physical-phone evidence. Human recognition, recall and emotional response remain untested.",
+    "This is one specialist’s readiness judgment, not the eventual all18 decision or a publication action.",
+    "No additional art, agents or review rounds were initiated."
+  ],
+  "independence": "Saved before reading any new peer13 finding or sending substantive findings to peers. Previous review history was retained as context, not inherited final-art approval."
+}

@@ -1,0 +1,160 @@
+{
+  "reviewer": "brand-b",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "lens": "Long-term recognition and distinctive brand behavior; entire still-image coherence, not companion-eye repair alone.",
+  "evidenceInspected": [
+    {
+      "path": "assets/brand/banner-park/park-film-study-11-flat-grok-eyes.png",
+      "sha256": "87943e3c1452d40b1ac535ea5bbcefa6e7676cee77165eef2d77ce5c67a32569",
+      "method": "Actual image viewed; SHA independently verified."
+    },
+    {
+      "path": "assets/brand/banner-park/park-film-study-07-clawd-plush.png",
+      "sha256": "8a79349e46ed39fca6d375d405d67eba66cce251187d89b44b119c82da3dfa1a",
+      "method": "Actual control viewed; SHA independently verified."
+    },
+    {
+      "path": "assets/brand/heynag-moth-v5-refined.png",
+      "method": "Actual identity reference freshly viewed."
+    },
+    {
+      "path": "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-width-1280.png",
+      "method": "Actual local scale/crop viewed with original detail."
+    },
+    {
+      "path": "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-width-880.png",
+      "method": "Actual local scale/crop viewed with original detail."
+    },
+    {
+      "path": "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-width-420.png",
+      "method": "Actual local scale/crop viewed with original detail."
+    },
+    {
+      "path": "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-hero-native.png",
+      "method": "Actual local scale/crop viewed with original detail."
+    },
+    {
+      "path": "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-tree-play-native.png",
+      "method": "Actual local scale/crop viewed with original detail."
+    },
+    {
+      "path": "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-workshop-native.png",
+      "method": "Actual local scale/crop viewed with original detail."
+    },
+    {
+      "path": "brand/reviews/2026-11-07-banner-park/muse-review/evidence/11-companion-inspection-enlarged.png",
+      "method": "Actual 5x evidence viewed. Grok has plain white ovals without a distinct internal dark pupil; Muse has dark eyes. Magnification does not establish whole-scene quality."
+    },
+    {
+      "path": "/Users/nag/projects/personal/.heynag-profile-work/references/owner-muse-lineup.jpg",
+      "method": "Actual owner reference viewed; kept outside public package."
+    },
+    {
+      "path": "/Users/nag/projects/personal/.heynag-profile-work/references/owner-clawd-plush.jpg",
+      "method": "Actual owner reference viewed; kept outside public package."
+    },
+    {
+      "path": "/Users/nag/projects/personal/.heynag-profile-work/references/nag-grok-bot-reference.webp",
+      "method": "Actual owner reference viewed; kept outside public package."
+    }
+  ],
+  "initialWholeSceneVerdict": "revise",
+  "score": {
+    "value": 8.4,
+    "scope": "Whole day still-image craft through personal identity, narrative hierarchy, material coherence and suitability for long-term heyNag application. No score for unbuilt animation, website, sound or audience response.",
+    "confidence": "moderate",
+    "deductions": [
+      {
+        "issue": "A repeated irregular patch/crease texture makes dissimilar materials feel processed through one surface treatment.",
+        "evidence": "Native hero: cream forehead, antenna paddles and wing; bench slats. Native workshop: canopy/table/character surfaces. Full image and 1280 scale: tree bark and foreground paving.",
+        "effect": "The moth remains appealing, but its plush softness and the environment's wood/stone distinctions are less convincing than 07, reducing the coherent animated-feature finish."
+      },
+      {
+        "issue": "Fine texture and golden highlights remain densely distributed across supporting ground and foliage.",
+        "evidence": "Middle-left workshop/path junction and foreground paving at 1280/880; small-scale supporting figures sit in similarly busy yellow-green surroundings.",
+        "effect": "The large coder still leads, but secondary story areas and material planes have less visual rest. This is a smaller finish deduction, not a demand to remove the park or guests."
+      }
+    ],
+    "criteriaForNine": [
+      "Retain the current cast, foreground exclusivity and three-moment composition while restoring intentional material separation across the whole frame: soft cream character, controlled wing surfaces, readable wood grain, stone planes, fabric weave and quiet distant foliage.",
+      "Verify the repair at native size and 1280/880/420 scales. No broad patchwork treatment on hero or props, no regression of the exact guest-eye constraints, and no new anatomy/contact artifacts.",
+      "Keep the foreground moth the first read while reducing competing small texture/highlight noise enough that the workshop and leaf game remain distinct supporting moments. This would earn a new judgment, not an automatic 9."
+    ]
+  },
+  "strengths": [
+    "The right-hand coder is the unmistakable lead at all three inspected local scales. Guests stay off its bench and the foreground path; four guests form two subordinate groups rather than a logo lineup.",
+    "Large near tree and bench frame one continuous park; the curving open path, progressively smaller workshop and distant bridge establish coherent space. Warm upper-right light, atmospheric distance and foreground blur support the intended film-still direction.",
+    "Coding, building and resting express a warm maker identity. The three moths retain a recognizable shared family through cream head, compact proportions, paddle antennae and green layered wings; exact pattern equivalence is not proved by this observation.",
+    "The bench, stool seats, tabletop and shared leaf provide understandable contact and story relationships at native size. No new guest count or foreground-position defect is visible in the inspected scene.",
+    "The magnified eye evidence meets the specified broad dark-Muse/plain-white-Grok distinction; Clawd has two visible square eyes. Those local successes do not cancel the wider finish issue."
+  ],
+  "mustFix": [
+    {
+      "priority": "before calling the whole image finished",
+      "location": "Hero head/antennae/wing and bench; workshop surfaces; tree/path/foliage across the frame",
+      "problem": "Visible irregular patch/crease treatment weakens material differentiation compared with 07. It is not confined to a tiny companion crop.",
+      "request": "Repair the cross-material finish using 07 as a material-quality control while retaining 11's intended story and exact eye constraints. Keep the existing composition and original anatomy. Assess the resulting whole frame again rather than approving only the repaired area.",
+      "verification": "Native crops plus matched full-frame 1280/880/420 evidence. The hero should read soft, bench as wood and path as stone without the same surface pattern running through them."
+    }
+  ],
+  "optional": [
+    "Reduce a little highlight/texture activity in the central path and rear foliage if this can be done without flattening the warm cinematic light.",
+    "Treat recognizable guests as optional scene content for future heyNag.com, not permanent identity requirements. Do not enlarge them to force product recognition at 420px."
+  ],
+  "baselineComparison": "07 and 11 preserve essentially the same large-scale composition and clear foreground lead. 11 turns the builder more toward the left-hand company and changes the leaf interaction; Grok's white ovals and the darker Muse eyes are clearer in the current evidence. However, 07 has smoother character volume and more differentiated wood, cloth and environmental detail. 11 adds a conspicuous patch/crease character across surfaces and brighter fine texture. I prefer 11's intended local story/eye corrections while asking for 07-level material clarity; neither is automatically the final master.",
+  "skillsReviewed": [
+    {
+      "name": "emil-design-eng",
+      "path": "/Users/nag/.agents/skills/emil-design-eng/SKILL.md",
+      "intake": "Previously fully read; full skill refreshed this review.",
+      "application": "Whole-image cohesion and compounding detail quality; a successful local repair does not establish aggregate finish."
+    },
+    {
+      "name": "choreograph",
+      "path": "/Users/nag/.agents/skills/choreograph/SKILL.md",
+      "intake": "Previously fully read; full skill refreshed this review.",
+      "application": "Use lead/support and shared intention as composition lenses only. The coder leads; workshop and leaf play support."
+    },
+    {
+      "name": "design-taste-frontend",
+      "path": "/Users/nag/.agents/skills/taste-skill/SKILL.md",
+      "intake": "Prior full SKILL.md and copy reference reading reused.",
+      "application": "Keep a coherent original personal identity; separate purposeful visual story from adding detail for its own sake."
+    },
+    {
+      "name": "prototype",
+      "intake": "Installed catalog reviewed; full skill not claimed and build workflow not invoked."
+    }
+  ],
+  "workflowChanges": [
+    "Read project and personal AGENTS.md, workflow routing and installed 17-skill catalog; preserve prior review history while evaluating this exact source afresh.",
+    "Inspect full frame, output scales, native material/contact crops and magnified identity details as different checks. A small eye fix must trigger a look for unrelated whole-image regressions.",
+    "Compare the same materials against the owner-liked 07 control, not merely whether new eyes satisfy their brief. Record visible regression without asserting a particular generation mechanism.",
+    "Keep a whole-frame control when making bounded repairs; verify every required identity feature again on the final saved asset."
+  ],
+  "rulesNotApplicableWithReason": [
+    "UI code review tables, choreography timelines, easing budgets, compositor requirements and interaction tests do not apply to this static raster review; no motion implementation is being judged.",
+    "Commercial website recipes do not require replacing the owner's illustrated park with photography, extra proof text, logo strips or a different composition.",
+    "No browser, generation, source/asset edits, publication or additional agents are part of this reviewer's authorized task."
+  ],
+  "limits": [
+    "The 1280/880/420 images are local resizes, not actual GitHub/browser/mobile-device evidence. At 420 the foreground idea survives while supporting actions become tiny.",
+    "Repeated-edit artifacts are a possible explanation, not a verified cause. The finding is the visible surface difference itself.",
+    "This is a generated day raster, not a controllable 3D scene, full animation, matched night treatment or proven reusable rig.",
+    "No human recognition, emotional attachment, tool affiliation or long-term recall results are claimed. The role scores only inspected still-image evidence.",
+    "No final/publication approval. Any changed output needs fresh assessment of the repaired frame, including remaining concrete panel objections."
+  ],
+  "pairDiscussion": {
+    "independence": "Both initial records were saved before new partner findings were read.",
+    "partnerRecord": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/brand-a.json",
+    "partnerScore": 8.2,
+    "ownScoreRetained": 8.4,
+    "commonFinding": "Both independently observed the irregular cross-material surface treatment and recommend revise. Composition, personal hierarchy and two guest groups remain strengths.",
+    "explicitOwnJointRecommendation": "Agree: retain11's current story, clear coder lead, four guests in two supporting groups, wing-mark improvements and exact eye constraints; recover07-level material differentiation; inspect the entire replacement at native and1280/880/420 scales before any finished claim. No wholesale rollback or new composition required.",
+    "challengeSent": "Do not interpret cleanup as uniform smoothing or plastic rendering. Preserve purposeful plush, fabric, wood and graphic-contour character; repair the repeated unrelated network. Keep golden-edge restraint optional and separate from the material must-fix.",
+    "remainingSubstantiveDisagreement": "None with Brand A's scoped repair recommendation. Individual scores differ and are retained.",
+    "confirmationStatus": "Brand B explicitly confirmed to Brand A; partner response pending at this save.",
+    "limits": "Agreement is on a bounded repair and re-review, not approval of unseen replacement artwork, publication, human outcomes or numerical9."
+  }
+}

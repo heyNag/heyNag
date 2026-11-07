@@ -1,0 +1,60 @@
+{
+  "reviewerId": "visual-b",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "role": "Visual development and lighting artist",
+  "lens": "Drawing appeal, contour and scale simplification",
+  "stage": "Independent concept recommendation before partner discussion or image generation; not approval of unbuilt art.",
+  "evidenceInspected": [
+    "brand/reviews/2026-11-07-banner-park/ai-cameo-brief.json",
+    "view_image: assets/brand/banner-park/park-day-study-02-macbook.png",
+    "view_image: /tmp/codex-remote-attachments/01a1b473-8621-7941-ba03-4b47867c136c/D31EE005-F5E8-41CB-97E7-95E073243BDD/1-Photo-1.jpg"
+  ],
+  "independence": "This initial position was saved before reading the partner's new recommendation.",
+  "recommendation": {
+    "testCount": 2,
+    "retainCurrentCountAsControl": 0,
+    "three": "Do not start with three; it creates a second mini-cast across already occupied areas. Consider only if the two-cameo comparison demonstrates spare visual capacity.",
+    "fullCast": "Reject for this composition: the reference works as a group portrait, while this park already has three deliberate moth appearances and a dominant foreground working scene.",
+    "why": "Two can be a subordinate discovery about the tools/companions around Nag. More bright logo faces risk turning a personal portrait into an AI-brand ensemble. The existing coder, builder and resting moth already carry the narrative.",
+    "placement": "One compact pair in the middle/background flower-and-shrub band just behind the rear-left worktable post. Both watch the builder quietly. Keep clear air around the builder's head/hammer and the resting moth, and leave the winding path open. No second cluster near the tree in the first audition.",
+    "scale": "Each entire cameo, including limbs, approximately one-third to two-fifths of the middle builder moth's full height and distinctly below the resting moth's scale. Use depth, partial foliage occlusion and shared warm lighting; do not enlarge them merely to preserve a logo at phone size.",
+    "material": "Adapt bodies to the same painted park lighting and subdued middle-distance edge contrast. Avoid the reference's cluster of bright white/red/blue tiles, blanket, basket and extra props. Specific logo identities remain owner-selected and should not be guessed from uncertain forms.",
+    "hardForegroundConstraint": "Absolutely no companion near, on, beside or in front of the bench; none in the foreground or on its props. The foreground work area remains exclusively the original moth, bench and requested MacBook. Do not sneak a logo face into a mug, laptop screen, foreground leaf or bench decoration."
+  },
+  "failureCriteria": [
+    "Remove the cameos if either is a competing first-read focal point with the foreground face/MacBook or if the worktable becomes visually about the logo pair rather than Nag building.",
+    "Remove or reposition if cameo limbs/marks merge with the moth's antennae, wings, hammer or resting silhouette, or if they plug the central path that links the existing scenes.",
+    "If recognizability at the actual narrow banner requires bigger, sharper or brighter companions, accept their disappearance as tiny optional details or return to zero; do not violate the foreground constraint.",
+    "Reject any generated version that adds extra companions, a logo strip, textual labels, foreground symbols, or changes the moth's innocent anatomy."
+  ],
+  "verificationBeforeAnyAdoption": "Compare current zero against the two-cameo render at original panoramic size and actual GitHub banner widths, including 846px desktop and 238px narrow use. Judge first-read hierarchy and silhouette separation, not the number of recognizable product marks. The tiny phone version may legitimately lose the cameo identities.",
+  "skills": {
+    "fullReadReused": [
+      "emil-design-eng",
+      "apple-design",
+      "prototype",
+      "design-taste-frontend"
+    ],
+    "newFullRead": [],
+    "practicalUse": "Named-axis zero-versus-two comparison, restrained secondary detail, actual application scale, preserve authored silhouette and foreground hierarchy. The explicit current owner constraint supersedes earlier possible cameo placement.",
+    "exceptions": "No mandatory commercial-site imagery, hover motion or full prototype picker is needed for a static concept. No numerical score or approval is assigned before rendering. No image generation, browser operation or source edit was performed."
+  },
+  "limits": [
+    "No proposed cameo variant exists yet, so overload at final size is a hypothesis.",
+    "Reference product identities were not verified and are not inferred.",
+    "No unfamiliar-human recognition, attachment or association outcomes have been measured.",
+    "The park image was displayed at 2048x683 from a 2172x724 source; this is not a physical-phone preview."
+  ],
+  "pairDiscussion": {
+    "partner": "/root/panel_visual_development_astra",
+    "partnerEvidence": "Direct message after both independent files were saved; A recommends two as a quiet group left of/behind workshop, around one-third builder height, keeping tree and foreground unchanged.",
+    "agreement": "Both independently prefer a bounded two-cameo audition against the zero-cameo control. One group watches box-making from behind the rear-left workshop area. Start at approximately one-third of the builder's full height, with shared painterly lighting and no extra blanket/basket/logo props.",
+    "challengeAndResolution": "B distinguishes distracting bright specks from simply losing product identity at 238px. Cameos may become inconspicuous optional detail; never enlarge or brighten them merely to make logos identifiable on a narrow banner. B's independent upper scale bound of two-fifths is not the initial test target.",
+    "explicitPosition": "agree",
+    "acceptedRecommendation": "Test two small supporting companions as one quiet middle/background group behind the left workshop area, about one-third builder height, watching the building moth. Keep the resting scene unchanged and keep all companions out of the foreground and away from/on neither bench nor its props. Compare with the moth-only control before any adoption.",
+    "remainingSubstantiveDisagreement": [],
+    "scope": "Concept-test recommendation only; no numeric score, generation, publication or approval of an unbuilt result.",
+    "partnerExplicitConfirmation": "Visual A directly confirmed the same joint recommendation and phone-scale nuance; no substantive difference remains."
+  }
+}

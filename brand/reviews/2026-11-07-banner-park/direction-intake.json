@@ -1,0 +1,98 @@
+{
+  "scope": "All 18 provided independent positions on exploring cohesive animated-film styling and subordinate cameo options. Owner refined roster and staging during the review, so these are direction-test opinions, not approval of one final rendered image.",
+  "specialists": 18,
+  "scoresRequested": false,
+  "positions": [
+    {
+      "reviewer": "brand-a",
+      "record": "brand/reviews/2026-11-07-banner-park/animated-film/brand-a.json",
+      "position": "agree_with_limits"
+    },
+    {
+      "reviewer": "brand-b",
+      "record": "brand/reviews/2026-11-07-banner-park/animated-film/brand-b.json",
+      "position": "agree_with_limits \u2014 TEST only"
+    },
+    {
+      "reviewer": "performance-a",
+      "record": "brand/reviews/2026-11-07-banner-park/animated-film/performance-a.json",
+      "position": "agree_with_limits"
+    },
+    {
+      "reviewer": "performance-b",
+      "record": "brand/reviews/2026-11-07-banner-park/animated-film/performance-b.json",
+      "position": "agree_with_limits"
+    },
+    {
+      "reviewer": "identity-a",
+      "record": "brand/reviews/2026-11-07-banner-park/animated-film/identity-a.json",
+      "position": "agree_with_limits"
+    },
+    {
+      "reviewer": "identity-b",
+      "record": "brand/reviews/2026-11-07-banner-park/animated-film/identity-b.json",
+      "position": "agree_with_limits"
+    },
+    {
+      "reviewer": "rigging-a",
+      "record": "brand/reviews/2026-11-07-banner-park/animated-film/rigging-a.json",
+      "position": "agree_with_limits"
+    },
+    {
+      "reviewer": "rigging-b",
+      "record": "brand/reviews/2026-11-07-banner-park/animated-film/rigging-b.json",
+      "position": "agree_with_limits"
+    },
+    {
+      "reviewer": "interaction-a",
+      "record": "brand/reviews/2026-11-07-banner-park/animated-film/interaction-a.json",
+      "position": "agree_with_limits"
+    },
+    {
+      "reviewer": "interaction-b",
+      "record": "brand/reviews/2026-11-07-banner-park/animated-film/interaction-b.json",
+      "position": "agree_with_limits"
+    },
+    {
+      "reviewer": "audience-a",
+      "record": "brand/reviews/2026-11-07-banner-park/animated-film/audience-a.json",
+      "position": "agree_with_limits"
+    },
+    {
+      "reviewer": "audience-b",
+      "record": "brand/reviews/2026-11-07-banner-park/animated-film/audience-b.json",
+      "position": "agree_with_limits"
+    },
+    {
+      "reviewer": "storyboard-a",
+      "record": "brand/reviews/2026-11-07-banner-park/animated-film/storyboard-a.json",
+      "position": "agree_with_limits"
+    },
+    {
+      "reviewer": "storyboard-b",
+      "record": "brand/reviews/2026-11-07-banner-park/animated-film/storyboard-b.json",
+      "position": "agree_with_limits"
+    },
+    {
+      "reviewer": "visual-a",
+      "record": "brand/reviews/2026-11-07-banner-park/animated-film/visual-a.json",
+      "position": "agree_with_limits"
+    },
+    {
+      "reviewer": "visual-b",
+      "record": "brand/reviews/2026-11-07-banner-park/animated-film/visual-b.json",
+      "position": "agree_with_limits"
+    },
+    {
+      "reviewer": "sound-a",
+      "record": "brand/reviews/2026-11-07-banner-park/animated-film/sound-a.json",
+      "position": "agree_with_limits"
+    },
+    {
+      "reviewer": "sound-b",
+      "record": "brand/reviews/2026-11-07-banner-park/animated-film/sound-b.json",
+      "position": "agree_with_limits"
+    }
+  ],
+  "laterStaging": "Three active specialists then reviewed stool composition and required one Clawd pose correction, recorded under stools/. Final corrected-image assessment follows."
+}

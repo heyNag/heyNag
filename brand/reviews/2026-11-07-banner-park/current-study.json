@@ -1,0 +1,38 @@
+{
+  "currentAsset": "assets/brand/banner-park/park-film-study-13-muse-face-cleanup.png",
+  "generationRecord": "brand/reviews/2026-11-07-banner-park/film-study-13.json",
+  "ownerDirection": [
+    "Cohesive animated-feature film look for the whole park.",
+    "Foreground remains only Nag's tiny moth coding on the MacBook/bench.",
+    "Muse and Grok share a leaf game in front of the resting moth, like children playing while a parent rests. Do not age the moth.",
+    "Clawd and blue Dot sit on two workshop stools. Clawd must keep both square eyes visible and have a soft plush finish, not a wooden/cutout material."
+  ],
+  "reviewScope": {
+    "direction": "All18 specialists supplied exploratory direction opinions; see direction-intake.json. Roster/staging evolved during those discussions.",
+    "actualStaging": "Visual pair and storyboard reviewed04; Clawd05 pose repair lost recognition according to owner.06 restored features but failed material. Both historical variants remain rejected.",
+    "currentRepair": "All18 whole-scene13 independent reviews and nine paired actual-art/story challenges completed. Scores8.8–9.1 preserved; no must-fix. See whole-scene-13/consensus.json."
+  },
+  "status": "All18 reviewed day-scene and frozen personal-story README accepted for owner-authorized publication; live verification pending.",
+  "localRepairReviews": [
+    "brand/reviews/2026-11-07-banner-park/clawd-repair/identity-a-plush.json",
+    "brand/reviews/2026-11-07-banner-park/clawd-repair/identity-b-plush.json",
+    "brand/reviews/2026-11-07-banner-park/clawd-repair/visual-a-plush.json"
+  ],
+  "latestOwnerFeedback": {
+    "text": "Before bring it to me, please check with our team of 18 specialists. Very small detail. It should be like a Pixar/ Disney like inspired picture",
+    "clarification": "Not just the characters. The whole scene as a whole",
+    "scope": "All18 whole-scene review required before finished presentation; covers composition, staging, environment, materials, light, depth and tiny details.",
+    "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/brief.json"
+  },
+  "latestLocalRevision": {
+    "asset": "assets/brand/banner-park/park-film-study-13-muse-face-cleanup.png",
+    "record": "brand/reviews/2026-11-07-banner-park/film-study-13.json",
+    "state": "Full18 actual-art/story acceptance complete; authorized publication pending."
+  },
+  "wholeSceneCorrection": {
+    "planConsensus": "brand/reviews/2026-11-07-banner-park/whole-scene-11/consensus.json",
+    "state": "Material/grip corrections and54-pixel Muse cleanup verified; full18 actual13/story consensus complete.",
+    "actualArtConsensus": "brand/reviews/2026-11-07-banner-park/whole-scene-13/consensus.json"
+  },
+  "ownerLikedBaseline": "assets/brand/banner-park/park-film-study-07-clawd-plush.png"
+}

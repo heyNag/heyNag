@@ -1,0 +1,128 @@
+{
+  "reviewer": "performance-a",
+  "assetSha256": "32ce62c11e533fcd3a7ab1856a102c7a31b9111d96c3fbf16df8d469b8f08469",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "evidenceInspected": [
+    "/Users/nag/projects/personal/heyNag/assets/brand/banner-park/park-film-study-13-muse-face-cleanup.png",
+    "/Users/nag/projects/personal/heyNag/assets/brand/banner-park/park-film-study-11-flat-grok-eyes.png",
+    "/Users/nag/projects/personal/heyNag/assets/brand/banner-park/park-film-study-07-clawd-plush.png",
+    "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-banner-park/whole-scene-13/brief.json",
+    "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-width-1280.png",
+    "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-width-880.png",
+    "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-width-420.png",
+    "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-hero-native.png",
+    "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-workshop-native.png",
+    "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-tree-play-native.png",
+    "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-companions-native.png",
+    "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-companions-5x.png",
+    "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-grip-native.png",
+    "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-banner-park/whole-scene-13/evidence/scene13-grip-5x.png"
+  ],
+  "referenceReuse": "Reused actual prior inspection of assets/brand/heynag-moth-v5-refined.png and prior native07/11 hero/workshop evidence. Full13, full11 and full07 were viewed fresh for this comparison. No new claim of auditing external companion likeness.",
+  "verification": "Independently computed actual13 SHA-256 matches the brief.",
+  "readiness": "ready_for_owner_review",
+  "score": {
+    "value": 8.8,
+    "previous": 8.2,
+    "change": 0.6,
+    "scope": "The complete still's intention, emotional staging, support/contact, hierarchy and material/light coherence insofar as they sustain acting. Same bounded scope as my whole-scene11 assessment; no motion score.",
+    "confidence": "High for visible material recovery, physical support, grip and composition; moderate for precise social intention and pupil-free gaze.",
+    "changeReason": "The principal finish blocker is materially improved across the whole park, and the mallet now has a solid attached holding mitten. Those observed gains justify the increase. The score does not rise automatically from plan acceptance, and optional attention specificity remains less resolved than the broad activity staging.",
+    "deductions": [
+      {
+        "finding": "The broad activities read more decisively than reciprocal thought: the builder's free mitten now relates to the box but does not specifically offer it toward the guests; the resting moth's open-eye/head arrangement still reads outward more clearly than deliberately down to the leaf pair.",
+        "evidence": [
+          "scene13-workshop-native.png",
+          "scene13-tree-play-native.png",
+          "scene13-width-880.png"
+        ],
+        "severity": "Minor optional acting specificity; no required repair or new anatomy."
+      },
+      {
+        "finding": "The coding action is clear through keyboard contact and laptop, while the open smiling face feels closer to a friendly pause than absorbed screen attention. This is a valid captured beat, but the precise intention is less specific.",
+        "evidence": [
+          "scene13-hero-native.png",
+          "scene13-width-880.png"
+        ],
+        "severity": "Optional choice of acting beat; not a defective face or a demand to add pupils."
+      },
+      {
+        "finding": "At 420px the three zones and foreground coder survive, while the small leaf contact, workshop grip and resting glance become general activity clusters.",
+        "evidence": [
+          "scene13-width-420.png"
+        ],
+        "severity": "Scale limitation, not a reason to enlarge guests or redesign the composition."
+      }
+    ],
+    "criteriaForNine": [
+      "A more unmistakable chosen thought linking the existing faces, head/body orientation and contacts could strengthen the captured moment while preserving all tiny proportions and graphic eyes.",
+      "Keep the recovered material separation and coder-first grouping if any optional acting refinement is ever chosen. These are aspirational craft criteria, not new must-fixes or a request for another round."
+    ]
+  },
+  "correctionAssessment": {
+    "W1": {
+      "status": "fixed",
+      "evidence": "Fresh complete13 versus11 and07, plus native13 hero/workshop/tree and local scales. Bench wood has coherent grain, metal arms have continuous contours, cloth has deliberate knit, stone/path planes are readable, and the cream face reads as soft volume. Fine surface pattern remains on wings/paddles, but it no longer indiscriminately fragments face, metal, timber and environment as in11.",
+      "scope": "Fixed to the point that I no longer see the prior material-coherence issue as a blocker within this still-image lens; not a claim that every surface is texture-free."
+    },
+    "W2": {
+      "status": "fixed",
+      "evidence": "Both native and5x actual13 grip crops show a solid rounded mitten enclosing the mallet handle and joined by a short wrist/arm. The hollow/angular strap ambiguity is resolved. The raised mallet remains an anticipation/held pose; contact with the box is neither shown nor required."
+    }
+  },
+  "preservation": [
+    "Same three appearances of the tiny original moth, four supporting guests, two workshop stools and exclusive foreground coding bench/MacBook.",
+    "Oversized soft heads, compact seated bodies, small mittens, attached stub feet, unequal paddles and visible layered marked wings remain. Hidden wing panels cannot all be certified.",
+    "Warm motivated sunlight, continuous canopy/path/bridge setting, soft distant depth and two secondary guest clusters preserve a coherent environment and coder-first hierarchy.",
+    "Bench, stool and tabletop support remain readable. Builder grip is improved; Muse's hand still meets the leaf stem, connecting the quiet lower-left pair.",
+    "Actual13 native and5x companion crops show Muse's dark eyes and single clean smile, and Grok's flat pupil-free white ovals. Clawd retains orange plush appearance, both square eyes and seated support; Dot remains on the other stool."
+  ],
+  "newRegressions": [],
+  "mustFix": [],
+  "optional": [
+    "If a later application needs a stronger specific beat, choose between absorbed coding and a deliberate glance up; do not force gaze through new pupils or proportions.",
+    "Workshop invitation and resting-to-leaf attention may be refined within the existing pose vocabulary, but are not prerequisites for owner review.",
+    "Let the narrow rendition communicate the broad park story; retain the current cast size rather than exaggerating micro-actions."
+  ],
+  "skillsReviewed": [
+    {
+      "name": "choreograph",
+      "intake": "Previously fully read; reused.",
+      "application": "Evaluate primary/secondary hierarchy and intentional relationships across the entire frame."
+    },
+    {
+      "name": "review-animations",
+      "intake": "Previously fully read; reused.",
+      "application": "Distinguish visible static contact from unseen timing, weight transfer and audience inference."
+    },
+    {
+      "name": "emil-design-eng",
+      "intake": "Previously fully read; reused.",
+      "application": "Judge actual integrated outcome at multiple scales; separate remaining optional polish from required defects."
+    },
+    {
+      "name": "design-taste-frontend",
+      "intake": "Previously fully read; reused.",
+      "application": "One coherent material/visual system and rendered-artifact evidence; no webpage construction recipe."
+    }
+  ],
+  "workflowChanges": [
+    "Inspected fresh whole13 beside11 and07 before evaluating the final native and5x contact/eye evidence.",
+    "Kept agreed W1/W2 acceptance separate from optional gaze preferences and from the numerical target.",
+    "Saved this independent record without reading peer13 findings or sending substantive results to peers."
+  ],
+  "rulesNotApplicableWithReason": [
+    "UI timing, springs, compositor budgets and animation-feel rules cannot grade a single raster still.",
+    "Earlier small-cast/single-prop suggestions do not override the owner's four-guest scene.",
+    "A lower-than-nine craft score does not by itself require more cosmetic edits when no concrete required defect remains."
+  ],
+  "limits": [
+    "Ready for owner review is this specialist's scoped judgment, not the later pair or all18 decision.",
+    "1280/880/420 files are local image scales, not actual GitHub, browser-mobile or physical-device evidence.",
+    "No continuous animation, built 3D rig, weight-transfer timing, sound, matched night image, publication or human recognition/attachment is scored.",
+    "Some wing panels and body contacts are hidden; no claim of complete unseen anatomy validation.",
+    "The brief reports a 54-pixel Muse retouch; I visually inspected the final integrated result rather than independently auditing that pixel-change count."
+  ],
+  "independence": "Saved before any peer13 findings. No peer13 review read; no substantive findings sent to peers. Root schedules subsequent pair challenge."
+}

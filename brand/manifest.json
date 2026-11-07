@@ -19,6 +19,171 @@
       "sha256": "3b4f3063b6ac7c1e403e2c4a5e8ef3a58190ff83ed7b15af66511858699139ce"
     },
     {
+      "path": "assets/brand/banner-park/park-day-study-01.png",
+      "mediaType": "image/png",
+      "bytes": 2653922,
+      "sha256": "7da876e96f7968dc43325b7a6d9ccd961b0b433ee3d205d16a2822a59037fbc8",
+      "dimensions": {
+        "width": 2172,
+        "height": 724,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/banner-park/park-day-study-02-macbook.png",
+      "mediaType": "image/png",
+      "bytes": 2507154,
+      "sha256": "a0483d82792bb3681753638fa53ac06fe6efbbbfffd68402f850d886fd52466e",
+      "dimensions": {
+        "width": 2172,
+        "height": 724,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/banner-park/park-film-study-01-moth-only.png",
+      "mediaType": "image/png",
+      "bytes": 2368175,
+      "sha256": "5ff9786323063ef0a0704b21a4e9573d07b2129f58ae5dd681224e43bf876543",
+      "dimensions": {
+        "width": 2172,
+        "height": 724,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/banner-park/park-film-study-02-two-guests.png",
+      "mediaType": "image/png",
+      "bytes": 2322869,
+      "sha256": "1a1e410f52ae8f5b11e2dce068f60b530fc21cf929bdb06d62367c877c0113f2",
+      "dimensions": {
+        "width": 2172,
+        "height": 724,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/banner-park/park-film-study-03-four-guests.png",
+      "mediaType": "image/png",
+      "bytes": 2327505,
+      "sha256": "509e1892ede2a115014d4d5c359fad9527757f889c40b152f67f1a04126f6387",
+      "dimensions": {
+        "width": 2172,
+        "height": 724,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/banner-park/park-film-study-04-stools-and-play.png",
+      "mediaType": "image/png",
+      "bytes": 2358990,
+      "sha256": "8a26a421bb9a252871dfc8e1a46c56c44307ee9648884e73d4304b92348f661f",
+      "dimensions": {
+        "width": 2172,
+        "height": 724,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/banner-park/park-film-study-05-clawd-seated.png",
+      "mediaType": "image/png",
+      "bytes": 2402087,
+      "sha256": "ca2c91c191081b0a097dbb66aa681e9eab6256eea6593571a267889de96ee771",
+      "dimensions": {
+        "width": 2172,
+        "height": 724,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/banner-park/park-film-study-06-clawd-recognition.png",
+      "mediaType": "image/png",
+      "bytes": 2433826,
+      "sha256": "4096bb11e58e630a7acc44d9c10b098714b2d2124849ac5a1dd29e94b37fe24f",
+      "dimensions": {
+        "width": 2172,
+        "height": 724,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/banner-park/park-film-study-07-clawd-plush.png",
+      "mediaType": "image/png",
+      "bytes": 2441808,
+      "sha256": "8a79349e46ed39fca6d375d405d67eba66cce251187d89b44b119c82da3dfa1a",
+      "dimensions": {
+        "width": 2172,
+        "height": 724,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/banner-park/park-film-study-08-story-and-light.png",
+      "mediaType": "image/png",
+      "bytes": 2447597,
+      "sha256": "0794cfb0ac392c688c9e453a954a7602436dde6ac98f360292c6e2a7dd22ad5a",
+      "dimensions": {
+        "width": 2172,
+        "height": 724,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/banner-park/park-film-study-09-companion-refinement.png",
+      "mediaType": "image/png",
+      "bytes": 2464012,
+      "sha256": "2797db3692eccda1b9e37ab2c82272162942c79b5241d5a07bf29183fdcb5371",
+      "dimensions": {
+        "width": 2172,
+        "height": 724,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/banner-park/park-film-study-10-clean-companion-eyes.png",
+      "mediaType": "image/png",
+      "bytes": 2497595,
+      "sha256": "667cabad45f56cd9ce585570dae2f57d444777e57d154c2fb78b85aaf4b7fd3f",
+      "dimensions": {
+        "width": 2172,
+        "height": 724,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/banner-park/park-film-study-11-flat-grok-eyes.png",
+      "mediaType": "image/png",
+      "bytes": 2554635,
+      "sha256": "87943e3c1452d40b1ac535ea5bbcefa6e7676cee77165eef2d77ce5c67a32569",
+      "dimensions": {
+        "width": 2172,
+        "height": 724,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/banner-park/park-film-study-12-materials-and-grip.png",
+      "mediaType": "image/png",
+      "bytes": 2552461,
+      "sha256": "f43b5c7053f9fc3017c651e9ba4628a862ffbe1fd76d706f145a88f75f2e3e70",
+      "dimensions": {
+        "width": 2172,
+        "height": 724,
+        "unit": "px"
+      }
+    },
+    {
+      "path": "assets/brand/banner-park/park-film-study-13-muse-face-cleanup.png",
+      "mediaType": "image/png",
+      "bytes": 4457274,
+      "sha256": "32ce62c11e533fcd3a7ab1856a102c7a31b9111d96c3fbf16df8d469b8f08469",
+      "dimensions": {
+        "width": 2172,
+        "height": 724,
+        "unit": "px"
+      }
+    },
+    {
       "path": "assets/brand/expressions-v5/anchors-day-r2.png",
       "mediaType": "image/png",
       "bytes": 1779547,
@@ -738,6 +903,12 @@
       "mediaType": "application/json",
       "bytes": 3581,
       "sha256": "f4c6dc334a150ffb6e22844ce981e1a0f46d2ecaeea65e23a75592789a000b1e"
+    },
+    {
+      "path": "brand/source/retouch-park13.mjs",
+      "mediaType": "text/javascript",
+      "bytes": 5748,
+      "sha256": "6f69ce81e1006075657935e5d15dd7cd7c041186521ef001f220253032931cfc"
     }
   ],
   "derived": [

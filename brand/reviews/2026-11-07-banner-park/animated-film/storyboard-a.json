@@ -1,0 +1,24 @@
+{
+  "reviewerId": "storyboard-a",
+  "position": "agree_with_limits",
+  "independence": "Saved before partner review.",
+  "assessment": {
+    "zero": "Clearest code/build/rest hierarchy and necessary comparison.",
+    "two": "Actual guests remain small and outside the foreground. Shared dimensional lighting integrates them better than pasted emblems. However, their front-facing poses read as a miniature lineup, not watchers of the toolbox action.",
+    "four": "Support the owner-directed comparison, without assuming overload or success. Muse/Grok introduce another attention group; their relationship must remain subordinate to the resting moth. Earlier two-only advice does not veto this updated test."
+  },
+  "guardrails": [
+    "Turn Clawd/Dot three-quarter toward the builder/toolbox, using body orientation and eyeline together. Preserve clear hammer/hand/box contact and silhouette gaps.",
+    "Keep Muse/Grok deeper than the tree-root moth, with one quiet shared activity and no foreground presence or enlarged props.",
+    "Retain graphic facial features, wing markings and unequal antenna silhouettes within soft dimensional forms. Keep the same tiny moth across all activities."
+  ],
+  "failure": "Reject a composition if guests become a competing lineup, obscure code/build/rest, or require enlargement to explain their activity at actual banner size.",
+  "evidence": [
+    "Read animated-film-proposal.json.",
+    "Direct view_image: assets/brand/banner-park/park-film-study-01-moth-only.png",
+    "Direct view_image: assets/brand/banner-park/park-film-study-02-two-guests.png",
+    "Original park and picnic reference inspected previously in this conversation."
+  ],
+  "skills": "Reused full choreograph, review-animations, animation-vocabulary and emil-design-eng: lead/support hierarchy, purposeful grouping, matched comparisons, static-versus-temporal evidence. No new skill reading.",
+  "limits": "No four-guest render inspected; no score or finished-art approval. Small-banner, night, audience and continuous-motion outcomes remain untested."
+}

@@ -1,0 +1,36 @@
+{
+  "reviewer": "root",
+  "asset": "assets/brand/banner-park/park-film-study-13-muse-face-cleanup.png",
+  "sha256": "32ce62c11e533fcd3a7ab1856a102c7a31b9111d96c3fbf16df8d469b8f08469",
+  "scope": "Integrated still-image inspection and exact local retouch extent",
+  "evidenceInspected": [
+    "full13",
+    "420px13",
+    "native hero13",
+    "native workshop13",
+    "native tree-play13",
+    "native companions13",
+    "5x companions13",
+    "5x grip13",
+    "actual source12 before retouch"
+  ],
+  "observations": [
+    "Muse has one uninterrupted simple smile; extra detached lower curve removed. Eyes and face outline unchanged.",
+    "Grok eye interiors remain solid light ovals without dark centers.",
+    "Rounded attached workshop mitten encloses mallet handle.",
+    "Foreground coder, middle workshop and left resting/play vignette remain readable as three stages of one tiny moth.",
+    "Wood, cloth, metal, tree bark and plush retain distinct rendering. Fine decorative embossed surface detail on hero remains a nonblocking preference for panel evaluation."
+  ],
+  "verification": {
+    "changedPixels": 54,
+    "outsidePatchChanged": 0,
+    "dimensionsPreserved": true,
+    "sourcePreserved": true,
+    "scriptSyntax": "node --check passed"
+  },
+  "limits": [
+    "Not all18 acceptance. Independent panel review pending.",
+    "No live GitHub, physical-device, night counterpart, animation, rig or audience research claim."
+  ],
+  "state": "Basic integrated detail gate passed for independent full18 review"
+}

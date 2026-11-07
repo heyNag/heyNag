@@ -1,0 +1,126 @@
+{
+  "reviewer": "interaction-a",
+  "role": "Interaction and accessibility designer",
+  "lens": "Static-image reading comfort, visual hierarchy and clear story; no nonexistent controls are scored.",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "assetSha256": "87943e3c1452d40b1ac535ea5bbcefa6e7676cee77165eef2d77ce5c67a32569",
+  "evidenceInspected": [
+    "AGENTS.md",
+    "brand/workflow.json",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-11/brief.json",
+    "assets/brand/banner-park/park-film-study-11-flat-grok-eyes.png",
+    "assets/brand/banner-park/park-film-study-07-clawd-plush.png",
+    "assets/brand/heynag-moth-v5-refined.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-width-1280.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-width-880.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-width-420.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-hero-native.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene07-hero-native.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-tree-play-native.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-workshop-native.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene07-workshop-native.png",
+    "brand/reviews/2026-11-07-banner-park/muse-review/evidence/11-companion-inspection-enlarged.png"
+  ],
+  "evidenceMethod": "All listed artwork, scales and crops opened with view_image at original detail. Independently verified the final asset SHA256. No new peer findings were read before saving this initial record.",
+  "initialWholeSceneVerdict": "revise",
+  "score": {
+    "value": 8.4,
+    "scope": "Whole still-image craft within the interaction lens: ease of scanning, focal hierarchy, scene comprehension and surface clarity at native and supplied local banner scales. Not a keyboard, accessibility-conformance, motion, audience or device score.",
+    "confidence": "high for native/1280 surface and contact comparisons; moderate for inferred reading comfort and story clarity",
+    "deductions": [
+      {
+        "id": "IXA11-SURFACE",
+        "severity": "moderate",
+        "location": "Hero forehead/cheeks and antenna paddles at right; bench boards; left tree bark and central workshop surfaces.",
+        "finding": "11 adds conspicuous angular, crackled/polygonal microtexture across unlike materials. Compared with 07, the soft face and antennae, wood grain and nearby scenery are less cleanly differentiated. It is visible in native crops and the 1280 whole image, not merely a five-times inspection artifact. It weakens the calm, soft animated-film finish even while the silhouette stays legible."
+      },
+      {
+        "id": "IXA11-GRIP",
+        "severity": "minor but concrete",
+        "location": "Central workshop, raised hand immediately above the toolbox beneath the hammer head.",
+        "finding": "07 shows a more readable small hand wrapping the shaft. In 11 the hand/shaft area collapses into an angular dark, strap-like connection and pale wedges. The building activity still reads from the whole vignette, but the local acting contact becomes ambiguous at native size."
+      }
+    ],
+    "criteriaForNine": [
+      "Restore coherent soft surface treatment on the moth and clear material distinctions in the environment, using 07 as a visible control rather than applying a blanket blur. Retain 11's intended eye correction, lighting, scene layout and tiny anatomy.",
+      "Make the workshop mitten clearly hold one continuous hammer handle; maintain compact anatomy and the existing action.",
+      "Confirm that these local corrections do not disturb the successful whole-frame hierarchy at native, 1280, 880 and 420 widths. A 9 would be earned by cleaner visible craft, not by adding cameos, increasing saturation or assuming audience approval."
+    ]
+  },
+  "strengths": [
+    "The large cream face, dark glasses, laptop and exclusive bench make the foreground worker the strongest grouping at all three supplied scales. No companion intrudes on that bench or the foreground route.",
+    "The tree/canopy frame and receding path connect the resting, making and laptop-work vignettes. Workshop and tree companions provide secondary discoveries without displacing the hero.",
+    "The warm directional light, softer distant bridge/water and blurred foreground foliage give the scene depth. Environment and characters share a dimensional treatment; they do not look like separate flat logos pasted on a landscape.",
+    "At 420px the overall coding/resting/making atmosphere survives, while small cameo identities and exact hand actions become incidental. Indistinct optional detail is not itself an access defect or a reason to require enlargement.",
+    "The original V5's large pale head, compact body, green marked wings and unequal antennae remain recognizable as the construction reference. Different activities do not require mature or elongated anatomy.",
+    "The enlarged companion crop visibly shows dark Muse eyes and flat pale Grok ovals without an interior pupil. That local observation does not pre-approve the rest of the frame."
+  ],
+  "mustFix": [
+    {
+      "id": "IXA11-SURFACE",
+      "action": "Reduce the visible surface breakup introduced relative to 07, especially on the hero face/antennae and broad wood surfaces. Preserve natural texture and lighting; recover material clarity rather than smoothing the entire image indiscriminately.",
+      "why": "The current cross-material crackling is a whole-image finish regression against the requested soft cinematic craft."
+    },
+    {
+      "id": "IXA11-GRIP",
+      "action": "Clarify the workshop mitten-to-hammer connection while leaving the established vignette and tiny proportions intact.",
+      "why": "A convincing held tool supports the central building story when the scene is viewed at native or large presentation sizes."
+    }
+  ],
+  "optional": [
+    "If a later intentional art pass is otherwise necessary, modestly quiet the brightest flecks of grass/path around the small left scene. Current hero dominance is already strong; this is a restraint preference, not a blocker.",
+    "Preserve optional background detail without promising that every cameo will be identified at narrow widths. Do not enlarge the supporting cast to meet that unnecessary target."
+  ],
+  "baselineComparison": "07 and 11 retain the same strong foreground bench and three-vignette arrangement. 11 makes the pale Grok eye shapes clearer and preserves the intended warm story, but 07 has cleaner, softer hero surfaces, more legible wood/material detail and a clearer workshop hammer grip. The difference is visible in the actual full images and paired native crops; I do not infer degradation merely from the history of repeated edits. I prefer 07 as the finish control while retaining the specific intended corrections from 11, not as an instruction to restore rejected eye details.",
+  "skillsReviewed": [
+    {
+      "skill": "/Users/nag/.agents/skills/emil-design-eng/SKILL.md",
+      "intake": "Full instructions previously read; reused for hierarchy, purposeful detail and evidence-led criticism."
+    },
+    {
+      "skill": "/Users/nag/.agents/skills/mobile-native/SKILL.md",
+      "intake": "Full instructions previously read; reuse is limited to preserving the distinction between local image scaling and real-device evidence."
+    },
+    {
+      "skill": "/Users/nag/.agents/skills/taste-skill/SKILL.md",
+      "intake": "Full main instructions previously read; reused for coherent visual system, specific critique and avoiding decorative additions without a purpose."
+    },
+    {
+      "skill": "17-skill Emil catalog and brand/workflow.json",
+      "intake": "Catalog intake retained from earlier reviews; current routing reread. No new full skill reads or claim of all-17 full reading."
+    }
+  ],
+  "workflowChanges": [
+    "Inspect the whole frame before the eye detail, then pair native 07/11 regions to distinguish intended corrections from unrelated finish changes.",
+    "Treat silhouette/story survival at small image sizes separately from fine native surface quality. Neither result substitutes for the other.",
+    "Keep optional cameo identification separate from essential scene comprehension; do not turn a static illustration into an implicit hunt or interaction task.",
+    "Name material and contact findings with locations and evidence scale so implementation can correct the actual defects without redesigning the scene."
+  ],
+  "rulesNotApplicableWithReason": [
+    "Keyboard, focus, hover, pause, reduced-motion and compositor prescriptions do not create defects in this static PNG. There are no authored controls or animation to assess.",
+    "GitHub typography/layout rules and custom commercial-page recipes are outside this image review. Actual application text alternatives and layout remain an integration task.",
+    "No break-ui data toggle, browser session or device simulation is required for this fixed artwork inspection. Local image scales are the supplied evidence; they are not host-layout or physical-phone tests."
+  ],
+  "limits": [
+    "No physical-device, native GitHub rendering, keyboard or spoken-screen-reader evidence was gathered for this asset.",
+    "No audience response, recognition, recall, affection, comfort over repeated visits or measured attention order is established. Hierarchy/comfort statements are this reviewer's bounded visual judgment.",
+    "No animation, sound, performance timing, future website behavior or night variant is scored.",
+    "This review does not certify companion likeness against their original references; the companion observations concern visible staging and the specified eye shapes.",
+    "This initial revise verdict does not approve an unbuilt correction or declare the image finished."
+  ],
+  "findingsTableMarkdown": "| Before/current | After/recommendation | Why |\n| --- | --- | --- |\n| 11 shows broader crackled texture than 07 across face and wood. | Recover soft facial treatment and distinct materials. | Reduce visual noise while retaining cinematic light. |\n| Workshop grip becomes an angular dark connection. | Make the mitten and continuous handle clearly meet. | Preserve readable building intent. |\n| Tiny details disappear at 420px. | Keep them optional; retain the strong hero grouping. | Scene understanding should not depend on enlarging every cameo. |",
+  "pairDiscussion": {
+    "order": "Own whole-scene initial record saved before reading the new Interaction B findings.",
+    "partnerReviewRead": "brand/reviews/2026-11-07-banner-park/whole-scene-11/independent/interaction-b.json",
+    "partnerScore": 8.4,
+    "ownScoreRetained": 8.4,
+    "agreement": "Both independently found the native/1280 material-finish regression while preserving strong foreground hierarchy. B explicitly accepts the additional local mitten/hammer contact correction; I confirm B's proposed joint recommendation exactly.",
+    "challengeResolution": "B cautioned against uniform blur, enlarging guests or requiring every cameo to be recognizable at 420px. A explicitly accepts these limits: loss of optional detail is scale compression, not an access defect. B's reader-facing coder gaze deduction remains an optional artistic preference, not part of the required correction. I do not require a different welcoming expression or gaze.",
+    "exactJointRecommendation": "Revise the material finish and workshop grip locally, preserving scene composition, foreground exclusivity, cast, tiny anatomy, warm light and corrected eyes. Compare native/1280 finish and retain the 880/420 hierarchy. No full-scene finished claim or unseen-correction approval.",
+    "confirmation": "A sent explicit reciprocal confirmation to B after reading B's saved proposal and direct message. B's own saved proposal and message expressly support the same two corrections and limits; neither agreement nor score is inferred from silence.",
+    "skillsWorkflow": "Reuse the actual full skill intake in the independent records. Preserve whole-frame-first comparison, matched native controls and distinct local-scale versus device/audience evidence. No new skill reading or image inspection is claimed in this plan-only turn.",
+    "remainingObjections": [],
+    "status": "Joint recommendation explicitly confirmed; both original current-art scores retained. This does not approve a future image."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "reviewerId": "visual-b",
+  "position": "agree_with_limits",
+  "stage": "Independent test recommendation; saved before partner discussion.",
+  "judgment": "Cohesive soft 3D could integrate the cast better than glossy companions pasted into painted scenery. Preserve graphic moth identity.",
+  "guardrails": [
+    "Dimensional cream forms, thin wings, depth and contact shadows; graphic eyes/mouth/green markings. No human sclera, muzzle, glossy toy finish, fur or elongated limbs.",
+    "Preserve oversized head, compact torso, attached stub feet, tiny mittens, unequal paddles and four layered marked wings. All three moths must remain the same character.",
+    "Exactly two matte companions behind the rear-left workshop, around one-third builder height: orange sunburst and charcoal/white forms, without guessed product names. Preserve the resting scene.",
+    "No companions near/on the bench, foreground path or props. Coding moth/MacBook remain dominant; continuous park, no added props."
+  ],
+  "failureCriterion": "Reject if dimensionalization makes the moth resemble a generic plush child, or either cameo competes with its face. At 238px, accept lost cameo identity rather than enlarge or brighten it.",
+  "evidence": [
+    "Mascot reference viewed anew; current park and companion photo view_image inspections reused from preceding turn. Exact paths: animated-film-proposal.json."
+  ],
+  "skills": "Reused full emil-design-eng, apple-design, prototype and design-taste-frontend: hierarchy, materials, scale comparisons. No new reading; commercial-site recipes inapplicable.",
+  "limits": "Unrendered local concept; no score, adoption, night-version or audience approval.",
+  "pairDiscussion": "A and B explicitly agree: test cohesive matte 3D, preserve graphic identity and cameo-free foreground. Both accept restrained sun haze but reject character-wide glow. No substantive disagreement or unseen-art approval."
+}

@@ -1,0 +1,46 @@
+{
+  "reviewer": "audience-b",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "proposalFile": "brand/reviews/2026-11-07-banner-park/whole-scene-11/proposal-v1.json",
+  "proposalSha256": "f22147674c4537a20f89925d335e107abb9a8bc9e322559b92209c35981d40b4",
+  "hashVerified": true,
+  "position": "agree_with_named_limits",
+  "scope": "Exact consolidated material-and-grip correction PLAN only; no approval of unbuilt art.",
+  "currentScore": 8.4,
+  "scoreScope": "Expert still-image craft within audience lens: readable emotion/identity cues, hierarchy and coherent visual storytelling across the entire scene. No score for recognition, recall, affection, motion or a published application.",
+  "scoreUnchanged": true,
+  "reasons": [
+    "W1 addresses the visible cross-material cellular/faceted regression recorded in my full-scene review. Its material-specific targets preserve wood grain, cloth weave, foliage and depth while recovering soft facial volume; the explicit bans on global blur and uniform plastic smoothing resolve my paired challenge.",
+    "W2 is a bounded repair of the angular mallet grip visible in the inspected native workshop crop. A solid rounded mitten and short connected wrist clarify tool ownership without new fingers, stretched anatomy or forced hammer-to-box contact.",
+    "The plan preserves composition, exclusive foreground coding moth/bench/MacBook, original tiny identity, four subordinate guests, corrected companion eyes and intended leaf contact. Optional orientation and small-scale story refinements remain optional.",
+    "The proposed integrated verification acknowledges that an eye correction or prompt promise cannot certify the whole image; no prospective score is assigned."
+  ],
+  "limits": [
+    "Acceptance applies to the plan, not current finished-art readiness or a future render. Current 11 verdict remains revise and current score remains 8.4.",
+    "07 is a material/construction control, not a blanket rollback; retain 11’s intended improvements.",
+    "No human attribution, emotion, recognition, affection or recall evidence is created by this vote. These outcomes remain unmeasured.",
+    "1280/880/420 local scales do not establish actual GitHub, physical-device or accessibility behavior. Motion, sound and night edition are unscored.",
+    "The disclosed pre-save peer-message interruption remains part of the record; no fully blinded research claim."
+  ],
+  "pairConfirmation": {
+    "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/pairs/audience.json",
+    "exactJointRecommendation": "Revise 11’s visible cross-material surface regression while preserving its composition, exclusive foreground coder, moth identity and corrected companion eyes. Use 07 as a material-quality control, not a full revert; keep secondary-story refinements optional and all human attribution, emotion and recall outcomes unmeasured.",
+    "audienceBExplicitAcceptance": true,
+    "audienceAExplicitAcceptanceVerified": true,
+    "directExchangeCompleted": true,
+    "scoresRetained": {
+      "audienceA": 8.5,
+      "audienceB": 8.4
+    },
+    "remainingSubstantiveObjections": []
+  },
+  "humanOutcomes": {
+    "nameAttribution": null,
+    "emotionComprehension": null,
+    "recognition": null,
+    "recall": null,
+    "affection": null
+  },
+  "substantiveObjections": []
+}

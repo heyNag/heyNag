@@ -1,0 +1,20 @@
+{
+  "ownerFeedback": [
+    "Eyes of muse looks incorrect",
+    "They are correct before"
+  ],
+  "rejectedDetail": "Study08 introduced pale-ringed eyes on Muse.",
+  "reference": "assets/brand/banner-park/park-film-study-07-clawd-plush.png",
+  "target": "assets/brand/banner-park/park-film-study-08-story-and-light.png",
+  "repair": "Restore only Muse's two small solid dark eyes from07. Preserve the remaining08 scene and refinements.",
+  "stage": "Muse-only intermediate completed but not promoted; superseded by both-companion eye correction and restrained Muse likeness comparison.",
+  "supersededBy": "brand/reviews/2026-11-07-banner-park/muse-review/brief.json",
+  "latestOwnerFeedback": [
+    "See Grok bot eyes too.",
+    "Very subtle",
+    "I see some dot in the eyes",
+    "Looks incorrect",
+    "Can baby muse be better?",
+    "Check once with team. Not sure, if I being mistaken or not"
+  ]
+}

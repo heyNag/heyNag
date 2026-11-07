@@ -1,0 +1,34 @@
+{
+  "ownerRequest": [
+    "Can baby muse be better?",
+    "Check once with team. Not sure, if I being mistaken or not"
+  ],
+  "scope": "Independent identity and visual-development pair reviews before further local correction; do not assume broader redesign is necessary.",
+  "baseline": "assets/brand/banner-park/park-film-study-07-clawd-plush.png",
+  "polish": "assets/brand/banner-park/park-film-study-08-story-and-light.png",
+  "intermediate": "/Users/nag/.codex/generated_images/01a1b473-8621-7941-ba03-4b47867c136c/exec-234a1f3b-c3c0-4d21-a2fb-0e2a5cad97f6.png",
+  "intermediateStatus": "Muse-only eye restoration completed; superseded scope because Grok eye correction was also requested. Not promoted.",
+  "reference": "Owner Muse lineup, durable private copy outside public asset package.",
+  "invariants": [
+    "Tiny secondary Muse; no enlargement or foreground movement",
+    "Original moth remains primary with tiny innocent anatomy",
+    "Same leaf-play story and body pose",
+    "No added pupils or dark inner dots within Grok white oval eyes",
+    "No change to Clawd, Dot, stools, MacBook or park layout"
+  ],
+  "reviewState": "Muse modest refinement retained; eye correction reopened. Source10 retained as history only;07 remains earlier owner-liked baseline.",
+  "intermediateWorkspaceCopy": "brand/reviews/2026-11-07-banner-park/muse-review/evidence/muse-only-intermediate.png",
+  "intermediateSha256": "496243c1d975cbf4d27f126aa48afa36e695734de005a59893a509c73f9e14ee",
+  "generation": {
+    "state": "Comparison09 completed; Grok dots persisted. Separate original-reference repair10 completed and is undergoing fresh affected-pair review.",
+    "prompt": "brand/reviews/2026-11-07-banner-park/film-companion-refinement-prompt.txt",
+    "scope": [
+      "Required Grok plain-white-eye restoration",
+      "Optional softer Muse hood rim and subtly broader face opening within unchanged head bounds"
+    ],
+    "invariants": "Muse dark-dot eyes and tiny pose/scale; remaining scene preserved by instruction, to be visually rechecked."
+  },
+  "latestCandidate": "assets/brand/banner-park/park-film-study-11-flat-grok-eyes.png",
+  "latestRecord": "brand/reviews/2026-11-07-banner-park/film-study-11.json",
+  "latestCandidateStatus": "Actual11 generated from corrected enlarged eye reference; fresh native and magnified final-export review underway."
+}

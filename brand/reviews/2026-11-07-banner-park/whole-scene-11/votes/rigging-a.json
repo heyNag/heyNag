@@ -1,0 +1,33 @@
+{
+  "reviewer": "rigging-a",
+  "proposalSha256": "f22147674c4537a20f89925d335e107abb9a8bc9e322559b92209c35981d40b4",
+  "reviewedAssetSha256": "87943e3c1452d40b1ac535ea5bbcefa6e7676cee77165eef2d77ce5c67a32569",
+  "position": "agree",
+  "scope": "Acceptance of the exact consolidated correction plan only. Current 11 remains revise; no unbuilt replacement is approved.",
+  "reasons": [
+    "W1 correctly covers material-specific surfaces and continuous contours across the entire scene, not only the hero. The required native/full-1280 comparison and prohibition on global blur address the visible defect without assuming its technical cause.",
+    "W2 precisely addresses the weak hammer grip while preserving short reach, mitten construction, prop scale and the raised anticipation pose.",
+    "The retention list preserves the three tiny moth appearances, four guests, supports, exclusive coding foreground and successful eye/leaf refinements. 07 is correctly used as a control, not a wholesale rollback.",
+    "Optional gaze/observer changes remain outside the required repair, and actual complete replacement evidence is required before any finished-art judgment."
+  ],
+  "limits": [
+    "This vote changes no current score and assigns no score to future art. No automatic 9 follows from implementing the plan.",
+    "Visible contact and contour checks cannot certify a hidden 3D mesh, rig, motion, physical simulation or sound.",
+    "Local 1280/880/420 scales do not establish GitHub/browser, physical-device or audience outcomes.",
+    "Both required corrections must survive the final integrated full image; a successful local eye or grip patch alone is insufficient."
+  ],
+  "currentScore": {
+    "value": 8.3,
+    "scope": "Whole-scene still-image craft through the articulation/contact and rendering-integrity lens. Not a score for a 3D model, rig, animation, interaction or audience response.",
+    "status": "Retained; no new artwork was reviewed."
+  },
+  "pairConfirmation": {
+    "confirmed": true,
+    "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/pairs/rigging.json",
+    "ownScore": 8.3,
+    "partnerScore": 7.8,
+    "recommendation": "Revise 11 before final presentation. Preserve the composition, four guests, three compact V5 moth appearances, Muse-leaf interaction and flat Grok eyes. Restore material-specific surfaces and continuous contours throughout the frame, and one clear rounded mitten gripping the mallet with a short wrist connection. Use 07 as a control for retained qualities rather than a wholesale rollback. Keep individual scores and do not approve an unseen replacement.",
+    "remainingObjections": []
+  },
+  "skillsWorkflow": "Reused full-read Emil design-engineering, animate, review-animations and animation-performance instructions already documented in the independent review. Compared evidence scope, resolved partner challenge, verified immutable proposal/asset hashes and recorded a plan vote; UI timing/compositor rules remain inapplicable to this raster still."
+}

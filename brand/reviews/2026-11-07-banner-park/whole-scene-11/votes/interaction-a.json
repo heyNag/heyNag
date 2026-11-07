@@ -1,0 +1,34 @@
+{
+  "reviewer": "interaction-a",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "proposal": "brand/reviews/2026-11-07-banner-park/whole-scene-11/proposal-v1.json",
+  "proposalSha256": "f22147674c4537a20f89925d335e107abb9a8bc9e322559b92209c35981d40b4",
+  "reviewedAssetSha256": "87943e3c1452d40b1ac535ea5bbcefa6e7676cee77165eef2d77ce5c67a32569",
+  "position": "agree_with_named_limits",
+  "reasons": [
+    "W1 directly addresses the independently observed material regression across the whole picture and requires visible improvement at native and 1280, with 07 as a control rather than blanket rollback.",
+    "W2 directly addresses the unclear workshop mitten/handle connection while preserving the existing tiny reach and raised-mallet pose. No hammer-to-box contact is needed during anticipation.",
+    "The plan preserves the successful large-shape hierarchy, exclusive coding foreground, four guests, original anatomy, warm light and integrated eye corrections. Optional gaze and foliage-contrast preferences stay optional.",
+    "The plan requires evidence from the actual integrated candidate instead of assuming that a prompt or isolated patch preserved the scene."
+  ],
+  "limits": [
+    "This vote accepts the exact correction plan, not the current 11 as finished and not any unbuilt replacement. Current 11 remains revise.",
+    "Material cleanup must not become blanket blur, uniform plastic smoothing, new fur everywhere, or unrestricted restyling. Preserve intentional material distinctions and coherent light.",
+    "420px loss of optional cameo detail is not an access defect. Do not enlarge guests or add interaction, labels or props to force their identification.",
+    "Local image scales do not establish GitHub placement, physical-device behavior, screen-reader output, human attention, recognition or repeat-visit comfort.",
+    "No score increase follows plan acceptance. Future still-image craft must be judged on the actual full export; animation, sound and website behavior remain outside this vote."
+  ],
+  "currentScore": 8.4,
+  "currentScoreScope": "Whole still-image craft within the interaction lens: ease of scanning, focal hierarchy, scene comprehension and surface clarity at native and supplied local banner scales. Not a keyboard, accessibility-conformance, motion, audience or device score.",
+  "pairConfirmation": {
+    "confirmed": true,
+    "record": "brand/reviews/2026-11-07-banner-park/whole-scene-11/pairs/interaction.json",
+    "exactJointRecommendation": "Revise the material finish and workshop grip locally, preserving scene composition, foreground exclusivity, cast, tiny anatomy, warm light and corrected eyes. Compare native/1280 finish and retain the 880/420 hierarchy. No full-scene finished claim or unseen-correction approval.",
+    "ownCurrentScore": 8.4,
+    "partnerCurrentScore": 8.4,
+    "evidence": "B saved and messaged an explicit proposed joint; A read it and sent explicit reciprocal confirmation. B accepted the grip finding; both keep gaze optional and reject mandatory tiny-cameo recognition.",
+    "remainingObjections": []
+  },
+  "validation": "Proposal and reviewed-asset SHA256 independently recomputed and matched before this vote was written. All current-image evidence remains the inspected independent-review set; no new image, source edit, publication or audience result is claimed."
+}

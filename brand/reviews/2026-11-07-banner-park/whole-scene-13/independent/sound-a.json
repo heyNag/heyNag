@@ -1,0 +1,166 @@
+{
+  "reviewer": "sound-a",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "asset": "assets/brand/banner-park/park-film-study-13-muse-face-cleanup.png",
+  "assetSha256": "32ce62c11e533fcd3a7ab1856a102c7a31b9111d96c3fbf16df8d469b8f08469",
+  "checksumVerified": true,
+  "lens": "Silent legibility and restraint: complete still-image action hierarchy, atmosphere and visual rest",
+  "evidenceInspected": [
+    "Read whole-scene-13/brief.json and current repository AGENTS.md; reused prior full workflow/team and relevant skill readings.",
+    "Fresh view_image at original detail: complete 13, complete 11 and complete 07, each 2172 x 724.",
+    "Fresh view_image at original detail: scene13-width-1280.png, scene13-width-880.png and scene13-width-420.png.",
+    "Fresh view_image at original detail: scene13-hero-native.png, scene13-workshop-native.png and scene13-tree-play-native.png.",
+    "Fresh view_image at original detail: scene13-companions-native.png and scene13-companions-5x.png.",
+    "Fresh view_image at original detail: scene13-grip-native.png and scene13-grip-5x.png.",
+    "Fresh comparison crops viewed: whole-scene-11/evidence/scene11-hero-native.png, scene07-hero-native.png, scene11-workshop-native.png and scene07-workshop-native.png.",
+    "Reused actual prior V5 and original companion-reference inspections; did not claim those references were newly viewed in this pass.",
+    "Verified exact 13 asset hash and approved plan hash f22147674c4537a20f89925d335e107abb9a8bc9e322559b92209c35981d40b4."
+  ],
+  "readiness": "ready_for_owner_review",
+  "readinessExplanation": "The actual complete 13 resolves the two previously required weaknesses to a convincing still-image standard in this lens. Material cleanup and a solid grip improve silent cause without losing the warm world or lead/support hierarchy. Remaining texture and highlight preferences are minor, not reasons for another mandatory edit. This is one specialist position pending the coordinated all-18 decision.",
+  "score": {
+    "value": 9.1,
+    "previous": 8.2,
+    "change": 0.9,
+    "outOf": 10,
+    "scope": "Still-image craft within silent action legibility, hierarchy, atmosphere and visual rest across the entire frame. No audio or motion score.",
+    "confidence": "moderate-high",
+    "changeReason": "Fresh native/full-frame comparisons show the distracting large patch network substantially removed from face, wood, canopy and ground, and the angular mallet join replaced by a visibly attached rounded grip. The improvement is observed in the rendered image rather than inferred from plan acceptance.",
+    "deductions": [
+      {
+        "id": "SOUND-A-W13-1",
+        "severity": "minor, nonblocking",
+        "location": "Native hero forehead, green antenna paddles and upper wing",
+        "finding": "Fine curling/cellular surface marks remain visible across several soft surfaces. Their lower contrast now allows the plush volume to read, but the close-up still has slightly more patterned sameness than an entirely material-specific finish would need.",
+        "evidence": [
+          "scene13-hero-native.png",
+          "fresh scene11-hero-native.png and scene07-hero-native.png comparison"
+        ],
+        "boundary": "This is a residual craft preference, not a claim that W1 failed or that all texture should be erased. It does not disrupt the face at 1280/880."
+      },
+      {
+        "id": "SOUND-A-W13-2",
+        "severity": "minor, optional emphasis refinement",
+        "location": "Sunlit bench edge, grass and stone highlights around the open path",
+        "finding": "A few bright accents still compete locally with the intended quiet transitional space. The path remains readable and useful, so any reduction would be selective taste refinement rather than a required lighting change.",
+        "evidence": [
+          "complete 13",
+          "scene13-width-1280.png"
+        ],
+        "boundary": "Preserve warm directional sunlight, stone texture and the lively garden. No global blur or dimming."
+      }
+    ],
+    "criteriaForNine": [
+      {
+        "criterion": "Restore material separation and a calmer hero face while preserving warm light and environmental richness.",
+        "assessment": "Met at the whole-frame and supplied reduced scales; minor native surface-pattern preference remains."
+      },
+      {
+        "criterion": "Show a small attached mitten clearly holding the mallet without changing the action or adding explanatory sound/effects.",
+        "assessment": "Met in both native and 5x integrated crops, with broad making action clear in the frame."
+      },
+      {
+        "criterion": "Keep coding first, workshop/rest supporting, and authorized leaf play subordinate across the complete composition.",
+        "assessment": "Met at 1280/880/420; fine guest details naturally compress at 420."
+      },
+      {
+        "criterion": "Inspect actual final whole image and tiny integrated eye/contact details rather than approve a repair prompt.",
+        "assessment": "Met for this exact asset hash. The score is an ordinal expert judgment, not studio equivalence or measured audience response."
+      }
+    ]
+  },
+  "correctionAssessment": {
+    "W1": {
+      "status": "fixed",
+      "qualification": "Fixed to readiness in this bounded still-image lens; minor low-contrast patterning remains and is recorded above.",
+      "evidence": "Compared with 11, face and wing now hold broad soft volumes; glasses and laptop contours read cleanly; bench boards show directional grain rather than overlapping patch boundaries. Workshop canopy folds, table boards and toolbox are coherent. The bark, stone path and foliage retain distinct surface character and depth. 07 is a useful clean control, while 13 retains the current eye and story refinements.",
+      "scope": "This is a visual material/contour assessment, not a reconstruction or pixel-preservation audit."
+    },
+    "W2": {
+      "status": "fixed",
+      "evidence": "The native and 5x grip show a solid cream mitten wrapping the brown handle with a short visible wrist/arm connection. The hollow angular strap interpretation present in 11 is removed. The mallet remains raised above the work; impact contact is not required.",
+      "scope": "Visible attachment and silent-action clarity only; not an animation or force simulation."
+    }
+  },
+  "preservation": [
+    "The large coding moth, laptop and bench remain the first read; no guest occupies the exclusive coding foreground.",
+    "One continuous park links rest, making and coding through the open curving path. The three moth appearances remain in the same broad arrangement.",
+    "Clawd and blue-beret Dot remain on two workshop stools, small enough to support the making scene. No watcher re-pose is needed for readiness.",
+    "Muse and Grok share the one leaf directly in front of the resting moth at the authorized tree-local position.",
+    "The actual integrated 5x companion crop shows small dark Muse eyes, one clean smile without an extra lower curve, and flat pupil-free white Grok ovals.",
+    "Warm upper-right light, soft distant bridge/water and foreground framing sustain a dimensional atmosphere throughout the environment, not just the mascots.",
+    "Plush faces, wood, knitted blanket, fabric canopy, bark and stone remain distinguishable. The cleanup has not globally blurred or flattened the picture.",
+    "The coding figure retains compact innocent proportions, unequal antenna paddles, small feet, mittens and marked visible wing forms. No numerical anatomy parity or full occluded-wing count is inferred."
+  ],
+  "newRegressions": [],
+  "newRegressionsQualification": "No concrete new blocking regression identified within the inspected silent-legibility and whole-still craft scope; this is not a guarantee that all specialist concerns are absent.",
+  "mustFix": [],
+  "optional": [
+    "If another edit is independently desired, quiet only the remaining native cellular pattern on the hero soft surfaces; do not reopen the entire scene or remove intentional texture.",
+    "A few path/bench highlight accents could be reduced selectively, while preserving the warm light and lively garden.",
+    "Workshop watcher gaze remains an optional acting preference. It does not justify recasting, enlarging guests or changing the current making pose."
+  ],
+  "baselineComparison": "13 is visibly calmer and more materially differentiated than 11 at native size and 1280. It recovers the cleaner broad read of 07 while retaining the current companion eye treatment and leaf-play arrangement. The newly solid hand/handle construction resolves the specific contact issue. This judgment does not rely on a blanket rollback or on the approved plan promising success.",
+  "skillsReviewed": [
+    {
+      "name": "choreograph",
+      "intake": "Full instructions previously read, reused",
+      "application": "Map coding as lead, making/rest as support and guest play as subordinate spatial action. No temporal choreography claim."
+    },
+    {
+      "name": "remove-animations",
+      "intake": "Full instructions previously read, reused",
+      "application": "Preserve restraint; no sound, loop or attention cue is needed to explain the still."
+    },
+    {
+      "name": "review-animations",
+      "intake": "Full instructions previously read, reused",
+      "application": "Use actual-render evidence and scoped conclusions; temporal rules have no implemented motion to evaluate."
+    },
+    {
+      "name": "emil-design-eng",
+      "intake": "Full instructions previously read in the GitHub round, reused",
+      "application": "Judge clarity, purposeful emphasis and complete rendered context."
+    },
+    {
+      "name": "design-taste-frontend",
+      "intake": "Full instructions previously read in the GitHub round, reused",
+      "application": "Check cohesive environment and material treatment across the whole frame rather than approving cute characters in isolation."
+    }
+  ],
+  "catalogIntake": "All 17 installed Emil catalog summaries were read during prior team intake. Only the relevant full readings above are claimed, not all 17 full skills.",
+  "workflowChanges": [
+    "Freshly compare complete actual 13 with 11 and 07 before assessing the repaired crops.",
+    "Use native and 5x contact/eye inspection together, then return to reduced full-frame views to ensure local cleanup preserves hierarchy.",
+    "Treat visual quietness as material contrast and spatial emphasis; do not turn it into an invented sound or continuous-rhythm result.",
+    "Record which prior must-fixes are resolved separately from remaining optional texture or gaze preferences.",
+    "Save this independent score before peer-13 findings; root coordinates the subsequent pair discussion."
+  ],
+  "rulesNotApplicableWithReason": [
+    "Timing, easing, interruption, compositor performance and playback rules are inapplicable to a single raster still.",
+    "Audio quality and repeat-listening comfort have no audio artifact to assess; silence is intentional and sufficient.",
+    "Custom-site CSS/JS, hover and screen-layout recipes are outside this existing banner artwork review.",
+    "A 420 px local image is not native GitHub/mobile DOM or physical-device evidence.",
+    "The owner-authorized tree-local guest placement is distinct from the exclusive coding bench/path foreground rule."
+  ],
+  "limits": [
+    "No audio heard, motion observed, temporal rhythm scored or future website behavior inspected.",
+    "No audience research, unprimed recognition/comprehension, attention tracking or repeat-visit comfort measured.",
+    "No full production rig, numerical geometry parity or precise studio equivalence established from raster images.",
+    "At 420 px, coding and the broad three-zone scene remain legible; fine leaf contact, tool grip and companion identity cannot carry equal detail. This remains a scale limit, not a reason to enlarge guests.",
+    "The brief reports a 54-pixel local Muse cleanup from 12. This review visually checks actual 13 but does not independently audit 12-to-13 changed-pixel counts.",
+    "Ready for owner review is this reviewer's scoped position, not publication authorization or a claim of all-18 consensus.",
+    "No new art, browser edits, source changes, additional agents or publication performed."
+  ],
+  "unscoredOutcomes": {
+    "audioQuality": null,
+    "continuousMotionRhythm": null,
+    "audienceComprehension": null,
+    "repeatVisitComfort": null
+  },
+  "independence": "Saved before reading any new peer-13 findings. Prior plan and pair knowledge were reused only as correction criteria; actual 13 was freshly inspected independently.",
+  "pairDiscussion": {
+    "status": "Pending root scheduling; no peer-13 findings read or exchanged."
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "reviewer": "rigging-a",
+  "assetSha256": "f43b5c7053f9fc3017c651e9ba4628a862ffbe1fd76d706f145a88f75f2e3e70",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "evidenceInspected": [
+    "brand/reviews/2026-11-07-banner-park/whole-scene-12/brief.json",
+    "assets/brand/banner-park/park-film-study-12-materials-and-grip.png",
+    "assets/brand/banner-park/park-film-study-11-flat-grok-eyes.png — freshly viewed complete frame",
+    "assets/brand/banner-park/park-film-study-07-clawd-plush.png — freshly viewed complete frame",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-12/evidence/scene12-width-1280.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-12/evidence/scene12-width-880.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-12/evidence/scene12-width-420.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-12/evidence/scene12-hero-native.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-12/evidence/scene12-workshop-native.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-12/evidence/scene12-tree-play-native.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-12/evidence/scene12-companions-native.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-12/evidence/scene12-companions-5x.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-12/evidence/scene12-grip-native.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-12/evidence/scene12-grip-5x.png",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-hero-native.png — freshly compared",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-workshop-native.png — freshly compared",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene07-hero-native.png — freshly compared",
+    "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene07-workshop-native.png — freshly compared",
+    "brand/reviews/2026-11-07-banner-park/muse-review/evidence/11-companion-inspection-enlarged.png — freshly compared",
+    "assets/brand/heynag-moth-v5-refined.png — prior actual inspection reused",
+    "/Users/nag/projects/personal/.heynag-profile-work/references/owner-muse-lineup.jpg — prior actual inspection reused",
+    "/Users/nag/projects/personal/.heynag-profile-work/references/owner-clawd-plush.jpg — prior actual inspection reused",
+    "/Users/nag/projects/personal/.heynag-profile-work/references/nag-grok-bot-reference.webp — prior actual inspection reused"
+  ],
+  "readiness": "ready_for_owner_review",
+  "readinessMeaning": "From this individual still-image lens, the two required repairs are sufficient and no blocking new defect is visible. This is not the full-team decision, publication authorization or approval of future variants.",
+  "score": {
+    "value": 9.0,
+    "previous": 8.3,
+    "scope": "Whole-scene still-image craft through the articulation/contact and rendering-integrity lens. Not a score for a 3D model, rig, animation, interaction or audience response.",
+    "confidence": "High for visible material/contact improvement and integrated composition; moderate for the interpretation of very small cosmetic marks.",
+    "changeExplanation": "The gain is earned by cleaner material separation and continuous hard-object contours throughout the frame, plus an unmistakable short solid grip. It is not awarded for following the plan or reaching a desired threshold. Remaining minor surface and facial-mark limits keep this below a flawless finish.",
+    "deductions": [
+      {
+        "id": "muse-chin-mark",
+        "severity": "Minor, nonblocking cosmetic regression",
+        "location": "Muse face, directly below the smile in the lower-left tree vignette.",
+        "observation": "12 adds a short dark crease/dash beneath Muse’s smile that is absent from the inspected 11 enlarged companion crop. It is clearest at 5x and faint at native crop size; the face still reads as a single smiling face with dark eyes in the full scene.",
+        "evidence": [
+          "brand/reviews/2026-11-07-banner-park/whole-scene-12/evidence/scene12-companions-native.png",
+          "brand/reviews/2026-11-07-banner-park/whole-scene-12/evidence/scene12-companions-5x.png",
+          "brand/reviews/2026-11-07-banner-park/muse-review/evidence/11-companion-inspection-enlarged.png"
+        ],
+        "effect": "A small unnecessary facial mark makes the otherwise simple face slightly less clean. It does not impair contact, support, eye correctness or whole-scene hierarchy.",
+        "improvementCriterion": "If a local cosmetic cleanup is undertaken, remove only the extra lower dash while retaining the smile, dark eyes, hood and leaf contact. A broad face redraw is not justified.",
+        "confidence": "High that the extra mark is visible; moderate about whether it would be perceived as a chin crease at ordinary display size."
+      },
+      {
+        "id": "fine-hero-texture",
+        "severity": "Minor, nonblocking finish preference",
+        "location": "Hero’s cream upper head and lime antenna paddles/forewing.",
+        "observation": "A fine curled/cellular surface pattern remains visible in the native hero crop. It is much quieter and more localized than 11’s cross-material segmentation; wood, glass, metal and fabric now retain distinct surface structures.",
+        "evidence": [
+          "brand/reviews/2026-11-07-banner-park/whole-scene-12/evidence/scene12-hero-native.png",
+          "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-hero-native.png",
+          "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene07-hero-native.png"
+        ],
+        "effect": "The hero is slightly more decoratively textured than the simplest soft matte treatment, but its volume and contours remain clear. This is not the former whole-frame material failure.",
+        "improvementCriterion": "Optional future polish could reduce the pattern contrast on broad head/paddle areas without blurring edges or stripping intentional plush texture. No further render is required by this review."
+      }
+    ],
+    "criteriaForNine": [
+      "Met in this actual export: the whole-frame material regression is corrected at native and 1280px scales; soft character, timber, woven blanket, glass/metal and foliage read distinctly.",
+      "Met in this actual export: one rounded closed mitten visibly encloses the raised mallet handle with a continuous compact wrist, confirmed natively and at 5x.",
+      "Met: preserved cast, small proportions, seating/support, flat Grok eyes and exclusive coding foreground; no blocking new scene defect found.",
+      "The remaining cosmetic deductions do not prevent a scoped 9.0. Removing them would require inspection of the resulting actual image; no unseen improvement is scored."
+    ]
+  },
+  "correctionAssessment": {
+    "W1": {
+      "status": "fixed",
+      "evidence": [
+        "brand/reviews/2026-11-07-banner-park/whole-scene-12/evidence/scene12-hero-native.png",
+        "brand/reviews/2026-11-07-banner-park/whole-scene-12/evidence/scene12-workshop-native.png",
+        "brand/reviews/2026-11-07-banner-park/whole-scene-12/evidence/scene12-tree-play-native.png",
+        "brand/reviews/2026-11-07-banner-park/whole-scene-12/evidence/scene12-width-1280.png",
+        "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-hero-native.png",
+        "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-workshop-native.png"
+      ],
+      "assessment": "The former coarse shared segmentation no longer dominates unlike surfaces. Bench boards have continuous grain and clean gaps, metal arms and glasses have stable contours, the laptop has a clear hard edge, the blanket retains its woven construction, and the workshop/tree/path form coherent distinct materials. Native character surfaces retain fine texture, recorded as a nonblocking finish preference. This is a whole-frame improvement, not only hero polish or global blur."
+    },
+    "W2": {
+      "status": "fixed",
+      "evidence": [
+        "brand/reviews/2026-11-07-banner-park/whole-scene-12/evidence/scene12-workshop-native.png",
+        "brand/reviews/2026-11-07-banner-park/whole-scene-12/evidence/scene12-grip-native.png",
+        "brand/reviews/2026-11-07-banner-park/whole-scene-12/evidence/scene12-grip-5x.png",
+        "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-workshop-native.png",
+        "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene07-workshop-native.png"
+      ],
+      "assessment": "A solid cream closed mitten wraps the handle with a readable thumb-side mass and short continuous wrist. The hollow angular linkage reading from 11 is gone. Small crease marks remain within one compact fist mass; there are no elongated separate fingers or limb workaround. The mallet remains raised, so impact contact with the box is neither present nor required."
+    }
+  },
+  "preservation": [
+    "Three appearances of the same tiny moth retain large soft heads, compact seated bodies, unequal paddle antennae, small feet and visible layered marked wings. Occluded far-side panels remain untestable, not newly missing.",
+    "The coding moth remains alone on the foreground bench. Its visible keyboard hand, close feet and lap/laptop placement read supported; cup/book/bench contacts stay coherent.",
+    "Clawd and blue beret Dot remain seated on separate grounded stools at the workshop. Clawd retains both square eyes. Their optional orientation refinement has not been promoted into a new requirement.",
+    "Muse and Grok stay local to the resting moth and shared leaf. The final integrated native and 5x crops show Muse dark eyes and Grok flat white pupil-free oval interiors without a visible pupil spot.",
+    "Canopy ties, workshop table and toolbox, stool legs, bench structure and book stack remain spatially credible. No new floating prop or penetrating limb is visible.",
+    "Warm upper-right sunlight, soft distant bridge, path recession and foreground scale remain coherent. The scene and coder silhouette survive 1280/880/420 local scales; the smallest scale does not resolve every guest action."
+  ],
+  "newRegressions": [
+    {
+      "id": "muse-chin-mark",
+      "severity": "Minor, nonblocking cosmetic regression",
+      "location": "Muse face, directly below the smile in the lower-left tree vignette.",
+      "observation": "12 adds a short dark crease/dash beneath Muse’s smile that is absent from the inspected 11 enlarged companion crop. It is clearest at 5x and faint at native crop size; the face still reads as a single smiling face with dark eyes in the full scene.",
+      "evidence": [
+        "brand/reviews/2026-11-07-banner-park/whole-scene-12/evidence/scene12-companions-native.png",
+        "brand/reviews/2026-11-07-banner-park/whole-scene-12/evidence/scene12-companions-5x.png",
+        "brand/reviews/2026-11-07-banner-park/muse-review/evidence/11-companion-inspection-enlarged.png"
+      ],
+      "effect": "A small unnecessary facial mark makes the otherwise simple face slightly less clean. It does not impair contact, support, eye correctness or whole-scene hierarchy.",
+      "improvementCriterion": "If a local cosmetic cleanup is undertaken, remove only the extra lower dash while retaining the smile, dark eyes, hood and leaf contact. A broad face redraw is not justified.",
+      "confidence": "High that the extra mark is visible; moderate about whether it would be perceived as a chin crease at ordinary display size."
+    }
+  ],
+  "mustFix": [],
+  "optional": [
+    {
+      "id": "fine-hero-texture",
+      "severity": "Minor, nonblocking finish preference",
+      "location": "Hero’s cream upper head and lime antenna paddles/forewing.",
+      "observation": "A fine curled/cellular surface pattern remains visible in the native hero crop. It is much quieter and more localized than 11’s cross-material segmentation; wood, glass, metal and fabric now retain distinct surface structures.",
+      "evidence": [
+        "brand/reviews/2026-11-07-banner-park/whole-scene-12/evidence/scene12-hero-native.png",
+        "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene11-hero-native.png",
+        "brand/reviews/2026-11-07-banner-park/whole-scene-11/evidence/scene07-hero-native.png"
+      ],
+      "effect": "The hero is slightly more decoratively textured than the simplest soft matte treatment, but its volume and contours remain clear. This is not the former whole-frame material failure.",
+      "improvementCriterion": "Optional future polish could reduce the pattern contrast on broad head/paddle areas without blurring edges or stripping intentional plush texture. No further render is required by this review."
+    },
+    {
+      "id": "muse-local-cleanup",
+      "finding": "The newly visible lower facial dash could be cleaned locally if other review evidence warrants a touch-up. It is nonblocking in this lens; do not regenerate the entire face or scene to remove it."
+    },
+    {
+      "id": "existing-coder-mitten-grooves",
+      "finding": "Existing rounded grooves on the coder’s hand remain a mild departure from the simplest V5 mitten. They were already present in 07/11 and do not require a new pose or anatomy pass."
+    }
+  ],
+  "skillsReviewed": [
+    {
+      "skill": "emil-design-eng",
+      "intake": "Prior full reading reused.",
+      "application": "Judge actual integrated output, material clarity, meaningful detail and scoped evidence."
+    },
+    {
+      "skill": "animate",
+      "intake": "Prior full reading reused.",
+      "application": "Evaluate purposeful readable contact without inferring a working 3D rig or animation."
+    },
+    {
+      "skill": "review-animations",
+      "intake": "Prior full reading reused.",
+      "application": "Keep independent judgment, explicit change criteria and no automatic approval from a correction plan."
+    },
+    {
+      "skill": "animation-performance",
+      "intake": "Prior full reading reused.",
+      "application": "Separate raster craft from unmeasured runtime/compositor quality."
+    }
+  ],
+  "workflowChanges": [
+    "Verified the exact12 SHA, inspected the whole frame and every prescribed new scale/crop, then freshly compared 11/07 regions for claimed changes.",
+    "Checked the integrated grip and companion faces both natively and at 5x; distinguished a new tiny cosmetic mark from full-size blocking failures.",
+    "Reused actual identity/companion reference inspections and full skill readings honestly. No artwork, source, browser, publication or peer-review action was performed."
+  ],
+  "rulesNotApplicableWithReason": [
+    "UI durations, springs, interruption and compositor rules cannot validate a silent raster still.",
+    "A generated dimensional image does not prove editable topology, physics or the existing 2D rig’s numeric reuse.",
+    "Magnified interpolation alone is not a full-frame defect; the Muse mark is recorded as a small cosmetic limit rather than inflated into an anatomy failure."
+  ],
+  "limits": [
+    "Same bounded still-image judgment as the prior 8.3 review; no tested 3D model, hidden attachment topology, motion, sound or future night treatment.",
+    "Local resizes are not GitHub/browser/physical-device evidence. Human recognition, recall and emotional response remain untested.",
+    "Ready for owner review is this reviewer’s position only. Root still coordinates the independent full-team and pair stages.",
+    "No further art, extra agents or self-scheduled round was created."
+  ],
+  "independence": "Saved this judgment before reading any peer12 finding or sending substantive peer12 findings. No new peer12 records were opened."
+}

@@ -1,0 +1,39 @@
+{
+  "discipline": "visual",
+  "sourceSha256": "87943e3c1452d40b1ac535ea5bbcefa6e7676cee77165eef2d77ce5c67a32569",
+  "status": "Resolved: Visual A and Visual B explicitly accept the exact bounded material-correction recommendation.",
+  "independentPositions": {
+    "A": {
+      "record": "whole-scene-11/independent/visual-a.json",
+      "verdict": "revise",
+      "score": 8.2
+    },
+    "B": {
+      "record": "whole-scene-11/independent/visual-b.json",
+      "verdict": "revise",
+      "score": 8.3
+    }
+  },
+  "exactBoundedRecommendation": "Revise11 with controlled, material-specific cleanup: restore soft cream/plush form, Clawd's cushioned orange surface with both square eyes, thin marked-wing shading, and coherent wood/textile structure. Preserve intentional grain, knit, foliage variation, current composition/poses/cast, corrected eyes and foreground exclusivity. Do not blanket-smooth, blur, add fur everywhere or launch an unrestricted whole-scene regeneration. Selectively quieter path/grass highlights remain optional.",
+  "challengeDiscussion": [
+    "B's saved independent review emphasizes Clawd's rectangular face/body seams as a clear plush-material regression. A read that review after saving independently, inspected matched07/11 workshop crops and explicitly concurs.",
+    "A emphasizes cumulative material distinction across the hero and environment. B's drawing/contour emphasis and A's material emphasis converge on a controlled finish correction, not deletion of intentional texture.",
+    "Grain following wood form, readable blanket knitting, soft fabric and foliage variation remain valuable. Similar angular marks spreading across unrelated materials are the repair target. Neither independent review calls for a composition, cast or anatomy redesign."
+  ],
+  "remainingDifference": "Individual weighting and scores remain A8.2/B8.3. Both explicitly accept the exact bounded recommendation; no substantive disagreement remains.",
+  "ADecision": "accept_bounded_recommendation",
+  "BDecision": "accept_bounded_recommendation",
+  "confirmationPlan": "Completed: B read A independent findings and this pair record after saving its own independent assessment, directly confirmed the exact recommendation to A, and recorded its own proposal vote.",
+  "limits": [
+    "Scores remain subjective judgments of actual11: A8.2/B8.3. No score for unbuilt cleanup.",
+    "Resolved pair-plan recommendation only; no all18 consensus, whole-scene artwork acceptance, owner approval or publication is claimed by this pair.",
+    "Any replacement must be inspected before approval; this vote initiates no new art, agents or review round."
+  ],
+  "BConfirmation": {
+    "explicit": true,
+    "record": "whole-scene-11/votes/visual-b.json",
+    "recommendationAcceptedVerbatim": "Revise11 with controlled, material-specific cleanup: restore soft cream/plush form, Clawd's cushioned orange surface with both square eyes, thin marked-wing shading, and coherent wood/textile structure. Preserve intentional grain, knit, foliage variation, current composition/poses/cast, corrected eyes and foreground exclusivity. Do not blanket-smooth, blur, add fur everywhere or launch an unrestricted whole-scene regeneration. Selectively quieter path/grass highlights remain optional.",
+    "scope": "Correction plan only; no approval or score for unbuilt art.",
+    "scoreRetained": 8.3
+  }
+}

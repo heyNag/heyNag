@@ -1,0 +1,76 @@
+{
+  "reviewer": "sound-a",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "proposal": "proposal-v1.json",
+  "proposalSha256": "f22147674c4537a20f89925d335e107abb9a8bc9e322559b92209c35981d40b4",
+  "proposalChecksumVerified": true,
+  "reviewedAsset": "assets/brand/banner-park/park-film-study-11-flat-grok-eyes.png",
+  "reviewedAssetSha256": "87943e3c1452d40b1ac535ea5bbcefa6e7676cee77165eef2d77ce5c67a32569",
+  "reviewedAssetChecksumVerified": true,
+  "vote": "agree",
+  "scope": "Correction plan only for the existing complete still; no approval or score for unbuilt revised artwork.",
+  "reasons": [
+    "W1 addresses the directly observed repeated patch boundaries and weak material separation across the hero, bench and workshop; it requires actual native/full-frame improvement while preserving genuine surface character and warm lighting.",
+    "W2 addresses the angular hand/handle join with one solid rounded attached tiny mitten while preserving the existing reach, mallet pose and anatomy.",
+    "The plan preserves the current composition, four authorized guests, coding-first hierarchy and corrected Muse/Grok eyes; 07 remains a control rather than a wholesale rollback.",
+    "Watcher gaze and incidental contrast refinements are explicitly optional. No audio, motion, props or guest enlargement is required.",
+    "Versioned actual-image inspection and separate independent review before finished presentation maintain the evidence boundary."
+  ],
+  "limits": [
+    "Current 11 remains revise at 8.2 within the same still-image scope. Accepting the plan does not predict the next score or certify a 9.",
+    "Sound B retains 8.4 and its distinct optional watcher/small-scale deductions. Joint recommendation does not mean numeric convergence.",
+    "No audio, continuous motion, human recognition, repeat-visit comfort, browser deployment or physical-device outcome was tested or scored.",
+    "A completed edit must be assessed across the whole image, native crops and magnified integrated eyes/grip; prompt promises alone cannot prove preservation."
+  ],
+  "currentScore": {
+    "value": 8.2,
+    "outOf": 10,
+    "scope": "Still-image craft within silent action legibility, hierarchy, atmosphere and visual rest across the entire frame. No audio or motion score.",
+    "confidence": "moderate-high",
+    "deductions": [
+      {
+        "id": "SOUND-A-W11-1",
+        "severity": "moderate",
+        "location": "Hero cream head/wing and bench across right half; canopy, support beams and ground around central workshop",
+        "finding": "11 spreads a sharper patch/facet-like edge network across otherwise soft or smoothly lit surfaces. The hero face and bench plank surfaces are visibly more broken up than07, and similar small patches recur on the canopy/beam. This reduces calm around the strongest face and makes different materials compete at the same detail frequency.",
+        "evidence": [
+          "11 full native image",
+          "scene11-hero-native.png versus scene07-hero-native.png",
+          "scene11-workshop-native.png versus scene07-workshop-native.png",
+          "scene11-width-1280.png"
+        ],
+        "basis": "Direct visual comparison, not an assumption that repeated edits must degrade art.07 also has handcrafted texture; the objection is the stronger edge network and material homogenization in11, not all texture.",
+        "improvementCriterion": "Quiet the unintended patch boundaries on the hero face and wood/fabric planes while retaining fur, grain and weave appropriate to each. Verify the whole native frame and1280/880 views still feel cohesive, not just the repaired area."
+      },
+      {
+        "id": "SOUND-A-W11-2",
+        "severity": "moderate/local",
+        "location": "Workshop moth hand and mallet handle, around x900,y275 in full frame",
+        "finding": "The mallet support in11 reads as a narrow angular pale/dark wedge around the handle.07 has a more immediately readable rounded mitten gripping it. The thin angular join makes the central making action less physically clear even though the broad mallet-and-box story survives.",
+        "evidence": [
+          "scene11-workshop-native.png",
+          "scene07-workshop-native.png",
+          "11 full native image"
+        ],
+        "basis": "Visible contact/silhouette readability judgment; not an animation, force or anatomical simulation result.",
+        "improvementCriterion": "Restore a small rounded attached mitten and unambiguous handle grip without lengthening the arm, changing the action or enlarging the workshop cast."
+      }
+    ],
+    "criteriaForNine": [
+      "Clean the two named visible weaknesses while preserving the warm composition, varied material cues and original tiny character proportions.",
+      "At native and1280/880 widths, keep the hero face as the clearest quiet shape; allow background texture to support depth rather than compete with it.",
+      "Keep bench coding dominant, workshop making readable, and the authorized leaf-play group visibly subordinate; do not add sound or attention marks to repair visual cause.",
+      "Reinspect the full finished candidate and magnified eye/contact details after any cleanup; isolated repair approval does not establish a9 whole-frame result."
+    ]
+  },
+  "currentVerdict": "revise",
+  "pairConfirmation": {
+    "status": "Confirmed",
+    "record": "pairs/sound.json",
+    "exactRecommendation": "Revise unintended surface patching and attached mitten/handle clarity. Preserve current composition, four authorized guests, tiny moth proportions and corrected Muse/Grok eyes. No required new audio, motion, props or guest enlargement. Retain 8.2 and 8.4 individually; no approval of an unseen cleanup.",
+    "ownPosition": "Explicit acceptance sent directly to Sound B.",
+    "partnerPosition": "B explicitly accepted the same recommendation in its saved pairDiscussion and proposed it directly; this is not a proxy vote for B on proposal v1."
+  },
+  "skillsAndWorkflow": "Reuse the five fully read skills listed in the independent record. Apply the joint cause-map, baseline/full-frame/native/magnified inspection workflow; temporal and sound prescriptions do not apply to this still."
+}
