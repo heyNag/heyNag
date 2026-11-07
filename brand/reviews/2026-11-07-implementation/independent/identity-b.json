@@ -1,0 +1,273 @@
+{
+  "reviewer": "Identity systems designer B \u2014 small-size recognition and typography hierarchy",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "scope": {
+    "version": "review-source-v2.json",
+    "assessed": "Local implemented identity craft: native-size avatar/header evidence, day/night visual continuity, desktop and narrow signature hierarchy, and whether small character gestures have enough display area.",
+    "excluded": "Publication, live GitHub rendering, measured owner recognition, subjective continuous-motion quality, native-phone interaction, and assistive-technology certification.",
+    "independence": "Saved before opening identity-a implementation review or score."
+  },
+  "evidenceActuallyInspected": {
+    "visualViaViewImage": [
+      "evidence/sizes-refined.png",
+      "evidence/paint.png",
+      "evidence/signature-390.png (superseded side-by-side)",
+      "evidence/signature-390-portrait-study.png (experiment)",
+      "evidence/signature-1440.png",
+      "evidence/studio-390-single.png",
+      "evidence/curious-investigate.png",
+      "evidence/decoded-day-5.png",
+      "evidence/decoded-night-5.png",
+      "evidence/signature-final-390-stage.png",
+      "evidence/signature-final-390-night.png",
+      "evidence/signature-final-320.png",
+      "evidence/sizes-final.png",
+      "assets/brand/heynag-moth-avatar-v5-day.png",
+      "assets/brand/heynag-moth-avatar-v5-night.png",
+      "assets/brand/header-v5-light.png",
+      "assets/brand/header-v5-dark.png"
+    ],
+    "sourceAndRecords": [
+      "AGENTS.md",
+      "brand/team.json identity A/B responsibilities",
+      "prior own-role expanded independent review and B pair response",
+      "brief.json",
+      "installed-skills.json entire 17-entry catalog",
+      "review-source-v1.json (superseded UI hashes)",
+      "review-source-v2.json",
+      "owner-preference.json",
+      "brand/animation-v5/signature.html",
+      "brand/animation-v5/signature.css",
+      "brand/design-system.css",
+      "brand/source/applications-v5.js",
+      "brand/source/applications-v5.json",
+      "brand/animation-v5/character.js paint/antenna sections",
+      "implementation/phone-staging.json",
+      "evidence/geometry.json",
+      "evidence/layout-and-collection.json",
+      "evidence/interaction.json",
+      "evidence/keyboard-after.json",
+      "evidence/comparison-export.json"
+    ],
+    "motionEvidence": "Viewed authored poses and decoded day/night Investigation & sharing contact sheets; read the 2664-frame, 88.8-second, 30fps export metadata. Did not watch continuous normal-speed playback. Sampling cadence does not establish perceptual smoothness.",
+    "versionReconciliation": "Final portrait CSS uses margin-top:0 after the experiment used -22px: the added separation is relative to the experiment, not a 22px CSS grid gap. Character and motion hashes match v1/v2. Final screenshots predate the minor signature status-copy change represented by v2; my typography/identity findings do not assess that status behavior."
+  },
+  "score": {
+    "value": 8.6,
+    "outOf": 10,
+    "meaning": "Polished and coherent local identity system, with strong readable naming and preserved character proportions, but a remaining small-size night-contour compromise and a minor narrow-heading rhythm defect. This is a holistic specialist craft judgment, not a computed usability percentage, audience score, or promise of a future 9."
+  },
+  "strengths": [
+    "The day avatar is the strongest universal reduction: cream ground, dark contour, unequal paddles, and large tilted eyes remain an immediate arrangement in the supplied 32/48/64px ladder. Both complete paddles fit the crop.",
+    "The applications source clones the same neutral head for avatars and uniformly scales the full rig for headers; the four regenerated PNGs visibly preserve the family. No separate miniature anatomy or inflated mitten is needed.",
+    "The 390px header proofs give heyNag immediate priority while retaining a complete small moth. The restrained outlined wordmark works well with the irregular character; quiet lettering is a coherent system choice, not a defect.",
+    "The final portrait signature materially improves the small sharing mitten and glasses: the figure occupies roughly twice the width of the superseded side-by-side phone composition. Both themes keep the question readable above/right of the same character.",
+    "The final portrait introduces air between the project link and upper antenna compared with the experimental negative margin. The visual relationship remains clear without a collision.",
+    "Typography uses hierarchy through size, weight, line-height and tracking rather than color alone. Desktop question/body/link hierarchy is clear; the portrait question stays readable at 320px.",
+    "Usage guidance now explicitly recommends the day avatar universally at 32px and excludes night32 from the universal recommendation. This is a sound response to the demonstrated boundary, without altering the selected anatomy."
+  ],
+  "deductions": [
+    {
+      "id": "IDENTITY-B-IMPLEMENTATION-01",
+      "category": "visual robustness compromise",
+      "severity": "minor-to-moderate",
+      "confidence": "high for supplied pixels; moderate for actual display perception",
+      "claim": "At small supported night sizes, especially 48px, the cream face and antenna paddles read more immediately than their connecting stems. The arrangement remains recognizable to this reviewer, but the night variant is visually less robust than the day avatar. The unsupported night32 boundary is weaker still; I do not count exclusion of that use as a failure.",
+      "basis": [
+        "evidence/sizes-final.png at its labelled sizes",
+        "assets/brand/heynag-moth-avatar-v5-night.png",
+        "brand/source/applications-v5.json supportedSizes"
+      ],
+      "action": "Keep universal day32 guidance. Prefer night64 when the application can afford it, and assess any further paint-only improvement using masked native-size variants on real surrounds before changing the adopted treatment."
+    },
+    {
+      "id": "IDENTITY-B-IMPLEMENTATION-02",
+      "category": "typographic craft defect",
+      "severity": "minor",
+      "confidence": "high",
+      "claim": "At 320px the forced heading break produces One question / leads / to another., isolating the single word leads. It is readable and does not clip, but the uneven rhythm weakens the otherwise assured hierarchy.",
+      "basis": [
+        "evidence/signature-final-320.png",
+        "brand/animation-v5/signature.html h1 explicit br"
+      ],
+      "action": "On the narrowest layout, allow a natural heading wrap while preserving a space around the break. Recheck 320px and 390px; no change to the outlined identity wordmark is warranted."
+    }
+  ],
+  "improvementCriteria": [
+    "Keep the selected tiny anatomy and identical day/night numeric geometry. Small-application improvements should first come from usage scale, crop, framing or paint, not bigger body parts.",
+    "For a higher craft score, show an adopted night48 treatment or placement that retains clearly connected stems at native size without a conspicuous halo; a larger documented night minimum is a valid application decision.",
+    "Resolve the 320px h1 one-word middle line and retain the successful 390px and desktop hierarchy.",
+    "Before calling the website or actual GitHub application verified, capture final assets in that application on light and dark surrounds, including circular masks; keep native phone and enlarged-text checks separately recorded.",
+    "Only human unprimed association/recall evidence can support claims that the avatar reliably means Nag. Strong visual consistency and Nag's personal-fit preference do not substitute for it."
+  ],
+  "confidence": {
+    "overall": "moderate-high for static local identity craft",
+    "high": "Observed hierarchy, native-size source proof, final export coherence, and narrow h1 wrap.",
+    "moderate": "How readily a person perceives faint night stems on varied actual displays.",
+    "notEstablished": "Human recognition, delayed recall, subjective normal-speed motion, phone touch feel and screen-reader spoken output."
+  },
+  "implementedAssessment": {
+    "decision": "Support this local implementation with named nonblocking limits; retain the day avatar as the universal account choice and the portrait phone composition.",
+    "implementationVersusPlan": "The refreshed exports and portrait composition are built and visually inspected. This approval is scoped to those artifacts, not merely the old plan.",
+    "ownerPreference": "Investigate & share is an explicit Nag personal-fit choice; respect it without claiming unfamiliar visitors understand or remember it.",
+    "characterConsistency": "The supplied 567 identical-input geometry samples report no mismatch; the visual evidence also retains oversized head, compact body, short mittens, stub feet, unequal paddles and layered marked wings. The test excludes paint and does not itself establish beauty.",
+    "uiReviewTable": "| Before | After / recommendation | Why |\n| Side-by-side phone scene with small mitten | Adopted portrait question above/right and larger unchanged moth | Gives the gesture enough display area without altering anatomy |\n| Experimental negative moth margin | Adopted margin-top:0 | Separates link and upper antenna |\n| 320px heading with forced break | Let the narrow heading wrap naturally | Avoids the isolated leads line |\n| Generic minimum-size claim | Explicit universal day32 and owned night48/64 guidance | Matches the demonstrated limits |"
+  },
+  "objections": [],
+  "limits": [
+    "No browser was opened or operated; root supplied browser evidence. No source files were edited.",
+    "Portrait scene is taller and requires scrolling from the page top to character and transport. For this deliberate local study that is an acceptable tradeoff, not proof of an optimal future website landing screen.",
+    "Night32 is a demonstrated boundary and is now excluded. No demand to restore wings in the head crop or invent decorative wordmark letterforms.",
+    "Final evidence was viewed as static images/contact sheets. Continuous motion has not been watched by this reviewer.",
+    "The font and geometry proof do not establish the exact result of every platform rasterizer or image recompression.",
+    "Native-phone hardware, enlarged-text layout, live GitHub application, screen-reader spoken output, and unprimed human testing were not performed."
+  ],
+  "skillsReviewed": {
+    "catalogReadInFull": true,
+    "catalogCount": 17,
+    "skills": [
+      {
+        "name": "emil-design-eng",
+        "reviewDepth": "full SKILL.md",
+        "path": "/Users/nag/.config/skillshare/skills/emil-design-eng/SKILL.md"
+      },
+      {
+        "name": "animate",
+        "reviewDepth": "catalog name and complete description",
+        "path": "/Users/nag/.config/skillshare/skills/animate/SKILL.md"
+      },
+      {
+        "name": "animate-expo",
+        "reviewDepth": "catalog name and complete description",
+        "path": "/Users/nag/.config/skillshare/skills/animate-expo/SKILL.md"
+      },
+      {
+        "name": "review-animations",
+        "reviewDepth": "catalog name and complete description",
+        "path": "/Users/nag/.config/skillshare/skills/review-animations/SKILL.md"
+      },
+      {
+        "name": "improve-animations",
+        "reviewDepth": "catalog name and complete description",
+        "path": "/Users/nag/.config/skillshare/skills/improve-animations/SKILL.md"
+      },
+      {
+        "name": "find-animation-opportunities",
+        "reviewDepth": "catalog name and complete description",
+        "path": "/Users/nag/.config/skillshare/skills/find-animation-opportunities/SKILL.md"
+      },
+      {
+        "name": "remove-animations",
+        "reviewDepth": "catalog name and complete description",
+        "path": "/Users/nag/.config/skillshare/skills/remove-animations/SKILL.md"
+      },
+      {
+        "name": "choreograph",
+        "reviewDepth": "catalog name and complete description",
+        "path": "/Users/nag/.config/skillshare/skills/choreograph/SKILL.md"
+      },
+      {
+        "name": "animation-performance",
+        "reviewDepth": "catalog name and complete description",
+        "path": "/Users/nag/.config/skillshare/skills/animation-performance/SKILL.md"
+      },
+      {
+        "name": "animation-vocabulary",
+        "reviewDepth": "catalog name and complete description",
+        "path": "/Users/nag/.config/skillshare/skills/animation-vocabulary/SKILL.md"
+      },
+      {
+        "name": "apple-design",
+        "reviewDepth": "full SKILL.md",
+        "path": "/Users/nag/.config/skillshare/skills/apple-design/SKILL.md"
+      },
+      {
+        "name": "write-swift",
+        "reviewDepth": "catalog name and complete description",
+        "path": "/Users/nag/.config/skillshare/skills/write-swift/SKILL.md"
+      },
+      {
+        "name": "pick-ui-library",
+        "reviewDepth": "catalog name and complete description",
+        "path": "/Users/nag/.config/skillshare/skills/pick-ui-library/SKILL.md"
+      },
+      {
+        "name": "prototype",
+        "reviewDepth": "catalog name and complete description",
+        "path": "/Users/nag/.config/skillshare/skills/prototype/SKILL.md"
+      },
+      {
+        "name": "mobile-native",
+        "reviewDepth": "full SKILL.md",
+        "path": "/Users/nag/.config/skillshare/skills/mobile-native/SKILL.md"
+      },
+      {
+        "name": "break-ui",
+        "reviewDepth": "catalog name and complete description",
+        "path": "/Users/nag/.config/skillshare/skills/break-ui/SKILL.md"
+      },
+      {
+        "name": "ask-sonner",
+        "reviewDepth": "catalog name and complete description",
+        "path": "/Users/nag/.config/skillshare/skills/ask-sonner/SKILL.md"
+      }
+    ]
+  },
+  "workflowChanges": [
+    {
+      "skill": "apple-design",
+      "change": "Review type as a size/weight/leading/tracking system at actual smallest widths, not as a desktop font specimen. Carry a 320/390/desktop wrap check and enlarged-text check into future website work.",
+      "appliedNow": "Caught the 320px one-word h1 line while preserving the established readable wordmark."
+    },
+    {
+      "skill": "emil-design-eng",
+      "change": "Record each visual/UI issue with Before/After/Why, exact evidence and an intent-based remedy; review small details in the complete composition. Keep identity artwork separate from functional UI feedback.",
+      "appliedNow": "Compared the old side-by-side phone scene, portrait experiment and final portrait; the implementation table records the improvement and residual wrap issue."
+    },
+    {
+      "skill": "mobile-native",
+      "change": "Require evidence labels distinguishing desktop-width proofs, simulator evidence, and real phone results; inspect touch capability queries and coarse-pointer input type sizing in source before claiming mobile quality.",
+      "appliedNow": "Observed capability-gated hover and coarse-pointer 16px controls in final signature CSS; neither is claimed as tested on hardware."
+    },
+    {
+      "skill": "cross-skill synthesis",
+      "change": "Future identity and engineering handoffs must state universal versus owned-theme variants, supported native sizes, exact source/export hashes, and unresolved boundary cases. Pair discussion will preserve this shared workflow rather than treating every skill as a universal redesign mandate.",
+      "appliedNow": "Reviewed v2 provenance and supported avatar uses, retained anatomy and the restrained wordmark, and kept recognizability as an expert hypothesis."
+    }
+  ],
+  "rulesNotApplicableWithReason": [
+    {
+      "rule": "Generic no-question initial response in three read skills",
+      "reason": "This task already supplies a concrete review question; the generic ready-only response does not apply."
+    },
+    {
+      "rule": "UI duration ceilings, universal keyboard-animation prohibition and compositor-only properties",
+      "reason": "Intentional character acting is the requested content, not a dropdown or repeated command. Do not truncate investigation acting to a UI budget or erase anatomy to force GPU-only properties."
+    },
+    {
+      "rule": "Mandatory code changes in mobile-native",
+      "reason": "This role is explicitly read-only and root owns source/browser. I report findings and inspect implemented evidence; user and task instructions take precedence."
+    },
+    {
+      "rule": "Apple translucent chrome and default platform typeface",
+      "reason": "This identity has an established Schibsted/ink/paper/green system and no need for translucent layers. Typography principles transfer; copying Apple visual styling does not."
+    },
+    {
+      "rule": "Mobile overscroll lock, global selection suppression and all native-app baselines",
+      "reason": "The signature is a scrolling document/study. Keep text selectable, pinch zoom available and native document scroll unless a demonstrated interaction requires otherwise."
+    },
+    {
+      "rule": "animate, animate-expo, write-swift, ask-sonner, animation-performance, animation-vocabulary",
+      "reason": "Catalog reviewed; no new motion implementation, Expo/Swift source, Sonner toast, observed performance diagnosis or terminology question belongs to this independent identity review."
+    },
+    {
+      "rule": "review-animations, improve-animations, find-animation-opportunities, remove-animations, choreograph",
+      "reason": "Catalog reviewed; this reviewer evaluates static identity hierarchy and size handling. Motion specialists own acting and continuous-motion judgment; no automatic request to add/remove/resequence motion follows from installation."
+    },
+    {
+      "rule": "pick-ui-library, prototype, break-ui",
+      "reason": "Catalog reviewed. These are explicit-invocation/implementation or data-stress workflows; I was asked to inspect skills and conduct an independent read-only visual review, not add dependencies, build variant pickers or inject synthetic content."
+    }
+  ]
+}

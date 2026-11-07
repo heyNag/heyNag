@@ -1,0 +1,65 @@
+{
+  "role": "Character performance director — pantomime and puppetry",
+  "verdict": "A persuasive tiny character and useful acting prototype. Preserve its proportions and restrained gestures; refine emotional continuity and hop timing before using those behaviors in narrative sequences. Twenty-four named poses do not yet demonstrate twenty-four independently readable intentions.",
+  "evidenceInspected": [
+    "assets/brand/heynag-moth-v5-refined.png",
+    "brand/animation-v5/character.js:12-315; brand/animation-v5/motion.js:8-649; brand/expressions/acting.json:1-278",
+    "brand/reviews/2026-11-07/evidence/all-24.png, curious-sequence.png, excited-sequence.png, thinking-sequence.png, sad-worried-transition.png: browser-rendered source/Engine samples, not continuous playback",
+    "Fresh extraction of assets/brand/preview/heynag-v5-emotions.mp4: cue_0000–0005, cue_0007, cue_0011–0017 inspected; exact times from evidence/video/20261107-145508-heynag-v5-emotions-3d1c983d/evidence.json"
+  ],
+  "strengths": [
+    "The master PNG's oversized soft head, compact belly, attached feet and modest lifted mitten establish innocence without a human adult stance. Current rendered samples largely preserve that relationship.",
+    "Curiosity has an actual order of attention: long antenna, eyes, head, then body and wing. The source at motion.js:88-100 and video samples at 0.166641, 0.333346, 0.533346, 0.766641 and 1.166641 seconds support that sequence.",
+    "Thinking's short chin contact remains compact in the 4.700-second video frame; mischief's single half-eye and small smile at 12.466667 seconds suggest a quiet joke. These are better personality seeds than larger gestures.",
+    "Pride, gratitude and affection deliberately use different head intentions; fear contracts while surprise expands. The all-24 sheet and motion.js:190-236,276-286,342-354 preserve useful contrasts."
+  ],
+  "findings": [
+    {
+      "id": "PERF-01",
+      "priority": "before-public-use",
+      "claimType": "observed",
+      "finding": "Sad→worried passes through an incongruous smiling, upright intermediate pose. The deterministic transition sheet visibly opens a small green smile around 200–300ms before concern returns. Positional continuity does not preserve emotional continuity.",
+      "evidence": ["sad-worried-transition.png: 0,200,300,380,970ms", "motion.js:71-75,329-340,507-523,539-559", "character.js:292-305"],
+      "recommendation": "Before using this pair in a story, preserve the prior downcast intention while attention redirects. Author a transition or retain facial tension until the worried beat takes over; do not route every emotion through the welcoming neutral mouth.",
+      "verification": "Capture the transition at normal speed and frame by frame; no unintended cheerful interval, and the new concern should feel caused by something noticed."
+    },
+    {
+      "id": "PERF-02",
+      "priority": "next-refinement",
+      "claimType": "observed",
+      "finding": "Every keyframe interval uses the same smoothstep, giving zero speed at every boundary. Excited therefore stops mathematically at its 900ms mid-descent keyframe, not only at its apex. This is a source timing issue; sampled video does not establish how distracting the pause feels.",
+      "evidence": ["motion.js:26,176-188,405-417", "excited-sequence.png:720,900,1060ms", "Video:25.633346,25.800000,25.966641,26.333307s"],
+      "recommendation": "Let the descent continue through the intermediate wing beat. Keep the small hop, attached feet and head compression; vary timing by physical purpose rather than adding squash or a bigger jump.",
+      "verification": "At normal speed, the body should rise, fall and land as one action while antennae and wings follow. Compare isolated body and full-character playback."
+    },
+    {
+      "id": "PERF-03",
+      "priority": "research-question",
+      "claimType": "interpretation",
+      "finding": "The gaze changes are subtle enough that attention may be inferred mainly from antenna and wing positions. Black oval eyes translate only five source units, and the face remains in the same drawing orientation. A clear sideward intention is plausible, but its exact target is unproven.",
+      "evidence": ["motion.js:34,88-100", "character.js:261-266", "curious-sequence.png:320,1160,2000ms"],
+      "recommendation": "Test curiosity beside one actual point of interest, then its sharing glance toward the viewer. Adjust head direction or pause before enlarging pupils, gestures or anatomy.",
+      "verification": "Without labels, viewers can indicate what attracted attention and when the moth includes them."
+    },
+    {
+      "id": "PERF-04",
+      "priority": "research-question",
+      "claimType": "proposal",
+      "finding": "The library needs intention tests, not more emotion labels. In the compact all-24 sheet, shy/worried and proud/affectionate share much of their silhouette; subtle face and head cues carry the distinction.",
+      "evidence": ["all-24.png: second and fourth rows", "acting.json:99-137,226-233,278"],
+      "recommendation": "Use unlabelled pairs at intended application sizes and ask what the moth wants or feels. Retain ambiguity when charming; require clearer contrast only where the interface or story depends on it.",
+      "verification": "Record actual audience descriptions and confusions. Do not treat panel agreement or the supplied labels as validation."
+    }
+  ],
+  "keep": ["Asymmetric antennae as an attention channel", "Tiny mittens, planted feet and round torso", "Quiet holds and the pretend-sleep joke", "Sparse secondary motion instead of constant flapping"],
+  "challengeForOtherRoles": [
+    "Rigging: anatomical constraints protect identity, but numerical smoothness alone cannot certify intention or weight; inspect the transition mouth and mid-descent stop.",
+    "Storyboard: give curiosity and mischief an observable stimulus, decision and consequence. A future scene is a coverage gap, not a current prototype defect.",
+    "Brand: select behaviors that reveal Nag's warmth and curiosity around his real work; deploying all 24 emotions would not itself create personality.",
+    "Sound: do not rescue unclear acting with explanatory effects. First establish readable silent beats; avoid a baby voice merely because the proportions are tiny."
+  ],
+  "limits": [
+    "Reviewed source, static sheets and a stated subset of freshly extracted video frames, not continuous playback; rhythm and comic timing remain bounded interpretations.",
+    "No audience testing or audio assessment. Original acting notes are explicitly historical direction, so duration differences alone are not defects."
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "fps": 30,
+  "frames": 1956,
+  "seconds": 65.2,
+  "source": "Deterministic browser canvas export, real playback engine sampled at120Hz, every output frame at30fps",
+  "segments": [
+    {
+      "theme": "day",
+      "index": 0,
+      "name": "Invitation: same moment, clearer hand",
+      "startFrame": 0,
+      "frames": 138
+    },
+    {
+      "theme": "day",
+      "index": 1,
+      "name": "Thinking: free hand and chin contact",
+      "startFrame": 138,
+      "frames": 132
+    },
+    {
+      "theme": "day",
+      "index": 2,
+      "name": "Focused: separated low hands",
+      "startFrame": 270,
+      "frames": 105
+    },
+    {
+      "theme": "day",
+      "index": 3,
+      "name": "Grateful: small intentional clasp",
+      "startFrame": 375,
+      "frames": 105
+    },
+    {
+      "theme": "day",
+      "index": 4,
+      "name": "Shy: low asymmetric hands",
+      "startFrame": 480,
+      "frames": 105
+    },
+    {
+      "theme": "day",
+      "index": 5,
+      "name": "Worried: diagonal support",
+      "startFrame": 585,
+      "frames": 105
+    },
+    {
+      "theme": "day",
+      "index": 6,
+      "name": "One more thought",
+      "startFrame": 690,
+      "frames": 150
+    },
+    {
+      "theme": "day",
+      "index": 7,
+      "name": "Phone: attention above the face",
+      "startFrame": 840,
+      "frames": 138
+    },
+    {
+      "theme": "night",
+      "index": 0,
+      "name": "Invitation: same moment, clearer hand",
+      "startFrame": 978,
+      "frames": 138
+    },
+    {
+      "theme": "night",
+      "index": 1,
+      "name": "Thinking: free hand and chin contact",
+      "startFrame": 1116,
+      "frames": 132
+    },
+    {
+      "theme": "night",
+      "index": 2,
+      "name": "Focused: separated low hands",
+      "startFrame": 1248,
+      "frames": 105
+    },
+    {
+      "theme": "night",
+      "index": 3,
+      "name": "Grateful: small intentional clasp",
+      "startFrame": 1353,
+      "frames": 105
+    },
+    {
+      "theme": "night",
+      "index": 4,
+      "name": "Shy: low asymmetric hands",
+      "startFrame": 1458,
+      "frames": 105
+    },
+    {
+      "theme": "night",
+      "index": 5,
+      "name": "Worried: diagonal support",
+      "startFrame": 1563,
+      "frames": 105
+    },
+    {
+      "theme": "night",
+      "index": 6,
+      "name": "One more thought",
+      "startFrame": 1668,
+      "frames": 150
+    },
+    {
+      "theme": "night",
+      "index": 7,
+      "name": "Phone: attention above the face",
+      "startFrame": 1818,
+      "frames": 138
+    }
+  ]
+}

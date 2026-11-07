@@ -1,0 +1,133 @@
+{
+  "reviewerId": "brand-b",
+  "role": "Character brand director B",
+  "lens": "Long-term recognition and distinctive brand behavior; personal authorship across GitHub and future heyNag.com",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "scope": "Fresh review of the prepared LOCAL GitHub profile application: README, proposed name/bio/pins/descriptions, paired static headers and universal day avatar in the supplied GitHub DOM previews. Website continuity is assessed as a plan, not a built or tested site. This score is not inherited from the mascot or gesture reviews.",
+  "sourceManifestSha256": "7b23e48c7555ab1abca2a81923bb526411043350c092e352ef42efd106b468d2",
+  "sourceVerification": "Independently hashed review-source-v1.json and all nine listed files; all current hashes match.",
+  "inspectedEvidence": [
+    "AGENTS.md; brand/workflow.json; brand/team.json Brand B role and continuity",
+    "README.md; brand/profile/profile.json; brand/profile/continuity.json",
+    "brand/reviews/2026-11-07-github/brief.json; review-instructions.txt; review-source-v1.json; evidence/render-checks.json",
+    "view_image: evidence/profile-light-1440.png and profile-dark-1440.png",
+    "view_image: evidence/readme-light-320.png and readme-dark-320.png",
+    "view_image: evidence/profile-light-390.png",
+    "view_image: evidence/full-light-320.png and full-dark-320.png, including complete README and three proposed pins",
+    "view_image: assets/brand/heynag-moth-avatar-v5-day.png at 512px",
+    "Additional view_image before partner review: profile-light-320-top.png, profile-dark-320-top.png, readme-light-320-scroll.png, readme-dark-320-scroll.png and pins-light-320-scroll.png; actual wheel-scrolled viewport captures confirm the name/header and lower content without relying on full-page sticky capture state.",
+    "Full /Users/nag/.agents/skills/taste-skill/SKILL.md and references/copy.md, newly read for this explicitly invoked skill",
+    "Previously fully read emil-design-eng, choreograph and mobile-native instructions retained from this conversation; verified the /Users/nag/.agents/skills files resolve to the same paths/bytes previously read under .config/skillshare."
+  ],
+  "skillsReviewed": [
+    {
+      "name": "design-taste-frontend",
+      "depth": "full SKILL.md plus full references/copy.md, newly read",
+      "application": "Plain concrete descriptions, real named work, no invented proof, one existing identity and destinations that do what their labels promise."
+    },
+    {
+      "name": "emil-design-eng",
+      "depth": "full reading reused; path/bytes verified",
+      "application": "Useful static defaults, whole-surface hierarchy and actual rendering. Brand meaning must not depend on an unplayable character performance."
+    },
+    {
+      "name": "choreograph",
+      "depth": "full reading reused",
+      "application": "Continuity-plan review only: keep information the lead and the future character as optional expressive support; no new GitHub motion proposed."
+    },
+    {
+      "name": "mobile-native",
+      "depth": "full reading reused",
+      "application": "Distinguish narrow desktop viewport evidence from physical-phone behavior; evaluate readable content and identity without demanding custom native behavior on GitHub."
+    },
+    {
+      "name": "prototype",
+      "depth": "catalog only; not invoked",
+      "application": "Suggested brand routing does not authorize an explicit-only divergence workflow or new design alternatives during this independent review."
+    }
+  ],
+  "workflowChanges": [
+    "Review each real application afresh: prior character consensus establishes source continuity, not profile approval or an automatic score.",
+    "Separate portable identity from host layout. Carry character version, palette, name mapping, voice and factual project names forward; let GitHub and the website use their appropriate layouts.",
+    "Compare the sidebar bio and README together on desktop, then separately in mobile reading order. Repetition can help orientation on mobile while still costing specificity in the combined desktop view.",
+    "Maintain a public-copy boundary: private work may be acknowledged at the owner's stated level; only owner-cleared stories and evidence become future public website material.",
+    "Use viewport captures for identity/header visibility and full-page captures for lower content. Record inconsistent sticky/capture state instead of turning it into a fabricated product defect.",
+    "Keep a public-project facts record for names, scope and maturity; future website elaboration must agree with GitHub wording and may add verified decisions rather than broader unsupported claims."
+  ],
+  "rulesNotApplicableWithReason": [
+    "Native GitHub owns typography, spacing, controls and responsive layout. Taste-skill custom CSS, section-per-screen, full-screen heroes, font pairing, layout dealers and checker recipes are not requirements for this application.",
+    "The taste-skill ban on greetings in a commercial hero does not override this personal profile's useful 'Hey, I'm Nag' attribution. The owner supplied the established name; no new brand-name search or coining is needed.",
+    "Mandatory photographs, real-product frames, shaders, hover loops and button-motion layers do not fit this static GitHub-native introduction. Their absence is not a defect.",
+    "No commercial hard number, price, customer logo or testimonial should be invented to satisfy a first-screen proof recipe. Real public repository links provide appropriate evidence here.",
+    "The local-preview banner is review provenance, not final profile copy. The skill's no-placeholder/sample-note rule does not justify removing that evidence label.",
+    "No skills authorize publication, private-work disclosure, a new website build or browser operation by this reviewer.",
+    "UI animation timing and GPU advice do not apply to these static PNGs; future website behavior remains purposeful and optional under the existing character contract."
+  ],
+  "score": 8.7,
+  "scoreMeaning": "Out of 10 for the current prepared GitHub application's brand craft: a coherent, legible and honestly attributed personal introduction with useful public destinations. Held below exceptional because the introductory voice repeats broad maker qualities more than it conveys a distinctive specific approach. This is a fresh application score, not a numerical continuation of the 8.6 gesture-foundation score, website approval or human recognition evidence.",
+  "confidence": "High for inspected static coherence, attribution and source/application consistency; moderate for editorial distinctiveness judgment. No confidence claim for unseen human outcomes, physical-device behavior or live account settings.",
+  "strengths": [
+    "The full personal name, heyNag handle, large wordmark and first-person Nag heading clearly assign authorship to a person. The moth does not speak in place of him.",
+    "Avatar and header share the same soft head, unequal paddles and cream/green vocabulary; the header restores the full winged silhouette. Both light and dark previews remain visibly the same identity.",
+    "The paper-ground day avatar remains useful in the dark GitHub shell. It gives the face a stable boundary instead of forcing the weaker small night antenna treatment into the universal account slot.",
+    "Charms, Grok Bot and eva.md are concrete public destinations with concise descriptions. Grok Bot is explicitly unofficial and eva.md remains an evolving experiment, avoiding inflated outcomes.",
+    "The private-work sentence explains the limited public sample without naming, linking or describing private projects. It avoids treating this profile as the whole of Nag's work.",
+    "The page uses live native text for the introduction and projects; the image supplies identity. At 320px the wordmark is readable and none of the project meaning depends on decoding a tiny mitten or antenna.",
+    "The website field is deliberately empty while heyNag.com is unfinished. The continuity contract calls for a reciprocal link only when a useful destination exists.",
+    "The continuity plan preserves stable assets/name/voice while allowing the future website to add verified decisions and optional Investigate & share behavior. Static GitHub use is a valid part of that system."
+  ],
+  "deductions": [
+    {
+      "id": "brand-b-github-1",
+      "severity": "minor",
+      "kind": "current editorial craft",
+      "evidence": [
+        "README.md opening",
+        "brand/profile/profile.json bio",
+        "profile-light-1440.png",
+        "profile-dark-1440.png"
+      ],
+      "finding": "The bio and README opening repeat nearly the same cluster: software/systems, useful tools, curiosity and how software feels. In the combined desktop view, the second introduction adds little particular knowledge of Nag.",
+      "improvementCriterion": "Keep the concise mobile-useful bio, but let the README's next sentence eventually contribute one owner-verified way of working, current question or specific observation instead of restating the same qualities. Do not invent an anecdote, seniority or result."
+    },
+    {
+      "id": "brand-b-github-2",
+      "severity": "minor",
+      "kind": "current degree of distinctiveness, not a scope blocker",
+      "evidence": [
+        "README.md project descriptions and closing line",
+        "full-light-320.png",
+        "full-dark-320.png",
+        "brand/profile/continuity.json website.proof/projects direction"
+      ],
+      "finding": "Most personal specificity comes from the character and the choice of three projects. The descriptions clearly say what they do, but they give only a small glimpse of Nag's own decisions; the warm closing line remains broadly reusable.",
+      "improvementCriterion": "When an appropriate public detail is available, add one concise truthful author-specific detail to this introduction or the linked project destination. Reserve richer authorized stories for the website. A GitHub profile does not need a full case study, and no private material is required."
+    }
+  ],
+  "blockers": [],
+  "recommendations": [
+    "Accept this as a prepared local GitHub application with the existing header/avatar identity and three public destinations; publication remains a separate action under the user's actual authorization.",
+    "Keep the clear first-person attribution and private-work boundary. Do not replace it with mascot dialogue, fabricated impact or public hints about undisclosed work.",
+    "Preserve source/version links across static exports and future website character use. Reuse the identity, not necessarily the GitHub banner's exact layout as the website hero.",
+    "At website implementation time, demonstrate the shared wordmark/character/voice and reciprocal public project links in actual screenshots. Add heyNag.com to GitHub only when its destination is useful and live.",
+    "Treat deeper author-specific proof as a future content opportunity; do not reopen tiny anatomy or add motion to solve generic prose."
+  ],
+  "continuityAssessment": {
+    "currentDemonstrated": "The local GitHub preview consistently connects Nagarjuna Boddu, heyNag and Nag to the same moth and public project sample. The static identity works without access to the signature's motion.",
+    "planSupported": "continuity.json is a coherent contract for the same character version, tokens, first-person authorship, public project names and honest maturity on the future website. It appropriately reserves deeper stories and optional character behavior for that surface.",
+    "notDemonstrated": "No website implementation or side-by-side website/GitHub experience exists in this review. The plan's recognition language is a design intention, not measured transfer, memory or attribution.",
+    "privacy": "Only the user's broad private-work acknowledgment appears in public copy. No private project names, screenshots, code, internal links or inferred achievements were introduced.",
+    "captureCaveat": "Full 320px captures show a blank name/handle region and a sticky navigation strip over part of the banner. Root supplied actual top and wheel-scrolled viewport captures; I inspected all five. These confirm visible name/handle/header at the top, complete readable project copy while scrolling, and all three pins. The earlier full-page inconsistency is treated as capture state, not an application defect; use the viewport evidence for final claims."
+  },
+  "unscoredOutcomes": [
+    "Human recognition, emotional attachment, unaided Nag attribution and delayed recall.",
+    "Whether users notice or prefer the future website connection; no website is built.",
+    "Live account name, bio, pins, repository descriptions or avatar state: the screenshots are explicitly local previews and no publication occurred.",
+    "Native-phone behavior, spoken assistive-technology output and any motion/sound quality.",
+    "Project adoption, commercial impact, seniority, private-work quality or achievements inferred from GitHub activity counts.",
+    "Independent fresh verification of linked repositories beyond the supplied verified project context; this reviewer did not browse or research externally."
+  ],
+  "uiReviewTable": "| Before / inspected state | After / improvement criterion | Why |\n| Bio and README repeat software, systems, curiosity and feel | Give the README one additional owner-verified detail when available | Increase personal specificity while keeping a concise bio |\n| Website continuity exists as a written contract | Later inspect a built opening and reciprocal useful links | A coherent plan is not demonstrated cross-surface recognition |\n| Full-page and viewport captures differ around sticky elements | Use each for the claims its visible content supports | Avoid turning capture state into a false defect |",
+  "independence": "Saved before reading any new GitHub partner review. No source edits, browser operation, other agents, web research or publication by this reviewer."
+}

@@ -1,0 +1,22 @@
+Paired challenge and individual team vote — updated GitHub application
+
+Work in /Users/nag/projects/personal/heyNag. Read your saved independent review and your same-discipline partner's independent review under this directory. Both were written before partner review. Initial source/evidence is archived under before/source-v1 and before/evidence-v1; original relative paths map there.
+
+Read team-proposal-v2.json, review-source-v2.json and each changed public file. Verify the two file hashes yourself; the vote must identify the exact shared proposal and updated source manifest. Inspect current evidence/profile-light-1440.png, profile-dark-1440.png, profile-light-320-top.png, readme-dark-320-scroll.png and pins-light-320-scroll.png with view_image. Consult render-checks.json. This is a local DOM preview, not saved GitHub settings. No new character motion or geometry was added. The website is still a contract, not a built site.
+
+Challenge your partner's findings and the exact recommendation for your discipline in team-proposal-v2.json. Send your partner a concise message with your agreement, difference or substantive objection. You may explicitly accept the shared recommendation even if your scores differ. A remaining substantive objection must be recorded. Do not raise a score merely to reach9; retain or revise it with reasons tied to the actual changed evidence. Website/audience outcomes stay unscored. Apply relevant previously read skills; record newly read instructions if needed. No browser, source edits or publication.
+
+Write only team-votes/<discipline>-<a|b>.json with:
+- reviewerId (e.g. brand-a)
+- proposalSha256
+- sourceManifestSha256
+- position: agree | agree_with_named_nonblocking_limits | object_with_specific_evidence
+- score (number or null), scoreMeaning, confidence
+- partnerReview (path)
+- partnerChallenge: {agreement, difference, sharedRecommendationAccepted: boolean, remainingObjections: []}
+- inspectedUpdatedEvidence (paths)
+- changedJudgment (why score/position changed or stayed)
+- deductions (remaining concrete craft limits)
+- unscoredOutcomes
+
+The partnerChallenge.sharedRecommendationAccepted field explicitly confirms or rejects the exact discipline recommendation in the shared proposal. The root will compile both signed positions into each pair resolution; neither root nor a pair lead supplies your vote. If your partner raises a new substantive concern, inform root and resolve it before a consensus claim. Complete your turn after saving so other pairs can use the available worker slots. Remain available for follow-up if a disagreement needs resolution.

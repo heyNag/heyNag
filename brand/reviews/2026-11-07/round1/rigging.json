@@ -1,0 +1,59 @@
+{
+  "role": "Technical character animator and rigger",
+  "verdict": "A coherent, reusable reaction-study prototype with good numeric safeguards. The inspected poses preserve the small character; public animation approval still needs temporal and contact review, especially during interruptions. This is not evidence of audience appeal or a general-purpose acting rig.",
+  "evidenceInspected": [
+    "brand/animation-v5/character.js:1–315; motion.js:1–650; contract.json:1–28; motion.test.mjs:1–126; studio.js:1–168",
+    "brand/source/animation-v5.json:1–29 for construction and scope; existing verification assertions were not treated as independent evidence",
+    "brand/reviews/2026-11-07/evidence/thinking-sequence.png: labelled 0–3000 ms source poses",
+    "brand/reviews/2026-11-07/evidence/excited-sequence.png: labelled 0–1410 ms source poses",
+    "brand/reviews/2026-11-07/evidence/all-24.png: 24 labelled held poses in both themes",
+    "brand/reviews/2026-11-07/evidence/sad-worried-transition.png: labelled 0–2000 ms live-engine transition samples",
+    "Fresh local execution: node --test brand/animation-v5/motion.test.mjs; five tests passed"
+  ],
+  "strengths": [
+    "Observed: the four wing panels have separate hinges behind the torso, and antenna shafts and paddles deform together rather than separating. The short reach limit, attached feet and unscaled head/body preserve the intentionally tiny anatomy (character.js:103–144, 234–258).",
+    "Observed: thinking source poses keep the raised mitten near the lower cheek; excited source poses retain the same stub feet through the hop. No detached part is apparent in these samples. The asymmetric antennae remain useful large-scale acting channels.",
+    "Observed: finite performances, injected scheduling, pause/resume, destruction and reduced-motion stills are implemented coherently. No idle RAF is scheduled after completion; fresh tests verify that lifecycle (motion.js:496–646)."
+  ],
+  "findings": [
+    {
+      "id": "RIG-01",
+      "priority": "next-refinement",
+      "claimType": "interpretation",
+      "finding": "Interruption is position-continuous but can be emotionally discontinuous. Sad→worried visibly acquires a small open green mouth at 100–200 ms, then passes through a more neutral posture before gathering into worry. Both intended endpoint expressions have closed or nearly closed mouths. This reads as a brief emotional reset, though that reading requires audience validation.",
+      "evidence": ["evidence/sad-worried-transition.png:100,200,380,970 ms", "motion.js:71,315–340,513–521"],
+      "recommendation": "Specify which switches should preserve emotional intent. For those, blend toward an appropriate incoming pose or retain facial channels until the incoming action takes over; keep a neutral bridge when narratively intentional.",
+      "verification": "Review sad↔worried and thinking↔focused at normal speed, then inspect the same transition samples. The endpoints and intermediate expression should tell the intended story without an accidental mouth flash."
+    },
+    {
+      "id": "RIG-02",
+      "priority": "next-refinement",
+      "claimType": "observed",
+      "finding": "Every channel uses the same smoothstep between keys, forcing zero velocity at every authored beat. Excited descent stops mathematically at 900 ms while still 11 units above ground, then accelerates again toward landing. The sheets establish geometry, not whether this produces a visible hesitation.",
+      "evidence": ["motion.js:26,176–188,405–418", "evidence/excited-sequence.png:720,800,900,980,1060 ms"],
+      "recommendation": "Review the hop in playback and give through-motion its own tangents or easing. Preserve deliberate anticipation, apex and settle; avoid smoothing every intermediate descent key to a stop.",
+      "verification": "A side-by-side normal-speed playback and vertical-position/velocity trace should show a purposeful continuous descent, without changing the small body proportions."
+    },
+    {
+      "id": "RIG-03",
+      "priority": "before-public-use",
+      "claimType": "observed",
+      "finding": "The passing 'numeric anatomy contract' tests never load the renderer. They therefore cannot establish cheek contact, foot-ground contact, wing-root coverage, silhouette clearance or perceptual smoothness. Immediate pose equality during interruption is tested; rendered contact and transition velocity are not. The current evidence supports sampled-pose safety, not a blanket visible-quality approval.",
+      "evidence": ["motion.test.mjs:6–8,28–49,66–89", "character.js:237,250–258", "contract.json:20–24"],
+      "recommendation": "Before approving an animated public application, inspect its actual size and context through complete performances and rapid switches. Track the thinking mitten against the jaw through the nod, the heel through its tap, and scared wing overlap. Add geometry assertions only where a real regression warrants them.",
+      "verification": "A targeted rendered review should show contact maintained or intentionally released, no exposed attachments, and no clipping in the final placement."
+    }
+  ],
+  "keep": [
+    "Keep independent wing timing, asymmetric antenna deformation, short mittens and the finite settled poses. Anatomical realism and constant idle movement are unnecessary for this comic identity.",
+    "Keep geometry/motion separation and identical theme poses. Treat four rigid planar wing hinges as sufficient for current reactions; flight, turns and prop handling would require additional rig capabilities only when those scenes are commissioned."
+  ],
+  "challengeForOtherRoles": [
+    "Comic/character reviewers: distinguish a strong held silhouette from convincing acting over time. Which exact action loses its intention, rather than merely differing from your preferred style?",
+    "Brand/product reviewers: do not infer engagement from 24 distinct numeric poses or demand realistic flight as proof of character quality. Which real placement needs motion, and at what size?"
+  ],
+  "limits": [
+    "Independent source and fresh still-sample review; no browser operation or continuous video inspection by this reviewer. No contact failure or frame-rate failure is claimed without that evidence.",
+    "Studio renders both theme instances each frame and creates 24 full SVG thumbnails (studio.js:60,105–108). That is reasonable for a local studio, but public-device performance and integration teardown remain unmeasured coverage gaps, not demonstrated defects."
+  ]
+}

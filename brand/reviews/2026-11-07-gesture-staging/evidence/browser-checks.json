@@ -1,0 +1,1944 @@
+{
+  "scope": "Actual desktop-browser emulation; not physical-phone or spoken-AT evidence.",
+  "rows": [
+    {
+      "width": 320,
+      "innerWidth": 320,
+      "scrollWidth": 320,
+      "results": [
+        {
+          "id": "curious-investigate",
+          "time": 330,
+          "themeParity": true,
+          "direction": {
+            "x": -0.016922090668295316,
+            "y": -0.9998568111721868
+          },
+          "gaze": [
+            -0.08388239393077601,
+            -4.9989261760550825
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-investigate",
+          "time": 790,
+          "themeParity": true,
+          "direction": {
+            "x": -0.016922090668295316,
+            "y": -0.9998568111721868
+          },
+          "gaze": [
+            -0.08388239393077601,
+            -4.9989261760550825
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-investigate",
+          "time": 1190,
+          "themeParity": true,
+          "direction": {
+            "x": -0.016922090668295316,
+            "y": -0.9998568111721868
+          },
+          "gaze": [
+            -0.0840255827585894,
+            -3.748389217950783
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-investigate",
+          "time": 1900,
+          "themeParity": true,
+          "direction": {
+            "x": -0.016922090668295316,
+            "y": -0.9998568111721868
+          },
+          "gaze": [
+            -0.08388239393077601,
+            -4.248604001192503
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-investigate",
+          "time": 2350,
+          "themeParity": true,
+          "direction": {
+            "x": -0.016922090668295316,
+            "y": -0.9998568111721868
+          },
+          "gaze": [
+            0,
+            0
+          ],
+          "returnedExactly": true,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-investigate",
+          "time": 2720,
+          "themeParity": true,
+          "direction": {
+            "x": -0.016922090668295316,
+            "y": -0.9998568111721868
+          },
+          "gaze": [
+            0,
+            0
+          ],
+          "returnedExactly": true,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-wry",
+          "time": 330,
+          "themeParity": true,
+          "direction": {
+            "x": -0.016922090668295316,
+            "y": -0.9998568111721868
+          },
+          "gaze": [
+            -0.08388239393077601,
+            -4.9989261760550825
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-wry",
+          "time": 790,
+          "themeParity": true,
+          "direction": {
+            "x": -0.016922090668295316,
+            "y": -0.9998568111721868
+          },
+          "gaze": [
+            -0.08388239393077601,
+            -4.9989261760550825
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-wry",
+          "time": 1190,
+          "themeParity": true,
+          "direction": {
+            "x": -0.016922090668295316,
+            "y": -0.9998568111721868
+          },
+          "gaze": [
+            -0.0840255827585894,
+            -3.748389217950783
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-wry",
+          "time": 1900,
+          "themeParity": true,
+          "direction": {
+            "x": -0.016922090668295316,
+            "y": -0.9998568111721868
+          },
+          "gaze": [
+            -0.08388239393077601,
+            -4.248604001192503
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-wry",
+          "time": 2350,
+          "themeParity": true,
+          "direction": {
+            "x": -0.016922090668295316,
+            "y": -0.9998568111721868
+          },
+          "gaze": [
+            0,
+            0
+          ],
+          "returnedExactly": true,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-wry",
+          "time": 2720,
+          "themeParity": true,
+          "direction": {
+            "x": -0.016922090668295316,
+            "y": -0.9998568111721868
+          },
+          "gaze": [
+            0,
+            0
+          ],
+          "returnedExactly": true,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious",
+          "time": 330,
+          "themeParity": true,
+          "direction": {
+            "x": -0.016922090668295316,
+            "y": -0.9998568111721868
+          },
+          "gaze": [
+            5,
+            -1.9977280521262002
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": true
+        },
+        {
+          "id": "curious",
+          "time": 790,
+          "themeParity": true,
+          "direction": {
+            "x": -0.016922090668295316,
+            "y": -0.9998568111721868
+          },
+          "gaze": [
+            5,
+            -1
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": true
+        },
+        {
+          "id": "curious",
+          "time": 1190,
+          "themeParity": true,
+          "direction": {
+            "x": -0.016922090668295316,
+            "y": -0.9998568111721868
+          },
+          "gaze": [
+            5,
+            -1
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": true
+        },
+        {
+          "id": "curious",
+          "time": 1900,
+          "themeParity": true,
+          "direction": {
+            "x": -0.016922090668295316,
+            "y": -0.9998568111721868
+          },
+          "gaze": [
+            0.5555555555555554,
+            -0.2592592592592593
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": true
+        },
+        {
+          "id": "curious",
+          "time": 2350,
+          "themeParity": true,
+          "direction": {
+            "x": -0.016922090668295316,
+            "y": -0.9998568111721868
+          },
+          "gaze": [
+            0.8949759945130318,
+            -0.9474879972565159
+          ],
+          "returnedExactly": true,
+          "controlUnchanged": true
+        },
+        {
+          "id": "curious",
+          "time": 2720,
+          "themeParity": true,
+          "direction": {
+            "x": -0.016922090668295316,
+            "y": -0.9998568111721868
+          },
+          "gaze": [
+            1,
+            -1
+          ],
+          "returnedExactly": true,
+          "controlUnchanged": true
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "innerWidth": 390,
+      "scrollWidth": 390,
+      "results": [
+        {
+          "id": "curious-investigate",
+          "time": 330,
+          "themeParity": true,
+          "direction": {
+            "x": 0.10595145529009306,
+            "y": -0.9943713034485213
+          },
+          "gaze": [
+            0.554918916252781,
+            -4.957927345875818
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-investigate",
+          "time": 790,
+          "themeParity": true,
+          "direction": {
+            "x": 0.10595145529009306,
+            "y": -0.9943713034485213
+          },
+          "gaze": [
+            0.554918916252781,
+            -4.957927345875818
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-investigate",
+          "time": 1190,
+          "themeParity": true,
+          "direction": {
+            "x": 0.10595145529009306,
+            "y": -0.9943713034485213
+          },
+          "gaze": [
+            0.5492902197013025,
+            -3.6868197338077735
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-investigate",
+          "time": 1900,
+          "themeParity": true,
+          "direction": {
+            "x": 0.10595145529009306,
+            "y": -0.9943713034485213
+          },
+          "gaze": [
+            0.554918916252781,
+            -4.195262778634992
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-investigate",
+          "time": 2350,
+          "themeParity": true,
+          "direction": {
+            "x": 0.10595145529009306,
+            "y": -0.9943713034485213
+          },
+          "gaze": [
+            0,
+            0
+          ],
+          "returnedExactly": true,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-investigate",
+          "time": 2720,
+          "themeParity": true,
+          "direction": {
+            "x": 0.10595145529009306,
+            "y": -0.9943713034485213
+          },
+          "gaze": [
+            0,
+            0
+          ],
+          "returnedExactly": true,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-wry",
+          "time": 330,
+          "themeParity": true,
+          "direction": {
+            "x": 0.10595145529009306,
+            "y": -0.9943713034485213
+          },
+          "gaze": [
+            0.554918916252781,
+            -4.957927345875818
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-wry",
+          "time": 790,
+          "themeParity": true,
+          "direction": {
+            "x": 0.10595145529009306,
+            "y": -0.9943713034485213
+          },
+          "gaze": [
+            0.554918916252781,
+            -4.957927345875818
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-wry",
+          "time": 1190,
+          "themeParity": true,
+          "direction": {
+            "x": 0.10595145529009306,
+            "y": -0.9943713034485213
+          },
+          "gaze": [
+            0.5492902197013025,
+            -3.6868197338077735
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-wry",
+          "time": 1900,
+          "themeParity": true,
+          "direction": {
+            "x": 0.10595145529009306,
+            "y": -0.9943713034485213
+          },
+          "gaze": [
+            0.554918916252781,
+            -4.195262778634992
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-wry",
+          "time": 2350,
+          "themeParity": true,
+          "direction": {
+            "x": 0.10595145529009306,
+            "y": -0.9943713034485213
+          },
+          "gaze": [
+            0,
+            0
+          ],
+          "returnedExactly": true,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-wry",
+          "time": 2720,
+          "themeParity": true,
+          "direction": {
+            "x": 0.10595145529009306,
+            "y": -0.9943713034485213
+          },
+          "gaze": [
+            0,
+            0
+          ],
+          "returnedExactly": true,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious",
+          "time": 330,
+          "themeParity": true,
+          "direction": {
+            "x": 0.10595145529009306,
+            "y": -0.9943713034485213
+          },
+          "gaze": [
+            5,
+            -1.9977280521262002
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": true
+        },
+        {
+          "id": "curious",
+          "time": 790,
+          "themeParity": true,
+          "direction": {
+            "x": 0.10595145529009306,
+            "y": -0.9943713034485213
+          },
+          "gaze": [
+            5,
+            -1
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": true
+        },
+        {
+          "id": "curious",
+          "time": 1190,
+          "themeParity": true,
+          "direction": {
+            "x": 0.10595145529009306,
+            "y": -0.9943713034485213
+          },
+          "gaze": [
+            5,
+            -1
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": true
+        },
+        {
+          "id": "curious",
+          "time": 1900,
+          "themeParity": true,
+          "direction": {
+            "x": 0.10595145529009306,
+            "y": -0.9943713034485213
+          },
+          "gaze": [
+            0.5555555555555554,
+            -0.2592592592592593
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": true
+        },
+        {
+          "id": "curious",
+          "time": 2350,
+          "themeParity": true,
+          "direction": {
+            "x": 0.10595145529009306,
+            "y": -0.9943713034485213
+          },
+          "gaze": [
+            0.8949759945130318,
+            -0.9474879972565159
+          ],
+          "returnedExactly": true,
+          "controlUnchanged": true
+        },
+        {
+          "id": "curious",
+          "time": 2720,
+          "themeParity": true,
+          "direction": {
+            "x": 0.10595145529009306,
+            "y": -0.9943713034485213
+          },
+          "gaze": [
+            1,
+            -1
+          ],
+          "returnedExactly": true,
+          "controlUnchanged": true
+        }
+      ]
+    },
+    {
+      "width": 650,
+      "innerWidth": 650,
+      "scrollWidth": 650,
+      "results": [
+        {
+          "id": "curious-investigate",
+          "time": 330,
+          "themeParity": true,
+          "direction": {
+            "x": 0.68591025589631,
+            "y": -0.7276861417233796
+          },
+          "gaze": [
+            3.8572062297915113,
+            -3.291342831268094
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-investigate",
+          "time": 790,
+          "themeParity": true,
+          "direction": {
+            "x": 0.68591025589631,
+            "y": -0.7276861417233796
+          },
+          "gaze": [
+            3.8572062297915113,
+            -3.291342831268094
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-investigate",
+          "time": 1190,
+          "themeParity": true,
+          "direction": {
+            "x": 0.68591025589631,
+            "y": -0.7276861417233796
+          },
+          "gaze": [
+            3.584892371514891,
+            -1.0201658627307681
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-investigate",
+          "time": 1900,
+          "themeParity": true,
+          "direction": {
+            "x": 0.68591025589631,
+            "y": -0.7276861417233796
+          },
+          "gaze": [
+            3.8572062297915113,
+            -1.9286366501456986
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-investigate",
+          "time": 2350,
+          "themeParity": true,
+          "direction": {
+            "x": 0.68591025589631,
+            "y": -0.7276861417233796
+          },
+          "gaze": [
+            0,
+            0
+          ],
+          "returnedExactly": true,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-investigate",
+          "time": 2720,
+          "themeParity": true,
+          "direction": {
+            "x": 0.68591025589631,
+            "y": -0.7276861417233796
+          },
+          "gaze": [
+            0,
+            0
+          ],
+          "returnedExactly": true,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-wry",
+          "time": 330,
+          "themeParity": true,
+          "direction": {
+            "x": 0.68591025589631,
+            "y": -0.7276861417233796
+          },
+          "gaze": [
+            3.8572062297915113,
+            -3.291342831268094
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-wry",
+          "time": 790,
+          "themeParity": true,
+          "direction": {
+            "x": 0.68591025589631,
+            "y": -0.7276861417233796
+          },
+          "gaze": [
+            3.8572062297915113,
+            -3.291342831268094
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-wry",
+          "time": 1190,
+          "themeParity": true,
+          "direction": {
+            "x": 0.68591025589631,
+            "y": -0.7276861417233796
+          },
+          "gaze": [
+            3.584892371514891,
+            -1.0201658627307681
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-wry",
+          "time": 1900,
+          "themeParity": true,
+          "direction": {
+            "x": 0.68591025589631,
+            "y": -0.7276861417233796
+          },
+          "gaze": [
+            3.8572062297915113,
+            -1.9286366501456986
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-wry",
+          "time": 2350,
+          "themeParity": true,
+          "direction": {
+            "x": 0.68591025589631,
+            "y": -0.7276861417233796
+          },
+          "gaze": [
+            0,
+            0
+          ],
+          "returnedExactly": true,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-wry",
+          "time": 2720,
+          "themeParity": true,
+          "direction": {
+            "x": 0.68591025589631,
+            "y": -0.7276861417233796
+          },
+          "gaze": [
+            0,
+            0
+          ],
+          "returnedExactly": true,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious",
+          "time": 330,
+          "themeParity": true,
+          "direction": {
+            "x": 0.68591025589631,
+            "y": -0.7276861417233796
+          },
+          "gaze": [
+            5,
+            -1.9977280521262002
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": true
+        },
+        {
+          "id": "curious",
+          "time": 790,
+          "themeParity": true,
+          "direction": {
+            "x": 0.68591025589631,
+            "y": -0.7276861417233796
+          },
+          "gaze": [
+            5,
+            -1
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": true
+        },
+        {
+          "id": "curious",
+          "time": 1190,
+          "themeParity": true,
+          "direction": {
+            "x": 0.68591025589631,
+            "y": -0.7276861417233796
+          },
+          "gaze": [
+            5,
+            -1
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": true
+        },
+        {
+          "id": "curious",
+          "time": 1900,
+          "themeParity": true,
+          "direction": {
+            "x": 0.68591025589631,
+            "y": -0.7276861417233796
+          },
+          "gaze": [
+            0.5555555555555554,
+            -0.2592592592592593
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": true
+        },
+        {
+          "id": "curious",
+          "time": 2350,
+          "themeParity": true,
+          "direction": {
+            "x": 0.68591025589631,
+            "y": -0.7276861417233796
+          },
+          "gaze": [
+            0.8949759945130318,
+            -0.9474879972565159
+          ],
+          "returnedExactly": true,
+          "controlUnchanged": true
+        },
+        {
+          "id": "curious",
+          "time": 2720,
+          "themeParity": true,
+          "direction": {
+            "x": 0.68591025589631,
+            "y": -0.7276861417233796
+          },
+          "gaze": [
+            1,
+            -1
+          ],
+          "returnedExactly": true,
+          "controlUnchanged": true
+        }
+      ]
+    },
+    {
+      "width": 651,
+      "innerWidth": 651,
+      "scrollWidth": 651,
+      "results": [
+        {
+          "id": "curious-investigate",
+          "time": 330,
+          "themeParity": true,
+          "direction": {
+            "x": 0.9891674457273568,
+            "y": -0.1467915675821219
+          },
+          "gaze": [
+            4.992049361887002,
+            -1.876777588036292
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-investigate",
+          "time": 790,
+          "themeParity": true,
+          "direction": {
+            "x": 0.9891674457273568,
+            "y": -0.1467915675821219
+          },
+          "gaze": [
+            4.992049361887002,
+            -1.876777588036292
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-investigate",
+          "time": 1190,
+          "themeParity": true,
+          "direction": {
+            "x": 0.9891674457273568,
+            "y": -0.1467915675821219
+          },
+          "gaze": [
+            4.138840929469123,
+            2.572754033530751
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-investigate",
+          "time": 1900,
+          "themeParity": true,
+          "direction": {
+            "x": 0.9891674457273568,
+            "y": -0.1467915675821219
+          },
+          "gaze": [
+            4.992049361887002,
+            0.7929413849039336
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-investigate",
+          "time": 2350,
+          "themeParity": true,
+          "direction": {
+            "x": 0.9891674457273568,
+            "y": -0.1467915675821219
+          },
+          "gaze": [
+            0,
+            0
+          ],
+          "returnedExactly": true,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-investigate",
+          "time": 2720,
+          "themeParity": true,
+          "direction": {
+            "x": 0.9891674457273568,
+            "y": -0.1467915675821219
+          },
+          "gaze": [
+            0,
+            0
+          ],
+          "returnedExactly": true,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-wry",
+          "time": 330,
+          "themeParity": true,
+          "direction": {
+            "x": 0.9891674457273568,
+            "y": -0.1467915675821219
+          },
+          "gaze": [
+            4.992049361887002,
+            -1.876777588036292
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-wry",
+          "time": 790,
+          "themeParity": true,
+          "direction": {
+            "x": 0.9891674457273568,
+            "y": -0.1467915675821219
+          },
+          "gaze": [
+            4.992049361887002,
+            -1.876777588036292
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-wry",
+          "time": 1190,
+          "themeParity": true,
+          "direction": {
+            "x": 0.9891674457273568,
+            "y": -0.1467915675821219
+          },
+          "gaze": [
+            4.138840929469123,
+            2.572754033530751
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-wry",
+          "time": 1900,
+          "themeParity": true,
+          "direction": {
+            "x": 0.9891674457273568,
+            "y": -0.1467915675821219
+          },
+          "gaze": [
+            4.992049361887002,
+            0.7929413849039336
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-wry",
+          "time": 2350,
+          "themeParity": true,
+          "direction": {
+            "x": 0.9891674457273568,
+            "y": -0.1467915675821219
+          },
+          "gaze": [
+            0,
+            0
+          ],
+          "returnedExactly": true,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-wry",
+          "time": 2720,
+          "themeParity": true,
+          "direction": {
+            "x": 0.9891674457273568,
+            "y": -0.1467915675821219
+          },
+          "gaze": [
+            0,
+            0
+          ],
+          "returnedExactly": true,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious",
+          "time": 330,
+          "themeParity": true,
+          "direction": {
+            "x": 0.9891674457273568,
+            "y": -0.1467915675821219
+          },
+          "gaze": [
+            5,
+            -1.9977280521262002
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": true
+        },
+        {
+          "id": "curious",
+          "time": 790,
+          "themeParity": true,
+          "direction": {
+            "x": 0.9891674457273568,
+            "y": -0.1467915675821219
+          },
+          "gaze": [
+            5,
+            -1
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": true
+        },
+        {
+          "id": "curious",
+          "time": 1190,
+          "themeParity": true,
+          "direction": {
+            "x": 0.9891674457273568,
+            "y": -0.1467915675821219
+          },
+          "gaze": [
+            5,
+            -1
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": true
+        },
+        {
+          "id": "curious",
+          "time": 1900,
+          "themeParity": true,
+          "direction": {
+            "x": 0.9891674457273568,
+            "y": -0.1467915675821219
+          },
+          "gaze": [
+            0.5555555555555554,
+            -0.2592592592592593
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": true
+        },
+        {
+          "id": "curious",
+          "time": 2350,
+          "themeParity": true,
+          "direction": {
+            "x": 0.9891674457273568,
+            "y": -0.1467915675821219
+          },
+          "gaze": [
+            0.8949759945130318,
+            -0.9474879972565159
+          ],
+          "returnedExactly": true,
+          "controlUnchanged": true
+        },
+        {
+          "id": "curious",
+          "time": 2720,
+          "themeParity": true,
+          "direction": {
+            "x": 0.9891674457273568,
+            "y": -0.1467915675821219
+          },
+          "gaze": [
+            1,
+            -1
+          ],
+          "returnedExactly": true,
+          "controlUnchanged": true
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "innerWidth": 768,
+      "scrollWidth": 768,
+      "results": [
+        {
+          "id": "curious-investigate",
+          "time": 330,
+          "themeParity": true,
+          "direction": {
+            "x": 0.993525987052903,
+            "y": -0.11360507493309766
+          },
+          "gaze": [
+            4.996322596370136,
+            -1.8876698963278498
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-investigate",
+          "time": 790,
+          "themeParity": true,
+          "direction": {
+            "x": 0.993525987052903,
+            "y": -0.11360507493309766
+          },
+          "gaze": [
+            4.996322596370136,
+            -1.8876698963278498
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-investigate",
+          "time": 1190,
+          "themeParity": true,
+          "direction": {
+            "x": 0.993525987052903,
+            "y": -0.11360507493309766
+          },
+          "gaze": [
+            4.109927671303233,
+            2.686311072673034
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-investigate",
+          "time": 1900,
+          "themeParity": true,
+          "direction": {
+            "x": 0.993525987052903,
+            "y": -0.11360507493309766
+          },
+          "gaze": [
+            4.996322596370136,
+            0.8567186850726805
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-investigate",
+          "time": 2350,
+          "themeParity": true,
+          "direction": {
+            "x": 0.993525987052903,
+            "y": -0.11360507493309766
+          },
+          "gaze": [
+            0,
+            0
+          ],
+          "returnedExactly": true,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-investigate",
+          "time": 2720,
+          "themeParity": true,
+          "direction": {
+            "x": 0.993525987052903,
+            "y": -0.11360507493309766
+          },
+          "gaze": [
+            0,
+            0
+          ],
+          "returnedExactly": true,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-wry",
+          "time": 330,
+          "themeParity": true,
+          "direction": {
+            "x": 0.993525987052903,
+            "y": -0.11360507493309766
+          },
+          "gaze": [
+            4.996322596370136,
+            -1.8876698963278498
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-wry",
+          "time": 790,
+          "themeParity": true,
+          "direction": {
+            "x": 0.993525987052903,
+            "y": -0.11360507493309766
+          },
+          "gaze": [
+            4.996322596370136,
+            -1.8876698963278498
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-wry",
+          "time": 1190,
+          "themeParity": true,
+          "direction": {
+            "x": 0.993525987052903,
+            "y": -0.11360507493309766
+          },
+          "gaze": [
+            4.109927671303233,
+            2.686311072673034
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-wry",
+          "time": 1900,
+          "themeParity": true,
+          "direction": {
+            "x": 0.993525987052903,
+            "y": -0.11360507493309766
+          },
+          "gaze": [
+            4.996322596370136,
+            0.8567186850726805
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-wry",
+          "time": 2350,
+          "themeParity": true,
+          "direction": {
+            "x": 0.993525987052903,
+            "y": -0.11360507493309766
+          },
+          "gaze": [
+            0,
+            0
+          ],
+          "returnedExactly": true,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-wry",
+          "time": 2720,
+          "themeParity": true,
+          "direction": {
+            "x": 0.993525987052903,
+            "y": -0.11360507493309766
+          },
+          "gaze": [
+            0,
+            0
+          ],
+          "returnedExactly": true,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious",
+          "time": 330,
+          "themeParity": true,
+          "direction": {
+            "x": 0.993525987052903,
+            "y": -0.11360507493309766
+          },
+          "gaze": [
+            5,
+            -1.9977280521262002
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": true
+        },
+        {
+          "id": "curious",
+          "time": 790,
+          "themeParity": true,
+          "direction": {
+            "x": 0.993525987052903,
+            "y": -0.11360507493309766
+          },
+          "gaze": [
+            5,
+            -1
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": true
+        },
+        {
+          "id": "curious",
+          "time": 1190,
+          "themeParity": true,
+          "direction": {
+            "x": 0.993525987052903,
+            "y": -0.11360507493309766
+          },
+          "gaze": [
+            5,
+            -1
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": true
+        },
+        {
+          "id": "curious",
+          "time": 1900,
+          "themeParity": true,
+          "direction": {
+            "x": 0.993525987052903,
+            "y": -0.11360507493309766
+          },
+          "gaze": [
+            0.5555555555555554,
+            -0.2592592592592593
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": true
+        },
+        {
+          "id": "curious",
+          "time": 2350,
+          "themeParity": true,
+          "direction": {
+            "x": 0.993525987052903,
+            "y": -0.11360507493309766
+          },
+          "gaze": [
+            0.8949759945130318,
+            -0.9474879972565159
+          ],
+          "returnedExactly": true,
+          "controlUnchanged": true
+        },
+        {
+          "id": "curious",
+          "time": 2720,
+          "themeParity": true,
+          "direction": {
+            "x": 0.993525987052903,
+            "y": -0.11360507493309766
+          },
+          "gaze": [
+            1,
+            -1
+          ],
+          "returnedExactly": true,
+          "controlUnchanged": true
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "innerWidth": 1440,
+      "scrollWidth": 1440,
+      "results": [
+        {
+          "id": "curious-investigate",
+          "time": 330,
+          "themeParity": true,
+          "direction": {
+            "x": 0.9989716702702709,
+            "y": -0.045338747197350954
+          },
+          "gaze": [
+            4.999766884091741,
+            -1.9412420881923875
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-investigate",
+          "time": 790,
+          "themeParity": true,
+          "direction": {
+            "x": 0.9989716702702709,
+            "y": -0.045338747197350954
+          },
+          "gaze": [
+            4.999766884091741,
+            -1.9412420881923875
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-investigate",
+          "time": 1190,
+          "themeParity": true,
+          "direction": {
+            "x": 0.9989716702702709,
+            "y": -0.045338747197350954
+          },
+          "gaze": [
+            4.0451056312890925,
+            2.8887376098175466
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-investigate",
+          "time": 1900,
+          "themeParity": true,
+          "direction": {
+            "x": 0.9989716702702709,
+            "y": -0.045338747197350954
+          },
+          "gaze": [
+            4.999766884091741,
+            0.9567457306135729
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-investigate",
+          "time": 2350,
+          "themeParity": true,
+          "direction": {
+            "x": 0.9989716702702709,
+            "y": -0.045338747197350954
+          },
+          "gaze": [
+            0,
+            0
+          ],
+          "returnedExactly": true,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-investigate",
+          "time": 2720,
+          "themeParity": true,
+          "direction": {
+            "x": 0.9989716702702709,
+            "y": -0.045338747197350954
+          },
+          "gaze": [
+            0,
+            0
+          ],
+          "returnedExactly": true,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-wry",
+          "time": 330,
+          "themeParity": true,
+          "direction": {
+            "x": 0.9989716702702709,
+            "y": -0.045338747197350954
+          },
+          "gaze": [
+            4.999766884091741,
+            -1.9412420881923875
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-wry",
+          "time": 790,
+          "themeParity": true,
+          "direction": {
+            "x": 0.9989716702702709,
+            "y": -0.045338747197350954
+          },
+          "gaze": [
+            4.999766884091741,
+            -1.9412420881923875
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-wry",
+          "time": 1190,
+          "themeParity": true,
+          "direction": {
+            "x": 0.9989716702702709,
+            "y": -0.045338747197350954
+          },
+          "gaze": [
+            4.0451056312890925,
+            2.8887376098175466
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-wry",
+          "time": 1900,
+          "themeParity": true,
+          "direction": {
+            "x": 0.9989716702702709,
+            "y": -0.045338747197350954
+          },
+          "gaze": [
+            4.999766884091741,
+            0.9567457306135729
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-wry",
+          "time": 2350,
+          "themeParity": true,
+          "direction": {
+            "x": 0.9989716702702709,
+            "y": -0.045338747197350954
+          },
+          "gaze": [
+            0,
+            0
+          ],
+          "returnedExactly": true,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious-wry",
+          "time": 2720,
+          "themeParity": true,
+          "direction": {
+            "x": 0.9989716702702709,
+            "y": -0.045338747197350954
+          },
+          "gaze": [
+            0,
+            0
+          ],
+          "returnedExactly": true,
+          "controlUnchanged": null
+        },
+        {
+          "id": "curious",
+          "time": 330,
+          "themeParity": true,
+          "direction": {
+            "x": 0.9989716702702709,
+            "y": -0.045338747197350954
+          },
+          "gaze": [
+            5,
+            -1.9977280521262002
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": true
+        },
+        {
+          "id": "curious",
+          "time": 790,
+          "themeParity": true,
+          "direction": {
+            "x": 0.9989716702702709,
+            "y": -0.045338747197350954
+          },
+          "gaze": [
+            5,
+            -1
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": true
+        },
+        {
+          "id": "curious",
+          "time": 1190,
+          "themeParity": true,
+          "direction": {
+            "x": 0.9989716702702709,
+            "y": -0.045338747197350954
+          },
+          "gaze": [
+            5,
+            -1
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": true
+        },
+        {
+          "id": "curious",
+          "time": 1900,
+          "themeParity": true,
+          "direction": {
+            "x": 0.9989716702702709,
+            "y": -0.045338747197350954
+          },
+          "gaze": [
+            0.5555555555555554,
+            -0.2592592592592593
+          ],
+          "returnedExactly": null,
+          "controlUnchanged": true
+        },
+        {
+          "id": "curious",
+          "time": 2350,
+          "themeParity": true,
+          "direction": {
+            "x": 0.9989716702702709,
+            "y": -0.045338747197350954
+          },
+          "gaze": [
+            0.8949759945130318,
+            -0.9474879972565159
+          ],
+          "returnedExactly": true,
+          "controlUnchanged": true
+        },
+        {
+          "id": "curious",
+          "time": 2720,
+          "themeParity": true,
+          "direction": {
+            "x": 0.9989716702702709,
+            "y": -0.045338747197350954
+          },
+          "gaze": [
+            1,
+            -1
+          ],
+          "returnedExactly": true,
+          "controlUnchanged": true
+        }
+      ]
+    }
+  ],
+  "resize": {
+    "before": {
+      "bodyX": 0,
+      "bodyY": 0,
+      "bodyR": 0.7,
+      "headX": 1.2270177434470977,
+      "headY": -1.9662278206911274,
+      "headR": 0.4643531762062709,
+      "antennaL": 2,
+      "antennaR": 8,
+      "wingLF": -3,
+      "wingRF": 8,
+      "wingLH": 1,
+      "wingRH": 4,
+      "handLX": 269,
+      "handLY": 481,
+      "handLR": 0,
+      "handRX": 354,
+      "handRY": 437,
+      "handRR": -12,
+      "footLR": 0,
+      "footRR": 0,
+      "eyeL": 0.98,
+      "eyeR": 0.98,
+      "eyeJoy": 0,
+      "gazeX": 0.5492902197013025,
+      "gazeY": -3.6868197338077735,
+      "browL": -4,
+      "browR": 3,
+      "browLY": -3,
+      "browRY": -2,
+      "mouthSmile": 0.15,
+      "mouthOpen": 0,
+      "mouthO": 0,
+      "mouthX": 0,
+      "glasses": 1,
+      "glassesY": 0,
+      "bulb": 0,
+      "heart": 0,
+      "tear": 0,
+      "breath": 0
+    },
+    "after": {
+      "bodyX": 0,
+      "bodyY": 0,
+      "bodyR": 0.7,
+      "headX": 1.2270177434470977,
+      "headY": -1.9662278206911274,
+      "headR": 0.4643531762062709,
+      "antennaL": 2,
+      "antennaR": 8,
+      "wingLF": -3,
+      "wingRF": 8,
+      "wingLH": 1,
+      "wingRH": 4,
+      "handLX": 269,
+      "handLY": 481,
+      "handLR": 0,
+      "handRX": 354,
+      "handRY": 437,
+      "handRR": -12,
+      "footLR": 0,
+      "footRR": 0,
+      "eyeL": 0.98,
+      "eyeR": 0.98,
+      "eyeJoy": 0,
+      "gazeX": 0.5492902197013025,
+      "gazeY": -3.6868197338077735,
+      "browL": -4,
+      "browR": 3,
+      "browLY": -3,
+      "browRY": -2,
+      "mouthSmile": 0.15,
+      "mouthOpen": 0,
+      "mouthO": 0,
+      "mouthX": 0,
+      "glasses": 1,
+      "glassesY": 0,
+      "bulb": 0,
+      "heart": 0,
+      "tear": 0,
+      "breath": 0
+    },
+    "frozen": true,
+    "seekAfterResize": {
+      "measured": {
+        "x": 0.9989716702702709,
+        "y": -0.0453387471973512,
+        "eye": {
+          "x": 464.3484848484849,
+          "y": 396.6070075757576
+        },
+        "target": {
+          "x": 927,
+          "y": 375.609375
+        }
+      },
+      "direction": {
+        "x": 0.9989716702702709,
+        "y": -0.0453387471973512
+      },
+      "rawPose": {
+        "bodyX": 0,
+        "bodyY": 0,
+        "bodyR": 0.7,
+        "headX": 6,
+        "headY": 4,
+        "headR": 3,
+        "antennaL": 2,
+        "antennaR": 8,
+        "wingLF": -3,
+        "wingRF": 8,
+        "wingLH": 1,
+        "wingRH": 4,
+        "handLX": 269,
+        "handLY": 481,
+        "handLR": 0,
+        "handRX": 354,
+        "handRY": 437,
+        "handRR": -12,
+        "footLR": 0,
+        "footRR": 0,
+        "eyeL": 0.98,
+        "eyeR": 0.98,
+        "eyeJoy": 0,
+        "gazeX": 4,
+        "gazeY": 3,
+        "browL": -4,
+        "browR": 3,
+        "browLY": -3,
+        "browRY": -2,
+        "mouthSmile": 0.15,
+        "mouthOpen": 0,
+        "mouthO": 0,
+        "mouthX": 0,
+        "glasses": 1,
+        "glassesY": 0,
+        "bulb": 0,
+        "heart": 0,
+        "tear": 0,
+        "breath": 0
+      },
+      "renderedPose": {
+        "bodyX": 0,
+        "bodyY": 0,
+        "bodyR": 0.7,
+        "headX": 5.99972026091009,
+        "headY": 3.727967516815893,
+        "headR": 2.8843861946467544,
+        "antennaL": 2,
+        "antennaR": 8,
+        "wingLF": -3,
+        "wingRF": 8,
+        "wingLH": 1,
+        "wingRH": 4,
+        "handLX": 269,
+        "handLY": 481,
+        "handLR": 0,
+        "handRX": 354,
+        "handRY": 437,
+        "handRR": -12,
+        "footLR": 0,
+        "footRR": 0,
+        "eyeL": 0.98,
+        "eyeR": 0.98,
+        "eyeJoy": 0,
+        "gazeX": 4.0451056312890925,
+        "gazeY": 2.8887376098175457,
+        "browL": -4,
+        "browR": 3,
+        "browLY": -3,
+        "browRY": -2,
+        "mouthSmile": 0.15,
+        "mouthOpen": 0,
+        "mouthO": 0,
+        "mouthX": 0,
+        "glasses": 1,
+        "glassesY": 0,
+        "bulb": 0,
+        "heart": 0,
+        "tear": 0,
+        "breath": 0
+      },
+      "stageTime": 0
+    }
+  },
+  "replay": {
+    "before": {
+      "bodyX": 0,
+      "bodyY": 0,
+      "bodyR": 0.7,
+      "headX": 1.2270177434470977,
+      "headY": -1.9662278206911274,
+      "headR": 0.4643531762062709,
+      "antennaL": 2,
+      "antennaR": 8,
+      "wingLF": -3,
+      "wingRF": 8,
+      "wingLH": 1,
+      "wingRH": 4,
+      "handLX": 269,
+      "handLY": 481,
+      "handLR": 0,
+      "handRX": 354,
+      "handRY": 437,
+      "handRR": -12,
+      "footLR": 0,
+      "footRR": 0,
+      "eyeL": 0.98,
+      "eyeR": 0.98,
+      "eyeJoy": 0,
+      "gazeX": 0.5492902197013025,
+      "gazeY": -3.6868197338077735,
+      "browL": -4,
+      "browR": 3,
+      "browLY": -3,
+      "browRY": -2,
+      "mouthSmile": 0.15,
+      "mouthOpen": 0,
+      "mouthO": 0,
+      "mouthX": 0,
+      "glasses": 1,
+      "glassesY": 0,
+      "bulb": 0,
+      "heart": 0,
+      "tear": 0,
+      "breath": 0
+    },
+    "after": {
+      "bodyX": 0,
+      "bodyY": 0,
+      "bodyR": 0.7,
+      "headX": 1.2270177434470977,
+      "headY": -1.9662278206911274,
+      "headR": 0.4643531762062709,
+      "antennaL": 2,
+      "antennaR": 8,
+      "wingLF": -3,
+      "wingRF": 8,
+      "wingLH": 1,
+      "wingRH": 4,
+      "handLX": 269,
+      "handLY": 481,
+      "handLR": 0,
+      "handRX": 354,
+      "handRY": 437,
+      "handRR": -12,
+      "footLR": 0,
+      "footRR": 0,
+      "eyeL": 0.98,
+      "eyeR": 0.98,
+      "eyeJoy": 0,
+      "gazeX": 0.5492902197013025,
+      "gazeY": -3.6868197338077735,
+      "browL": -4,
+      "browR": 3,
+      "browLY": -3,
+      "browRY": -2,
+      "mouthSmile": 0.15,
+      "mouthOpen": 0,
+      "mouthO": 0,
+      "mouthX": 0,
+      "glasses": 1,
+      "glassesY": 0,
+      "bulb": 0,
+      "heart": 0,
+      "tear": 0,
+      "breath": 0
+    },
+    "exact": true,
+    "playingAfterPause": false
+  },
+  "reduced": {
+    "playing": false,
+    "status": "Still pose · reduced motion",
+    "label": "Show the thought"
+  }
+}

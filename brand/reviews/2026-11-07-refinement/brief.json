@@ -1,0 +1,19 @@
+{
+  "task": "Fix four audited issues and challenge final updated version before presenting.",
+  "scope": [
+    "V5 avatar and headers + dark stem legibility",
+    "emotion-preserving transitions",
+    "hop timing and mitten pose clarity",
+    "studio keyboard focus and local emotion selection"
+  ],
+  "nonnegotiables": [
+    "Preserve tiny innocent anatomy, head/body scale, stub feet, short mittens and asymmetric antennae.",
+    "Day/night use exactly same geometry and numeric poses.",
+    "Keep 24 expression library; no invented biography or new scenes.",
+    "Do not publish, commit or push.",
+    "Reference source images remain untouched; native vector derivatives may be added."
+  ],
+  "workflow": "Implementation by separate owners, fresh browser evidence, independent review then cross-challenge. Root owns Ego browser.",
+  "repo": "/Users/nag/projects/personal/heyNag",
+  "before": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-refinement/before"
+}

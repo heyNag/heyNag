@@ -1,0 +1,105 @@
+{
+  "reviewerId": "visual-a",
+  "role": "Visual development and lighting artist A",
+  "lens": "Materials and light/dark continuity",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "scope": "Fresh independent judgment of the locally previewed native GitHub profile: paired static V5 headers, universal day avatar, their proportions, material hierarchy and integration with native reading surfaces. Future website continuity is assessed as a contract only. No partner review read before saving.",
+  "sourceManifestSha256": "7b23e48c7555ab1abca2a81923bb526411043350c092e352ef42efd106b468d2",
+  "inspectedEvidence": [
+    "brand/reviews/2026-11-07-github/evidence/profile-light-1440.png",
+    "brand/reviews/2026-11-07-github/evidence/profile-dark-1440.png",
+    "brand/reviews/2026-11-07-github/evidence/profile-light-320-top.png",
+    "brand/reviews/2026-11-07-github/evidence/profile-dark-320-top.png",
+    "brand/reviews/2026-11-07-github/evidence/readme-light-320-scroll.png",
+    "brand/reviews/2026-11-07-github/evidence/readme-dark-320-scroll.png",
+    "brand/reviews/2026-11-07-github/evidence/pins-light-320-scroll.png",
+    "brand/reviews/2026-11-07-github/evidence/profile-dark-390.png",
+    "assets/brand/heynag-moth-avatar-v5-day.png",
+    "assets/brand/header-v5-light.png",
+    "assets/brand/header-v5-dark.png",
+    "brand/reviews/2026-11-07-github/evidence/render-checks.json",
+    "README.md",
+    "brand/profile/profile.json",
+    "brand/profile/continuity.json",
+    "brand/profile/README.md",
+    "brand/source/applications-v5.js",
+    "brand/design-system.css",
+    "brand/reviews/2026-11-07-github/review-source-v1.json"
+  ],
+  "skillsReviewed": [
+    {
+      "skill": "design-taste-frontend",
+      "path": "/Users/nag/.agents/skills/taste-skill/SKILL.md",
+      "intake": "Full SKILL.md read this review. Applied existing-identity coherence, grounded content and actual rendered evidence. No site kit instantiated."
+    },
+    {
+      "skill": "emil-design-eng",
+      "path": "/Users/nag/.agents/skills/emil-design-eng/SKILL.md",
+      "intake": "Full SKILL.md reread this review. Applied purposeful static default, hierarchy and contextual inspection."
+    },
+    {
+      "skill": "apple-design",
+      "path": "/Users/nag/.config/skillshare/skills/apple-design/SKILL.md",
+      "intake": "Reused full reading from my gesture/staging review: restrained materials and adaptation to actual surface and scale."
+    },
+    {
+      "skill": "prototype",
+      "path": "/Users/nag/.config/skillshare/skills/prototype/SKILL.md",
+      "intake": "Reused prior full reading for defining a named visual benefit and comparable evidence before adopting any future variant; no prototype requested or built here."
+    }
+  ],
+  "workflowChanges": [
+    "Compared the paired exports inside GitHub's actual desktop and narrow layouts, then inspected original PNGs to distinguish material limits from downsampling. Used wheel-scrolled viewport captures for reading claims.",
+    "Verified all nine manifest file hashes. The existing character and application exports are unchanged; the new judgment concerns their profile application, not a new drawing or inherited approval.",
+    "Separated an inspectable warm visual identity from recognition claims. A later experiment must name its benefit, preserve anatomy and show both native themes at 238px banner width before adoption."
+  ],
+  "rulesNotApplicableWithReason": [
+    "Taste-skill's starter, dealt palette/fonts, one-section-per-screen, commercial photography, hover loops and browser checker cannot govern a GitHub-native README. Native layout and the authorized existing identity take precedence; no new page or kit asset family is being built.",
+    "Emil's custom press feedback, stagger, easing and UI duration recipes do not apply to these static PNGs and GitHub-owned controls. No motion or sound is needed for this application.",
+    "This assigned JSON reviews visual application rather than proposing UI-code replacements, so the UI-code Before/After table is inapplicable. Root owns browser evidence; I inspected files without launching a browser.",
+    "Prototype switching and cleanup instructions do not authorize source experiments during independent review. Retain source and historical evidence; do not force a website redesign to resolve a native-platform tradeoff."
+  ],
+  "score": 8.7,
+  "scoreMeaning": "Subjective /10 craft judgment of the current static GitHub application, not a precise measurement, audience result or website score. Fresh scope; not a numerical continuation of my prior 8.8 gesture/staging judgment.",
+  "confidence": "High for shown static palette, proportions and desktop/narrow composition; moderate for small-detail reading beyond these rasterized captures. Manifest verification supports provenance, not human response.",
+  "strengths": [
+    "Both 1440px captures retain a cream face as the character's lightest focal mass, quiet wing planes and an oversized head above a compact body. The header preserves all four wings and attached feet; the avatar is a head crop, not altered anatomy.",
+    "The light chartreuse ground becomes the dark header's chartreuse wordmark against forest. The warmer night cream still belongs to the same palette. Native blue links remain visually functional, while brand color stays concentrated in the identity art.",
+    "The universal paper-ground avatar preserves the face and unequal antenna paddles in both 320px top captures. The 238px-wide header still clearly carries heyNag and a small whole character; its meaning does not require reading the mittens.",
+    "Actual scrolled README and pin captures show calm native text, useful project descriptions and no decorative interruption. Nag's name and first-person introduction keep authorship explicit beside the companion."
+  ],
+  "deductions": [
+    {
+      "issue": "Night antenna stems have a more delicate, doubled-edge reading than the solid day contour; at narrow banner scale they are weaker than the bright paddles and face.",
+      "evidence": ["assets/brand/header-v5-dark.png", "brand/reviews/2026-11-07-github/evidence/profile-dark-320-top.png", "brand/reviews/2026-11-07-github/evidence/profile-dark-390.png"],
+      "improvementCriterion": "Any optional paint-only experiment must improve stem continuity at the actual 238px banner width while preserving paddles, geometry, quiet cream and day/night identity. Do not add glow or enlarge anatomy merely to chase a score.",
+      "severity": "Minor, nonblocking"
+    },
+    {
+      "issue": "At 320px the full-body character's ruff and mitten detail condense into a dense small cluster. The face and silhouette work better than the fine material separation.",
+      "evidence": ["brand/reviews/2026-11-07-github/evidence/profile-light-320-top.png", "brand/reviews/2026-11-07-github/evidence/profile-dark-320-top.png"],
+      "improvementCriterion": "If stronger gesture or material legibility becomes a requirement, compare an application-scale composition variant in both themes. Adopt only demonstrated separation with the tiny proportions intact; no current message depends on this detail.",
+      "severity": "Minor scale limit, nonblocking"
+    },
+    {
+      "issue": "The large pale avatar disk creates a stronger isolated light mass on dark desktop than the warmer header face. This makes dark-theme integration less seamless than light-theme integration.",
+      "evidence": ["brand/reviews/2026-11-07-github/evidence/profile-dark-1440.png", "brand/reviews/2026-11-07-github/evidence/profile-light-1440.png"],
+      "improvementCriterion": "Retain the dependable universal avatar unless a reversible ground-only comparison improves desktop integration and preserves small-avatar contrast in both themes. A separate night account avatar is not a solution to GitHub's single-avatar constraint.",
+      "severity": "Accepted optical tradeoff, nonblocking"
+    }
+  ],
+  "blockers": [],
+  "recommendations": [
+    "Keep the present paired static headers and universal day avatar as the current profile treatment; preserve original raster, source geometry and native readable text.",
+    "Carry a versioned source and explicit surface-color mapping into the future website. The application dark ground is #202B21, while CSS ink is #1C1C1C and functional forest is #36552D; related greens are not interchangeable tokens by accident.",
+    "Treat narrow fine-detail experiments as optional improvements with named benefits. Do not introduce grain, stronger glow, enlarged hands or compulsory animation."
+  ],
+  "continuityAssessment": "The shown profile provides a coherent visual starting point: the same face, unequal paddles, chartreuse, cream and ink support both themes. continuity.json sensibly preserves source, proportions, useful work and a quiet path. Its statement that recognition is established immediately is a design intention, not demonstrated human recognition. The website has no rendered opening to assess; reuse of assets alone will not prove its scale, material integration or hierarchy.",
+  "unscoredOutcomes": [
+    "Built website quality, responsive website behavior and cross-surface human recognition.",
+    "Live GitHub publication, account avatar/bio/pins, deployed image delivery and real viewer theme preference combinations.",
+    "Human affection, recall, attribution, project engagement, physical-phone viewing and screen-reader speech.",
+    "Motion cadence, animation performance and sound: this reviewed application is intentionally static."
+  ]
+}

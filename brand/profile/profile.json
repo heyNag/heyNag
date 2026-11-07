@@ -1,0 +1,22 @@
+{
+  "name": "Nagarjuna Boddu",
+  "bio": "Software, systems, and curious experiments.",
+  "avatar": "assets/brand/heynag-moth-avatar-v5-day.png",
+  "website": {
+    "value": "",
+    "reason": "heyNag.com is owned but the website is not built; no dead destination."
+  },
+  "pins": [
+    "heyNag/charms",
+    "heyNag/codex-pet-grok-bot",
+    "heyNag/eva-md"
+  ],
+  "repositoryDescriptions": {
+    "heyNag/heyNag": "Code, design, and experiments by Nag.",
+    "heyNag/charms": "Practical plugins for coding agents: video understanding and research with saved X posts.",
+    "heyNag/codex-pet-grok-bot": "An unofficial animated Grok Bot companion for Codex, with expressive movement and light and dark editions.",
+    "heyNag/eva-md": "Memory for Claude Code and Codex, kept in Markdown and Git. An evolving experiment in session continuity."
+  },
+  "profileLinks": "Personal heyNag identity only; no visible organization link or unfinished website destination.",
+  "publicationStatus": "See brand/profile/publication.json for separately verified application status."
+}

@@ -1,0 +1,179 @@
+{
+  "reviewer": "visual-a",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "independence": "Saved before reading any partner implementation review or score. Own expanded-panel history informs the comparison; implementation/visual.json is an implementer record, not a peer verdict.",
+  "scope": "Implemented refined V5 static material appeal, day/night continuity, supported-size rendering and the shown local signature placements, against review-source-v1.json. Continuous motion, audience recognition and refreshed export approval are excluded.",
+  "sourceVerification": {
+    "manifest": "review-source-v1.json",
+    "allEightHashesMatched": true,
+    "characterSha256": "b93400daeaa43af99e4b8c30942b80d4d69aba545a808863dd92ebe1830a97fa",
+    "scopeNote": "All eight v1 hashes matched when this independent review was written. Root subsequently announced UI-only hover/select changes; this record does not certify that later UI revision. Character/motion scope is unchanged per root and requires the final manifest for the whole-team vote."
+  },
+  "evidenceActuallyInspected": [
+    "AGENTS.md; implementation/brief.json; review-source-v1.json; implementation/visual.json",
+    "PNG original-resolution inspection: evidence/paint.png, sizes.png, sizes-refined.png, poses.png, signature-1440.png, signature-390.png, studio-390-single.png, curious-investigate.png, curious-wry.png",
+    "brand/animation-v5/character.js in full and exact diff against before/animation-v5/character.js",
+    "brand/animation-v5/signature.css; evidence/harness.html; evidence/geometry.json",
+    "Own expanded-panel independent/visual-a.json and pair position from prior context"
+  ],
+  "score": {
+    "outOf10": 8.4
+  },
+  "scoreMeaning": "Subjective expert judgment of the stated static visual scope, not a precise measurement or audience result. The quieter antenna is a modest gain; remaining material and scale limitations do not justify raising my prior 8.4 or awarding 9. The new signature placement is now included explicitly.",
+  "strengths": [
+    "The oversized cream head, compact torso, unequal paddles, small mittens, attached feet and layered green wings remain endearing. The source diff changes paint plumbing rather than anatomy; shown poses preserve the same innocent construction.",
+    "The selected .62 night antenna edge is less insistent than the .85 control in paint.png while retaining connected stems in the shown 96/128/160px full figures. Neither broad glow nor additional texture has been introduced.",
+    "Cream remains matte and face-first against the greens. The soft-falloff candidate slightly broadens the light area without a shiny highlight or a palette shift.",
+    "Keeping the original whole-character rim is defensible: the reduced-rim comparison weakens outer boundary definition without a convincing improvement in hand/ruff articulation. My earlier reduction hypothesis is not a requirement to reduce it.",
+    "Desktop signature scale gives the face and open wing enough space to sit naturally beside the project question. The phone single-theme studio also gives the character a substantially clearer visual presence than the phone signature."
+  ],
+  "deductions": [
+    {
+      "id": "VIS-IMPL-01",
+      "severity": "moderate polish; nonblocking for local study",
+      "confidence": "high for observed still detail, not recognition",
+      "basis": "At 96px in sizes-refined.png, glasses, mittens and ruff still form a dense central drawing. Grateful retains a small loop cluster in poses.png; intentional contact is legitimate, but individual hand contours remain less immediate than the face and wings. Paint does not solve this staging/scale tradeoff."
+    },
+    {
+      "id": "VIS-IMPL-02",
+      "severity": "moderate application limitation",
+      "confidence": "high for layout; moderate for its expressive impact",
+      "basis": "signature-390.png keeps a narrow side-by-side stage, reducing the figure to a small companion while the question occupies the dominant column. Its small right mitten and facial nuance are less available than in signature-1440.png or studio-390-single.png. This limits fine visual acting, not text comprehension."
+    },
+    {
+      "id": "VIS-IMPL-03",
+      "severity": "minor material limitation",
+      "confidence": "moderate, subjective",
+      "basis": "The soft-falloff difference in paint.png is restrained enough that cream and forewings still read primarily as clean graphic planes. I see a small tonal benefit, not a substantial increase in softly modelled volume or tactile appeal."
+    }
+  ],
+  "improvementCriteria": [
+    "At intended full-figure sizes, demonstrate clearer meaningful hand contact or negative space while preserving clasped gratitude and the tiny anatomy; do not require blanket hand separation.",
+    "Compare a phone signature composition with more usable character width while retaining the visible project cue; adopt only if relevant face/mitten details become clearer without weakening reading.",
+    "A future material alternative must show a named soft-volume benefit in matched poses and actual applications without gloss, noisy texture, lost contours or changed anatomy. Retaining current paint remains valid."
+  ],
+  "confidence": "Moderate overall. High on source preservation and shown framing, moderate on subjective softness; no continuous playback or calibrated-display evidence.",
+  "implementedAssessment": {
+    "decision": "Retain refined paint for the documented local supported grounds and sizes, with named nonblocking limits. No serious visual regression found.",
+    "challengedClaims": [
+      {
+        "claim": "Preserved anatomy and shared geometry",
+        "assessment": "Supported by the exact character.js diff and matching hashes. geometry.json reports zero mismatches over 567 samples; I inspected that result but did not rerun it. Paint/filter exclusions mean it does not establish pixel-identical contours or artistic quality."
+      },
+      {
+        "claim": "Quieter antenna and softer falloff improve the result",
+        "assessment": "Accept a modest local-edge gain and a slight tonal gain. The 16-unit keyline width and underlying paths remain unchanged; only its opacity changes. Broad tactile-equivalence or recognition claims would exceed the PNG evidence."
+      },
+      {
+        "claim": "Actual-size coverage and header evidence",
+        "assessment": "The documented paper-ground day avatar remains the appropriate universal 32/48/64px option. Fine stems are weak in the 32px night alternative. harness.html loads header PNGs from assets while the avatar/full-figure rows use the current renderer; these header controls cannot certify newly regenerated exports."
+      }
+    ]
+  },
+  "objections": [],
+  "limits": [
+    "No partner review read; pair discussion and final implemented-scope vote remain outstanding.",
+    "Authored sequence sheets establish held drawing only, not perceived timing or continuous motion.",
+    "Night signature placement, all contact poses at every size, refreshed application export provenance and live GitHub were not newly inspected.",
+    "No new unprimed observer or delayed-recall evidence. Owner preference is now documented separately; missing research is not an invented visual defect.",
+    "The night 32px probe is not approved as an equal-clarity universal avatar; retain its separate owned-surface scope."
+  ],
+  "skillsReviewed": {
+    "catalogue": "installed-skills.json",
+    "all17FrontmattersRead": [
+      "emil-design-eng",
+      "animate",
+      "animate-expo",
+      "review-animations",
+      "improve-animations",
+      "find-animation-opportunities",
+      "remove-animations",
+      "choreograph",
+      "animation-performance",
+      "animation-vocabulary",
+      "apple-design",
+      "write-swift",
+      "pick-ui-library",
+      "prototype",
+      "mobile-native",
+      "break-ui",
+      "ask-sonner"
+    ],
+    "fullSkillFilesRead": [
+      {
+        "name": "emil-design-eng",
+        "path": "/Users/nag/.config/skillshare/skills/emil-design-eng/SKILL.md"
+      },
+      {
+        "name": "review-animations",
+        "path": "/Users/nag/.config/skillshare/skills/review-animations/SKILL.md"
+      },
+      {
+        "name": "choreograph",
+        "path": "/Users/nag/.config/skillshare/skills/choreograph/SKILL.md"
+      },
+      {
+        "name": "animation-performance",
+        "path": "/Users/nag/.config/skillshare/skills/animation-performance/SKILL.md"
+      },
+      {
+        "name": "prototype",
+        "path": "/Users/nag/.config/skillshare/skills/prototype/SKILL.md"
+      },
+      {
+        "name": "mobile-native",
+        "path": "/Users/nag/.config/skillshare/skills/mobile-native/SKILL.md"
+      }
+    ],
+    "application": "Workflow review requested by Nag; no new prototype, browser session, source edit or motion certification performed."
+  },
+  "workflowChanges": [
+    "Add an instant, one-variant-at-a-time review at actual application size to the existing matched comparison sheets. Contact sheets remain useful for diagnosis; realistic single-variant context decides whether the material difference survives normal viewing.",
+    "Keep each experiment on a named axis and record its benefit/cost: local antenna prominence, whole-character boundary definition, matte tonal falloff, or available character width. The current isolated paint catalogue already follows this useful discipline.",
+    "Use lead/support/static roles when assessing future visual staging: the noticed cue and character attention carry the meaning; surrounding copy, controls and background need no competing entrance animation. Story order can justify deliberate sequencing.",
+    "Report source validity, static appeal, continuous-motion perception and hardware performance separately. For the retained SVG rim, require a measured paint/frame-cost problem before changing filters or adding will-change; PNGs cannot establish speed on a phone.",
+    "Carry the mobile-native distinction into application reviews: capability-gated hover and coarse-pointer select text address plausible platform problems, while physical-device input zoom, touch feel and Safari rendering remain unverified. Root owns the announced UI fixes and fresh evidence.",
+    "Preserve Nag\u2019s Investigate & share selection as personal-fit direction for subsequent visual reviews; do not turn owner preference into an artistic score increase or evidence of stranger recognition."
+  ],
+  "rulesNotApplicableWithReason": [
+    {
+      "rule": "Sub-300ms UI motion and no keyboard-triggered animation",
+      "reason": "Apply to interface feedback and frequent navigation, not the intentionally requested multi-second character performance. Keyboard activation of Play must retain access to the same authored performance, with reduced-motion handling."
+    },
+    {
+      "rule": "Only transform/opacity; replace JavaScript motion automatically",
+      "reason": "The native SVG renderer deforms antenna, eye and mouth paths for expressive correctness. A blanket compositor rewrite would change the drawing. Diagnose actual frame cost before optimizing; no device recording was inspected."
+    },
+    {
+      "rule": "Add blur, spring bounce, stagger or press-scale as universal polish",
+      "reason": "These are contextual techniques. They cannot hide contact errors, justify extra glow or replace the current character timing without a named benefit. Existing direct press feedback need not become scale feedback."
+    },
+    {
+      "rule": "Reduced motion must retain animation",
+      "reason": "Meaningful stills and manually inspected timeline frames already communicate the character. No unsolicited fade or movement is required merely to satisfy a generic UI preference."
+    },
+    {
+      "rule": "Prototype hard rule to delete the exploration surface after selection",
+      "reason": "This repository explicitly requires retained controls, editable variants and review evidence. Preserve those authorized records; the skill\u2019s separate user-choice workflow is not being invoked to rebuild the already implemented study."
+    },
+    {
+      "rule": "Default to flagging or block on every generic style rule",
+      "reason": "AGENTS.md requires evidence-backed judgments and no invented defects. The review keeps actual material/scale concerns and does not manufacture an objection from unrelated UI conventions."
+    },
+    {
+      "rule": "Apply the complete mobile-native baseline globally",
+      "reason": "The signature is a scrolling study, not an installed fullscreen app. Do not suppress ordinary scrolling, text selection, zoom or native feedback without a specific reason. Hardware-only claims remain open."
+    },
+    {
+      "rule": "All other catalogue skills must run",
+      "reason": "Cataloguing is not task authorization to edit unrelated systems. Swift, Expo, Sonner, dependency selection, animation naming and destructive motion-removal workflows do not fit this static visual review."
+    }
+  ],
+  "workflowReviewTable": "| Before | After | Why |\n| --- | --- | --- |\n| Contact-sheet comparison alone | Add instant full-size application comparison | Small tonal and contour differences must survive intended viewing |\n| Desktop-emulated phone evidence | Separate code checks from physical-device verification | Touch, Safari rendering and frame cost are not established by PNGs |\n| Generic animation rules applied uniformly | Separate controls from authored character acting | Responsiveness and narrative timing serve different purposes |",
+  "ownerPreference": {
+    "evidence": "owner-preference.json",
+    "choice": "curious-investigate",
+    "meaning": "Nag selected Investigate & share for personal fit; no audience or visual-score inference."
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "role": "Implementation engineer — motion, separate from the 18-person review panel",
+  "date": "2026-11-07",
+  "status": "Implemented candidates; numeric verification passed. Renderer comparison and normal-speed judgment remain with the review evidence, not this implementation note.",
+  "scope": ["P1", "P2", "P5 numeric coverage"],
+  "ownedFiles": [
+    "brand/animation-v5/motion.js",
+    "brand/animation-v5/motion.test.mjs",
+    "brand/reviews/2026-11-07-implementation/implementation/motion.json"
+  ],
+  "baseline": {
+    "path": "brand/reviews/2026-11-07-implementation/before/animation-v5/motion.js",
+    "sha256": "890e887545f8990aa57d23da63dc42214ae9f624ae6e117f555bae03f70ce98a",
+    "preserved": true
+  },
+  "source": {
+    "motionSha256": "1027502ecbe9c43a067d09c819842c3876d307a7fa737e4064bebd386ee65a04",
+    "testsSha256": "7de881782f84035d2f346ea0835e33c1e1831f2d1c1d0542966163eda2d11a9f"
+  },
+  "api": {
+    "clips": "Unchanged 24 emotion IDs and catalogue order.",
+    "variants": "Separate frozen map containing curious-investigate, curious-wry, and mischievous-one-peek. These are auditions, not extra emotions.",
+    "performances": "Frozen merged lookup for clips and variants.",
+    "playback": "sample(id, time), Engine.play(id), and Engine.seek(id, time) accept both standard and variant IDs. Pause, resume, rest, reduced motion and finite completion apply equally.",
+    "themeParity": "Motion has no theme parameter or branch; a single numeric pose is supplied to both renderers. Renderer geometry and paint verification are separate."
+  },
+  "fixedQuestion": {
+    "question": "What should software remember?",
+    "supportingLine": "Exploring how Markdown and Git can carry context between coding sessions.",
+    "destination": "https://github.com/heyNag/eva-md",
+    "source": "Root engineer supplied the cue from the current verified README context.",
+    "placement": "Screen-right of the character; the reduced-motion page must retain the complete text.",
+    "intendedMeaning": "Attention to a concrete question, a short reading and consideration pause, then an invitation to consider it together. The behavior claims no project success, failure, or discovered answer."
+  },
+  "variants": [
+    {
+      "id": "curious-investigate",
+      "label": "Investigate and share",
+      "durationMs": 4100,
+      "stillTimeMs": 2720,
+      "beats": [
+        {"timeMs": 150, "intent": "Long antenna notices first."},
+        {"timeMs": 330, "intent": "Gaze finds the question on the right."},
+        {"timeMs": 790, "intent": "Head follows; glasses support careful reading."},
+        {"timeMs": 1190, "intent": "Gaze scans lower; a tiny hand gathers for consideration."},
+        {"timeMs": 1610, "intent": "Hold the question in attention."},
+        {"timeMs": 1900, "intent": "End of a 290 ms still consideration pause."},
+        {"timeMs": 2350, "intent": "Return toward the visitor before the hand opens."},
+        {"timeMs": 2720, "intent": "One small open mitten offers the question; no success prop."},
+        {"timeMs": 4100, "intent": "Finite held invitation."}
+      ]
+    },
+    {
+      "id": "curious-wry",
+      "label": "A small afterthought",
+      "durationMs": 4700,
+      "stillTimeMs": 3520,
+      "comparison": "Numerically identical to curious-investigate through 3050 ms. The difference is confined to one brief brow, eyelid, gaze and mouth afterthought with a small mitten release.",
+      "additionalBeats": [
+        {"timeMs": 3050, "intent": "Same initial shared invitation."},
+        {"timeMs": 3360, "intent": "Restrained side glance and lifted brow."},
+        {"timeMs": 3520, "intent": "Address visitor with the afterthought."},
+        {"timeMs": 4000, "intent": "Warm, almost symmetrical settlement."},
+        {"timeMs": 4700, "intent": "Finite held invitation."}
+      ]
+    },
+    {
+      "id": "mischievous-one-peek",
+      "label": "One peek",
+      "durationMs": 2750,
+      "stillTimeMs": 1500,
+      "comparison": "The standard mischievous clip retains its two-peek control. This alternative retains the same initial pretend-sleep and reveal but holds the half-open eye after one peek; it does not close and reopen for a second check.",
+      "captureTimesMs": [0, 440, 910, 1250, 1500, 2190, 2750],
+      "staticIntent": "The selected still retains one closed eye, one half-open eye, the betrayed antenna and tucked wings. Readability is for renderer review."
+    }
+  ],
+  "standardRefinements": [
+    {
+      "name": "Rest entry",
+      "change": "Skip the redundant transition blend only when every numeric channel is exactly neutral and all inherited velocities are zero. The authored opening already begins at neutral.",
+      "measuredReason": "The old 380 ms blend attenuated the early antenna cue in addition to its keyframe easing. Engine output from rest now equals the authored pose at the inspected onset samples.",
+      "scope": "Applies consistently to all performances from exact rest; non-neutral and moving interruptions still blend."
+    },
+    {
+      "name": "Curious replay",
+      "change": "Add Curious and its two narrative variants to a compatible transition family, retaining the actual face and posture through unassigned early channels.",
+      "measuredReason": "Curious replay no longer resets headX toward zero or mouth to the broad neutral welcome during its antenna-first opening."
+    },
+    {
+      "name": "Surprised onset",
+      "change": "Face registers at 140 ms, head and mittens answer at 310 ms, wings open at 650 ms. Replace the old 320 ms preparatory dip. Use a 180 ms entry blend from grounded non-neutral poses; retain the ordinary blend when arriving from a hop.",
+      "captureTimesMs": [0, 70, 140, 180, 310, 650, 1450, 2220, 2600],
+      "stillTimeMs": 650
+    },
+    {
+      "name": "Excited landing follow-through",
+      "change": "Preserve the tested body trajectory and exact 1060 ms contact. Head reaches local Y=0 at contact, compresses to Y=4 at 1140 ms, and recovers to Y=-4 at 1410 ms. No second body bounce and no anatomical scale.",
+      "captureTimesMs": [720, 900, 1000, 1060, 1100, 1140, 1250, 1410]
+    },
+    {
+      "name": "Worried mitten separation audition",
+      "change": "Move the lower mitten from LY=480 to 482 and the upper mitten from RX=343/RY=454 to RX=349/RY=463. Preserve the two different hand heights and all shapes.",
+      "intent": "Move the upper mitten modestly away from the ruff without enlarging a hand or arm. Requires the fresh actual-size renderer comparison before claiming greater clarity."
+    }
+  ],
+  "retainedChoices": [
+    "Thinking remains a deliberate chin contact with its lower free mitten; no larger arm or hand.",
+    "Focused retains two separated low mittens; its previous improvement is visible in the inspected prior sheet.",
+    "Grateful retains its intentional clasped contact. Separation everywhere would remove the pose's meaning.",
+    "Shy retains its low tucked hands; source inspection did not justify a mandatory coordinate edit.",
+    "The standard Mischievous two-peek behavior remains available beside its separate one-peek audition.",
+    "No sound, new anatomy, new environment, or new success claim."
+  ],
+  "inspectedEvidence": [
+    "brand/animation-v5/motion.js and motion.test.mjs",
+    "brand/animation-v5/character.js hand, ruff, head and transform source",
+    "brand/reviews/2026-11-07-refinement/evidence/poses.png",
+    "brand/reviews/2026-11-07-refinement/evidence/excited.png",
+    "brand/reviews/2026-11-07-refinement/round2/performance.json",
+    "brand/reviews/2026-11-07-refinement/round2/storyboard.json"
+  ],
+  "validation": {
+    "command": "node --test brand/animation-v5/motion.test.mjs",
+    "result": "15 tests passed, 0 failed",
+    "coverage": [
+      "24 emotion identities and all three separate auditions sampled at 60 fps for numeric anatomy bounds and finite channels.",
+      "Finite completion and zero pending callbacks for every emotion and audition.",
+      "Reduced-motion selected stills, seek, rest, pause/resume and deterministic completion.",
+      "Exact authored onset from rest and Curious replay intention continuity.",
+      "Exact equality of the two narrative openings through 3050 ms.",
+      "One-versus-two peek count and retained asymmetrical one-peek still.",
+      "Hop trajectory continuity, exact contact, post-contact compression and no second body bounce.",
+      "Airborne-to-signature and reflective-to-joy interruption continuity and cleanup.",
+      "Prior compatible-emotion continuity and rapid interruption checks still pass."
+    ],
+    "caughtDuringImplementation": "The shared-opening comparison caught early mouth asymmetry leaking from the wry final pose; complete shared numeric poses now prevent it.",
+    "limits": "These tests establish timing values, determinism, bounds and cleanup. They do not establish emotion comprehension, normal-speed felt rhythm, rendering quality, personal fit, or audience recognition."
+  },
+  "nextEvidence": [
+    "Matched baseline and candidate renders at selected signature, hand and landing beats in day and night.",
+    "Silent unlabelled normal-speed comparison including one versus two peeks and canonical priority actions.",
+    "Actual-size static signature and one-peek reduced-motion evaluation.",
+    "Named adoption or rejection of each candidate based on inspected differences; baseline remains valid."
+  ]
+}

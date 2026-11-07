@@ -1,0 +1,89 @@
+{
+  "reviewer": "interaction-a",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "partnerRecordRead": "independent/interaction-b.json, in full, after A independent review was saved",
+  "partnerDiscussionRead": "pairs/interaction-b-discussion.json, in full",
+  "proposalFile": "team-proposal-v1.json",
+  "proposalSha256": "db064ee23559e695e350ddc47e86c77380776554e6bb3a5a43eeadd8b18bd5f3",
+  "sourceManifestSha256": "d5abc24f90f9539bfddb0223da42392fb31c9321ab7c962aa98c893ff3789e0e",
+  "verification": "Proposal/manifest SHA256 and all 12 listed current source hashes match the immutable v1 scope. Report index.html exists. No source changed in this review.",
+  "evidenceNewlyInspected": [
+    "partner independent and discussion records",
+    "pair-vote-instructions.txt",
+    "team-proposal-v1.json in full",
+    "All 12 manifest hashes reverified",
+    "evidence/sizes-curious-investigate.png via view_image",
+    "evidence/sizes-thinking.png via view_image",
+    "evidence/sizes-grateful.png via view_image",
+    "evidence/sizes-shy.png via view_image",
+    "evidence/sizes-worried.png via view_image"
+  ],
+  "responsesToPartnerChallenges": [
+    {
+      "partnerPoint": "B gives a modest increase for corrected attention and controller protections; A retains 8.8.",
+      "aPosition": "Accept B's reasoning without changing A's independent number.",
+      "evidenceBasedResolution": "The matched phone frames and displayed-pose records demonstrate an actual improvement. My 8.8 already described a strong local-control foundation and remains bounded by the same native-menu, speech, phone and observed-task limits. B's 8.5 to 8.7 move weights the spatial subject relationship more heavily within its discovery/comfort lens. Both numbers are coherent; neither is an obstacle to local acceptance or a mandatory nine."
+    },
+    {
+      "partnerPoint": "Displayed-pose continuity matters more than a raw-engine-only check.",
+      "aPosition": "Agree and explicitly retain both representations in future regression checks.",
+      "evidenceBasedResolution": "signature.js carries the difference between rendered and raw pose on replay; browser replay exact=true and frozen resize records check the visible state. Dedicated tests cover cached layout and stopped reduced-motion scheduling. These show that the controller preserves a frozen frame and begins replay from the current display. They do not certify that a person experiences the entire retarget as smooth."
+    },
+    {
+      "partnerPoint": "New scrolled stage captures cannot resolve the unchanged first-viewport discovery tradeoff.",
+      "aPosition": "Agree; corrected attention and discoverability are separate findings.",
+      "evidenceBasedResolution": "Current CSS and hierarchy retain the selector above the tall scene and Play below it. A's independent review already carries that prior deduction forward. Keep still-first behavior and portrait scale; observe compare/play/seek before adding a nearby View/Play affordance. Autoplay, selection-triggered focus jumps and compressed anatomy would be unjustified responses to unobserved friction."
+    },
+    {
+      "partnerPoint": "Fine hand meaning remains secondary at 96–128px and Both mode still favors lighting comparison.",
+      "aPosition": "Accept with newly inspected actual-size evidence, while distinguishing salience from semantic comprehension.",
+      "evidenceBasedResolution": "All five size sheets now viewed by A support B's observation: clearer separation is easiest to read at 160/240px; at 96/128px the face, glasses and overall pose still dominate. The native larger-view choice remains useful. Do not make the mitten the sole invitation cue, assume visitors find enlargement, change anatomy or declare Both defective without an observed task."
+    },
+    {
+      "partnerPoint": "Desktop transport/range keys do not close native selection or spoken AT gaps.",
+      "aPosition": "Agree without qualification.",
+      "evidenceBasedResolution": "keyboard-controls.json explicitly scopes the recorded Play/Pause/Resume/range actions. We retain native OS menu commit, actual announcement order and hardware behavior as separate unverified paths. Source descriptions and numeric status changes remain implementation evidence, not speech evidence."
+    }
+  ],
+  "remainingDisagreements": [
+    "A retains 8.8/10; B independently records 8.7/10 after its prior 8.5. The differing weights are preserved, not averaged or harmonized. There is no substantive disagreement on the same local acceptance or evidence boundaries."
+  ],
+  "acceptedJointRecommendation": "Accept the local study controls and composition-aware attention with cached measurement, still inspection and reduced motion. Native menu commit, spoken AT and physical phones remain separate validation.",
+  "recommendationAcceptedByThisReviewer": true,
+  "pairResponseConclusion": "A explicitly confirms the exact recommendation already accepted in B's saved discussion. B's actual challenges are answered above; no unresolved substantive interaction objection remains. This is A's own vote, not a replacement for B's file.",
+  "personalScore": {
+    "value": 8.8,
+    "outOf": 10,
+    "previousFinal": 8.8,
+    "changedAfterPartnerRead": false,
+    "scope": "Same overall local-foundation keyboard, accessible-control, focus, state/semantics and reading-comfort lens."
+  },
+  "practicalSkillsWorkflowAgreement": {
+    "intake": "Retain honest all-17 catalogue intake. A reuses full emil-design-eng/mobile-native and newly read animation-performance; B reuses its full emil-design-eng/review-animations/mobile-native/remove-animations/break-ui reading. Neither claims the other's additional full reading.",
+    "acceptedSharedProcess": [
+      "Classify interface feedback, authored performance content and layout adaptation before applying motion rules; record Before/After/Why findings with the evidence needed for each claim.",
+      "Maintain raw-engine and displayed-pose expectations across play, pause, explicit seek, hidden/offscreen, live resize, paused resize, font completion, theme change and replay. Check visible state at activation and final authored return.",
+      "A owns keyboard/focus, native selection, status/description and reduced-motion paths. B owns actual-size legibility, initial viewport exposure, enlargement/play discovery and first/delayed-return tasks. Both independently review then challenge the other's conclusions.",
+      "During mutable implementation, test plausible longest catalogue labels, 320px, both sides of 650/651px and 200% text/zoom. Mark the current unperformed zoom case explicitly; do not fabricate impossible data just to populate fixtures.",
+      "Use A's performance guidance to trace driver, changed properties, scheduling and layout reads. Cache/frame structure is source evidence; profile an actual suspected cost before renderer rewrites or will-change. Use actual DOM phone captures for layout; simplified export composition is a separate visual aid.",
+      "Keep evidence tiers distinct: source/unit test, programmatic browser state, native keyboard input, spoken AT, physical hardware and observed human tasks. A test count or consensus never substitutes for the missing tier."
+    ],
+    "exceptions": [
+      "The 380ms pose handoff and multi-second performance are intentional content. Short UI budgets and no-keyboard-animation advice must not disable keyboard Play or compress the acting.",
+      "No transform/opacity rule authorizes changing tiny anatomy, expressive SVG channels or intentional chin/clasp contact. Correctness and explicit character constraints remain primary.",
+      "Paused and reduced-motion inspection stay still; no second autonomous staging clock. A deliberate seek may adopt cached geometry immediately.",
+      "The page remains a scrolling document: preserve copying, zoom and normal scrolling rather than adding app-shell locks.",
+      "Frozen review permits evidence inspection and reviewer records, not source or fixture mutation. Reused skills do not create another permission gate or an unperformed test claim."
+    ]
+  },
+  "substantiveObjections": [],
+  "namedLimits": [
+    "Native OS select-menu keyboard commit and spoken screen-reader output remain unverified; the fresh keyboard record covers Play/Pause/Resume/range only.",
+    "Physical-phone touch/orientation, 200% text/zoom and continuous felt comfort remain unverified.",
+    "The unchanged portrait first-viewport height and narrow Both-mode theme-comparison default retain their discovery/legibility tradeoffs.",
+    "The mitten is still a small accent at 96–128px; the meaning of invitation is not established by static contour clarity.",
+    "No newcomer comparison/enlargement or delayed-return task, neutral comprehension, attachment or recall observation was supplied.",
+    "Numeric displayed-pose continuity, cached layout and deterministic 30fps films establish bounded implementation properties, not presented-frame cadence or human comfort."
+  ]
+}

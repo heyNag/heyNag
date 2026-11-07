@@ -1,0 +1,20 @@
+{
+  "discipline": "rigging",
+  "state": "Both reviewers explicitly confirmed the same scoped recommendation.",
+  "recommendation": "Accept the constrained unchanged rig, five-channel layout adaptation and explicit pause/replay behavior. Preserve exact authored return and distinguish deterministic checks from live-device quality.",
+  "discussionRecords": [
+    "pairs/rigging-a-discussion.json",
+    "pairs/rigging-b-discussion.json"
+  ],
+  "independentReviews": [
+    "independent/rigging-a.json",
+    "independent/rigging-b.json"
+  ],
+  "explicitConfirmations": [
+    "team-votes/rigging-a.json",
+    "team-votes/rigging-b.json"
+  ],
+  "proposal": "team-proposal-v1.json",
+  "proposalSha256": "db064ee23559e695e350ddc47e86c77380776554e6bb3a5a43eeadd8b18bd5f3",
+  "scorePolicy": "Individual scores remain separate; acceptance does not imply a 9/10 rating."
+}

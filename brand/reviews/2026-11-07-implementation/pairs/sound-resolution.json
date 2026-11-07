@@ -1,0 +1,20 @@
+{
+  "discipline": "sound",
+  "state": "Both reviewers explicitly confirmed the same scoped recommendation.",
+  "recommendation": "Keep motion silent and self-contained. Optional future audio should reinforce an already readable visual cause, never mask the unresolved phone eyeline relation.",
+  "discussionRecords": [
+    "pairs/sound-a-discussion.json",
+    "pairs/sound-b-discussion.json"
+  ],
+  "independentReviews": [
+    "independent/sound-a.json",
+    "independent/sound-b.json"
+  ],
+  "explicitConfirmations": [
+    "team-votes/sound-a.json",
+    "team-votes/sound-b.json"
+  ],
+  "proposal": "team-proposal-v2.json",
+  "proposalSha256": "4eef022ccecba73621ca188b29c13cbc41d08b5268ffeaa6e98e2c4c5ea08c5c",
+  "scorePolicy": "Individual scores remain separate; acceptance does not imply a 9/10 rating."
+}

@@ -1,0 +1,9 @@
+{
+  "foundBy": "Interaction A independent specialist review",
+  "before": "All three selected performances inherited the Investigate & share image description.",
+  "after": "The selected performance sets its own image description when its still pose is loaded.",
+  "why": "Accessible descriptions should describe the selected performance accurately.",
+  "source": "brand/animation-v5/signature.js",
+  "verifiedBy": "brand/reviews/2026-11-07-implementation/evidence/description-and-reduced-motion.json",
+  "scope": "Browser DOM labels and reduced-motion state verified; spoken screen-reader output remains unverified."
+}

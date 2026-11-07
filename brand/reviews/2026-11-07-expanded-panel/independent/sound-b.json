@@ -1,0 +1,43 @@
+{
+  "reviewer": "sound-B",
+  "lens": "Rhythm, optional audio and repeated-visit comfort",
+  "scope": "Current silent character and motion foundation; independent observation before reading sound-A findings or scores.",
+  "strengths": [
+    {
+      "finding": "Silence is a complete, appropriate baseline. The performances carry their punctuation visually through anticipation, delayed wing responses and held reactions.",
+      "evidence": "motion.js: curious separates antenna, gaze and head beats; thinking separates its chin nod from the later toe tap; excited has one hop and a bounded two-beat wing response. No audio was supplied or evaluated."
+    },
+    {
+      "finding": "The interface gives attention back to the visitor.",
+      "evidence": "studio.js initializes through choose(selected, false), plays only after interaction, provides pause/rest/scrubbing, disables collection playback under reduced motion and pauses when hidden or outside the player. Engine completion holds the pose without an idle loop."
+    },
+    {
+      "finding": "The revised replay keeps the thoughtful intention legible across its entry frames; the hop has a visible rise, descent and landing pose without anatomical exaggeration.",
+      "evidence": "exact-case-7.png: updated glasses, closed mouth and chin contact persist at 0.200–0.667 s. exact-case-8.png: successive updated positions descend through 0.800–1.067 s. poses.png: the lower supporting mitten separates from the chin gesture. These are frame observations, not a real-time fluency verdict."
+    }
+  ],
+  "concerns": [
+    {
+      "type": "perceptual hypothesis grounded in source",
+      "finding": "The standard 380 ms entry blend overlaps the curious antenna cue authored at 160 ms and gaze cue at 320 ms. It may soften the intended notice-then-follow rhythm at small sizes.",
+      "evidence": "motion.js: Engine._begin/_advance and curious keyframes. No cue-loss defect is established without real-time playback."
+    },
+    {
+      "type": "perceptual hypothesis grounded in source",
+      "finding": "Repeated collection viewing may feel uniformly paced despite distinct gestures: clips last 2.5–4.1 seconds, each receives the same 600 ms interval, and a full traversal takes about 90.3 seconds. This is acceptable for an explicit catalogue; it should not become an ambient website loop by default.",
+      "evidence": "24 source clip durations and studio.js onChange sequence scheduler. No observed visitor fatigue or future-site defect is claimed."
+    }
+  ],
+  "qualityCriteriaForNine": [
+    "At intended display size and normal speed, silent viewing preserves the ordering and payoff of curious, thinking, mischievous and excited; confirm with unlabeled observations rather than performance descriptions.",
+    "Repeated playback and interruption preserve emotional intention without an accidental neutral cheer or a distracting extra beat; retain indefinite settled rest and explicit replay.",
+    "Reduced-motion stills communicate the same broad intention; resting and hidden states demand no continuing attention.",
+    "Sound is not required for this score. If separately commissioned later: default off, explicit opt-in and persistent easy mute, visual meaning retained, event-based sparse cues, no overlapping retriggers or catch-up bursts, and repeated-listening review before adoption."
+  ],
+  "highestValueExperiment": {
+    "proposal": "Capture one short silent, real-time reel at intended size: curious from rest, thinking replay, mischievous and excited; repeat once and include one interruption. Ask fresh viewers what happened first and when it felt finished, then whether replay remained comfortable.",
+    "decisionRule": "Change only a demonstrated weak cue or excess beat. If curious's early cue is missed, compare a locally adjusted entrance against the current version; do not globally speed every performance or add sound."
+  },
+  "optionalScore": null,
+  "limits": "Source and the three requested contact sheets reviewed; no browser playback, audio, audience session or repeated-visit measurement. Withholding a numeric rhythm score because continuous timing perception was not directly observed. This supports a focused improvement experiment, not final-art approval or human consensus."
+}

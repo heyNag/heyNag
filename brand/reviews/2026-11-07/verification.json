@@ -1,0 +1,113 @@
+{
+  "reviewDate": "2026-11-07",
+  "reviewers": 9,
+  "rounds": 2,
+  "specificCrossReviewDecisions": 44,
+  "independentRecords": 18,
+  "sourceBaselineFilesUnchanged": 63,
+  "existingMotionTestsPassed": 5,
+  "sourceManifestFilesVerified": 69,
+  "screenshots": [
+    {
+      "path": "evidence/all-24.png",
+      "sha256": "9c8404dd0f9dea693baef95256fa068628a239e93962ccc239750649e78438d1"
+    },
+    {
+      "path": "evidence/curious-sequence.png",
+      "sha256": "f50c9592fbf166090618c188d901debf205e815394b4e2b471b75148c986c787"
+    },
+    {
+      "path": "evidence/excited-sequence.png",
+      "sha256": "99f260b2231d23dcae385fd784e1cfd969641fa6d635b4da8471a7dea7a7e2c7"
+    },
+    {
+      "path": "evidence/expressions-desktop.png",
+      "sha256": "fd71eba61c2990dbcdc85037d6a53044b1fb82aba2a87fc600f3ba5786757479"
+    },
+    {
+      "path": "evidence/expressions-live-dom.png",
+      "sha256": "82deb493ed5fb04a301b17d19bc894b538d344c96dde9486080bf1d8b38f1c67"
+    },
+    {
+      "path": "evidence/identity.png",
+      "sha256": "c297a9657a3a0cfd1660269fbfc304e28395b17f9b0427d36af9519078ebd1c9"
+    },
+    {
+      "path": "evidence/keyboard-gallery-activated.png",
+      "sha256": "eeda016bf6e2fef8f6e4f432bc0d37173c1acf1947751e8fe19bcaaafb0d8338"
+    },
+    {
+      "path": "evidence/keyboard-gallery-next.png",
+      "sha256": "af109e38865d5a60a72e2e423029980ffca02f0640d2facbba1bc68292e96f6c"
+    },
+    {
+      "path": "evidence/readme-desktop-day.png",
+      "sha256": "89181882245007f530edc0ee272272759b6535f09a2222c0d56c7df4e1c7dd03"
+    },
+    {
+      "path": "evidence/readme-desktop-night.png",
+      "sha256": "c1eef6cdc24dedf7943ea8958ca3bc81986ebbe4c424c3bd85e22035aa249395"
+    },
+    {
+      "path": "evidence/readme-phone-day.png",
+      "sha256": "893d3f6589995e43153087022f9f15f9f90be020c721c1c748bb1591a314a9ca"
+    },
+    {
+      "path": "evidence/readme-phone-night.png",
+      "sha256": "f979c9fa33d047be2507c7bc006b8c004726761a487534ec282a8ce448c41be0"
+    },
+    {
+      "path": "evidence/sad-worried-transition.png",
+      "sha256": "ca6dabb1ce2d2d31b9758605ef180834ceef55595ec292819c2ae37eb2b17f40"
+    },
+    {
+      "path": "evidence/scared-sequence.png",
+      "sha256": "2db6f30279ee309d6f57df955adbf7dbcd480be2051ab87c2c85e638391ef081"
+    },
+    {
+      "path": "evidence/studio-desktop.png",
+      "sha256": "fc0619ea29c42137c48fd12b3ba38ab10366ca2aeb33956a07937c7950eac10a"
+    },
+    {
+      "path": "evidence/studio-keyboard-focus.png",
+      "sha256": "ba2a71ba4ebb7077d39ce8d03b8e0980556f36c18294fe80dd94b0a1744c28bf"
+    },
+    {
+      "path": "evidence/studio-phone.png",
+      "sha256": "86f171c8b7fc50f5a8d753647ae62f5f527ba1d7186d88b6180670bc6be2f3de"
+    },
+    {
+      "path": "evidence/studio-reduced-motion.png",
+      "sha256": "944cc06c47d42450ae10cb225bae41821655b487d05375972f18f8778f8e776b"
+    },
+    {
+      "path": "evidence/thinking-sequence.png",
+      "sha256": "676720ab152dfd013fcf6f12dc9d3a3d82e218615c193f32b1931bc954f6c6fa"
+    },
+    {
+      "path": "evidence/video-sheet-1.png",
+      "sha256": "668e3a467c2dba0b09c508e83e25d4fd81c3c05c66d63da110ffd00664447207"
+    },
+    {
+      "path": "evidence/video-sheet-2.png",
+      "sha256": "c3bb620481aa771a95f8765e79682fe15ec43bc56d7381afdad283510c486459"
+    },
+    {
+      "path": "evidence/video-sheet-3.png",
+      "sha256": "cbd0bc494e1deac3c520fc47f58a0147b574a11bd19a48f515921d71d269ec5c"
+    }
+  ],
+  "videoSamples": 34,
+  "videoSeconds": 88.7,
+  "browserWidths": [
+    1440,
+    390
+  ],
+  "notEstablished": [
+    "continuous visual quality of every animation",
+    "human perception or long-term recall",
+    "live GitHub rendering",
+    "full accessibility conformance",
+    "future website/environment/audio readiness"
+  ]
+}

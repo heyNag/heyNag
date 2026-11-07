@@ -1,0 +1,47 @@
+{
+  "scope": "V5 character construction and light/dark only. Expressions, articulated motion and scenes remain later stages.",
+  "method": "Visual inspection of generated assets and browser-rendered review sheet; no public deployment.",
+  "exports": {
+    "foundation": "assets/brand/heynag-moth-v5.png",
+    "refinedDay": "assets/brand/heynag-moth-v5-refined.png",
+    "night": "assets/brand/heynag-moth-v5-night.png"
+  },
+  "changes": [
+    "Moved inner forewing/hindwing seam below raised viewer-right wrist to remove a dark junction.",
+    "Night treatment warms cream and green fills and adds restrained outer edge light.",
+    "Preserved big head, tiny body, mitten hands, stub feet, face, four wings, unequal antennae and transparent framing."
+  ],
+  "reviews": [
+    {
+      "discipline": "Character form",
+      "conclusion": "V5 foundation preserves innocence and stable stance; requested only seam cleanup."
+    },
+    {
+      "discipline": "Comic character",
+      "conclusion": "Refined day/night retain anatomy and innocence; seam is clearer; no blocking visual defect at displayed desktop size."
+    }
+  ],
+  "browserChecks": {
+    "desktopWidth": 1440,
+    "phoneWidth": 390,
+    "narrowWidth": 320,
+    "horizontalOverflow": false,
+    "imageLoadFailures": 0,
+    "fullBodySizes": [
+      64,
+      96,
+      160
+    ],
+    "recommendedFullBodyMinimumCssPixels": 96,
+    "nativeDetailsKeyboard": "Enter closes and opens; visible focus outline",
+    "motion": "Static proof; zero active animations, including reduced-motion preference"
+  },
+  "limitations": [
+    "V5 dedicated head avatar is not built or validated at 24/32/48px.",
+    "Raster artwork is not an articulated vector animation master.",
+    "Older GitHub headers, V2 atlas and rig remain studies; not updated or published in this stage.",
+    "This is a character review sheet, not a completed or audited portfolio website."
+  ],
+  "proof": "brand/character-proof/index.html",
+  "status": "Visually reviewed local draft. User-favored foundation retained; public release not performed."
+}

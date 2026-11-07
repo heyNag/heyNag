@@ -1,0 +1,125 @@
+{
+  "reviewerId": "storyboard-a",
+  "role": "Storyboard, animatic and comic staging director A",
+  "lens": "Visual storytelling and setup/payoff",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "scope": "Fresh review of the prepared static native GitHub profile: greeting-to-public-work narrative, visual/text reading order, and the proposed connection to Investigate & share on a future website. The score applies to the current local profile preview. Prior mascot scores are not inherited; the unbuilt website is not scored.",
+  "sourceManifestSha256": "7b23e48c7555ab1abca2a81923bb526411043350c092e352ef42efd106b468d2",
+  "independence": "No other new independent review read before saving this record.",
+  "inspectedEvidence": [
+    "AGENTS.md; brand/workflow.json; the storyboard A/B role record in brand/team.json",
+    "README.md; brand/profile/profile.json; brand/profile/continuity.json",
+    "brand/reviews/2026-11-07-github/review-instructions.txt; brief.json; review-source-v1.json",
+    "evidence/render-checks.json: provenance and all ten light/dark viewport records",
+    "Direct view_image: evidence/profile-light-1440.png; profile-dark-1440.png",
+    "Direct view_image: evidence/profile-light-320-top.png; profile-dark-320-top.png",
+    "Direct view_image: evidence/readme-light-320-scroll.png; readme-dark-320-scroll.png; pins-light-320-scroll.png",
+    "Direct view_image: assets/brand/heynag-moth-avatar-v5-day.png at 512 px",
+    "Manifest SHA256 independently computed; all nine listed source/asset hashes independently matched current files",
+    "Full /Users/nag/.agents/skills/emil-design-eng/SKILL.md and /Users/nag/.agents/skills/taste-skill/SKILL.md read in this round; relevant storyboard full skills retained from prior reading in this conversation"
+  ],
+  "skillsReviewed": [
+    {
+      "name": "emil-design-eng",
+      "path": "/Users/nag/.agents/skills/emil-design-eng/SKILL.md",
+      "intake": "Full instructions read this round",
+      "application": "Evaluate the default reading experience, cohesion and whether motion serves a purpose. Static presentation correctly leaves attention on Nag and the work."
+    },
+    {
+      "name": "design-taste-frontend",
+      "path": "/Users/nag/.agents/skills/taste-skill/SKILL.md",
+      "intake": "Full instructions read this round; invoked by the user",
+      "application": "Apply plain language, coherent existing identity, real project material and truthful claims. Examine whether the visual introduction leads to substantive work rather than substituting for it. Native GitHub constraints override commercial-page recipes."
+    },
+    {
+      "name": "choreograph",
+      "path": "/Users/nag/.agents/skills/choreograph/SKILL.md",
+      "intake": "Full instructions read earlier in this conversation and reused",
+      "application": "Use the lead/support/static hierarchy to assess the profile's reading order. For future continuity, preserve question → consideration → visitor return → offer, with actual project content readable independently. No new motion is proposed for GitHub."
+    },
+    {
+      "name": "review-animations",
+      "path": "/Users/nag/.agents/skills/review-animations/SKILL.md",
+      "intake": "Full instructions and STANDARDS.md read earlier; reused selectively",
+      "application": "Confirm purposeful restraint rather than inventing a need for autoplay. The website motion contract remains a plan requiring fresh evidence."
+    },
+    {
+      "name": "animation-vocabulary",
+      "path": "/Users/nag/.agents/skills/animation-vocabulary/SKILL.md",
+      "intake": "Full instructions read earlier; retained terminology only",
+      "application": "Keep static composition, authored sequence and perceived rhythm distinct. The current profile has no motion timing to certify."
+    }
+  ],
+  "workflowChanges": [
+    "Review the profile as identity → greeting → public sample → destination, checking that every introductory beat adds information rather than delaying the first concrete project.",
+    "Use the actual wheel-scrolled phone captures for reading order and pins, and the initial viewport captures for first exposure. Do not infer a sticky-header defect from full-page capture artifacts.",
+    "Keep a separate current-application verdict and future-continuity assessment. A written website contract is not rendered website approval.",
+    "Tie any future expressive beat to a real project detail or decision. The moth may notice and invite; useful explanations must remain in native readable text.",
+    "Preserve truthful maturity and ownership while requesting stronger narrative specificity. A concise verified reason or decision is more useful than fabricated impact metrics or generic praise."
+  ],
+  "rulesNotApplicableWithReason": [
+    {"rule": "One commercial section per viewport, custom font/palette dealing and kit starter layout", "reason": "GitHub owns the native profile grid, typography and Markdown presentation. This task reviews an application inside that surface, not a standalone commercial site."},
+    {"rule": "Mandatory hover motion, card loops, shader scenes or scroll staging", "reason": "The profile is deliberately static and cannot carry custom CSS/JS. Added animation is unnecessary for the introduction and would not supply missing project substance."},
+    {"rule": "Replace the selected mascot with photographs or product renders", "reason": "The existing character is the requested identity asset. Its role is a greeting and recognition cue; the actual public projects remain linked and explained in text."},
+    {"rule": "No description beneath any visual as a reason to remove the README introduction", "reason": "The native text supplies authorship and project meaning; it is not an apologetic image caption. Removing it would weaken accessibility and storytelling."},
+    {"rule": "Run the taste skill's standalone browser/checker workflow", "reason": "This is an independent review of supplied native-DOM captures. Root owns browser evidence, and reviewers are explicitly instructed not to operate browsers or edit source."},
+    {"rule": "Use only the skill's markdown Before/After table output", "reason": "The task requires this structured JSON review. Findings retain evidence, proposed improvement and rationale in the mandated schema."},
+    {"rule": "Apply short UI timing, keyboard-motion or compositor rules to the current profile", "reason": "There is no authored profile motion to tune. These principles can inform the future website only when its actual implementation exists."}
+  ],
+  "score": 8.8,
+  "scoreMeaning": "Strong static introduction and coherent path into a deliberately small public sample. The greeting and project order support the intended curious maker identity, with deductions for repeated introductory copy and limited decision-level narrative payoff. This is a fresh profile score, not a carry-over from the mascot or an approval of the future website.",
+  "confidence": {
+    "sourceAndRenderedReadingOrder": "high",
+    "editorialDistinctiveness": "medium-high; specialist judgment",
+    "crossSurfaceRecognition": "hypothesis, not measured",
+    "futureWebsiteQuality": "not scored"
+  },
+  "strengths": [
+    "The maker is named before the character can become the speaker: Nagarjuna Boddu and heyNag appear in the native profile, followed by Hey, I'm Nag. in readable text. The moth is a companion to that greeting rather than an invented narrator replacing the author.",
+    "The sequence is clear in both desktop themes: strong identity image, concise first-person introduction, honest public-work scope, three bold project links and a quiet closing line. The whole README is legible in the desktop captures without interactive setup.",
+    "The private-work sentence sets an honest boundary and immediately offers a public window. It does not imply that three repositories summarize all of Nag's work, and it exposes no private project details.",
+    "The three entries give the abstract introduction concrete subjects: understanding videos and saved posts, expressive software personality, and session continuity. Their brief reflective endings connect looking closely, personality and keeping ideas to the broader curiosity theme.",
+    "eva.md leads naturally into Exploring ideas worth keeping. That provides a small textual closing payoff without pretending a particular project has already achieved an unverified outcome.",
+    "On the actual 320 px scrolled views, the linked names remain distinct, project descriptions read as a single vertical sequence, and the pinned repositories provide the same three destinations in the same order. Native repository cards reinforce access to the work rather than introducing a separate identity.",
+    "Static assets fit this application: no story depends on a tiny offering hand, a timed glance, sound, or a successful animation load. The universal day avatar and paired headers remain recognizably related in the inspected light/dark compositions."
+  ],
+  "deductions": [
+    {
+      "name": "The README repeats the bio's introductory beat",
+      "severity": "minor editorial weakness; nonblocking",
+      "confidence": "high",
+      "evidence": "profile.json bio; README.md opening; profile-light-320-top.png and readme-light-320-scroll.png, with dark counterparts",
+      "finding": "The bio already says software, systems, curious experiments, useful tools and caring how they feel. The opening paragraph repeats nearly the same set of ideas before the private-work sentence and first project. The duplication is modest on desktop but adds another block before the public-work payoff on a narrow phone.",
+      "improvementCriterion": "In a later copy pass, make the README opening contribute one complementary, verified point or shorten it, while retaining the bio as a standalone introduction. The first project should arrive after useful context rather than a second version of the same statement."
+    },
+    {
+      "name": "The projects establish subjects more strongly than a distinctive maker decision",
+      "severity": "minor-to-moderate narrative limit; nonblocking for this concise profile",
+      "confidence": "medium-high",
+      "evidence": "README.md Things I've shared entries; readme-light/dark-320-scroll.png; brand/profile/continuity.json website role and projects",
+      "finding": "Each entry explains what the project does and adds a warm thematic line, but none yet reveals a concrete choice Nag made, why that choice mattered, or what happened. The current introduction is credible and useful; its narrative payoff remains an overview of interests rather than a memorable example of making something.",
+      "improvementCriterion": "When a suitable fact is verified and cleared, add one concise reason, decision or example to a flagship project entry, or let its future website story supply that depth. Do not invent outcomes, disclose private work or turn the README into a long case study merely to fill this gap."
+    }
+  ],
+  "blockers": [],
+  "recommendations": [
+    "Accept the prepared static profile as a coherent local application with the two editorial limits above; keep publication status explicit until the changes are actually applied.",
+    "Retain the three public destinations and their current honest maturity framing. Shorten repetition before adding more projects or decorative elements.",
+    "For the future website, choose one verified project question or decision to anchor Investigate & share. Show the real work without requiring mascot interaction, then use the character's notice/consider/offer sequence only where it helps the visitor follow that subject."
+  ],
+  "continuityAssessment": {
+    "currentDemonstrated": "The rendered profile combines the existing moth, heyNag wordmark, personal name, warm first-person voice and real public-project destinations. Source continuity is explicit and current hashes match the review manifest.",
+    "futurePlanAssessment": "continuity.json is a coherent plan: reuse the same versioned character and palette, preserve Nag's authorship, expand real projects into decisions and results, and retain readable static/reduced-motion paths. The warm Investigate & share behavior is a sensible extension of the present invitation to look at public work.",
+    "conditionsForSuccess": "The website must supply actual project evidence and a clear subject for the character's attention. It should carry the profile's project names and facts consistently, not merely repeat the header and add performance. Add the profile-to-site destination only when it is useful and live.",
+    "notApproval": "No website layout, motion, phone staging or cross-surface audience recognition is demonstrated by this contract. Those require the future built surface and fresh review."
+  },
+  "unscoredOutcomes": [
+    "Human recognition of the same maker across GitHub and the future website; attribution, attachment, recall or click behavior.",
+    "The quality of an unbuilt heyNag.com website, including its motion timing, project-story payoff and responsive eyeline.",
+    "Live account settings or publication status beyond the supplied local-preview evidence. The screenshots explicitly show proposed content inserted into GitHub's real DOM with Markdown API output and local asset data URLs.",
+    "Physical-device behavior and spoken screen-reader output; viewport screenshots and width checks do not establish them.",
+    "Independent external verification of project functionality or outcomes in this pass. Repository links and copy were assessed against the supplied source and evidence; no web research was performed.",
+    "Motion or sound quality on the current static profile; neither is part of this application."
+  ]
+}

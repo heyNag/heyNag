@@ -1,0 +1,13 @@
+{
+  "discipline": "identity",
+  "state": "joint plan confirmed by both reviewers",
+  "originalProposal": "pairs/identity-proposal.json",
+  "partnerResponse": "pairs/identity-b-response.json",
+  "finalCommonPlan": "team-proposal-v1.json",
+  "proposalSha256": "0665e3d5d15f945e095fb200458d9fe0a63539bd432b6918f80fcdc7388ea0c4",
+  "explicitConfirmations": [
+    "team-votes/identity-a.json",
+    "team-votes/identity-b.json"
+  ],
+  "scope": "Improvement plan and acceptance criteria only. Historical pending fields and initial objections are preserved; final votes record resolution. Individual scores are not merged or raised."
+}

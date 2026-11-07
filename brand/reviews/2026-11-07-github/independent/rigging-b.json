@@ -1,0 +1,122 @@
+{
+  "reviewerId": "rigging-b",
+  "role": "Rigging and animation systems specialist B",
+  "lens": "Rendering integrity, reproducible shared sources, and production asset reuse",
+  "scope": "Independent review of the frozen static GitHub profile application and the feasibility of its website continuity contract. This is not another whole-motion review. No partner review was read before saving this file; no browser operation, source edit, or publication was performed.",
+  "sourceManifestSha256": "7b23e48c7555ab1abca2a81923bb526411043350c092e352ef42efd106b468d2",
+  "inspectedEvidence": [
+    "AGENTS.md",
+    "brand/workflow.json",
+    "brand/team.json — Rigging A/B role definitions only",
+    "README.md",
+    "brand/profile/profile.json",
+    "brand/profile/continuity.json",
+    "brand/reviews/2026-11-07-github/brief.json",
+    "brand/reviews/2026-11-07-github/review-source-v1.json — all nine recorded file hashes verified against current files",
+    "brand/reviews/2026-11-07-github/evidence/render-checks.json — all ten theme/width records read",
+    "brand/reviews/2026-11-07-github/evidence/profile-light-1440.png — viewed",
+    "brand/reviews/2026-11-07-github/evidence/profile-dark-1440.png — viewed",
+    "brand/reviews/2026-11-07-github/evidence/profile-light-320-top.png — viewed",
+    "brand/reviews/2026-11-07-github/evidence/profile-dark-320-top.png — viewed",
+    "brand/reviews/2026-11-07-github/evidence/readme-light-320-scroll.png — viewed",
+    "brand/reviews/2026-11-07-github/evidence/readme-dark-320-scroll.png — viewed",
+    "brand/reviews/2026-11-07-github/evidence/pins-light-320-scroll.png — viewed",
+    "assets/brand/heynag-moth-avatar-v5-day.png — viewed at native 512 px",
+    "brand/source/applications-v5.js — full current source read",
+    "brand/source/applications-v5.json — full export recipe read",
+    "brand/source/applications-v5.html — full loader read",
+    "brand/animation-v5/character.js — previously read in full; current constructor, neutral pose, palette, rendering boundaries and hash checked",
+    "brand/design-system.css — full source read",
+    "brand/manifest.json — selected dependency/output entries verified: outlined wordmark, renderer, exporter, loader, recipe, both header PNGs and day avatar; manifest SHA256 3230875a052e520445efab6b0117adb87b317bbb9ba93cfb883ef04863fd6338"
+  ],
+  "skillsReviewed": [
+    {
+      "skill": "design-taste-frontend",
+      "path": "/Users/nag/.agents/skills/taste-skill/SKILL.md",
+      "reading": "Full installed skill read for this application review.",
+      "applied": "Use real owned assets, one coherent identity, plain factual copy, and actual desktop/mobile renders. Treat the three real projects as evidence rather than inventing a marketing proof section."
+    },
+    {
+      "skill": "emil-design-eng",
+      "path": "/Users/nag/.agents/skills/emil-design-eng/SKILL.md",
+      "reading": "Reused the earlier full reading in this conversation; verified the installed path has identical contents to that previously read copy.",
+      "applied": "Separate implementation evidence from perceived quality; preserve useful restraint and inspect the small details at their actual displayed size."
+    },
+    {
+      "skill": "animate, animation-performance, review-animations",
+      "paths": [
+        "/Users/nag/.agents/skills/animate/SKILL.md",
+        "/Users/nag/.agents/skills/animation-performance/SKILL.md",
+        "/Users/nag/.agents/skills/review-animations/SKILL.md"
+      ],
+      "reading": "Each previously read in full during this standing review; retained as the rigging workflow routing, not claimed as newly reread.",
+      "applied": "Keep this application static and make no runtime or performance claim from PNG evidence. Reserve motion checks for a future implemented website. The earlier review of all 17 catalog entries is routing context, not a claim that every skill is relevant here."
+    }
+  ],
+  "workflowChanges": [
+    "Treat a static application as its own review: check the README picture sources, real displayed sizes, avatar crop, and source dependency chain before borrowing any previous mascot conclusion.",
+    "Record theme/viewport checks and hash identity separately from visual inspection. Ten recorded browser cases support overflow and theme selection; seven directly viewed GitHub viewport PNGs support this review's visual observations.",
+    "Include the export input dependency closure in future frozen handoffs. The outlined wordmark, loader and recipe are tracked in the current brand manifest even though the smaller profile manifest lists only nine files; preserve that manifest version or those dependency hashes with a release.",
+    "For website reuse, carry forward source versions and tokens, then review the rendered integration independently. Do not equate a continuity document with a tested website."
+  ],
+  "rulesNotApplicableWithReason": [
+    "GitHub profile Markdown cannot provide custom fonts, CSS, JavaScript, motion, section-height rules, shaders, custom interaction patterns or the skill's commercial-site layouts. Native GitHub structure is the intended medium.",
+    "No animation was added or tuned: GitHub receives static PNG assets. Easing, interruption, compositor cost and reduced-motion execution are outside the current static artifact's runtime.",
+    "No source implementation or browser capture was requested from this reviewer. The root owns browser work; existing labelled local previews were inspected instead of invoking the skill's build/capture scripts.",
+    "The full-page 320 px captures were excluded from visual reading claims because their documented sticky-navigation artifacts are not reliable viewport evidence."
+  ],
+  "score": 8.9,
+  "scoreMeaning": "8.9/10 for the observed static GitHub rendering and reuse readiness of this frozen application. Strong asset integrity and a traceable production path, with a modest compact-detail limitation. This is not a whole-brand score, a website score, or a new motion/performance approval.",
+  "confidence": {
+    "observedStaticRendering": "High for the two desktop and actual 320 px viewport presentations inspected.",
+    "sourceReuse": "High that the source uses the same neutral renderer and existing outlined wordmark; selected dependency and output hashes match the checked manifest.",
+    "rebuildEquivalence": "Moderate. I read the generation path and recipe but did not regenerate the PNGs or establish byte-identical rasterization across browser versions.",
+    "futureWebsite": "Design-contract assessment only; no built integration was inspected."
+  },
+  "strengths": [
+    {
+      "finding": "The full-body header and cropped avatar come from one character source without anatomy redrawing. The exporter renders NEUTRAL, clones the existing head/defs for the avatar, and uniformly places the whole rig in the header. The universal day avatar retains complete unequal antenna paddles inside the visible circle.",
+      "evidence": ["brand/source/applications-v5.js", "brand/animation-v5/character.js", "assets/brand/heynag-moth-avatar-v5-day.png", "evidence/profile-light-1440.png", "evidence/profile-dark-1440.png"]
+    },
+    {
+      "finding": "The actual local previews keep the mascot, wordmark and native text intact in both themes. At desktop width there is no visible edge clipping or detached anatomy. The 320 px scroll views preserve readable project descriptions and pin cards without a rasterized-text dependency.",
+      "evidence": ["evidence/profile-light-1440.png", "evidence/profile-dark-1440.png", "evidence/profile-light-320-top.png", "evidence/profile-dark-320-top.png", "evidence/readme-light-320-scroll.png", "evidence/readme-dark-320-scroll.png", "evidence/pins-light-320-scroll.png"]
+    },
+    {
+      "finding": "The PNG delivery path is suitable for GitHub: paired picture sources, a light fallback, descriptive alt text and native surrounding text. The recorded ten theme/width cases report correct theme selection and no horizontal page overflow; the banner scales from 846 px to 238 px while retaining its 1200 px natural width.",
+      "evidence": ["README.md", "evidence/render-checks.json"]
+    },
+    {
+      "finding": "Reproduction inputs are present and traceable. The outlined wordmark removes a runtime font dependency, the export recipe names its source, stable standalone SVG IDs remove timestamp variation, and the existing manifest checksums match the selected inputs and outputs. The explicit warning to namespace repeated inline SVG copies is useful production guidance.",
+      "evidence": ["brand/source/applications-v5.js", "brand/source/applications-v5.json", "brand/source/applications-v5.html", "brand/manifest.json"]
+    }
+  ],
+  "deductions": [
+    {
+      "severity": "minor, nonblocking",
+      "finding": "At the 238 px displayed banner width in the 320 px preview, the tiny full-body moth loses hand/wing separation and its dark-theme antenna stems become subtle. The identity remains readable through the wordmark, day head avatar and native name, but this lockup does not retain the fine expressive detail visible at desktop scale.",
+      "evidence": ["evidence/profile-light-320-top.png", "evidence/profile-dark-320-top.png", "evidence/render-checks.json"],
+      "improvementCriterion": "Keep the compact full-body banner decorative. If a later surface needs anatomy or gesture to convey meaning, use a larger displayed scale or the existing head crop and verify it at the actual minimum size; do not redraw proportions or treat this preview as proof of fine-detail recognition. No blocking change to this GitHub profile is requested."
+    }
+  ],
+  "blockers": [],
+  "recommendations": [
+    "Keep the universal day avatar and the paired static headers for this profile; the inspected application does not justify a new mascot variant or motion layer.",
+    "Preserve the recorded brand-manifest version alongside the frozen profile inputs when handing off publication or a rebuild, including the outlined wordmark and export recipe.",
+    "Use img elements for repeated identical standalone exports. Any future inline SVG consumer must namespace IDs per instance, as the exporter documents.",
+    "On the future website, reuse design-system.css tokens deliberately and choose the current articulated engine explicitly. The stylesheet also contains legacy whole-character gesture keyframes, including nonuniform scaling; importing it wholesale is not equivalent to adopting the reviewed articulated motion system. This is an integration guardrail, not a defect in the static GitHub profile."
+  ],
+  "continuityAssessment": {
+    "status": "Coherent and technically plausible contract; website outcome unscored.",
+    "sharedIdentity": "The same V5 geometry, head crop, wordmark, restrained palette and factual personal voice can bridge GitHub and heyNag.com without making both surfaces behave the same way.",
+    "productionBasis": "The contract points to versioned renderer/exporter sources instead of separately redrawn assets. Native text carries the useful information on GitHub; the proposed website can add the existing articulated system without making interaction necessary to reach real work.",
+    "conditions": "Build and review the website at its own actual sizes, respect SVG ID isolation, separate tokens from legacy CSS animation recipes, and keep reduced-motion/keyboard behavior in that future integration's evidence. Leaving the website field empty until a real destination exists is appropriate."
+  },
+  "unscoredOutcomes": [
+    "Published GitHub rendering, live account settings, avatar upload and pin application: this evidence is explicitly a local preview using GitHub layout/Markdown output and local asset data URLs.",
+    "A built heyNag.com website, its responsiveness, accessibility, animation continuity or browser performance.",
+    "Physical-phone behavior, continuous animation smoothness, GPU/compositor results, audio behavior and the previous motion audit's broader claims.",
+    "Human recognition, personal-brand memorability, conversion, trust or audience preference.",
+    "Cross-browser byte-identical regeneration of the raster exports."
+  ]
+}

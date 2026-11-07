@@ -1,0 +1,81 @@
+{
+  "role": "Storyboard, animatic and comic staging director",
+  "challenges": [
+    {
+      "role": "Technical animator and rigger",
+      "claimId": "round2: STORY-03 revision",
+      "decision": "accept and clarify",
+      "reason": "My concern is the visible mitten cluster, not demonstrated insufficient rig geometry. Existing reach, rotation and head offsets should be exhausted before redrawing. A tiny character can gain clarity through separation and contact rather than longer limbs.",
+      "evidence": [
+        "evidence/thinking-sequence.png:1400ms",
+        "round2/rigging.json:STORY-03",
+        "brand/animation-v5/motion.js:thinking"
+      ],
+      "implication": "Compare supporting-mitten height and head contact at final size; retain the same hand size and short reach."
+    },
+    {
+      "role": "Performance director and rigger",
+      "claimId": "PERF-01 / RIG-01",
+      "decision": "accept with application-specific scope",
+      "reason": "The intermediate open green smile is visible; its emotional meaning is our interpretation. The gate concerns using this transition in a coherent story. It cannot block a still header or an unrelated performance.",
+      "evidence": [
+        "evidence/sad-worried-transition.png:200–300ms",
+        "round2/rigging.json:PERF-01"
+      ],
+      "implication": "Maintain outgoing facial intention until worry begins, then inspect continuous playback. Do not globally remove the welcoming rest pose."
+    },
+    {
+      "role": "Brand director and audience researcher",
+      "claimId": "BR-05 / AUD-02",
+      "decision": "accept prioritization; reject a fixed quota",
+      "reason": "A notice–investigate–pause–share sequence is an efficient narrative proof. It does not establish that every appearance needs four beats or that only four emotions should survive. Routine all-24 playback would also substitute inventory for intention.",
+      "evidence": [
+        "brand/story.md:One question through the scene",
+        "round1/audience.json:AUD-02",
+        "round2/brand.json:STORY-01"
+      ],
+      "implication": "Select each action for a real question and consequence. Keep the wider library available for situations that earn it; a static introduction requires no complete animated story."
+    },
+    {
+      "role": "Sound designer",
+      "claimId": "SND-02",
+      "decision": "revise material proposal",
+      "reason": "The restraint is useful, but paper-like wings are an invented material association. A rustle may merely decorate the same motion. Foliage would earn a role only if its movement creates something the moth notices or reacts to.",
+      "evidence": [
+        "round1/sound.json:SND-02",
+        "brand/world.md:one primary prop"
+      ],
+      "implication": "Board the silent cause and response first. Audition optional sound only around an intelligible event; do not add scenery or a contact cue solely to justify Foley."
+    },
+    {
+      "role": "Performance director",
+      "claimId": "PERF-03",
+      "decision": "accept",
+      "reason": "An absent gaze target cannot establish defective eye design. The antenna lead and head inclination already provide directional channels, while unlabeled context is missing.",
+      "evidence": [
+        "evidence/curious-sequence.png:320–1160ms",
+        "brand/animation-v5/motion.js:curious"
+      ],
+      "implication": "Place one actual fragment at the intended target, then test the return glance before changing eyes."
+    },
+    {
+      "role": "Technical animator and rigger",
+      "claimId": "round2: four-panel occlusion distinction",
+      "decision": "accept",
+      "reason": "Identity requires constructed panels and believable continuity, not four permanently exposed outlines. Temporary protective overlap can strengthen fear.",
+      "evidence": [
+        "evidence/scared-sequence.png:1050ms"
+      ],
+      "implication": "Judge intentional overlap through movement; avoid opening fear’s wings merely to display their inventory."
+    }
+  ],
+  "ownPositionChanged": [
+    "STORY-02 explicitly gates the affected animated transition only.",
+    "STORY-03 is a pose-separation experiment; no rig rebuild is warranted by current evidence."
+  ],
+  "finalVerdict": "Preserve the prototype. Develop one motivated silent sequence, refine only its demonstrated acting problems, and keep static release decisions separate. Sampled poses do not certify cadence or audience attachment.",
+  "openQuestions": [
+    "Does the returning gaze include a viewer when a real object supplies context?",
+    "Can compact mitten separation clarify intention without losing softness?"
+  ]
+}

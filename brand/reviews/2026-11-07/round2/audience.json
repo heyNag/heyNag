@@ -1,0 +1,54 @@
+{
+  "role": "Audience and character-perception researcher — adversarial cross-review",
+  "challenges": [
+    {
+      "role": "Brand director",
+      "claimId": "BR-04",
+      "decision": "revise",
+      "reason": "The artwork contains soft proportions and an open expression; 'establish friendliness' still describes a reading, not an observed audience response. The unequal antennae are a plausible mnemonic, but calling them the strongest requires comparison. Affinity, recognition, and remembering Nag remain separate outcomes.",
+      "evidence": ["assets/brand/heynag-moth-v5-refined.png", "evidence/identity.png", "round1/brand.json: BR-04"],
+      "implication": "Say friendly to this reviewer and candidate recognition cue. Preserve the design while testing which details people actually retain."
+    },
+    {
+      "role": "Brand director",
+      "claimId": "round2: AUD-04 challenge",
+      "decision": "accept",
+      "reason": "My wordmark-only comparison targets the mascot's incremental contribution, although the user's direction already commits to it. The immediate uncertainty is whether the intended complete application communicates Nag and his work. A split formative sample cannot decide brand direction.",
+      "evidence": ["brief.json: nonnegotiables", "evidence/readme-phone-day.png", "round1/audience.json: AUD-04"],
+      "implication": "Start with the complete intended application and unaided recall. Reserve comparisons for unresolved placement or timing choices. Human research informs iteration; it is not an absolute launch gate."
+    },
+    {
+      "role": "Performance director",
+      "claimId": "PERF-04 / round2: AUD-02 challenge",
+      "decision": "accept",
+      "reason": "Similar silhouettes are visible, but confusion and its consequence are untested. Requiring 24 exact labels would reward taxonomy compliance over useful acting. Thinking and focused may appropriately share concentration cues when context distinguishes their purpose.",
+      "evidence": ["evidence/all-24.png", "evidence/studio-desktop.png"],
+      "implication": "Reclassify my AUD-02 as a research question. Refine only distinctions a deployed story or interaction needs; accept reasonable synonyms and uncertainty."
+    },
+    {
+      "role": "Identity systems designer",
+      "claimId": "IDENTITY-03",
+      "decision": "accept with bounded consequence",
+      "reason": "Stem separation visibly weakens on dark grounds; this is more concrete than speculation about a childish impression. However, reduced edge continuity does not itself demonstrate failed character recognition or weaker professional confidence.",
+      "evidence": ["evidence/identity.png: night rows", "evidence/readme-phone-night.png"],
+      "implication": "Inspect and improve the affected dark export at its actual size. Do not generalize this application defect into a need to mature the anatomy or delay unrelated daylight work."
+    },
+    {
+      "role": "Storyboard director",
+      "claimId": "STORY-01",
+      "decision": "accept with narrower scope",
+      "reason": "A visible project fragment gives attention a testable target. That supports the next narrative prototype, but the existing README already provides author and work context through text. A complete animated story is unnecessary for a static introduction.",
+      "evidence": ["brand/story.md: One question through the scene", "README.md", "evidence/readme-phone-day.png"],
+      "implication": "Test one motivated sequence without requiring every public application to narrate the full pattern. No inspected evidence warrants shrinking or isolating the moth by default."
+    }
+  ],
+  "ownPositionChanged": [
+    "Whole-application comprehension comes before a mascot-versus-wordmark experiment.",
+    "Neighboring emotion readings warrant inquiry, not automatic refinement."
+  ],
+  "finalVerdict": "Preserve the tiny character and meaningful visual prominence. Professional interpretation depends on the surrounding authorship and real work; childlike styling alone establishes neither competence nor incompetence. Application-specific fixes can proceed without a formal study. Memorability and attachment remain hypotheses, despite multidisciplinary agreement.",
+  "openQuestions": [
+    "What do unfamiliar readers remember about Nag and one actual project after a day?",
+    "Which character beat feels personally true to Nag and remains welcome on repeat viewing?"
+  ]
+}

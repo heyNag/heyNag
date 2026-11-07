@@ -1,0 +1,20 @@
+{
+  "discipline": "sound",
+  "state": "Both reviewers explicitly confirmed the same scoped recommendation.",
+  "recommendation": "Keep the character silent and visually self-contained. The corrected attention and offering sequence must communicate without audio; any future sound remains optional and subordinate.",
+  "discussionRecords": [
+    "pairs/sound-a-discussion.json",
+    "pairs/sound-b-discussion.json"
+  ],
+  "independentReviews": [
+    "independent/sound-a.json",
+    "independent/sound-b.json"
+  ],
+  "explicitConfirmations": [
+    "team-votes/sound-a.json",
+    "team-votes/sound-b.json"
+  ],
+  "proposal": "team-proposal-v1.json",
+  "proposalSha256": "db064ee23559e695e350ddc47e86c77380776554e6bb3a5a43eeadd8b18bd5f3",
+  "scorePolicy": "Individual scores remain separate; acceptance does not imply a 9/10 rating."
+}

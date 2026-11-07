@@ -1,0 +1,212 @@
+{
+  "reviewer": "interaction-b",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "lens": "Discoverability, comfort and repeat visits",
+  "independent": true,
+  "scope": "Same overall local-studio and curiosity-study interaction lens as the previous final team vote: selection, playback, still inspection, reading comfort, discoverability and return-use prospects. This review adds the implemented hand refinement and composition-aware attention while retaining prior interface and validation deductions. It does not score the future public portfolio or audience outcomes.",
+  "sourceManifest": {
+    "file": "review-source-v1.json",
+    "sha256": "d5abc24f90f9539bfddb0223da42392fb31c9321ab7c962aa98c893ff3789e0e",
+    "allListedFilesMatch": true
+  },
+  "previousScoreAndScope": {
+    "value": 8.5,
+    "outOf": 10,
+    "record": "../2026-11-07-implementation/team-votes/interaction-b.json",
+    "scope": "Implemented V4 local foundation and its discovery/comfort/return prospects; native-control and semantics acceptance with named nonblocking phone and AT limits.",
+    "continuity": "The new score keeps that scope. Phone first-viewport discovery, Both default, unobserved native-menu/spoken-AT/physical-device/newcomer-return paths remain. The phone eyeline concern is materially improved by current rendered evidence and source; small-size hand meaning is still limited."
+  },
+  "score": {
+    "value": 8.7,
+    "outOf": 10,
+    "meaning": "A stronger local study: the phone attention now relates to the visible question, and the new pose adaptation respects paused inspection, replay, theme changes and reduced motion. The modest 0.2 increase recognizes that concrete spatial/behavioral improvement and new bounded keyboard evidence. It does not imply proven comfort or comprehension, and the unchanged discoverability and validation gaps prevent a nine-level claim."
+  },
+  "evidenceActuallyInspected": {
+    "governance": [
+      "AGENTS.md",
+      "brand/team.json interaction role/lens",
+      "brand/workflow.json",
+      "reviewer-instructions.txt",
+      "brief.json",
+      "review-source-v1.json",
+      "evidence/evidence-index.json",
+      "previous own independent/pair/final-vote records"
+    ],
+    "source": [
+      "brand/animation-v5/staging.js (full)",
+      "brand/animation-v5/signature.js (full)",
+      "brand/animation-v5/signature.html (full)",
+      "motion.js complete before/current diff for the six hand families and shared signature/wry pose",
+      "Current hashes of all source-manifest files; signature.css, studio.css and studio.js match the previous reviewed controls/layout"
+    ],
+    "pngsViewedUsingViewImage": [
+      "evidence/hands-day.png",
+      "evidence/hands-night.png",
+      "evidence/offer-sequence-day.png",
+      "evidence/offer-sequence-night.png",
+      "evidence/sizes-curious-investigate.png",
+      "evidence/sizes-thinking.png",
+      "evidence/sizes-grateful.png",
+      "evidence/sizes-shy.png",
+      "evidence/sizes-worried.png",
+      "evidence/decoded-phone-night.png",
+      "evidence/baseline-attention-320-day.png",
+      "evidence/attention-320-day-790.png",
+      "evidence/baseline-attention-320-night.png",
+      "evidence/attention-320-night-790.png",
+      "evidence/baseline-attention-390-day.png",
+      "evidence/attention-390-day-790.png",
+      "evidence/baseline-attention-390-night.png",
+      "evidence/attention-390-night-790.png",
+      "evidence/baseline-attention-1440-day.png",
+      "evidence/attention-1440-day-790.png",
+      "evidence/baseline-attention-1440-night.png",
+      "evidence/attention-1440-night-790.png",
+      "evidence/attention-390-day-330.png",
+      "evidence/attention-390-day-1190.png",
+      "evidence/attention-390-day-1900.png",
+      "evidence/attention-390-day-2350.png",
+      "evidence/attention-390-day-2720.png",
+      "evidence/attention-390-night-330.png",
+      "evidence/attention-390-night-1190.png",
+      "evidence/attention-390-night-1900.png",
+      "evidence/attention-390-night-2350.png",
+      "evidence/attention-390-night-2720.png"
+    ],
+    "records": [
+      "evidence/all-tests.txt: 23 reported passes, zero failures",
+      "evidence/browser-checks.json: programmatically inspected all 108 rows across 320/390/650/651/768/1440px for parity, exact return and control invariants; detailed paused resize/replay/reduced records read",
+      "evidence/keyboard-controls.json: desktop keyboard Play/Pause/Resume and range",
+      "evidence/geometry.json: 567 samples, no mismatch/invalid entries",
+      "evidence/attention-browser.json: selected actual DOM/pose records; not claimed as an independent browser run",
+      "evidence/comparison-export.json: 1956 frames, 30fps, 65.2 seconds, 16 before/current segments",
+      "evidence/full-reel-export.json: 2655 frames, 30fps, original 24 emotion entries",
+      "implementation/eyeline-changes.json including five-channel adaptation, cache and active-time behavior"
+    ],
+    "notDone": "No browser execution, tests rerun, continuous normal-speed film viewing, native OS menu commit, screen-reader speech, physical-phone handling, 200% text/zoom pass, newcomer comparison or delayed return task. Decoded film image and pose sheets are static evidence only."
+  },
+  "strengths": [
+    "The before/current 320px and 390px scene captures visibly change the reading direction from lateral/downward emphasis to an upward glance beneath the question. The actual phone scene keeps readable question text, a recognizable tiny character and its playback controls; no anatomy enlargement or layout compression was used.",
+    "The complete supplied 390px phases in both themes show attention toward the question during noticing/reading and a return toward the visitor before the outward mitten arrives. The mapper is exactly inactive by 2350ms, so the offer is not visually pulled back toward the heading.",
+    "Interaction semantics survive the new adaptive pose. The controller freezes a paused inspection frame across resize, uses cached geometry only after an explicit seek or bounded active-time retarget, and carries the displayed correction through replay. These are concrete comfort improvements to an adaptive rendering path; they avoid autonomous eye/head motion while a visitor is trying to inspect a still.",
+    "The adaptation changes only five attention channels and shares one numeric pose across paint themes. Plain curious is excluded. Recorded cases around the 650/651px layout boundary retain exact control/return invariants and no horizontal overflow.",
+    "The updated hand sheets give the offering mitten a more open contour at 160/240px and lower the free/supporting hands out of the busiest ruff region. Thinking keeps intentional chin contact and grateful keeps an intentional small clasp; the character remains compact and innocent.",
+    "The new recorded keyboard checks demonstrate Play focus, Pause/Resume behavior and a one-step range change into Pose inspection. Still-first selection, state-based status updates, native controls, per-variant descriptions, reduced-motion Show copy, no automatic resume and capability-based UI feedback remain intact."
+  ],
+  "deductions": [
+    {
+      "id": "phone-discovery-retained",
+      "severity": "minor",
+      "kind": "observed layout tradeoff with untested usability consequences",
+      "confidence": "high for unchanged layout, medium for inferred discovery cost",
+      "evidence": "signature.css hash is unchanged; current signature.html preserves the selector above the tall portrait scene and playback beneath it; prior final 320/390 initial-viewport captures remain representative of this structural relation. Current scene captures are deliberately scrolled and do not constitute first-visit exposure evidence.",
+      "finding": "Improving the gaze does not bring the character and Play action into the first phone viewport. A visitor can still choose a performance before seeing its playback surface. Keep the old discovery question open instead of counting staging accuracy as its solution.",
+      "improvement": "Observe a phone compare-performances task. Only if assistance is needed consider a nearby View/Play affordance; retain still-first behavior and the comfortable portrait scale."
+    },
+    {
+      "id": "both-mode-and-small-hands",
+      "severity": "minor",
+      "kind": "visual hierarchy tradeoff",
+      "confidence": "high for visible small-size limits, medium for comprehension implications",
+      "evidence": "Studio source/CSS hashes are unchanged and still default to Both. sizes-curious-investigate.png and the other supplied actual-size sheets show hand differences much less distinct at 96–128px than at 160/240px in both themes.",
+      "finding": "The invitation is more open at study size, but fine hand information remains secondary to the face/glasses at small sizes. Theme comparison in the narrow Both view does not become an expression-reading default merely because the pose improved. No claim that viewers identify sharing, clasping or worry from those small hands alone is supported.",
+      "improvement": "Use the existing larger-view option and evaluate quiet gestures at the actual intended display sizes; observe enlargement discovery before changing the default or anatomy."
+    },
+    {
+      "id": "native-at-phone-validation",
+      "severity": "validation limit",
+      "kind": "unverified paths, not demonstrated defects",
+      "confidence": "high about the evidence boundary",
+      "evidence": "keyboard-controls.json explicitly limits itself to desktop browser Play/Pause/Resume/range; evidence-index.json and browser-checks.json exclude physical-phone and spoken-AT validation.",
+      "finding": "Native OS select-menu commit, actual spoken ordering, real-phone orientation/touch behavior, live perceptual comfort and newcomer/revisit outcomes remain unverified. More deterministic cases do not close these limits.",
+      "improvement": "Run separate native selection/commit, spoken traversal, physical portrait/landscape and observed first/repeat tasks before stronger public interaction claims."
+    },
+    {
+      "id": "semantic-understanding-limit",
+      "severity": "validation limit",
+      "kind": "unmeasured outcome",
+      "confidence": "high",
+      "evidence": "All inspected images retain explanatory labels or nearby question context; no neutral human observation was supplied.",
+      "finding": "The spatial attention now agrees better with composition, but whether people read investigation followed by an invitation is still unmeasured. My visual judgment is not a substitute for an unfamiliar visitor response.",
+      "improvement": "Use neutral prompts and record viewport/scroll exposure for a bounded comprehension task; do not ask viewers whether it looks like the supplied label."
+    }
+  ],
+  "improvementCriteria": [
+    "Keep the corrected phone gaze and display-pose continuity while observing a real phone compare/play/pause/seek task without coaching.",
+    "Verify native menu keyboard commit and screen-reader speech separately from programmatic selection or key activation of ordinary buttons.",
+    "Evaluate a first and delayed return task, including finding a quiet feeling and the larger single-theme view. Record assistance and scroll exposure.",
+    "Inspect 200% text/zoom, real phone landscape and a resize while paused/resumed; retain natural scrolling, zoom and static inspection.",
+    "Assess continuous playback on intended devices and neutral human interpretation before claiming smoothness, comfortable repetition or invitation comprehension. Keep tiny anatomy and meaningful chin/clasp contact."
+  ],
+  "confidence": {
+    "sourceAndRecordedInvariants": "high",
+    "staticSpatialAndHandCraft": "moderate-high",
+    "discoverabilityAndReturnUse": "moderate inference, no observed outcomes",
+    "physicalDeviceAndSpokenAT": "unverified",
+    "overallScopedScore": "moderate-high"
+  },
+  "objections": [],
+  "implementedAssessment": "Acceptable as the updated local foundation. No high-impact concrete interaction defect was found in the inspected implementation. The new staging strengthens spatial coherence without new control burden, autoplay or autonomous paused movement. The retained limits are nonblocking for local study acceptance and remain material to stronger claims.",
+  "limits": [
+    "Independent review saved before reading partner A new review or proposal.",
+    "Root owns the browser. I inspected supplied artifacts and source; I did not reproduce browser checks.",
+    "No continuous motion perception claimed from film metadata, decoded image or pose sheets.",
+    "No physical-phone, screen-reader speech or native-menu completion claim.",
+    "No inferred audience comprehension, attachment or delayed recall.",
+    "The scoped score keeps earlier discovery/Both-mode deductions; it is not a narrow implementation-only score renamed to reach nine."
+  ],
+  "skillsApplied": {
+    "catalogue": "All 17 Emil skill summaries were read in the earlier implementation round in this same conversation; the preserved intake is ../2026-11-07-implementation/independent/interaction-b.json. No new full read is claimed.",
+    "fullInstructionsPreviouslyRead": [
+      "emil-design-eng",
+      "review-animations",
+      "mobile-native",
+      "remove-animations",
+      "break-ui"
+    ],
+    "appliedNow": [
+      "emil-design-eng: evaluate restrained defaults, truthful status and invisible interruption details",
+      "review-animations: inspect pose-continuity and reduced-motion boundary, separating UI feedback from authored content",
+      "mobile-native: keep viewport/layout evidence distinct from physical-phone results",
+      "remove-animations: reject automatic/repeated adaptive movement while paused and new discovery autoplay",
+      "break-ui: inspect real 320px and 650/651px boundary cases, preserving a distinct unperformed 200% text/zoom check"
+    ],
+    "newFullReadThisRound": [],
+    "otherSkillsNotClaimed": "No design-taste-frontend or choreograph execution is claimed by this interaction reviewer; the task is not a website rebuild or new motion implementation. Their themes are not substituted for the role-relevant full guidance already read."
+  },
+  "workflowChanges": [
+    "Add a displayed-pose continuity check whenever layout-aware character adaptation is introduced; testing the raw engine pose alone misses a possible replay snap.",
+    "Treat paused resize, paint-only theme changes and explicit seek as three separate cases. A frozen inspection pose should remain still until an intentional action; a theme should never change pose.",
+    "Check both sides of a responsive breakpoint and the actual neutral eye-to-heading geometry, while keeping DOM reads out of the animation frame mapper.",
+    "Keep the unchanged first-viewport discovery and Both-default questions in the same review scope after a visual refinement; do not treat improvement in one area as evidence for another.",
+    "Use a concrete evidence ladder: source and unit test, recorded programmatic case, actual keyboard action, spoken AT, hardware behavior, observed newcomer/revisit outcome."
+  ],
+  "rulesNotApplicableWithReason": [
+    {
+      "rule": "Sub-300ms interface limit or never animate keyboard actions applied to the 380ms pose handoff",
+      "reason": "The handoff is continuity within deliberately requested character content, not a delayed button or focus response. Keyboard Play must still play the requested performance."
+    },
+    {
+      "rule": "GPU-only transforms/opacity used to rewrite tiny SVG anatomy",
+      "reason": "The user requires unchanged paths and proportions. Expressive eye/head/hand channels have a content purpose. Avoid per-frame layout reads and profile actual cost before considering rendering changes."
+    },
+    {
+      "rule": "Adaptive gaze always immediately follows layout",
+      "reason": "A paused or reduced-motion inspection frame is intentionally stable. Cache new layout and apply it on an explicit action or active-time retarget; no independent gaze animation is appropriate."
+    },
+    {
+      "rule": "Phone app-shell overscroll/viewport locks and blanket text-selection suppression",
+      "reason": "The surface remains a scrolling document. Keep native scrolling, copying and zoom; no fixed immersive shell was introduced."
+    },
+    {
+      "rule": "Run break-ui fixtures or remove-animations edits in this frozen review",
+      "reason": "Reviewers are read-only on source. Use supplied cases honestly and retain missing zoom/real-device checks as limits; do not mutate the artifact or claim those checks happened."
+    },
+    {
+      "rule": "Nine target as a threshold every reviewer must meet",
+      "reason": "The request is for meaningful assessment. Improved phone spatial coherence earns a modest increase, while genuine prior limits remain."
+    }
+  ],
+  "findingsTableMarkdown": "| Before | After | Why |\n| --- | --- | --- |\n| Fixed lateral attention despite the question above the phone character | Bounded eye/head attention derives from the actual heading bearing | The subject of attention fits the portrait composition. |\n| A layout adaptation could redraw a frozen inspected pose | Paused resize caches only; explicit seek or active playback adopts the target | Still inspection remains trustworthy. |\n| Replay continuity could concern only the raw engine pose | The controller carries the displayed attention correction through the existing handoff | Replaying a staged moment should not snap sideways. |\n| Offering mitten reads mostly as a curled contour | Same small mitten turns outward and holds after the return | The larger study shows a clearer invitation without new anatomy or repeated waving. |"
+}

@@ -1,0 +1,48 @@
+ffmpeg version 9.0.2 Copyright (c) 2000-2026 the FFmpeg developers
+  built with Apple clang version 21.0.0 (clang-2100.3.34.2)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/9.0.2_1 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags= --enable-ffplay --enable-gpl --enable-libsvtav1 --enable-libopus --enable-libx264 --enable-libmp3lame --enable-libdav1d --enable-libvmaf --enable-libvpx --enable-libx265 --enable-openssl --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      61.  1.102 / 61.  1.102
+  libavcodec     63.  1.102 / 63.  1.102
+  libavformat    63.  1.102 / 63.  1.102
+  libavdevice    63.  1.102 / 63.  1.102
+  libavfilter    12.  1.102 / 12.  1.102
+  libswscale     10.  1.102 / 10.  1.102
+  libswresample   7.  1.102 /  7.  1.102
+Input #0, image2, from '/tmp/heynag-gesture-full-frames/%05d.png':
+  Duration: 00:01:28.50, start: 0.000000, bitrate: N/A
+  Stream #0:0: Video: png, rgba(pc, gbr/unknown/unknown), 1280x800, 30 fps, 30 tbr, 30 tbn
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+Press [q] to stop, [?] for help
+[libx264 @ 0x77d2c08a80] using cpu capabilities: ARMv8 NEON DotProd
+[libx264 @ 0x77d2c08a80] profile High, level 3.2, 4:2:0, 8-bit
+[libx264 @ 0x77d2c08a80] 264 - core 165 r3222 b35605a - H.264/MPEG-4 AVC codec - Copyleft 2003-2025 - http://www.videolan.org/x264.html - options: cabac=1 ref=3 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=7 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=15 lookahead_threads=2 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=2 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=40 rc=crf mbtree=1 crf=19.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to 'assets/brand/preview/heynag-v5-gesture-emotions.mp4':
+  Metadata:
+    encoder         : Lavf63.1.102
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(tv, progressive), 1280x800, q=2-31, 30 fps, 15360 tbn
+    Metadata:
+      encoder         : Lavc63.1.102 libx264
+    Side data:
+      CPB properties: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+frame=  185 fps=0.0 q=25.0 size=     512KiB time=00:00:06.10 bitrate= 687.7kbits/s speed=12.1x elapsed=0:00:00.50    frame=  469 fps=464 q=25.0 size=    1280KiB time=00:00:15.56 bitrate= 673.6kbits/s speed=15.4x elapsed=0:00:01.01    frame=  717 fps=473 q=25.0 size=    2048KiB time=00:00:23.83 bitrate= 704.0kbits/s speed=15.7x elapsed=0:00:01.51    frame=  978 fps=484 q=25.0 size=    2816KiB time=00:00:32.53 bitrate= 709.1kbits/s speed=16.1x elapsed=0:00:02.02    frame= 1245 fps=493 q=25.0 size=    3584KiB time=00:00:41.43 bitrate= 708.6kbits/s speed=16.4x elapsed=0:00:02.52    frame= 1523 fps=503 q=25.0 size=    4352KiB time=00:00:50.70 bitrate= 703.2kbits/s speed=16.7x elapsed=0:00:03.03    frame= 1799 fps=509 q=25.0 size=    5120KiB time=00:00:59.90 bitrate= 700.2kbits/s speed=16.9x elapsed=0:00:03.53    frame= 2047 fps=507 q=25.0 size=    5888KiB time=00:01:08.16 bitrate= 707.6kbits/s speed=16.9x elapsed=0:00:04.04    frame= 2323 fps=511 q=25.0 size=    6400KiB time=00:01:17.36 bitrate= 677.7kbits/s speed=  17x elapsed=0:00:04.54    frame= 2591 fps=513 q=25.0 size=    7424KiB time=00:01:26.30 bitrate= 704.7kbits/s speed=17.1x elapsed=0:00:05.05    [mp4 @ 0x77d342c280] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 0x77d3438240] video:7567KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.422761%
+frame= 2655 fps=520 q=-1.0 Lsize=    7599KiB time=00:01:28.43 bitrate= 704.0kbits/s speed=17.3x elapsed=0:00:05.10    
+[libx264 @ 0x77d2c08a80] frame I:11    Avg QP: 6.66  size: 52488
+[libx264 @ 0x77d2c08a80] frame P:689   Avg QP:13.60  size:  6501
+[libx264 @ 0x77d2c08a80] frame B:1955  Avg QP:18.11  size:  1377
+[libx264 @ 0x77d2c08a80] consecutive B-frames:  1.1%  1.9%  0.9% 96.1%
+[libx264 @ 0x77d2c08a80] mb I  I16..4: 75.1%  4.9% 20.0%
+[libx264 @ 0x77d2c08a80] mb P  I16..4:  0.3%  0.2%  0.1%  P16..4:  4.4%  3.1%  2.7%  0.0%  0.0%    skip:89.1%
+[libx264 @ 0x77d2c08a80] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  5.1%  2.0%  0.7%  direct: 0.5%  skip:91.6%  L0:47.1% L1:41.4% BI:11.6%
+[libx264 @ 0x77d2c08a80] 8x8 transform intra:17.4% inter:8.2%
+[libx264 @ 0x77d2c08a80] coded y,uvDC,uvAC intra: 20.7% 23.5% 19.3% inter: 1.6% 0.8% 0.4%
+[libx264 @ 0x77d2c08a80] i16 v,h,dc,p: 80% 12%  5%  2%
+[libx264 @ 0x77d2c08a80] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 11%  8% 77%  1%  0%  1%  0%  0%  1%
+[libx264 @ 0x77d2c08a80] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 20% 27% 29%  5%  4%  3%  4%  3%  5%
+[libx264 @ 0x77d2c08a80] i8c dc,h,v,p: 71% 15% 12%  2%
+[libx264 @ 0x77d2c08a80] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 0x77d2c08a80] ref P L0: 62.9%  2.8% 19.2% 15.1%
+[libx264 @ 0x77d2c08a80] ref B L0: 72.6% 20.9%  6.4%
+[libx264 @ 0x77d2c08a80] ref B L1: 89.3% 10.7%
+[libx264 @ 0x77d2c08a80] kb/s:700.40

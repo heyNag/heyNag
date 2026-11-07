@@ -1,0 +1,8 @@
+{
+  "method": "OpenAI built-in image generation",
+  "asset": "assets/brand/heynag-moth-v5-refined.png",
+  "useCase": "precise-object-edit",
+  "source": "assets/brand/heynag-moth-v5.png",
+  "prompt": "Use case: precise-object-edit.\nAsset type: precision cleanup of the existing heyNag moth character master.\nInput image 1 is the EDIT TARGET. Preserve this exact character, pose, proportions, facial expression, head tilt, silhouette, antennae, four wing panels, fills, line weight, shading, tiny hands and feet. This is already the chosen direction. Do NOT redesign or mature it.\nMake exactly one small line-occlusion correction: at the character's raised hand on the viewer's RIGHT, the wrist outline almost meets the dark diagonal seam between the pale forewing and green hindwing, forming a multi-line knot. Move only the INNER end of that wing overlap seam downward so it disappears behind the torso at least one outline-width BELOW the wrist. Keep the mitten, arm, body, wing tips and outer silhouette unchanged. The arm must read cleanly in front of the wing.\nPreserve the huge soft cream head, innocent black oval eyes, happy green mouth, tiny round body, short stub arms, and tiny feet with no shins. Do not make the character taller, older, more human or confident. Do not change facial features or add fingers, props, extra wing markings, texture, veins or decorative details.\nOne complete character with exactly the same framing and transparent background as the input. No text, shadows, stage, glow or background. Preserve original transparency.",
+  "status": "Precision refinement candidate. Core proportions and face retained; wing seam now separates below raised wrist. Not publicly released."
+}

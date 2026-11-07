@@ -1,0 +1,50 @@
+{
+  "reviewer": "audience-b",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "proposalFile": "team-proposal-v2.json",
+  "proposalSha256": "4eef022ccecba73621ca188b29c13cbc41d08b5268ffeaa6e98e2c4c5ea08c5c",
+  "sourceManifestSha256": "4b70d40e6c6fed47936377ff71d915379cbe84bc2a23020ac2ab2fb9696b2caa",
+  "decision": "agree_with_named_nonblocking_limits",
+  "acceptedScope": "The v4 implemented LOCAL foundation described by immutable team-proposal-v2.json: native SVG V5 and 27 performances, owner-selected portrait Investigate & share study, current header/avatar exports and deterministic films, and control/mobile-CSS/description refinements. Acceptance is for continued local design and future website work, not publication or universal 9/10 certification.",
+  "personalScore": {
+    "value": 8.3,
+    "outOf": 10,
+    "meaning": "Strong, coherent visual association material and unusually clear evidence boundaries; not yet a neutral, exposure-controlled audience research stimulus. Ordinal specialist judgment within this narrow inspected scope, not an empirical success rate."
+  },
+  "scoreMeaning": "Strong, coherent visual association material and unusually clear evidence boundaries; not yet a neutral, exposure-controlled audience research stimulus. Ordinal specialist judgment within this narrow inspected scope, not an empirical success rate.",
+  "scoreHistory": [
+    {
+      "record": "independent/audience-b.json",
+      "value": 8.3,
+      "outOf": 10,
+      "status": "unchanged after pair discussion; new cadence record does not change this static/readiness score"
+    }
+  ],
+  "audienceOutcomes": {
+    "unprimedComprehension": null,
+    "nameAttribution": null,
+    "delayedRecall": null,
+    "attachment": null,
+    "populationPreference": null,
+    "reason": "No unfamiliar human participants or measured memory outcomes. Nag choosing Investigate & share establishes personal fit only."
+  },
+  "namedLimits": [
+    "No unfamiliar-human unprimed comprehension, name attribution, delayed recall, attachment or population-preference outcomes. All remain null.",
+    "Owner Investigate & share selection is personal-fit evidence only; authoring labels and descriptive copy prime expert readings.",
+    "Portrait staging improves inspectability but changes first-view exposure and does not fully resolve the screen-right glance relative to the stacked question. Natural exposure and cropped stimuli cannot be treated as equivalent.",
+    "Small invitation-hand specificity, quiet emotion overlap and 32–48px night antenna continuity remain scoped craft limits; no observed human confusion or recognition loss is claimed.",
+    "I inspected static and decoded frames, not continuous normal-speed motion. Active desktop cadence remains technical local evidence, not perceptual or phone/GPU validation.",
+    "Physical-phone behavior, spoken screen-reader output and native dropdown keyboard commit remain unverified.",
+    "No publication, remote commit/push or deployment is authorized by this vote."
+  ],
+  "substantiveObjections": [],
+  "pairRecommendationConfirmed": true,
+  "acceptedJointRecommendation": "Keep hypotheses separate from owner preference and expert craft. Audience outcomes remain unscored; authoring labels are not neutral research stimuli.",
+  "pairDiscussion": "pairs/audience-b-discussion.json",
+  "skillsMessageAcknowledged": true,
+  "skillsWorkflowReference": "pairs/audience-b-discussion.json: practicalSkillsWorkflowAgreement and skillsExceptions; independent/audience-b.json: complete intake record",
+  "sourceVerification": "Proposal and source manifest SHA-256 values match the instructed v2/v4 hashes; eight relevant source/video hashes match v4.",
+  "consensusClaim": "This file records only Audience B’s position. It does not vote for the partner or claim all 18 agree.",
+  "pairDiscussionStatus": "Read A’s independent and full discussion; exchanged direct challenges and explicit confirmations. Both accept the exact audience recommendation with independent scores unchanged."
+}

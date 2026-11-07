@@ -1,0 +1,200 @@
+{
+  "scope": "Prepared GitHub profile application and continuity contract for the future website. Neither publication nor a built website is certified.",
+  "state": "All 18 specialists accept the prepared GitHub application and website continuity contract with named limits.",
+  "accepted": true,
+  "specialists": 18,
+  "disciplines": 9,
+  "modelPreference": "GPT-6 Astra / ultra; standing configured agents reused.",
+  "proposalSha256": "5a062f65c993eadec03c5b218b4903c9f05ca6bf1ec51c3eedf9d4c52e030f54",
+  "sourceManifestSha256": "ac469332a20a2638e3d9e926334100ca83d7554af935a0ed427203c6ae40d702",
+  "scoreRange": [
+    8.7,
+    9.3
+  ],
+  "allAtLeastNine": false,
+  "positions": [
+    {
+      "reviewerId": "brand-a",
+      "initialScore": 8.6,
+      "score": 8.8,
+      "position": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/brand-a.json"
+    },
+    {
+      "reviewerId": "brand-b",
+      "initialScore": 8.7,
+      "score": 8.9,
+      "position": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/brand-b.json"
+    },
+    {
+      "reviewerId": "performance-a",
+      "initialScore": 8.8,
+      "score": 8.8,
+      "position": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/performance-a.json"
+    },
+    {
+      "reviewerId": "performance-b",
+      "initialScore": 8.8,
+      "score": 8.8,
+      "position": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/performance-b.json"
+    },
+    {
+      "reviewerId": "identity-a",
+      "initialScore": 8.8,
+      "score": 8.9,
+      "position": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/identity-a.json"
+    },
+    {
+      "reviewerId": "identity-b",
+      "initialScore": 8.9,
+      "score": 9.0,
+      "position": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/identity-b.json"
+    },
+    {
+      "reviewerId": "rigging-a",
+      "initialScore": 9.0,
+      "score": 9.0,
+      "position": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/rigging-a.json"
+    },
+    {
+      "reviewerId": "rigging-b",
+      "initialScore": 8.9,
+      "score": 8.9,
+      "position": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/rigging-b.json"
+    },
+    {
+      "reviewerId": "interaction-a",
+      "initialScore": 8.9,
+      "score": 9.0,
+      "position": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/interaction-a.json"
+    },
+    {
+      "reviewerId": "interaction-b",
+      "initialScore": 8.8,
+      "score": 8.9,
+      "position": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/interaction-b.json"
+    },
+    {
+      "reviewerId": "audience-a",
+      "initialScore": 8.8,
+      "score": 9.0,
+      "position": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/audience-a.json"
+    },
+    {
+      "reviewerId": "audience-b",
+      "initialScore": 8.8,
+      "score": 8.9,
+      "position": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/audience-b.json"
+    },
+    {
+      "reviewerId": "storyboard-a",
+      "initialScore": 8.8,
+      "score": 9.0,
+      "position": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/storyboard-a.json"
+    },
+    {
+      "reviewerId": "storyboard-b",
+      "initialScore": 8.8,
+      "score": 8.9,
+      "position": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/storyboard-b.json"
+    },
+    {
+      "reviewerId": "visual-a",
+      "initialScore": 8.7,
+      "score": 8.7,
+      "position": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/visual-a.json"
+    },
+    {
+      "reviewerId": "visual-b",
+      "initialScore": 8.9,
+      "score": 8.9,
+      "position": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/visual-b.json"
+    },
+    {
+      "reviewerId": "sound-a",
+      "initialScore": 9.2,
+      "score": 9.3,
+      "position": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/sound-a.json"
+    },
+    {
+      "reviewerId": "sound-b",
+      "initialScore": 8.8,
+      "score": 9.1,
+      "position": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/sound-b.json"
+    }
+  ],
+  "pairs": [
+    {
+      "discipline": "brand",
+      "bothExplicitlyAccept": true,
+      "record": "pairs/brand-resolution.json"
+    },
+    {
+      "discipline": "performance",
+      "bothExplicitlyAccept": true,
+      "record": "pairs/performance-resolution.json"
+    },
+    {
+      "discipline": "identity",
+      "bothExplicitlyAccept": true,
+      "record": "pairs/identity-resolution.json"
+    },
+    {
+      "discipline": "rigging",
+      "bothExplicitlyAccept": true,
+      "record": "pairs/rigging-resolution.json"
+    },
+    {
+      "discipline": "interaction",
+      "bothExplicitlyAccept": true,
+      "record": "pairs/interaction-resolution.json"
+    },
+    {
+      "discipline": "audience",
+      "bothExplicitlyAccept": true,
+      "record": "pairs/audience-resolution.json"
+    },
+    {
+      "discipline": "storyboard",
+      "bothExplicitlyAccept": true,
+      "record": "pairs/storyboard-resolution.json"
+    },
+    {
+      "discipline": "visual",
+      "bothExplicitlyAccept": true,
+      "record": "pairs/visual-resolution.json"
+    },
+    {
+      "discipline": "sound",
+      "bothExplicitlyAccept": true,
+      "record": "pairs/sound-resolution.json"
+    }
+  ],
+  "limits": [
+    "These are reviewed local previews; live README and account settings are not yet applied.",
+    "The future website is a continuity contract, not a built or tested experience.",
+    "Human recognition, recall, emotional attachment and repeat-visit comfort have not been measured.",
+    "At the 238px narrow README banner, fine hand and antenna details are small; essential meaning stays in native text.",
+    "Browser viewport checks do not establish physical-device behavior, spoken assistive-technology output or every saved GitHub appearance setting.",
+    "Public repository inspection supports factual blurbs, not runtime, adoption or professional-outcome claims.",
+    "Scores remain individual scoped craft judgments; no unanimous9 claim unless every recorded score actually reaches9."
+  ],
+  "publication": "Prepared locally, not applied to live profile."
+}

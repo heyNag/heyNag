@@ -1,0 +1,176 @@
+{
+  "width": 390,
+  "scrollWidth": 390,
+  "controls": [
+    {
+      "id": "both",
+      "width": 48,
+      "height": 38.796875
+    },
+    {
+      "id": "day",
+      "width": 48.9765625,
+      "height": 38.796875
+    },
+    {
+      "id": "night",
+      "width": 48.3359375,
+      "height": 38.796875
+    },
+    {
+      "id": "play",
+      "width": 97.2578125,
+      "height": 44
+    },
+    {
+      "id": "pause",
+      "width": 64.546875,
+      "height": 44
+    },
+    {
+      "id": "rest",
+      "width": 54.5234375,
+      "height": 44
+    },
+    {
+      "id": "sequence",
+      "width": 332,
+      "height": 44
+    },
+    {
+      "id": "scrub",
+      "width": 238,
+      "height": 32
+    },
+    {
+      "id": "curious",
+      "width": 114,
+      "height": 152.1953125
+    },
+    {
+      "id": "thinking",
+      "width": 114,
+      "height": 152.1953125
+    },
+    {
+      "id": "happy",
+      "width": 114,
+      "height": 152.1953125
+    },
+    {
+      "id": "mischievous",
+      "width": 114,
+      "height": 152.1953125
+    },
+    {
+      "id": "aha",
+      "width": 114,
+      "height": 152.1953125
+    },
+    {
+      "id": "oops",
+      "width": 114,
+      "height": 152.1953125
+    },
+    {
+      "id": "laughing",
+      "width": 114,
+      "height": 152.1953125
+    },
+    {
+      "id": "excited",
+      "width": 114,
+      "height": 152.1953125
+    },
+    {
+      "id": "proud",
+      "width": 114,
+      "height": 152.1953125
+    },
+    {
+      "id": "grateful",
+      "width": 114,
+      "height": 152.1953125
+    },
+    {
+      "id": "affectionate",
+      "width": 114,
+      "height": 152.1953125
+    },
+    {
+      "id": "shy",
+      "width": 114,
+      "height": 152.1953125
+    },
+    {
+      "id": "confused",
+      "width": 114,
+      "height": 152.1953125
+    },
+    {
+      "id": "focused",
+      "width": 114,
+      "height": 152.1953125
+    },
+    {
+      "id": "skeptical",
+      "width": 114,
+      "height": 152.1953125
+    },
+    {
+      "id": "surprised",
+      "width": 114,
+      "height": 152.1953125
+    },
+    {
+      "id": "relieved",
+      "width": 114,
+      "height": 152.1953125
+    },
+    {
+      "id": "sleepy",
+      "width": 114,
+      "height": 152.1953125
+    },
+    {
+      "id": "sad",
+      "width": 114,
+      "height": 152.1953125
+    },
+    {
+      "id": "worried",
+      "width": 114,
+      "height": 152.1953125
+    },
+    {
+      "id": "scared",
+      "width": 114,
+      "height": 152.1953125
+    },
+    {
+      "id": "frustrated",
+      "width": 114,
+      "height": 152.1953125
+    },
+    {
+      "id": "angry",
+      "width": 114,
+      "height": 152.1953125
+    },
+    {
+      "id": "disgusted",
+      "width": 114,
+      "height": 152.1953125
+    }
+  ],
+  "info": {
+    "id": "thinking",
+    "time": 1400,
+    "duration": 4100,
+    "playing": false,
+    "paused": false,
+    "progress": 0.34146341463414637,
+    "transitioning": false,
+    "reducedMotion": false
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "reviewer": "Storyboard, animatic and comic staging director B — editing rhythm and comic economy",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "independent": true,
+  "sourceVersion": "review-source-v4.json",
+  "scope": "Implemented local v4: authored sequence structure, sampled pose-to-pose storytelling, economy of Investigate & share and one-peek studies, and rendered desktop/portrait staging. This is not a score of continuously perceived playback, live smoothness, human comprehension or a deployed website.",
+  "evidenceActuallyInspected": {
+    "instructionsAndHistory": [
+      "AGENTS.md",
+      "brand/team.json",
+      "brand/workflow.json",
+      "brand/reviews/2026-11-07-implementation/reviewer-instructions.txt",
+      "brand/reviews/2026-11-07-implementation/brief.json",
+      "brand/reviews/2026-11-07-implementation/review-source-v4.json",
+      "brand/reviews/2026-11-07-implementation/owner-preference.json",
+      "brand/reviews/2026-11-07-expanded-panel/independent/storyboard-b.json"
+    ],
+    "source": [
+      "brand/animation-v5/motion.js: sequence definitions, investigation/wry/one-peek variants, sampler and interruption engine; focused numbered inspection of lines 191–340 and 419–489",
+      "brand/animation-v5/character.js: mitten paths and rendering, lines 209–217 and 284–320; theme/geometry rendering search",
+      "brand/animation-v5/signature.html",
+      "brand/animation-v5/signature.js",
+      "brand/animation-v5/signature.css",
+      "brand/reviews/2026-11-07-implementation/evidence/comparison.js"
+    ],
+    "imagesViewedWithViewImage": [
+      "curious-investigate.png",
+      "mischievous-one-peek.png",
+      "decoded-day-2.png",
+      "decoded-day-3.png",
+      "decoded-day-4.png",
+      "decoded-day-5.png",
+      "decoded-day-6.png",
+      "decoded-night-5.png",
+      "decoded-night-9.png",
+      "signature-final-1440.png",
+      "signature-final-390-stage.png",
+      "signature-final-390-night.png",
+      "signature-final-320.png",
+      "all-final.png",
+      "sizes-final.png"
+    ],
+    "imageBase": "brand/reviews/2026-11-07-implementation/evidence/",
+    "evidenceRecords": [
+      "comparison-export.json: 30 fps, 2664 frames, 88.8 seconds; exact engine sampled at 120 Hz before frame export",
+      "layout-and-collection.json",
+      "final-ui.json",
+      "description-and-reduced-motion.json",
+      "desktop-performance-focused.json"
+    ],
+    "continuousMotionWatched": false,
+    "partnerNewReviewReadBeforeSaving": false,
+    "browserOperated": false
+  },
+  "score": {
+    "value": 8.4,
+    "outOf": 10,
+    "meaning": "Strong implemented storyboard and staging, with purposeful order and useful restraint. The final invitation and mischievous payoff still rely on small facial/mitten distinctions; portrait composition trades immediate character presence for legibility. The number applies to inspected source and rendered sequence evidence only. Continuous editing rhythm remains not-yet-scored."
+  },
+  "strengths": [
+    "Investigate & share now has a concrete object of attention, an inspection with glasses, a consideration hold, and a return to the visitor. In motion.js:425–446 the antenna arrives at 150 ms, gaze at 330 ms, inspection at 790–1900 ms, return at 2350 ms, and presentation at 2720 ms. The authored and decoded sheets show the same order, with a quiet final hold through 4100 ms. This is a complete small sentence rather than an accumulation of gestures.",
+    "The warm selected lead ends its thought once. Keeping the wry afterthought available as a study preserves a legitimate alternative without making the default perform a second ending. The visible source difference is the extra 3050–4000 ms brow/eye beat in the wry variant; the simpler warm ending suits the owner's stated preference and this editorial brief.",
+    "One-peek is a meaningful, reversible economy experiment: the source removes the second close/reopen at 2190–2520 ms and holds the revelation after 1250 ms. The decoded paired sheet makes that difference inspectable. It does not enlarge the character, add a prop, or require sound to create a joke.",
+    "Surprise's earlier eye/O-mouth registration at 140 ms, then head recoil at 310 ms and wing answer at 650 ms, is visibly differentiated from the control by the 0.30-second decoded sample. Excited separates foot contact from head follow-through in source. Those are useful punctuation changes; neither observation proves their subjective sharpness at normal speed.",
+    "Portrait staging gives the unchanged small mitten and face enough display area to inspect. At 390 px both the question and moth fit within the shown stage, and the 320 px heading wraps without the former forced short line. Day and night evidence preserve the staged thought and four marked wings. No scenery, sound, or perpetual flutter is needed.",
+    "The signature remains a still until Play, with a settled pose and quiet controls afterwards. This leaves a usable reading pause and avoids repeated performance competing with the project question. Reduced motion maps to a purposeful still rather than a speeded-up version of the scene."
+  ],
+  "deductions": [
+    {
+      "id": "SB-B-v4-01",
+      "kind": "craft limitation",
+      "severity": "moderate, nonblocking for the local study",
+      "confidence": "medium-high for sampled silhouettes",
+      "basis": "curious-investigate.png at 1190/1900 versus 2720–4100 ms; signature-final-390-stage.png; motion.js:419–442; character.js:209–217",
+      "finding": "The return to the visitor is clearer than the offer. The final presenting mitten remains close to the ruff, with a curled outline, while the glasses remain the strongest new cue. At the inspected display sizes the endpoint can be read as a friendly thinking pose without conveying a distinct invitation. This is my visual reading, not a claim that unfamiliar people failed to understand it.",
+      "nextStep": "In a later reversible posing comparison, preserve the existing mitten and reach limits but test a slightly clearer separation/rotation of the presenting hand against the current endpoint. Compare the transition and endpoint without the explanatory label; keep the current version unless the extra clarity survives at the intended size."
+    },
+    {
+      "id": "SB-B-v4-02",
+      "kind": "craft limitation and comparison hypothesis",
+      "severity": "minor, nonblocking",
+      "confidence": "medium",
+      "basis": "mischievous-one-peek.png and decoded-day-2.png, especially 0.63/0.97 versus 1.30/1.63 seconds; motion.js:457–467",
+      "finding": "Removing the second peek improves structural economy, but the payoff itself still occupies a narrow visual range between sleepy and knowing: one small half-eye carries most of the change. The antenna helps, yet the final soft smile and tucked hands remain close to a drowsy read. The alternative is ready to compare, not proven to be a stronger joke.",
+      "nextStep": "Retain both candidates and compare silent normal-speed one-peek versus two-peek at the actual display size. Ask for the perceived intention before naming the emotion. Alter timing or gaze before enlarging anatomy or adding another action."
+    },
+    {
+      "id": "SB-B-v4-03",
+      "kind": "staging tradeoff",
+      "severity": "minor, nonblocking for a local review study",
+      "confidence": "high for the supplied 320 px first viewport",
+      "basis": "signature-final-320.png and the portrait override in signature.css",
+      "finding": "At 320 px the title, controls and project text fill the first viewport before the moth's face appears. The larger portrait staging improves the gesture when reached, but postpones the character who is meant to lead this study. This is a composition tradeoff, not horizontal overflow or a broken control.",
+      "nextStep": "Before using this as a website hero, inspect a complete mobile first-view composition with fewer introductory/control rows or a tighter initial stage. Preserve readable text, the 300 px character stage where useful, and native scrolling."
+    }
+  ],
+  "improvementCriteria": [
+    "A label-free endpoint and the preceding return visibly distinguish invitation from consideration at intended desktop and phone sizes while retaining the tiny mitten and existing anatomy.",
+    "Normal-speed silent comparison establishes whether one held peek lands a clearer joke than two peeks; record owner preference separately from unfamiliar-observer interpretations.",
+    "Normal-speed observation of surprise, investigation and peek establishes distinct punctuation rather than assuming that source timings and sampled frames establish perceived rhythm.",
+    "For future website use, a fresh complete phone first viewport introduces the character and question with a deliberate reading order, then receives actual-device validation.",
+    "Keep the warm lead, single semantic ending, calm surrounding copy and stationary scene until evidence supports another action."
+  ],
+  "confidence": {
+    "overall": "medium-high within the stated source/still storyboard scope",
+    "sourceSequenceAndRenderedStaging": "high",
+    "gestureInterpretation": "medium",
+    "continuousRhythmAndSmoothness": "not assessed",
+    "humanComprehensionAndAttachment": "not assessed"
+  },
+  "implementedAssessment": {
+    "decision": "approve scoped local implementation with named nonblocking limits",
+    "lead": "Keep owner-selected Investigate & share as the warm lead.",
+    "alternatives": "Keep wry and one-peek as explicitly labelled comparison studies. Do not promote one-peek over the catalog's two-peek version solely from this review.",
+    "blockingDefectFound": false,
+    "continuousRhythmScore": null,
+    "requestedNewSourceEdits": false,
+    "previousConcerns": "The earlier rhythm concern is materially addressed in source by surprise's earlier registration and the excited contact/follow-through separation. The former one-versus-two-peek proposal is now implemented as a real comparison. The conversation concern is materially addressed by a verified project question and the return gesture, with the presenting-mitten limitation retained above."
+  },
+  "objections": [],
+  "limits": [
+    "I inspected decoded still sheets and film metadata; I did not watch continuous normal-speed motion and cannot award a perceived-rhythm or live-smoothness score.",
+    "The deterministic export establishes reproducible frames, not hardware scheduling. The focused desktop record includes approximately one-second gaps in both paused and playing observations; its cause is unestablished.",
+    "Portrait screenshots are browser evidence, not physical-phone behavior. No screen-reader speech or unprimed human response was observed.",
+    "Owner choice establishes personal fit for the warm lead, not stranger comprehension, attribution, attachment or recall.",
+    "Only the listed source portions and rendered evidence were inspected; this is not a comprehensive independent audit of all 24 live performances or all exports.",
+    "This is an AI specialist craft judgment. It cannot be presented as audience research or full-team consensus before pair discussion and the individual shared-scope vote."
+  ],
+  "skillsReviewed": {
+    "catalog": "brand/reviews/2026-11-07-implementation/installed-skills.json",
+    "all17CatalogSummariesRead": true,
+    "catalogNames": ["emil-design-eng", "animate", "animate-expo", "review-animations", "improve-animations", "find-animation-opportunities", "remove-animations", "choreograph", "animation-performance", "animation-vocabulary", "apple-design", "write-swift", "pick-ui-library", "prototype", "mobile-native", "break-ui", "ask-sonner"],
+    "fullInstructionsRead": [
+      {"name": "choreograph", "path": "/Users/nag/.config/skillshare/skills/choreograph/SKILL.md", "application": "Cast lead/support/static channels, justify temporal order, preserve useful stillness, and require interruption evidence."},
+      {"name": "review-animations", "path": "/Users/nag/.config/skillshare/skills/review-animations/SKILL.md", "application": "Separate purposeful content performance from frequent interface feedback; distinguish inspected behavior from subjective feel and state a scoped verdict."},
+      {"name": "animation-vocabulary", "path": "/Users/nag/.config/skillshare/skills/animation-vocabulary/SKILL.md", "application": "Use precise distinctions such as anticipation, follow-through, hold, interpolation and interruption rather than calling every motion a bounce or treating source duration as perceived duration. The glossary is terminology, not evidence of quality."}
+    ],
+    "notClaimed": "The other 14 full SKILL.md files were not read. Catalog inspection is recorded separately from full relevant intake. No skill was invoked to implement new features."
+  },
+  "workflowChanges": [
+    "Before future character or website motion, record each moving element's role, relationship and narrative reason. For this lead: antenna notices; gaze follows; glasses/head inspect; mitten presents; text, stage and surrounding chrome stay static.",
+    "Write a beat timeline before code, including a deliberate final hold and the action that ends the scene. Use separate budgets for quick controls and character content; one semantic ending is the default unless an afterthought adds meaning.",
+    "Review competing comic edits in a reversible comparison at matching scale and theme. Save the original, list the changed beats, and separate structural economy from perceived success.",
+    "Maintain two evidence columns in future reviews: what source/decoded samples establish, and what needs continuous playback, device testing or people. A cadence number never fills the second column.",
+    "Test replay, switching and interruption as editorial continuity as well as mechanics: inspect whether the incoming thought begins with the intended emotional state rather than an accidental smile reset.",
+    "For future website engineering handoff, provide the lead/support/static casting plus a first-viewport mobile composition. Ask engineers to preserve usable controls and reading order while measuring any expressive SVG workload before simplifying it."
+  ],
+  "rulesNotApplicableWithReason": [
+    {"rule": "Product UI group budgets of roughly 300 ms and no keyboard-triggered motion", "reason": "The intentionally played 4.1-second character scene is the content. Apply short timing and immediate keyboard feedback to the controls; a keyboard activation of Play must still be able to play the requested scene."},
+    {"rule": "Transform and opacity only", "reason": "Expressive SVG antenna/path articulation is part of the selected tiny character. Do not erase it for a generic compositor rule; investigate a measured relevant workload and retain geometry parity."},
+    {"rule": "One entrance per container and no uniform product-list stagger", "reason": "These are useful future website interface checks, but antenna → gaze → inspection is character cause and effect, not staggered menu items. Its sequence is justified by intention."},
+    {"rule": "The animation-vocabulary glossary controls implementation", "reason": "That skill names effects; its definitions do not determine whether a comic beat works or authorize an animation library."},
+    {"rule": "Add a prototype picker or UI library by default", "reason": "The task already contains exact-engine plain-JavaScript comparisons. The catalog's prototype and pick-ui-library skills require explicit invocation and were not used here; extra framework work would not resolve the present evidence limit."},
+    {"rule": "Delete all repeated motion to improve economy", "reason": "The one-versus-two-peek comparison is a valid open editorial question. Repetition can add suspicion or hesitation; it should earn its place in playback, not be removed by a universal rule."}
+  ],
+  "choreographyTimeline": [
+    {"element": "long antenna", "role": "lead", "authoredBeatMs": 150, "relationship": "notices the fixed question first"},
+    {"element": "gaze", "role": "lead", "authoredBeatMs": 330, "relationship": "follows antenna toward the question"},
+    {"element": "head, glasses and right wing", "role": "support", "authoredBeatMs": 790, "relationship": "overlap the directed inspection"},
+    {"element": "consideration pose", "role": "lead", "authoredBeatMs": [1190, 1610, 1900], "relationship": "read and hold before turning back"},
+    {"element": "head and gaze return", "role": "lead", "authoredBeatMs": 2350, "relationship": "addresses the viewer before the presenting hand settles"},
+    {"element": "small presenting mitten", "role": "support", "authoredBeatMs": 2720, "relationship": "completes invitation; final pose holds through 4100 ms"},
+    {"element": "project question, scene and surrounding page", "role": "static", "authoredBeatMs": null, "relationship": "give attention a subject and preserve readable context"}
+  ],
+  "skillReviewFindingsTable": "| Before | After | Why |\n| Generic timing advice risks treating the character as a control | Maintain separate UI-feedback and performance beat timelines | A 4.1-second authored thought has a different purpose from a button response |\n| Two-peek repetition had no comparative evidence | Keep the implemented one-peek comparison and inspect both silently | Cutting a beat improves economy only if the payoff remains legible |\n| Frame sampling could be mistaken for rhythm validation | Record decoded evidence separately from continuous observation | Structure and perceived timing are different claims |",
+  "feelCheck": "At normal speed, inspect 1190–2720 ms for a readable consideration-to-invitation turn, and 910–1500 ms for the concealed-to-revealed eye. This review cannot say that either moment lands continuously."
+}

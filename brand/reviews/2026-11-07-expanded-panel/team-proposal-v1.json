@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "decision": "Agree on the work and evidence required to pursue at least 9/10 in each reviewed discipline. This is a plan approval, not a new score or approval of unbuilt artwork.",
+  "baseline": "Current refined V5 files, recorded in baseline.json. Keep the original raster references and current native implementation as controls.",
+  "principles": [
+    "Preserve the oversized soft head, compact body, tiny mitten hands, attached stub feet, unequal antennae and four connected marked wings. Day/night share paths and numeric poses; paint/edge changes can alter visible contours and must be acknowledged.",
+    "Nag remains the author: fun, talkative, curious, geeky and gently wry. Retain heyNag, factual first-person work and verified project destinations. No invented project outcomes or biography.",
+    "Explore reversible artistic alternatives to improve appeal and personality even when the baseline works. A demonstrated defect is not a prerequisite for exploration. Adoption requires a named observed benefit and no unacceptable regression; retaining the baseline is a valid result.",
+    "Each reviewer keeps an individual judgment. Scores require scope, inspected evidence, strengths, deductions, confidence and an observable basis for improvement. A numeric judgment can be subjective; it is not human audience data. Withhold scores where relevant evidence is missing. No forced uniformity, averaging away lower scores, or automatic promotion to 9.",
+    "Still frames establish poses; source and tests establish measured properties; decoded cadence establishes capture quality. None alone proves perceived normal-speed rhythm, emotional comprehension or attachment."
+  ],
+  "workPackages": [
+    {
+      "id": "P1",
+      "name": "Make one behavior feel recognizably Nag",
+      "owners": [
+        "brand",
+        "performance",
+        "storyboard",
+        "audience"
+      ],
+      "work": [
+        "Place the current curiosity sequence beside one fixed, meaningful cue from a verified project question. Keep the content understandable without motion. Record what attention, investigation and sharing are intended to communicate.",
+        "Compare the unchanged baseline with a purposeful investigation/share variant and, where useful, a restrained wry variation. Use comparable narrative scope, not forced identical milliseconds. Do not add a new world, seasonal scene or larger anatomy.",
+        "Make geekiness visible through careful attention; glasses support it. Make talkative warmth visible through address, a pause or an afterthought; sound and constant mouth movement are unnecessary."
+      ],
+      "acceptWhen": [
+        "Attention has a readable subject and the return toward the visitor conveys sharing at the intended size.",
+        "The gesture and content do not imply an unverified success or failure.",
+        "Nag can respond to concrete variants for personal fit; that preference remains separate from stranger recognition.",
+        "Both specialists identify why the chosen version is more distinctive or clear; name contradictory observations and preserve the baseline."
+      ]
+    },
+    {
+      "id": "P2",
+      "name": "Give the priority actions distinct timing and staging",
+      "owners": [
+        "performance",
+        "storyboard",
+        "rigging",
+        "sound"
+      ],
+      "work": [
+        "Inspect current Curious, Thinking, Mischievous, Surprised and Excited silently, unlabelled and at normal speed. Separate first readable response, pause, reveal and settlement from total runtime.",
+        "Audition a one-peek mischievous alternative against the existing two-peek behavior; specify whether the second peek adds renewed checking or dilutes the joke. Assess its static fallback separately.",
+        "Try narrowly scoped timing alternatives where useful: curious entry from rest versus replay, surprise onset, and head recovery around hop contact. Pre-contact compression is not inherently wrong; changes need a visible benefit.",
+        "Refine intended hand/ruff contacts or negative space in Thinking, Focused, Grateful, Shy and Worried. Clasped gratitude may retain contact. No longer arms or enlarged hands.",
+        "Review replay and selected interruptions, including an airborne change and a reflective-to-joy switch when relevant. Cancelled commands need not complete their emotional beat."
+      ],
+      "acceptWhen": [
+        "A short first viewing shows the intended order and selected actions have distinguishable rhythms.",
+        "Hop descent, contact and recovery read coherently without detached feet, unwanted bounce or adult proportions.",
+        "No accidental cheerful reset in the inspected compatible transition.",
+        "Selected gestures remain readable in both themes, and the unchanged control remains available for comparison."
+      ]
+    },
+    {
+      "id": "P3",
+      "name": "Resolve drawing, material and scale choices",
+      "owners": [
+        "visual",
+        "identity",
+        "rigging"
+      ],
+      "work": [
+        "Compare matched poses at equal visible height: baseline, a quieter local night antenna edge, and reduced whole-character rim as separate experiments. Preserve the repaired stem connection.",
+        "Compare a restrained cream/forewing tonal-falloff variant for softness. Additional texture, blur, fur marks, shine or glow are not requirements.",
+        "Inspect actual-size 32/48/64px avatars, 96/128/160px full figures and the 390px phone header; use a larger matched reference to diagnose.16/24px are optional boundary probes, not newly mandated uses.",
+        "Keep the documented paper-ground day avatar as the universal GitHub account option. Treat the night avatar as a separate owned-surface variant. Preserve the readable wordmark and lockup unless a specific alternative proves beneficial."
+      ],
+      "acceptWhen": [
+        "Both antenna paddles and the face remain framed; intended stems connect and the facial/hand contours stay readable on supported grounds.",
+        "Any quieter edge or softer material improves a named quality without muddy gestures, glossy cream or distracting halos.",
+        "Record supported sizes, grounds, application choice and native-vector provenance.",
+        "Species identification is not a compulsory brand goal; owner association remains a separate research question."
+      ]
+    },
+    {
+      "id": "P4",
+      "name": "Make the studio comfortable and reliably operable",
+      "owners": [
+        "interaction",
+        "audience"
+      ],
+      "work": [
+        "Reproduce and correct document-wide Space/arrow interception while reading outside the player. Remove those shortcuts or scope retained shortcuts to a deliberate, explained player context; visibility alone is insufficient.",
+        "Actually open, navigate and commit a different native feeling option. Verify selected value, heading, status and focus; the previous probe was inconclusive, not evidence of breakage.",
+        "Retest gallery focus/next Tab, previous/next wrapping, pause/resume/rest, collection cancellation and live reduced-motion changes. Add bounded screen-reader speech and zoom/reflow observations.",
+        "Compare Both versus single-theme mobile viewing for discoverability and actual figure size. Keep control usability separate from emotion recognition; change defaults only for observed benefit."
+      ],
+      "acceptWhen": [
+        "Reading keys outside deliberate playback retain ordinary browser behavior.",
+        "Native controls and visible focus remain intact; selection and status describe the same action.",
+        "Reduced motion provides meaningful stills and timeline inspection, with no unsolicited motion.",
+        "Document actual assistive-technology and mobile results without a blanket compliance or recognition claim."
+      ]
+    },
+    {
+      "id": "P5",
+      "name": "Prove every adopted refinement in the renderer",
+      "owners": [
+        "rigging",
+        "interaction",
+        "visual"
+      ],
+      "work": [
+        "Reuse the existing 504-pose geometry comparison, numeric tests and exact interruption samples as baseline coverage. Add only the renderer, placement or playback checks needed by the adopted changes.",
+        "Inspect selected contact/interruption states at actual use sizes in both themes. Check clipping, false appendages, facial obstruction, theme parity and finite animation cleanup.",
+        "Keep editable variants, source revisions, export recipes and before/after evidence together; regenerate affected application assets and the checksum manifest."
+      ],
+      "acceptWhen": [
+        "Observed defects have narrow regression checks plus rendered proof.",
+        "Geometry/pose parity, tiny anatomy, reduced-motion behavior and finite endings survive the adopted changes.",
+        "Passing tests is reported as reliability evidence, not artistic or audience approval."
+      ]
+    },
+    {
+      "id": "P6",
+      "name": "Validate meaning and rescore honestly",
+      "owners": [
+        "all 18"
+      ],
+      "work": [
+        "Each specialist reviews implemented evidence independently before reading the partner’s new score. Each pair discusses concrete differences and records both positions.",
+        "Use unprimed formative observers when testing comprehension or association: free descriptions before trait menus or labels; meaningful synonyms are acceptable. Test only distinctions that matter in the intended application.",
+        "For delayed recall, either report it as occurring after an immediate probe or reserve a separate group for its first memory probe later. Keep recognition alternatives and character clips after that person’s final unaided recall probe.",
+        "Record conditions, familiarity, actual responses, denominators, dissent and missing follow-ups. No recruited people or findings currently exist. Research can run alongside authorized local refinement; it is not a universal gate on unrelated work.",
+        "Keep silence complete. Optional sound requires separate scope, explicit opt-in, easy mute, sparse non-overlapping cues and repeat-listening review; no audio is needed to earn quality in the present silent foundation."
+      ],
+      "acceptWhen": [
+        "Every awarded score has evidence and an explicit account of what improved or still falls short.",
+        "A review claiming 9 or above addresses its named deductions with implemented, freshly inspected work. A lower or withheld score stays visible.",
+        "All 18 register a position on the same implemented scope; substantive objections are resolved or remain explicitly open.",
+        "Human response, owner preference and expert craft judgments remain distinct."
+      ]
+    }
+  ],
+  "sequence": [
+    "Freeze and document the current control; reproduce the known reading-key issue.",
+    "Run the focused acting and visual alternatives; resolve the keyboard issue in parallel.",
+    "Select the variants with a named benefit; update reusable source and applications.",
+    "Capture fresh playback/rendering/interaction evidence; gather the relevant owner and formative human feedback.",
+    "Conduct independent pair rescoring and an explicit review by all 18 specialist agents of the implemented result."
+  ],
+  "notIncluded": [
+    "No website deployment, GitHub publication, new mascot species, weather/holiday universe or mandatory sound in this plan.",
+    "No claim that all 18 already award 9 or that consensus proves memorability."
+  ],
+  "approvalScope": "The priorities, experimental freedom, acceptance criteria and honest review process above. Individual scores and creative alternatives are not required to be identical."
+}

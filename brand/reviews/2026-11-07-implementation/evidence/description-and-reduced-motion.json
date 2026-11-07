@@ -1,0 +1,25 @@
+{
+  "records": [
+    {
+      "selected": "curious-investigate",
+      "label": "The tiny moth notices the question, investigates, then turns back to share it.",
+      "status": "Still pose · press play"
+    },
+    {
+      "selected": "curious-wry",
+      "label": "The tiny moth investigates the question, turns back to share it, then raises a brow with one more thought.",
+      "status": "Still pose · press play"
+    },
+    {
+      "selected": "curious",
+      "label": "The tiny moth tilts its head and looks around with curious eyes and attentive antennae.",
+      "status": "Still pose · press play"
+    }
+  ],
+  "reduced": {
+    "status": "Still pose · reduced motion",
+    "play": "Show the thought",
+    "playing": false,
+    "media": true
+  }
+}

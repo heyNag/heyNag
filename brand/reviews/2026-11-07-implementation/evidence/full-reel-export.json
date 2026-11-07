@@ -1,0 +1,175 @@
+{
+  "segments": [
+    {
+      "id": "curious",
+      "label": "Curious",
+      "startFrame": 0,
+      "frames": 99,
+      "duration": 2800
+    },
+    {
+      "id": "thinking",
+      "label": "Thinking",
+      "startFrame": 99,
+      "frames": 138,
+      "duration": 4100
+    },
+    {
+      "id": "happy",
+      "label": "Happy",
+      "startFrame": 237,
+      "frames": 90,
+      "duration": 2500
+    },
+    {
+      "id": "mischievous",
+      "label": "Mischievous",
+      "startFrame": 327,
+      "frames": 108,
+      "duration": 3100
+    },
+    {
+      "id": "aha",
+      "label": "Aha",
+      "startFrame": 435,
+      "frames": 99,
+      "duration": 2800
+    },
+    {
+      "id": "oops",
+      "label": "Oops",
+      "startFrame": 534,
+      "frames": 105,
+      "duration": 3000
+    },
+    {
+      "id": "laughing",
+      "label": "Laughing",
+      "startFrame": 639,
+      "frames": 108,
+      "duration": 3100
+    },
+    {
+      "id": "excited",
+      "label": "Excited",
+      "startFrame": 747,
+      "frames": 105,
+      "duration": 3000
+    },
+    {
+      "id": "proud",
+      "label": "Proud",
+      "startFrame": 852,
+      "frames": 105,
+      "duration": 3000
+    },
+    {
+      "id": "grateful",
+      "label": "Grateful",
+      "startFrame": 957,
+      "frames": 111,
+      "duration": 3200
+    },
+    {
+      "id": "affectionate",
+      "label": "Affectionate",
+      "startFrame": 1068,
+      "frames": 111,
+      "duration": 3200
+    },
+    {
+      "id": "shy",
+      "label": "Shy",
+      "startFrame": 1179,
+      "frames": 117,
+      "duration": 3400
+    },
+    {
+      "id": "confused",
+      "label": "Confused",
+      "startFrame": 1296,
+      "frames": 111,
+      "duration": 3200
+    },
+    {
+      "id": "focused",
+      "label": "Focused",
+      "startFrame": 1407,
+      "frames": 117,
+      "duration": 3400
+    },
+    {
+      "id": "skeptical",
+      "label": "Skeptical",
+      "startFrame": 1524,
+      "frames": 105,
+      "duration": 3000
+    },
+    {
+      "id": "surprised",
+      "label": "Surprised",
+      "startFrame": 1629,
+      "frames": 93,
+      "duration": 2600
+    },
+    {
+      "id": "relieved",
+      "label": "Relieved",
+      "startFrame": 1722,
+      "frames": 117,
+      "duration": 3400
+    },
+    {
+      "id": "sleepy",
+      "label": "Sleepy",
+      "startFrame": 1839,
+      "frames": 138,
+      "duration": 4100
+    },
+    {
+      "id": "sad",
+      "label": "Sad",
+      "startFrame": 1977,
+      "frames": 129,
+      "duration": 3800
+    },
+    {
+      "id": "worried",
+      "label": "Worried",
+      "startFrame": 2106,
+      "frames": 117,
+      "duration": 3400
+    },
+    {
+      "id": "scared",
+      "label": "Scared",
+      "startFrame": 2223,
+      "frames": 105,
+      "duration": 3000
+    },
+    {
+      "id": "frustrated",
+      "label": "Frustrated",
+      "startFrame": 2328,
+      "frames": 117,
+      "duration": 3400
+    },
+    {
+      "id": "angry",
+      "label": "Angry",
+      "startFrame": 2445,
+      "frames": 105,
+      "duration": 3000
+    },
+    {
+      "id": "disgusted",
+      "label": "Disgusted",
+      "startFrame": 2550,
+      "frames": 105,
+      "duration": 3000
+    }
+  ],
+  "frames": 2655,
+  "fps": 30,
+  "source": "Exact browser frames from current real engine. Every output frame sampled; light/dark same numeric pose. This does not measure real-device live timing."
+}

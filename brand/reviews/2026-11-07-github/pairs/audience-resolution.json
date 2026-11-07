@@ -1,0 +1,241 @@
+{
+  "discipline": "audience",
+  "proposalSha256": "5a062f65c993eadec03c5b218b4903c9f05ca6bf1ec51c3eedf9d4c52e030f54",
+  "sourceManifestSha256": "ac469332a20a2638e3d9e926334100ca83d7554af935a0ed427203c6ae40d702",
+  "bothExplicitlyAccept": true,
+  "recommendation": "Preserve clear Nag attribution, original moth ownership and the three-project public sample. Treat immediate recognition, recall, affection and website effectiveness as unmeasured hypotheses.",
+  "individualPositions": [
+    {
+      "reviewerId": "audience-a",
+      "role": "Emotion comprehension and Nag attribution",
+      "proposalSha256": "5a062f65c993eadec03c5b218b4903c9f05ca6bf1ec51c3eedf9d4c52e030f54",
+      "sourceManifestSha256": "ac469332a20a2638e3d9e926334100ca83d7554af935a0ed427203c6ae40d702",
+      "verification": "Independently computed both SHA-256 hashes and checked all 13 manifest entries against current files; all matched. Inspected the changed public copy, continuity and evidence documents. No browser, source or publication changes made.",
+      "position": "agree_with_named_nonblocking_limits",
+      "score": 9.0,
+      "scoreMeaning": "Ordinal expert craft score out of 10 for this prepared native GitHub profile application and its written continuity contract. Clear authored identity, concise introduction, concrete public work and coherent static imagery. Not a recognition rate, emotional-attachment result, published-account audit, mascot-motion rescore or future-website quality score.",
+      "confidence": "Moderate-high for the inspected static hierarchy, copy and theme/size treatment; no empirical confidence claim about visitor behavior. The supplied evidence is an explicitly labelled local preview.",
+      "partnerReview": "brand/reviews/2026-11-07-github/independent/audience-b.json",
+      "partnerChallenge": {
+        "agreement": "Audience B correctly distinguished visible association cues from demonstrated recognition, and identified that v1's capable-project descriptions supplied less specific maker evidence. V2 now explicitly labels recognition as intention/unmeasured; authored phrases and the Charms timestamp/frame detail make Nag's role and a concrete implementation characteristic more explicit. The private-work boundary remains appropriately limited to a public sample.",
+        "difference": "I regard deeper reasons and decisions as a useful next layer for linked repositories or future evidenced stories, rather than a requirement to expand this concise native introduction into a case study. The current page already makes the maker visible. My remaining editorial deduction is a small sentence/heading echo, not evidence that readers fail to attribute or remember the work. In direct discussion I explicitly accepted B's narrower observation that Charms adds the concrete evidence detail while Grok/eva remain mainly study/capability framing. B's 8.9 and my 9.0 reflect independent craft emphases, not a substantive disagreement or measured memory difference.",
+        "sharedRecommendationAccepted": true,
+        "exactSharedRecommendation": "Preserve clear Nag attribution, original moth ownership and the three-project public sample. Treat immediate recognition, recall, affection and website effectiveness as unmeasured hypotheses.",
+        "remainingObjections": [],
+        "communication": "Initially relayed to root while B was inactive, then sent the challenge directly when B resumed. B explicitly accepted the exact recommendation with no substantive objection and raised the remaining specificity nuance; I explicitly accepted that nuance and our shared practical workflow in reply. This record supplies only Audience A's vote; B records their own."
+      },
+      "inspectedUpdatedEvidence": [
+        "brand/reviews/2026-11-07-github/team-proposal-v2.json",
+        "brand/reviews/2026-11-07-github/review-source-v2.json",
+        "README.md",
+        "brand/profile/profile.json",
+        "brand/profile/continuity.json",
+        "brand/profile/public-evidence.json",
+        "brand/profile/README.md",
+        "brand/story.md",
+        "brand/README.md",
+        "brand/reviews/2026-11-07-github/evidence/profile-light-1440.png \u2014 viewed with view_image",
+        "brand/reviews/2026-11-07-github/evidence/profile-dark-1440.png \u2014 viewed with view_image",
+        "brand/reviews/2026-11-07-github/evidence/profile-light-320-top.png \u2014 viewed with view_image",
+        "brand/reviews/2026-11-07-github/evidence/readme-dark-320-scroll.png \u2014 viewed with view_image",
+        "brand/reviews/2026-11-07-github/evidence/pins-light-320-scroll.png \u2014 viewed with view_image",
+        "brand/reviews/2026-11-07-github/evidence/render-checks.json \u2014 ten width/theme records, local DOM provenance, matching document/viewport widths and three personal project links"
+      ],
+      "changedJudgment": {
+        "previousScore": 8.8,
+        "currentScore": 9.0,
+        "reason": "The initial GHA-1 deduction concerned substantial repeated positioning between bio and introduction. The shorter bio and process-oriented README now perform different jobs, while the project entries explicitly say what Nag builds or studies. The narrow reading view confirms the revised sequence in context. This is a modest improvement in actual editorial craft, not a reward for reaching a threshold. The recognition wording now also fits its evidence. The established avatar, paired headers and name hierarchy are preserved rather than counted as new gains.",
+        "visibleEvidence": "At 320px the avatar remains adjacent to Nagarjuna Boddu and heyNag; the later README repeats the heyNag wordmark and 'Hey, I'm Nag' before first-person work descriptions. Both desktop themes show the same relationship. The small full-body banner need not convey a precise emotion: native text carries authorship and destinations. These are observed cues, not observed visitor interpretations.",
+        "boundary": "The website remains an unbuilt contract; repeated assets are implementation continuity, not proof of cross-surface recognition. Public-source evidence supports the wording but is not an independent runtime or adoption test."
+      },
+      "deductions": [
+        {
+          "id": "GHA-V2-1",
+          "severity": "minor editorial craft limitation; nonblocking",
+          "classification": "Observed wording echo; unknown audience effect",
+          "finding": "'These are a few things I've shared' is followed immediately by 'Things I've shared'. The short introductory process statement also remains intentionally broad; the project entries carry the distinguishing detail.",
+          "evidence": [
+            "README.md private-work paragraph and following heading",
+            "brand/reviews/2026-11-07-github/evidence/readme-dark-320-scroll.png"
+          ],
+          "improvementCriterion": "A later copy pass may remove one occurrence if it preserves the honest private/public boundary and useful heading. Further personal decisions belong in verified project stories when available. Neither requires blocking this application.",
+          "confidence": "High for the visible repetition; no measured reading, memory or attribution effect."
+        }
+      ],
+      "namedNonblockingLimits": [
+        "Local previews are not evidence that README, avatar, bio or pins are applied publicly; publication needs its separate receipts.",
+        "Fine hand and antenna detail in the 238px narrow banner is small but nonessential; no anatomy redraw is required for this role.",
+        "Viewport checks do not establish physical-phone behavior, spoken assistive-technology output or every saved appearance setting.",
+        "The website contract is reasonable direction, not approved built pages, reduced-motion behavior or measured effectiveness."
+      ],
+      "skills": {
+        "catalog": "All 17 installed Emil catalog summaries were read earlier in this conversation; no claim of reading all 17 full skills.",
+        "previousFullReadsApplied": [
+          "/Users/nag/.agents/skills/emil-design-eng/SKILL.md",
+          "/Users/nag/.agents/skills/prototype/SKILL.md",
+          "/Users/nag/.agents/skills/mobile-native/SKILL.md",
+          "/Users/nag/.agents/skills/taste-skill/SKILL.md"
+        ],
+        "newFullReads": [],
+        "actualApplication": "Applied purpose-driven static restraint, actual-size comparisons, native-platform constraints, concrete grounded copy and separation of simulated layout from hardware/audience evidence. Prototype informs comparison discipline only; no variant picker or source-building workflow was invoked.",
+        "practicalWorkflow": [
+          "Preserve the independent review before reading the partner; archive v1 and compare v2 against the specific original finding.",
+          "Verify immutable proposal/source hashes, then inspect authored copy and real-context narrow/desktop renders before deciding the score.",
+          "For later audience work, retain natural name/avatar/project exposure for attribution and memory questions. Separate it from isolated emotion-comprehension stimuli and record actual exposure; ask free recall before recognition alternatives.",
+          "When the website exists, review its actual first visit and quiet route with the same versioned identity; do not treat a shared file as a successful human-recognition result."
+        ],
+        "exceptions": [
+          "GitHub owns layout, type, links and controls. Commercial-site layout, custom CSS, mandatory hover/loop and one-section-per-screen recipes are inapplicable to this native profile.",
+          "Native accessible text below artwork and useful repository-name reinforcement remain appropriate; a generic no-repetition recipe must not erase them.",
+          "Root owns browser evidence; I used supplied PNGs and checks without running a browser or claiming a physical-device or screen-reader test.",
+          "Static GitHub imagery needs no new character motion, stronger tiny gesture or variant picker. Historical evidence remains preserved.",
+          "Absent human studies remain unscored, neither invented successes nor a new permission gate for authorized local craft acceptance."
+        ]
+      },
+      "unscoredOutcomes": {
+        "humanRecognition": null,
+        "emotionComprehension": null,
+        "nagAttributionByUnfamiliarViewers": null,
+        "emotionalAttachment": null,
+        "delayedRecall": null,
+        "crossSurfaceWebsiteRecognition": null,
+        "websiteEffectiveness": null,
+        "futureWebsiteQuality": null,
+        "reason": "No new unfamiliar-human responses or built website evidence. Expert craft acceptance and a local DOM preview cannot establish these outcomes."
+      }
+    },
+    {
+      "reviewerId": "audience-b",
+      "role": "Audience and character-perception researcher",
+      "lens": "Research design and memory hypotheses",
+      "model": "gpt-6-astra",
+      "reasoning": "ultra",
+      "proposalFile": "team-proposal-v2.json",
+      "proposalSha256": "5a062f65c993eadec03c5b218b4903c9f05ca6bf1ec51c3eedf9d4c52e030f54",
+      "sourceManifest": "review-source-v2.json",
+      "sourceManifestSha256": "ac469332a20a2638e3d9e926334100ca83d7554af935a0ed427203c6ae40d702",
+      "position": "agree_with_named_nonblocking_limits",
+      "scope": "Prepared native GitHub profile application and written continuity contract for heyNag.com. Static communication and intended association cues are accepted locally; live account application, human outcomes and built website quality are outside this vote.",
+      "score": 8.9,
+      "scoreMeaning": "Out of 10: independent expert craft judgment of the revised local profile communication and written continuity approach. This is neither a recognition/recall rate nor a future website rating. The prior 8.8 scope is preserved; no old mascot score is imported.",
+      "confidence": "Moderate-high for the inspected source, actual native preview hierarchy, copy revisions and evidence boundaries; moderate for distinctiveness judgment. No empirical visitor-response confidence.",
+      "partnerReview": "independent/audience-a.json",
+      "partnerChallenge": {
+        "agreement": "A and B agree that v2 resolves the recognition overclaim and materially improves maker attribution through a shorter introduction, explicit first-person contribution and the Charms timestamp/frame detail. Both accept the exact audience recommendation and keep human/website outcomes null.",
+        "difference": "A rates current craft 9.0; B rates it 8.9. B retains a small opportunity for distinctive maker detail: Charms now supplies one concrete evidence detail, while Grok Bot and eva.md remain primarily study/capability framing. This is not measured memory failure. A explicitly accepts this distinction; deeper decisions belong in optional verified repository/website stories, not a mandatory full case study in this brief profile.",
+        "directExchange": "Read A\u2019s independently saved v1 review after my own save, sent a direct challenge after v2 inspection, and received A\u2019s explicit agreement to the distinction, exact recommendation and practical workflow. No score harmonization requested.",
+        "sharedRecommendationAccepted": true,
+        "exactSharedRecommendation": "Preserve clear Nag attribution, original moth ownership and the three-project public sample. Treat immediate recognition, recall, affection and website effectiveness as unmeasured hypotheses.",
+        "remainingObjections": []
+      },
+      "inspectedUpdatedEvidence": [
+        "team-proposal-v2.json \u2014 full; independently hashed",
+        "review-source-v2.json \u2014 full; independently hashed; all 13 listed current files matched",
+        "README.md \u2014 revised first-person introduction and three project entries",
+        "brand/profile/profile.json \u2014 shorter bio and separate application-status reference",
+        "brand/profile/continuity.json \u2014 explicit unmeasured recognition, paint/token roles and rig guardrail",
+        "brand/profile/public-evidence.json \u2014 public source references, authorship/maturity limits; no independent upstream or runtime audit performed by this reviewer",
+        "brand/profile/README.md \u2014 maintenance, versioning and separate live receipt workflow",
+        "brand/story.md \u2014 verified decision/result stories reserved for future evidence and distinct project characters",
+        "brand/README.md \u2014 identity/application/source and future website guidance",
+        "evidence/render-checks.json \u2014 v2, ten theme/width records at 320\u20131440px, intended destinations and no reported document overflow",
+        "evidence/profile-light-1440.png \u2014 viewed with view_image",
+        "evidence/profile-dark-1440.png \u2014 viewed with view_image",
+        "evidence/profile-light-320-top.png \u2014 viewed with view_image",
+        "evidence/readme-dark-320-scroll.png \u2014 viewed with view_image",
+        "evidence/pins-light-320-scroll.png \u2014 viewed with view_image"
+      ],
+      "verification": {
+        "proposalHashMatches": true,
+        "sourceManifestHashMatches": true,
+        "currentFilesChecked": 13,
+        "mismatches": [],
+        "artwork": "Renderer, header/avatar exports and UI CSS remain unchanged in v2; no new motion or geometric improvement is claimed."
+      },
+      "changedJudgment": {
+        "previous": {
+          "record": "independent/audience-b.json",
+          "score": 8.8,
+          "sourceManifestSha256": "7b23e48c7555ab1abca2a81923bb526411043350c092e352ef42efd106b468d2"
+        },
+        "current": 8.9,
+        "reasons": [
+          "GITHUB-AB2 is resolved: continuity.github.recognition now explicitly separates intended recognizable cues from unmeasured immediate recognition and recall.",
+          "GITHUB-AB1 is materially reduced: \u201cPlugins I build\u201d, \u201cMy study\u201d and \u201cexperiment I\u2019m building\u201d state personal contribution, while timestamp/frame-linked video notes provide a concrete detail. A small distinctiveness opportunity remains rather than being erased to reach 9.",
+          "A\u2019s repetition concern is substantially addressed by the shorter bio and introduction. The new dark 320px reading view shows useful native text and the same three destinations without needing custom layout or motion.",
+          "The +0.1 is credit for changed copy/plan evidence only. It awards no points for human recognition, affection, recall, live publication or unbuilt website behavior."
+        ]
+      },
+      "deductions": [
+        {
+          "id": "GITHUB-AB1-v2",
+          "severity": "minor and nonblocking",
+          "classification": "Remaining editorial distinctiveness opportunity, not an audience outcome",
+          "finding": "The first-person project framing is clearer and Charms has a specific evidence-workflow detail. Grok Bot and eva.md still mainly state the study/capability and medium. The profile introduces Nag well, but a fuller sense of his decisions remains for the linked work.",
+          "evidence": [
+            "README.md",
+            "evidence/readme-dark-320-scroll.png",
+            "brand/story.md"
+          ],
+          "improvementCriterion": "When supported by public material, let a linked repository or future case study show one meaningful choice and its evidence. A concise verified detail may replace broad wording in the profile if it earns its space; a full case study or private disclosure is not required here.",
+          "confidence": "High for text contents, moderate for craft value; memory effects unmeasured."
+        },
+        {
+          "id": "GITHUB-AB-editorial-echo",
+          "severity": "very minor and nonblocking",
+          "classification": "Observed wording echo",
+          "finding": "\u201cThese are a few things I\u2019ve shared\u201d is followed immediately by \u201cThings I\u2019ve shared.\u201d It is clear but uses two consecutive lines to make the same transition.",
+          "evidence": [
+            "README.md",
+            "evidence/profile-light-1440.png",
+            "evidence/readme-dark-320-scroll.png"
+          ],
+          "improvementCriterion": "A future copy pass may keep the public/private boundary while letting either the sentence or heading make the transition. No extra description, source change or approval gate is required for this acceptance.",
+          "confidence": "High for repetition; no abandonment or comprehension effect asserted."
+        }
+      ],
+      "unscoredOutcomes": {
+        "humanNameRecognition": null,
+        "crossSurfaceRecognition": null,
+        "unaidedNameRecall": null,
+        "delayedRecall": null,
+        "unprimedEmotionComprehension": null,
+        "affectionOrAttachment": null,
+        "populationPreference": null,
+        "repeatVisitComfort": null,
+        "futureWebsiteQuality": null,
+        "reason": "No unfamiliar-human responses or built website evidence. Local DOM previews and source references do not establish published account state, runtime project performance, adoption or professional outcomes."
+      },
+      "skillsAndWorkflow": {
+        "fullReadReuse": [
+          "emil-design-eng",
+          "prototype",
+          "mobile-native",
+          "design-taste-frontend"
+        ],
+        "newFullReadThisStage": [],
+        "priorIntake": "Actual paths and newly completed design-taste reading are recorded in independent/audience-b.json; no claim of full reading of all 17 catalog skills.",
+        "agreedWithPartner": [
+          "Preserve independent records and verify immutable source/proposal hashes before revised judgments.",
+          "Inspect native rendered context at actual sizes; classify authored editorial choices separately from GitHub-imposed layout.",
+          "Keep branded natural exposure for attribution/recall and separate isolated neutral clips for action/emotion questions.",
+          "Carry versioned identity and factual project content forward; assess built website behavior and quiet routes only when they exist."
+        ],
+        "exceptions": [
+          "No commercial-site starter, dealt fonts, screen-height recipe, custom hover loops or CSS/JS inside native GitHub.",
+          "No new prototype choice gate, image redraw or motion audit for a static copy revision.",
+          "No browser/checker run by this reviewer; root owns the authorized preview.",
+          "No human-research requirement or publication inference from scoped craft acceptance."
+        ]
+      },
+      "namedLimits": [
+        "Unpublished local Markdown/API/DOM preview with proposed account fields; no saved-setting receipt checked.",
+        "Theme and width records are desktop viewport evidence, not physical-device or spoken-AT testing.",
+        "The narrow header\u2019s fine gestures are small; essential meaning remains in native name and text.",
+        "Future website remains a continuity contract; shared source supports resemblance by design, not demonstrated recognition."
+      ],
+      "substantiveObjections": [],
+      "individualPosition": "This file is Audience B\u2019s explicit acceptance of the exact shared audience recommendation. It records direct pair agreement, but does not assert that every other discipline has voted or certify publication."
+    }
+  ]
+}

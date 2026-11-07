@@ -1,0 +1,74 @@
+{
+  "role": "Motion implementation engineer, separate from the18-reviewer panel",
+  "status": "Implementation complete. Root retained B and all contact changes after inspecting the matched rendered sheets; ready for independent panel review. No score awarded and no continuous-playback claim.",
+  "baseline": "brand/reviews/2026-11-07-gesture-staging/before/animation-v5/motion.js",
+  "candidateRecord": "implementation/hand-candidates.json",
+  "skillsApplied": ["animate", "choreograph", "animation-performance", "review-animations"],
+  "skillIntake": "brand/reviews/2026-11-07-implementation/implementation/motion-skills.json",
+  "reviewBasis": ["Previous performance pair: weaker offering specificity", "Previous rigging pair: contact density without joint disconnection", "Previous visual pair: mitten/ruff loops remain a dense band", "Gesture acting advisor's pose-family challenge"],
+  "changes": [
+    {
+      "id": "sharing-invitation",
+      "performances": ["curious-investigate", "curious-wry"],
+      "before": {"handRX": 393, "handRY": 447, "handRR": 25},
+      "after": {"handRX": 407, "handRY": 458, "handRR": -26},
+      "reason": "A matched rendered candidate comparison shows a clearer small upward cup and ruff separation, using the original mitten contour. Endpoint reach remains40.52 units, within48.",
+      "timing": "Keep the1900ms consideration end,2350ms visitor return and2720ms offer. At2350 the hand is tucked lower at382,470,+10 degrees. It then travels outward/up once and turns into the offer; the free left mitten holds still. Both studies share the same opening through3050ms.",
+      "wry": "Its existing afterthought lowers the offered hand by6 units and relaxes the wrist by7 degrees; it does not revert to a thumbs-up or add a new gesture."
+    },
+    {
+      "id": "thinking",
+      "before": {"handLX": 281, "handLY": 479, "handLR": 8},
+      "after": {"handLX": 260, "handLY": 490, "handLR": -8},
+      "reason": "Separate the quiet free mitten from the ruff so the exact original right-hand chin contact remains the only high hand action. Preserve every right-hand/head nod sample and the toe tap.",
+      "entry": "Free hand settles from260,485,-8 degrees at420ms into the lower endpoint; no inward-outward free-hand pulse."
+    },
+    {
+      "id": "focused",
+      "before": {"handLX": 280, "handLY": 484, "handLR": 4, "handRX": 366, "handRY": 482, "handRR": -4},
+      "after": {"handLX": 269, "handLY": 491, "handLR": -8, "handRX": 374, "handRY": 486, "handRR": 8},
+      "reason": "Test a clearer pair of low, separate ready mittens while preserving the steady face, timing and wing silhouette."
+    },
+    {
+      "id": "grateful",
+      "before": {"handLX": 306, "handLY": 451, "handLR": 24, "handRX": 333, "handRY": 451, "handRR": -24},
+      "after": {"handLX": 300, "handLY": 477, "handLR": 12, "handRX": 341, "handRY": 477, "handRR": -12},
+      "reason": "Lower the intentional clasp away from the ruff and reduce heavy overlap.41-unit center spacing replaces27 units; the goal is one legible contact seam with two mittens, not disconnected gratitude hands.",
+      "entry": "At490ms both hands gather low at292,474 and350,474 before the clasp and bow. Fresh rendering must confirm actual contour contact."
+    },
+    {
+      "id": "shy",
+      "before": {"handLX": 295, "handLY": 477, "handLR": 15, "handRX": 346, "handRY": 475, "handRR": -15},
+      "after": {"handLX": 295, "handLY": 483, "handLR": 15, "handRX": 346, "handRY": 479, "handRR": -15},
+      "reason": "A narrow downward adjustment retains51-unit horizontal separation and slight asymmetry. Avoid turning the shy gather into Grateful's symmetric clasp."
+    },
+    {
+      "id": "worried",
+      "before": {"handLX": 296, "handLY": 482, "handLR": 14, "handRX": 349, "handRY": 463, "handRR": -18},
+      "after": {"handLX": 290, "handLY": 491, "handLR": 8, "handRX": 346, "handRY": 473, "handRR": -12},
+      "reason": "Lower the hand cluster while retaining an upper inward mitten above a lower supporting one. The diagonal relation remains distinct from a clasp or two ready hands."
+    }
+  ],
+  "invariants": [
+    "Character.js, mitten paths, head/body proportions, feet, antennae and wing geometry unchanged.",
+    "No new fingers, scale fields, props or longer rig reach; every wrist remains within48 units of its existing shoulder.",
+    "The same numeric pose is used for light and dark themes.",
+    "All24 emotion IDs and3 study IDs remain available.",
+    "Existing finite engine, reduced-motion stills, pause/resume and interruption handling retained."
+  ],
+  "verification": {
+    "command": "node --test brand/animation-v5/motion.test.mjs",
+    "result": "16 tests pass,0 fail",
+    "log": "evidence/motion-tests.txt",
+    "newCoverage": "After the visitor-facing return, the offering hand moves outward/up and turns once; its free partner stays still and the offer holds without an extra wave. Existing numeric anatomy, common lead-in, reduced-motion, interruption and finite-cleanup checks still pass.",
+    "notEstablished": "Tests do not prove visible clasp contact, actual-size emotion comprehension, normal-speed rhythm, or phone hardware performance."
+  },
+  "renderedEvidenceInspected": [
+    {"path": "evidence/offer-candidates.png", "observation": "B has a clearer upward cup and separation from the ruff in both themes. A retains a thumb-like acknowledgement; C recedes. The figure remains small and compact."},
+    {"paths": ["evidence/hands-day.png", "evidence/hands-night.png"], "observation": "The exact chin contact remains, with the free mitten lower. Focused shows two lower ready hands. Grateful has two joined lower lobes beneath the ruff rather than a single busy horizontal band. Worried keeps one hand above its lower support. Shy's improvement is modest; its near-separated pose remains distinct from the clasp."},
+    {"paths": ["evidence/offer-sequence-day.png", "evidence/offer-sequence-night.png"], "observation": "The sampled 2350–2720ms transition moves from a lower tucked hand to the outward cup, followed by a stable hold. No additional pulse is visible in these inspected samples; whether the wrist turn feels like a flick needs normal-speed playback."},
+    {"paths": ["evidence/sizes-curious-investigate.png", "evidence/sizes-thinking.png", "evidence/sizes-grateful.png", "evidence/sizes-shy.png", "evidence/sizes-worried.png"], "observation": "At 160/240px the lowered hands and clasp separation are clearer. The 96/128px signature hand remains a small directional accent, even though its outline changes. Shy's small downward adjustment is subtle. These are actual CSS-size captures viewed as sheets, not physical-device or unprimed comprehension results."}
+  ],
+  "retainedTimingDecision": "The acting advisor recommends preserving Grateful's existing overlapping gather and bow for this contour pass. A hypothetical earlier clasp keyframe is not implemented; revisit it only if actual playback exposes unclear hand-to-bow order.",
+  "pending": ["Root's final films and normal-speed wrist-turn check for an unintended flick", "Independent 18-reviewer assessment; no target-score assumption", "Root's final source freeze and application evidence"]
+}

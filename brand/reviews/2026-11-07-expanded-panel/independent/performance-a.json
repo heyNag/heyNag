@@ -1,0 +1,44 @@
+{
+  "reviewer": "Performance A \u2014 intention and comic acting",
+  "independence": "Recorded before reading Performance B. Preserves refinement rounds 1\u20132 approval of the specific corrections, without extending that approval to audience response.",
+  "evidence": [
+    "Current motion.js:99\u2013145,183\u2013199,264\u2013292,411\u2013428,554\u2013596; character.js:238\u2013315.",
+    "Fresh inspection of refinement/evidence/all-24.png, poses.png and exact-case-8.png; predecessor refinement/round1/performance.json and round2/performance.json."
+  ],
+  "deductions": [
+    {
+      "id": "PA1",
+      "claim": "The useful acting unit is an intention changing, not a label switching. Curious already stages antenna, gaze, head, then a sharing glance; Mischievous hides, peeks, withdraws and peeks again. These authored sequences offer a stronger personality foundation than adding amplitude.",
+      "evidence": "motion.js:99\u2013113,135\u2013145."
+    },
+    {
+      "id": "PA2",
+      "claim": "Thinking now has one dominant chin mitten; Focused keeps two low hands; Grateful deliberately joins them. The inspected poses preserve distinct actions without bigger anatomy.",
+      "evidence": "poses.png; motion.js:115\u2013128,219\u2013231,264\u2013275."
+    },
+    {
+      "id": "PA3",
+      "claim": "The hop correction removes the source-level descent stop while preserving the 17-unit lift. Frame evidence supports compact contact, but cannot certify landing weight or comic rhythm.",
+      "evidence": "motion.js:194\u2013198; exact-case-8.png."
+    },
+    {
+      "id": "PA4",
+      "claim": "The overview supports broad affect more securely than exact labels: several closed-eye positive poses remain visually close. This is a reason to test useful contrasts, not proof of failure or a mandate to exaggerate every pose.",
+      "evidence": "all-24.png: Mischievous, Proud, Affectionate; labels present during inspection."
+    }
+  ],
+  "score": {
+    "value": null,
+    "scope": "Current V5 intention and comic performance, excluding unbuilt website/scenes.",
+    "evidence": "Source and still evidence above; no uninterrupted playback personally inspected in this pass.",
+    "confidence": "High on authored staging and inspected corrections; limited on felt timing and unaided interpretation.",
+    "whyNotHigher": "No numerical score assigned: current evidence cannot calibrate a defensible holistic performance score.",
+    "whatWouldRaiseIt": "Actual-size silent playback of selected contrast pairs and one contextual thought change, followed by independent review and unlabelled observer responses."
+  },
+  "criteria": [
+    "Preserve tiny anatomy and identical theme poses.",
+    "A contextual beat communicates stimulus, response and settled intention without a contradictory reset.",
+    "Comic reveal survives actual-size playback without labels or added sound.",
+    "Keep successful low-amplitude gestures; change only a demonstrated failing beat."
+  ]
+}

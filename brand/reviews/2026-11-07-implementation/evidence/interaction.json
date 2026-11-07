@@ -1,0 +1,62 @@
+{
+  "selection": {
+    "value": "happy",
+    "heading": "Happy",
+    "status": "Happy · Playing"
+  },
+  "nativeMenu": {
+    "opened": true,
+    "optionsObservedThrough": "macOS AX tree",
+    "keyboardCommit": "inconclusive; automation focus remained on another embedded web content",
+    "programmaticSelection": "verified with supported selectOption API; does not prove keyboard menu navigation"
+  },
+  "screenReader": {
+    "nativeAXLabelsObserved": true,
+    "spokenOutput": "not captured"
+  },
+  "wrapBackward": "disgusted",
+  "wrapForward": "curious",
+  "paused": {
+    "id": "curious",
+    "time": 99.59999996423721,
+    "duration": 2800,
+    "playing": false,
+    "paused": true,
+    "progress": 0.035571428558656144,
+    "transitioning": true,
+    "reducedMotion": false
+  },
+  "resumed": {
+    "id": "curious",
+    "time": 99.59999996423721,
+    "duration": 2800,
+    "playing": true,
+    "paused": false,
+    "progress": 0.035571428558656144,
+    "transitioning": true,
+    "reducedMotion": false
+  },
+  "rest": "Curious · At rest",
+  "reduced": {
+    "info": {
+      "id": "worried",
+      "time": 1510,
+      "duration": 3400,
+      "playing": false,
+      "paused": false,
+      "progress": 0.4441176470588235,
+      "transitioning": false,
+      "reducedMotion": true
+    },
+    "status": "Worried · Still pose · reduced motion",
+    "sequenceDisabled": true
+  },
+  "reducedSeek": "Worried · Pose inspection · reduced motion",
+  "reducedRest": "Worried · At rest · reduced motion",
+  "galleryFocus": "feeling-name",
+  "afterTab": {
+    "tag": "INPUT",
+    "name": "appearance",
+    "value": "both"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "reviewerId": "interaction-a",
+  "role": "Interaction and accessibility designer",
+  "lens": "Keyboard and accessible controls",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "scope": "Fresh review of the prepared GitHub-native profile application: README text/links/image semantics, proposed profile fields and pins, native reading hierarchy and supplied local rendered preview. The future heyNag.com continuity contract is assessed as a plan only. Prior mascot/studio scores are not inherited as profile approval.",
+  "sourceManifestSha256": "7b23e48c7555ab1abca2a81923bb526411043350c092e352ef42efd106b468d2",
+  "sourceVerification": "Manifest SHA256 and all nine listed source/asset hashes independently match. No source edits, browser use, web research, publication or partner-new-review reading occurred.",
+  "inspectedEvidence": [
+    "AGENTS.md",
+    "brand/workflow.json",
+    "brand/team.json interaction A/B role record",
+    "brand/reviews/2026-11-07-github/review-instructions.txt",
+    "README.md",
+    "brand/profile/profile.json",
+    "brand/profile/continuity.json",
+    "brand/reviews/2026-11-07-github/brief.json",
+    "brand/reviews/2026-11-07-github/review-source-v1.json",
+    "brand/reviews/2026-11-07-github/evidence/render-checks.json",
+    "brand/reviews/2026-11-07-github/evidence/profile-light-1440.png via view_image",
+    "brand/reviews/2026-11-07-github/evidence/profile-dark-1440.png via view_image",
+    "brand/reviews/2026-11-07-github/evidence/profile-light-320-top.png via view_image",
+    "brand/reviews/2026-11-07-github/evidence/profile-dark-320-top.png via view_image",
+    "brand/reviews/2026-11-07-github/evidence/readme-light-320-scroll.png via view_image",
+    "brand/reviews/2026-11-07-github/evidence/readme-dark-320-scroll.png via view_image",
+    "brand/reviews/2026-11-07-github/evidence/pins-light-320-scroll.png via view_image",
+    "assets/brand/heynag-moth-avatar-v5-day.png via view_image"
+  ],
+  "skillsReviewed": {
+    "newFullRead": [
+      "/Users/nag/.agents/skills/taste-skill/SKILL.md"
+    ],
+    "fullInstructionsReusedFromThisConversation": [
+      "/Users/nag/.agents/skills/emil-design-eng/SKILL.md",
+      "/Users/nag/.agents/skills/mobile-native/SKILL.md"
+    ],
+    "catalogAndRouting": "The all-17 Emil catalogue intake is preserved from the implementation review; current brand/workflow.json interaction routing read. No claim of reading all 17 full skills. No new full animation review/performance or break-ui execution is claimed for this static GitHub application.",
+    "application": "Use grounded copy, existing identity, native text and actual narrow/theme rendering. Keep purposeful still imagery and distinguish source/preview evidence from native input, spoken AT and physical hardware."
+  },
+  "workflowChanges": [
+    "Review only what the profile author controls: meaningful Markdown headings, link names/context, alt text, factual profile fields and exported assets. Record host-controlled layout/interaction separately.",
+    "Use actual wheel-scrolled narrow viewport captures for reading and pin claims; do not treat full-page sticky-navigation artifacts as a content defect.",
+    "Validate the project-reading path with images conceptually absent: the introduction, project names and purposes remain native text, and no essential meaning relies on the moth gesture or theme color.",
+    "Keep application readiness, publishing success and future website implementation as three separate evidence scopes. A locally injected preview must retain its unpublished label in review materials.",
+    "At future website integration, carry the same factual project labels and native-link clarity forward; observe keyboard/AT and reduced-motion paths on the built surface instead of inheriting this static review."
+  ],
+  "rulesNotApplicableWithReason": [
+    {
+      "rule": "Taste skill one/two screens per section, custom hero deal, copied starter assets, special fonts, hover motion and custom visual effects",
+      "reason": "This is an authored GitHub README inside a host-owned layout, not a commercial website build. Custom CSS/JS and fixed viewport recipes are outside the supported application; adding them would not improve native profile operability."
+    },
+    {
+      "rule": "Taste skill contact placeholders, transactional CTA and invented business category",
+      "reason": "This is Nag's real personal profile. Preserve authentic name and verified personal repositories; do not add fake contacts, buyer claims or an unfinished website destination."
+    },
+    {
+      "rule": "Mandatory skill browser/checker workflow",
+      "reason": "The assignment is an independent source/render-evidence review, root owns the browser, and the preview uses GitHub's real DOM with Markdown API output. No custom standalone page was built by this reviewer; no checker pass is claimed."
+    },
+    {
+      "rule": "Animation timing, GPU/pose-continuity rules and playback controls from prior studio reviews",
+      "reason": "The README adds static PNGs and native text/links, with no authored animation, sound, custom input or player. Those prior motion defects/limits are not mechanically imported into this new scope."
+    },
+    {
+      "rule": "Mobile-native app-shell locks or removal of host link feedback",
+      "reason": "GitHub owns these controls and this is a scrolling document. Keep native navigation, scrolling and zoom rather than attempting custom gesture behavior."
+    }
+  ],
+  "score": 8.9,
+  "scoreMeaning": "Strong prepared native-profile interaction and reading design: essential content is text, destinations are named, imagery is static and supported by alt text, and inspected narrow/light/dark previews are coherent. This fresh 8.9/10 judges the local application, not the previous mascot, published account, full accessibility conformance, future website or audience outcomes.",
+  "confidence": {
+    "sourceAndRenderedContent": "high",
+    "previewGeometry": "high within recorded 320/390/768/1024/1440 widths and two themes",
+    "nativeKeyboardSpokenATAndHardware": "unverified for this application",
+    "overallScopedJudgment": "moderate-high"
+  },
+  "strengths": [
+    {
+      "finding": "Essential information stays in native text.",
+      "evidence": "README.md plus 320px wheel-scrolled README captures",
+      "why": "Nag's introduction, private-work context, each project purpose and all three destinations remain readable independently of the decorative identity treatment. No hover, animation or tiny gesture is needed to understand what is shared."
+    },
+    {
+      "finding": "Named destinations and clear context support navigation.",
+      "evidence": "README.md project links; profile.json pins; render-checks.json link arrays; pins-light-320-scroll.png",
+      "why": "Charms, Grok Bot and eva.md links have concrete adjacent descriptions rather than repeated generic Learn more labels. The proposed fields omit unfinished heyNag.com rather than presenting a dead next step."
+    },
+    {
+      "finding": "The header has a concise meaningful text alternative and a static fallback.",
+      "evidence": "README.md picture/source/img markup",
+      "why": "The alt text includes heyNag and the curious moth; the fallback light PNG is explicitly present. The banner supplies identity while adjacent native headings and profile text carry authorship and purpose. The static treatment introduces no pause or reduced-motion burden."
+    },
+    {
+      "finding": "The authored content fits the inspected narrow native layout in both themes.",
+      "evidence": "Actual 320px top/reading/pin PNGs and render-checks.json",
+      "why": "Name, bio, introduction, project paragraphs and pin descriptions wrap visibly within the provided content width; links remain distinguishable. Recorded document widths match viewports at all ten width/theme combinations. This is geometry evidence, not a physical-device pass."
+    },
+    {
+      "finding": "Personal identity and project context are consistent without a mascot interaction gate.",
+      "evidence": "profile-light/dark-1440.png, 320px top captures, profile.json and continuity.json",
+      "why": "Full name, handle, day avatar and header establish a coherent introduction. The planned website explicitly keeps real work visible without interacting with the moth and preserves static/reduced-motion paths."
+    }
+  ],
+  "deductions": [
+    {
+      "id": "GH-IXA-READING",
+      "kind": "minor editorial/reading tradeoff",
+      "severity": "low",
+      "confidence": "high for repetition; medium for its user cost",
+      "evidence": [
+        "brand/profile/profile.json bio",
+        "README.md first paragraph",
+        "evidence/profile-light-320-top.png",
+        "evidence/readme-light-320-scroll.png"
+      ],
+      "finding": "The bio and README opening repeat software/systems, curious experiments, useful tools and how software feels. On the narrow layout, a visitor reads substantially similar positioning twice before reaching the project links. It is not an access failure, but slightly reduces information gained while scrolling.",
+      "improvementCriterion": "In a later copy pass, let the README opening contribute a concrete additional idea or shorten the repeated phrasing while retaining the warm first-person introduction and honest private-work context; do not change host layout to force an artificial first fold."
+    },
+    {
+      "id": "GH-IXA-VALIDATION",
+      "kind": "validation limitation, not a confirmed defect",
+      "severity": "moderate assurance limit",
+      "confidence": "high about the evidence boundary",
+      "evidence": [
+        "evidence/render-checks.json provenance and checks",
+        "README.md source",
+        "supplied local-preview screenshots"
+      ],
+      "finding": "The evidence shows local injected rendering and recorded link values/theme images, not an actual keyboard traversal or spoken-screen-reader reading of the proposed profile. Physical-phone zoom/landscape and GitHub theme-setting combinations outside the recorded light/dark conditions are also unobserved. Native Markdown is a sound foundation, but does not itself establish those outcomes.",
+      "improvementCriterion": "When validating the applied profile, perform a bounded keyboard traversal of the three project links and a heading/image/link spoken-output check, confirm image fallback/theme behavior and inspect real-phone zoom/landscape. Keep unpublished or unobserved results labelled accurately."
+    }
+  ],
+  "blockers": [],
+  "recommendations": [
+    "Accept this as a prepared local GitHub application with the named limits; no interaction source defect blocks paired review.",
+    "Retain native Markdown text, descriptive project-link context, concise image alt text, static PNGs and the omission of an unfinished website URL.",
+    "Treat the possible bio/intro consolidation as a small content refinement, not a reason to add custom layout or forced navigation.",
+    "Carry keyboard/spoken-output/hardware verification into the eventual application check; do not report this preview as published or fully accessibility-tested."
+  ],
+  "continuityAssessment": {
+    "planQuality": "The continuity contract is coherent for interaction: same maker/project names and source assets, plain useful explanations, work accessible without mascot interaction, static/reduced-motion equivalents, no forced audio and no automatic redirects.",
+    "futureRequirements": "When the website exists, verify actual reading order, keyboard access, focus handling, project navigation and reduced-motion equivalence on that implementation. Shared visuals do not automatically transfer GitHub's native behavior or prove recognition.",
+    "notYetApproved": "The future website is unbuilt and untested. No website interaction score or release approval is assigned. Adding heyNag.com only when it is a useful live destination is appropriate."
+  },
+  "unscoredOutcomes": [
+    "Published GitHub account settings or successful publication",
+    "Live keyboard behavior and spoken-screen-reader output for this application",
+    "Physical-phone handling, zoom and landscape",
+    "Unfamiliar-human recognition, project discovery, comprehension or delayed recall",
+    "Built website quality and cross-surface recognition",
+    "Any motion/audio performance; this application is static"
+  ],
+  "independence": "Saved before reading any other new independent reviewer record.",
+  "findingsTableMarkdown": "| Before / current constraint | After / recommendation | Why |\n| --- | --- | --- |\n| Bio and README opening repeat the same broad positioning. | Consider shortening or differentiating the README opening later. | Give narrow-layout readers new information sooner. |\n| GitHub owns typography, layout and native controls. | Keep authored content as plain headings, paragraphs, named links and static images. | Preserve the host's familiar interaction model without unsupported custom features. |\n| Future heyNag.com is not built. | Keep its URL absent until a useful live destination exists. | Avoid a dead navigation path or implying a finished website. |"
+}

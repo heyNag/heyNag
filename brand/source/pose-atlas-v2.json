@@ -1,0 +1,21 @@
+{
+  "asset": "assets/brand/moth-poses-v2.png",
+  "method": "OpenAI built-in image generation",
+  "reference": "assets/brand/heynag-moth-v2.png",
+  "prompt": "Use case: illustration-story. Asset type: six-pose acting atlas of EXACT revised heyNag moth in reference. Preserve anatomy faithfully, not the previous leaf-wing model. Create exactly6complete character cutouts in a landscape3:2canvas, a precise3-column by2-row equal-cell grid. No labels/text/borders. Entire background genuinely transparent. Same scale/head/eye/body proportions in everycell, equalfootline, fullantennae/wings/feetinsidecell with at least8%margin. Every character has permanent VIEWER RIGHT taller reaching antenna and VIEWER LEFT shorter low/lateral antenna, blunt rounded green paddle tips;2–3broad headtufts, warmcreamface/torso, shallow3-lobed collar, EXACTLY2arms clearly attachedbelowcollar infrontofwings, mittenhandsone thumbnotch,2shortfeet, foldedchartreusecape wings withscallopedloweredge and NOteardrops/veins. Clean charcoalcontours, cream#FFF5DF, chartreuse#A8C84B, flat opaque fills, no texture/gradient/shadow/glow.\nReading order:\nTOP LEFT HELLO: warm open conversational smile, one hand waves, other relaxed, slightly raised eyebrow. Fun talkative peer.\nTOP MIDDLE CURIOUS: long rightantenna reaches towardinteresting thing, headfollows withsmalltilt, openattentiveeyes, tinycuriousmouth, onehandhalfopen. Preserve antennal sidedness.\nTOP RIGHT THINKING WITH GLASSES: softly rectangular charcoal glasses with clear lenses, frame outside ovaleyes soeyesfullyvisible; oneforearm foldedacross torso, oppositeelbowrestsonthefoldedarm, thathandunderchin. Visiblegapbetweenhand/mouth/collar. Slightchin tilt, oneeyebrowlifted, smallabsorbedamusedsmile, oneroundedfootlightlyraisesheel as iftapping whilethinking. Grounded andfun, neverangry orstern. Exactly2arms. Glassesonlyinthiscell.\nBOTTOM LEFT AHA: delighted closedarc eyes, joyfulopenmouth, wingsraised, smallbuoyanthop. Clearly anidea clicked. NO external bulb here; thewebsitewilldisplayaseparatebulb cue.\nBOTTOM MIDDLE SHARING: looks back atviewerwithinviting amused smile, oneopenhandpresents space totheright, other restsnearbody. Talkative generosity.\nBOTTOM RIGHT OOPS: raised wryeyebrow, briefsheepishamusedlook, onehandbehindhead andotherpalmup in tinysmallshrug. Oneantenna gentlydroopswhileretaininglong/shortidentity. No sadness.\nKeep performances distinct through posture and expression but one same character throughout. No motionmarks, symbols, props other than glasses inthinking, costumes, lettering, background, watermark. Professional animation acting reference, curious/warm/expressive with a little dry wit.",
+  "layout": {
+    "columns": 3,
+    "rows": 2,
+    "cellWidth": 512,
+    "cellHeight": 512
+  },
+  "states": [
+    "hello",
+    "curious",
+    "thinking",
+    "aha",
+    "sharing",
+    "oops"
+  ],
+  "transparency": "Original generated alpha preserved. No raster editing."
+}

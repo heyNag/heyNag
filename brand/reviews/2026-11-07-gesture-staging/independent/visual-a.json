@@ -1,0 +1,219 @@
+{
+  "reviewer": "visual-a",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "independence": "Saved before reading the partner\u2019s gesture-staging review, discussion or new score. Earlier own final judgment is the comparison baseline.",
+  "scope": "Same overall static visual lens as the prior final vote: native V5 materials, light/dark continuity, small-size drawing and identity/signature applications. This round adds fresh hand-pose and composition-aware attention evidence; it does not replace the broader scope with an easier pose-only score.",
+  "sourceManifest": "review-source-v1.json",
+  "sourceManifestSha256": "d5abc24f90f9539bfddb0223da42392fb31c9321ab7c962aa98c893ff3789e0e",
+  "sourceVerification": {
+    "all12SourceHashesMatched": true,
+    "characterSha256": "b93400daeaa43af99e4b8c30942b80d4d69aba545a808863dd92ebe1830a97fa",
+    "characterAndPaintUnchanged": "Byte-identical to the prior reviewed renderer. All eight prior avatar/header PNG/SVG assets also match the implementation v4 manifest; those prior judgments carry forward without a new export claim."
+  },
+  "previousScoreAndScope": {
+    "value": 8.6,
+    "outOf": 10,
+    "record": "../2026-11-07-implementation/team-votes/visual-a.json",
+    "scope": "Static V5 materials, theme continuity and inspected v4 identity/signature applications",
+    "earlierHistory": [
+      8.4,
+      8.4,
+      8.6
+    ]
+  },
+  "score": {
+    "value": 8.8,
+    "outOf": 10,
+    "meaning": "Subjective same-scope craft judgment, not a precise measurement. The increase reflects directly visible hand/ruff separation and a more appropriate upward phone investigation, followed by an authored visitor-facing return. Materials, night outlines and minimum-avatar limits are unchanged and receive no new credit. Remaining small-detail and finish tradeoffs keep this below 9."
+  },
+  "evidenceActuallyInspected": [
+    {
+      "kind": "instructions/history",
+      "paths": [
+        "AGENTS.md",
+        "brand/team.json visual role",
+        "brand/workflow.json",
+        "reviewer-instructions.txt",
+        "brief.json",
+        "review-source-v1.json",
+        "../2026-11-07-implementation/team-votes/visual-a.json"
+      ],
+      "note": "Own earlier independent and pair records remain available in this conversation."
+    },
+    {
+      "kind": "actual original-resolution view_image",
+      "paths": [
+        "evidence/hands-day.png",
+        "evidence/hands-night.png",
+        "evidence/offer-sequence-day.png",
+        "evidence/offer-sequence-night.png",
+        "evidence/all-current.png",
+        "evidence/sizes-thinking.png",
+        "evidence/sizes-grateful.png",
+        "evidence/sizes-shy.png",
+        "evidence/sizes-worried.png",
+        "evidence/sizes-curious-investigate.png",
+        "evidence/baseline-attention-320-day.png",
+        "evidence/baseline-attention-320-night.png",
+        "evidence/baseline-attention-390-day.png",
+        "evidence/baseline-attention-390-night.png",
+        "evidence/baseline-attention-1440-day.png",
+        "evidence/baseline-attention-1440-night.png",
+        "evidence/attention-320-day-790.png",
+        "evidence/attention-320-night-790.png",
+        "evidence/attention-1440-day-790.png",
+        "evidence/attention-1440-night-790.png",
+        "evidence/attention-390-day-330.png",
+        "evidence/attention-390-day-790.png",
+        "evidence/attention-390-day-1190.png",
+        "evidence/attention-390-day-1900.png",
+        "evidence/attention-390-day-2350.png",
+        "evidence/attention-390-day-2720.png",
+        "evidence/attention-390-night-330.png",
+        "evidence/attention-390-night-790.png",
+        "evidence/attention-390-night-1190.png",
+        "evidence/attention-390-night-1900.png",
+        "evidence/attention-390-night-2350.png",
+        "evidence/attention-390-night-2720.png"
+      ]
+    },
+    {
+      "kind": "source",
+      "paths": [
+        "brand/animation-v5/motion.js exact diff against this round\u2019s frozen control",
+        "brand/animation-v5/staging.js full file",
+        "brand/animation-v5/signature.js full file"
+      ],
+      "note": "The renderer itself was read fully in the preceding review; identical hash reverified rather than claiming a new reread."
+    },
+    {
+      "kind": "recorded checks, not personally rerun",
+      "paths": [
+        "evidence/evidence-index.json",
+        "evidence/all-tests.txt",
+        "evidence/browser-checks.json",
+        "evidence/geometry.json",
+        "evidence/attention-browser.json selected metadata",
+        "evidence/comparison-export.json",
+        "evidence/full-reel-export.json"
+      ],
+      "note": "23 reported passing tests; 108 browser cases across 320/390/650/651/768/1440; 567 geometry samples with no mismatch/invalid entry. Film metadata establishes export structure, not perceived motion."
+    }
+  ],
+  "strengths": [
+    "Thinking\u2019s lowered free hand and Focused\u2019s wider low hands make the ruff and chin-side action less congested. hands-day/night and the Thinking size ladder show the gain without changing limb length or head/body balance.",
+    "Grateful moves its connected pair beneath the ruff. The new lower clasp reads more as hands than an extra collar band at 160/240px. It retains tenderness through contact rather than enforcing empty gaps. Worried gains a useful diagonal hierarchy; Shy\u2019s improvement is smaller but retains its inward reserve.",
+    "The offering mitten is farther from the ruff and rotated into a more open silhouette. It remains attached and small through the shown 1610\u20134100ms offer poses in both themes. The larger inspection sizes show an intentional hand instead of another cheek/ruff scallop.",
+    "Phone 320/390 comparisons show a less sideways head and elevated attention during 330\u20131900ms, compatible with the question above. At 2350ms the front-facing return is restored before the 2720ms offering hold. Desktop 1440 retains the appropriate lateral relationship.",
+    "Palette hierarchy, matte cream, pale marked forewings, greener hindwings and repaired antenna connections remain coherent. all-current.png preserves one tiny innocent character through the 24 held emotions; no added material complexity is necessary for these gains."
+  ],
+  "deductions": [
+    {
+      "id": "VA-GS-01",
+      "type": "observed scale/craft limitation",
+      "severity": "minor-to-moderate",
+      "confidence": "high for displayed detail; no recognition claim",
+      "evidence": [
+        "evidence/sizes-curious-investigate.png",
+        "evidence/sizes-grateful.png",
+        "evidence/sizes-shy.png",
+        "evidence/sizes-worried.png"
+      ],
+      "basis": "At 96px, the presenting mitten remains a very small round mark and the chest gestures retain some loop density; 128px improves grouping more than semantic specificity. The clearest gains are at 160/240px and portrait-stage size. This is partial resolution of the prior contact-density deduction, not equal expressive clarity at every size."
+    },
+    {
+      "id": "VA-GS-02",
+      "type": "unchanged material/contour preference",
+      "severity": "minor",
+      "confidence": "moderate, subjective",
+      "evidence": [
+        "evidence/hands-night.png",
+        "evidence/offer-sequence-night.png",
+        "evidence/attention-390-night-2720.png",
+        "prior final paint comparison and unchanged character hash"
+      ],
+      "basis": "The graphic cream planes and fine doubled/soft night perimeter remain the previous controlled compromise. I still prefer slightly more softly modelled matte volume and a quieter large contour where it can be achieved without losing small boundaries. This preference is not a demand for texture, gloss or a material rewrite."
+    },
+    {
+      "id": "VA-GS-03",
+      "type": "retained composition tradeoff",
+      "severity": "minor",
+      "confidence": "high for shown layout",
+      "evidence": [
+        "evidence/attention-320-day-790.png",
+        "evidence/attention-390-day-790.png",
+        "unchanged signature.css hash and prior top-of-page evidence"
+      ],
+      "basis": "Portrait staging still uses substantial vertical space, so cue, full character and controls are not all initially exposed. The attention correction improves the spatial relationship but does not reduce this existing viewport tradeoff. Precise perceived reading of the heading remains subtler than the source\u2019s numerical target bearing."
+    }
+  ],
+  "improvementCriteria": [
+    "Where 96/128px full figures must communicate an invitation without nearby explanation, demonstrate a clearer attached mitten/wing/torso grouping at that actual size; preserve anatomy and reject adult-sized hands.",
+    "Retain meaningful Grateful and Thinking contact. Evaluate local overlap/orientation instead of adding obligatory gaps or removing ruff detail everywhere.",
+    "For any future material change, prove a named matte-volume or contour benefit in both themes and actual use sizes. Current unchanged paint remains an acceptable control.",
+    "Review phone attention and return at normal speed and record initial scroll exposure before making strong reading/invitation claims. This is required for those claims, not an invented static defect."
+  ],
+  "confidence": {
+    "overall": "moderate-high for static visual craft",
+    "geometry/palette preservation": "high from hashes and matched renders",
+    "phone target direction": "high source direction; moderate perceived specificity from stills",
+    "continuous or human interpretation": "not assessed"
+  },
+  "implementedAssessment": "Accept the pose and responsive-attention improvements for the local foundation with named limits. No new blocking visual defect observed. The prior phone eyeline mismatch is materially reduced in rendered evidence; it must not be advertised as proven unaided reading comprehension.",
+  "objections": [],
+  "limits": [
+    "No browser operated and no source edited. No continuous film playback watched; authored frames and export cadence are not temporal-perception evidence.",
+    "No physical-phone, spoken-screen-reader, unfamiliar-human comprehension, attachment or delayed recall results.",
+    "The 32px night-avatar stem limitation and day universal-avatar recommendation carry forward unchanged; this round did not improve or newly re-render those avatars.",
+    "Pose-sheet labels and the explanatory project question prime interpretation. Source bearing and warm owner preference do not establish audience meaning.",
+    "Contact sheets can be scaled by the viewer; nominal CSS sizes and original-resolution inspection are recorded, not calibrated physical display measurements."
+  ],
+  "skillsApplied": {
+    "catalogue": "All 17 installed catalog entries were screened in the previous intake; that record is reused.",
+    "fullReadReused": [
+      "emil-design-eng",
+      "prototype",
+      "review-animations",
+      "choreograph",
+      "animation-performance",
+      "mobile-native"
+    ],
+    "newFullRead": [
+      {
+        "name": "apple-design",
+        "path": "/Users/nag/.config/skillshare/skills/apple-design/SKILL.md",
+        "use": "Spatial mapping, context adaptation and current displayed-state continuity; no Apple material restyle."
+      }
+    ],
+    "notClaimed": "No fresh full design-taste skill read or website-wide taste audit; this remains the standing visual character/application review."
+  },
+  "workflowChanges": [
+    "Compare the same pose in both themes at 96/128/160/240px before accepting a large-view improvement; keep tiny-contact and meaningful-clasp criteria separate.",
+    "Check actual DOM composition at 320/390/1440 and follow notice, reading, visitor return and offering frames. Do not infer the target relation from isolated head renders alone.",
+    "Tie source and prior export hashes to the review version so unchanged materials cannot receive credit for a posing improvement.",
+    "Use measured direction and bounded hand parameters as engineering evidence; score the visible result independently. Keep static, temporal, hardware and human conclusions separate."
+  ],
+  "rulesNotApplicableWithReason": [
+    {
+      "rule": "Generic sub-300ms UI duration / no keyboard animation",
+      "reason": "Deliberate character acting is content; transport feedback and explicit keyboard Play serve different purposes."
+    },
+    {
+      "rule": "Replace all SVG deformation with transform/opacity or springs",
+      "reason": "This would alter expressive geometry without evidence of a measured rendering problem. Existing bounded pose interpolation remains appropriate to inspect."
+    },
+    {
+      "rule": "Add glass, blur, texture, motion streaks or secondary animation as polish",
+      "reason": "They do not resolve the demonstrated hand/ruff and cue-direction concerns and would compete with the gentle material hierarchy."
+    },
+    {
+      "rule": "Delete prototype controls after choosing a variant",
+      "reason": "The project requires editable variants and historical evidence. Comparison discipline applies; destructive cleanup does not."
+    },
+    {
+      "rule": "Treat static target alignment or tests as fluidity/audience approval",
+      "reason": "Source continuity and frames cannot establish normal-speed perceived attention, physical-phone feel or unaided invitation recognition."
+    }
+  ]
+}

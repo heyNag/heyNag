@@ -1,0 +1,307 @@
+{
+  "schema_version": 1,
+  "engine": "local",
+  "source": "/Users/nag/projects/personal/heyNag/assets/brand/preview/heynag-v5-refined-emotions.mp4",
+  "source_info": {
+    "title": "heynag-v5-refined-emotions.mp4",
+    "path": "/Users/nag/projects/personal/heyNag/assets/brand/preview/heynag-v5-refined-emotions.mp4",
+    "source_type": "local"
+  },
+  "range": {
+    "start_seconds": 0.0,
+    "end_seconds": 88.7,
+    "duration_seconds": 88.7,
+    "focused": false,
+    "focused_download_section": null,
+    "focused_download_requested": false
+  },
+  "media": {
+    "path": "/Users/nag/projects/personal/heyNag/assets/brand/preview/heynag-v5-refined-emotions.mp4",
+    "available": true
+  },
+  "frames": [
+    {
+      "index": 1,
+      "timestamp_seconds": 1.166641,
+      "requested_timestamp_seconds": 1.16,
+      "timestamp": "00:01",
+      "path": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-refinement/evidence/full-video/20261107-152235-heynag-v5-refined-emotions-dac69228/frames/cue_0000_00h00m01s.png",
+      "format": "png",
+      "mime_type": "image/png",
+      "reason": "transcript-cue",
+      "available": true
+    },
+    {
+      "index": 2,
+      "timestamp_seconds": 4.7,
+      "requested_timestamp_seconds": 4.7,
+      "timestamp": "00:05",
+      "path": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-refinement/evidence/full-video/20261107-152235-heynag-v5-refined-emotions-dac69228/frames/cue_0001_00h00m05s.png",
+      "format": "png",
+      "mime_type": "image/png",
+      "reason": "transcript-cue",
+      "available": true
+    },
+    {
+      "index": 3,
+      "timestamp_seconds": 8.966667,
+      "requested_timestamp_seconds": 8.95,
+      "timestamp": "00:09",
+      "path": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-refinement/evidence/full-video/20261107-152235-heynag-v5-refined-emotions-dac69228/frames/cue_0002_00h00m09s.png",
+      "format": "png",
+      "mime_type": "image/png",
+      "reason": "transcript-cue",
+      "available": true
+    },
+    {
+      "index": 4,
+      "timestamp_seconds": 12.466667,
+      "requested_timestamp_seconds": 12.45,
+      "timestamp": "00:12",
+      "path": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-refinement/evidence/full-video/20261107-152235-heynag-v5-refined-emotions-dac69228/frames/cue_0003_00h00m12s.png",
+      "format": "png",
+      "mime_type": "image/png",
+      "reason": "transcript-cue",
+      "available": true
+    },
+    {
+      "index": 5,
+      "timestamp_seconds": 15.900026,
+      "requested_timestamp_seconds": 15.89,
+      "timestamp": "00:16",
+      "path": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-refinement/evidence/full-video/20261107-152235-heynag-v5-refined-emotions-dac69228/frames/cue_0004_00h00m16s.png",
+      "format": "png",
+      "mime_type": "image/png",
+      "reason": "transcript-cue",
+      "available": true
+    },
+    {
+      "index": 6,
+      "timestamp_seconds": 19.23332,
+      "requested_timestamp_seconds": 19.23,
+      "timestamp": "00:19",
+      "path": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-refinement/evidence/full-video/20261107-152235-heynag-v5-refined-emotions-dac69228/frames/cue_0005_00h00m19s.png",
+      "format": "png",
+      "mime_type": "image/png",
+      "reason": "transcript-cue",
+      "available": true
+    },
+    {
+      "index": 7,
+      "timestamp_seconds": 22.766667,
+      "requested_timestamp_seconds": 22.75,
+      "timestamp": "00:23",
+      "path": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-refinement/evidence/full-video/20261107-152235-heynag-v5-refined-emotions-dac69228/frames/cue_0006_00h00m23s.png",
+      "format": "png",
+      "mime_type": "image/png",
+      "reason": "transcript-cue",
+      "available": true
+    },
+    {
+      "index": 8,
+      "timestamp_seconds": 25.633346,
+      "requested_timestamp_seconds": 25.62,
+      "timestamp": "00:26",
+      "path": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-refinement/evidence/full-video/20261107-152235-heynag-v5-refined-emotions-dac69228/frames/cue_0007_00h00m26s.png",
+      "format": "png",
+      "mime_type": "image/png",
+      "reason": "transcript-cue",
+      "available": true
+    },
+    {
+      "index": 9,
+      "timestamp_seconds": 29.7,
+      "requested_timestamp_seconds": 29.7,
+      "timestamp": "00:30",
+      "path": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-refinement/evidence/full-video/20261107-152235-heynag-v5-refined-emotions-dac69228/frames/cue_0008_00h00m30s.png",
+      "format": "png",
+      "mime_type": "image/png",
+      "reason": "transcript-cue",
+      "available": true
+    },
+    {
+      "index": 10,
+      "timestamp_seconds": 33.266667,
+      "requested_timestamp_seconds": 33.25,
+      "timestamp": "00:33",
+      "path": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-refinement/evidence/full-video/20261107-152235-heynag-v5-refined-emotions-dac69228/frames/cue_0009_00h00m33s.png",
+      "format": "png",
+      "mime_type": "image/png",
+      "reason": "transcript-cue",
+      "available": true
+    },
+    {
+      "index": 11,
+      "timestamp_seconds": 37.066693,
+      "requested_timestamp_seconds": 37.04,
+      "timestamp": "00:37",
+      "path": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-refinement/evidence/full-video/20261107-152235-heynag-v5-refined-emotions-dac69228/frames/cue_0010_00h00m37s.png",
+      "format": "png",
+      "mime_type": "image/png",
+      "reason": "transcript-cue",
+      "available": true
+    },
+    {
+      "index": 12,
+      "timestamp_seconds": 40.833346,
+      "requested_timestamp_seconds": 40.82,
+      "timestamp": "00:41",
+      "path": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-refinement/evidence/full-video/20261107-152235-heynag-v5-refined-emotions-dac69228/frames/cue_0011_00h00m41s.png",
+      "format": "png",
+      "mime_type": "image/png",
+      "reason": "transcript-cue",
+      "available": true
+    },
+    {
+      "index": 13,
+      "timestamp_seconds": 44.700013,
+      "requested_timestamp_seconds": 44.67,
+      "timestamp": "00:45",
+      "path": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-refinement/evidence/full-video/20261107-152235-heynag-v5-refined-emotions-dac69228/frames/cue_0012_00h00m45s.png",
+      "format": "png",
+      "mime_type": "image/png",
+      "reason": "transcript-cue",
+      "available": true
+    },
+    {
+      "index": 14,
+      "timestamp_seconds": 48.23332,
+      "requested_timestamp_seconds": 48.23,
+      "timestamp": "00:48",
+      "path": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-refinement/evidence/full-video/20261107-152235-heynag-v5-refined-emotions-dac69228/frames/cue_0013_00h00m48s.png",
+      "format": "png",
+      "mime_type": "image/png",
+      "reason": "transcript-cue",
+      "available": true
+    },
+    {
+      "index": 15,
+      "timestamp_seconds": 52.13332,
+      "requested_timestamp_seconds": 52.13,
+      "timestamp": "00:52",
+      "path": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-refinement/evidence/full-video/20261107-152235-heynag-v5-refined-emotions-dac69228/frames/cue_0014_00h00m52s.png",
+      "format": "png",
+      "mime_type": "image/png",
+      "reason": "transcript-cue",
+      "available": true
+    },
+    {
+      "index": 16,
+      "timestamp_seconds": 55.166667,
+      "requested_timestamp_seconds": 55.15,
+      "timestamp": "00:55",
+      "path": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-refinement/evidence/full-video/20261107-152235-heynag-v5-refined-emotions-dac69228/frames/cue_0015_00h00m55s.png",
+      "format": "png",
+      "mime_type": "image/png",
+      "reason": "transcript-cue",
+      "available": true
+    },
+    {
+      "index": 17,
+      "timestamp_seconds": 59.033346,
+      "requested_timestamp_seconds": 59.02,
+      "timestamp": "00:59",
+      "path": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-refinement/evidence/full-video/20261107-152235-heynag-v5-refined-emotions-dac69228/frames/cue_0016_00h00m59s.png",
+      "format": "png",
+      "mime_type": "image/png",
+      "reason": "transcript-cue",
+      "available": true
+    },
+    {
+      "index": 18,
+      "timestamp_seconds": 63.233307,
+      "requested_timestamp_seconds": 63.21,
+      "timestamp": "01:03",
+      "path": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-refinement/evidence/full-video/20261107-152235-heynag-v5-refined-emotions-dac69228/frames/cue_0017_00h01m03s.png",
+      "format": "png",
+      "mime_type": "image/png",
+      "reason": "transcript-cue",
+      "available": true
+    },
+    {
+      "index": 19,
+      "timestamp_seconds": 67.6,
+      "requested_timestamp_seconds": 67.6,
+      "timestamp": "01:08",
+      "path": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-refinement/evidence/full-video/20261107-152235-heynag-v5-refined-emotions-dac69228/frames/cue_0018_00h01m08s.png",
+      "format": "png",
+      "mime_type": "image/png",
+      "reason": "transcript-cue",
+      "available": true
+    },
+    {
+      "index": 20,
+      "timestamp_seconds": 71.733307,
+      "requested_timestamp_seconds": 71.71,
+      "timestamp": "01:12",
+      "path": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-refinement/evidence/full-video/20261107-152235-heynag-v5-refined-emotions-dac69228/frames/cue_0019_00h01m12s.png",
+      "format": "png",
+      "mime_type": "image/png",
+      "reason": "transcript-cue",
+      "available": true
+    },
+    {
+      "index": 21,
+      "timestamp_seconds": 75.166667,
+      "requested_timestamp_seconds": 75.15,
+      "timestamp": "01:15",
+      "path": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-refinement/evidence/full-video/20261107-152235-heynag-v5-refined-emotions-dac69228/frames/cue_0020_00h01m15s.png",
+      "format": "png",
+      "mime_type": "image/png",
+      "reason": "transcript-cue",
+      "available": true
+    },
+    {
+      "index": 22,
+      "timestamp_seconds": 79.2,
+      "requested_timestamp_seconds": 79.2,
+      "timestamp": "01:19",
+      "path": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-refinement/evidence/full-video/20261107-152235-heynag-v5-refined-emotions-dac69228/frames/cue_0021_00h01m19s.png",
+      "format": "png",
+      "mime_type": "image/png",
+      "reason": "transcript-cue",
+      "available": true
+    },
+    {
+      "index": 23,
+      "timestamp_seconds": 82.833307,
+      "requested_timestamp_seconds": 82.81,
+      "timestamp": "01:23",
+      "path": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-refinement/evidence/full-video/20261107-152235-heynag-v5-refined-emotions-dac69228/frames/cue_0022_00h01m23s.png",
+      "format": "png",
+      "mime_type": "image/png",
+      "reason": "transcript-cue",
+      "available": true
+    },
+    {
+      "index": 24,
+      "timestamp_seconds": 86.400013,
+      "requested_timestamp_seconds": 86.37,
+      "timestamp": "01:26",
+      "path": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-refinement/evidence/full-video/20261107-152235-heynag-v5-refined-emotions-dac69228/frames/cue_0023_00h01m26s.png",
+      "format": "png",
+      "mime_type": "image/png",
+      "reason": "transcript-cue",
+      "available": true
+    }
+  ],
+  "transcript": {
+    "path": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-refinement/evidence/full-video/20261107-152235-heynag-v5-refined-emotions-dac69228/transcript.json",
+    "source": "none",
+    "gaps": [],
+    "no_speech": false,
+    "reused_from": null
+  },
+  "supporting_transcripts": {
+    "path": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-refinement/evidence/full-video/20261107-152235-heynag-v5-refined-emotions-dac69228/supporting_transcripts.json",
+    "count": 0,
+    "sources": []
+  },
+  "original_audio": {
+    "requested": false,
+    "path": null,
+    "status": "not_requested"
+  },
+  "visual_evidence_requested": true,
+  "warnings": []
+}

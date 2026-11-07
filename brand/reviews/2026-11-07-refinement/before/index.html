@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en" data-hn-theme="light" data-type="software">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <meta name="page-type" content="software">
+  <meta name="site-kind" content="software">
+  <title>heyNag — a little more alive</title>
+  <link rel="stylesheet" href="../design-system.css">
+  <link rel="stylesheet" href="studio.css">
+  <script src="../expressions/acting-data.js" defer></script>
+  <script src="character.js" defer></script>
+  <script src="motion.js" defer></script>
+  <script src="reel.js" defer></script>
+  <script src="studio.js" defer></script>
+</head>
+<body class="hn-system">
+  <header class="wrap masthead"><a href="../character-proof/index.html" class="wordmark">heyNag<span>.</span></a><span>Character studio / Motion studies</span><a href="../expressions/index.html">The drawings ↗</a></header>
+  <main class="wrap">
+    <div class="intro"><h1>A little more alive.</h1><p>A curious mind. A tiny pair of feet.<br>Twenty-four ways to feel something.</p></div>
+    <section class="player" aria-labelledby="feeling-name">
+      <div class="player-heading"><div class="feeling-title"><span id="feeling-number">02 / 24</span><h2 id="feeling-name">Thinking</h2></div><fieldset class="appearance"><legend class="sr-only">Preview lighting</legend><label><input type="radio" name="appearance" value="both" checked><span>Both</span></label><label><input type="radio" name="appearance" value="day"><span>Light</span></label><label><input type="radio" name="appearance" value="night"><span>Dark</span></label></fieldset></div>
+      <div class="stages" id="stages" data-view="both">
+        <div class="stage day"><span class="stage-label">Daylight</span><div id="moth-day" class="moth" role="img" aria-label="Thinking moth in daylight"></div></div>
+        <div class="stage night"><span class="stage-label">After dark</span><div id="moth-night" class="moth" role="img" aria-label="Thinking moth after dark"></div></div>
+      </div>
+      <div class="transport"><div class="buttons"><button type="button" class="primary" id="play">Play feeling</button><button type="button" id="pause" disabled>Pause</button><button type="button" id="rest">Rest</button></div><button type="button" id="sequence" aria-pressed="false">Play all 24 <span aria-hidden="true">↗</span></button></div>
+      <div class="timeline"><label for="scrub" class="sr-only">Animation position</label><input type="range" id="scrub" min="0" max="1000" value="0" step="1"><output id="timecode" for="scrub">0.0 / 0.0 s</output></div>
+      <div class="performance"><p id="performance-note"></p><span id="playback-status" role="status" aria-live="polite">Still pose · press play</span></div>
+      <p class="motion-preference" id="motion-preference" hidden>Reduced motion is on. Choose a feeling to see its still pose; the timeline lets you inspect each moment.</p>
+    </section>
+    <section class="library" aria-labelledby="library-title"><div class="library-heading"><h2 id="library-title">Every little feeling.</h2><p>Pick one. See what gives it away.</p></div><div id="feelings"></div></section>
+    <details class="direction"><summary>The wings have feelings, too.</summary><p>Four panels, one familiar silhouette. They open for delight, draw closer for shyness, and release with a sigh. Thinking keeps them quiet so the eyes, hand and tapping foot can speak.</p><p>These are articulated motion studies. The original drawings remain the character reference; the vector rig makes its face, hands, antennae and wings independently movable.</p></details>
+    <noscript><p>Enable JavaScript to play the motion studies. The <a href="../expressions/index.html">expression drawings</a> are available separately.</p></noscript>
+  </main>
+  <footer class="wrap"><span>Nag / Nagarjuna Boddu</span><a href="../../assets/brand/preview/heynag-v5-emotions.mp4">Watch the full reel</a><a href="README.md">Motion source &amp; notes</a><span>Small character. Whole personality.</span></footer>
+</body>
+</html>

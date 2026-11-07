@@ -1,0 +1,70 @@
+{
+  "role": "Motion implementation engineer, separate from the 18-specialist review panel",
+  "date": "2026-11-07",
+  "scope": "Skill intake only. Frozen implementation v4 was not edited, retested, or re-approved.",
+  "catalogReviewed": {
+    "path": "brand/reviews/2026-11-07-implementation/installed-skills.json",
+    "count": 17,
+    "extent": "Read every catalog description and routing summary; this is not a claim to have read all 17 full skills."
+  },
+  "skillsReviewed": [
+    {
+      "name": "animate",
+      "path": "/Users/nag/.agents/skills/animate/SKILL.md",
+      "extent": "Full SKILL.md",
+      "use": "Construction gate: purpose and frequency first, then the lightest suitable driver, properties, timing, interruption and reduced motion."
+    },
+    {
+      "name": "choreograph",
+      "path": "/Users/nag/.config/skillshare/skills/choreograph/SKILL.md",
+      "extent": "Full SKILL.md",
+      "use": "Explicit lead/support/static roles, relationships and cause-timed secondary action before coding a multi-part performance."
+    },
+    {
+      "name": "animation-performance",
+      "path": "/Users/nag/.config/skillshare/skills/animation-performance/SKILL.md",
+      "extent": "Full SKILL.md",
+      "use": "Inventory drivers and actual properties; name and measure a bottleneck before changing rendering or adding will-change."
+    },
+    {
+      "name": "review-animations",
+      "path": "/Users/nag/.config/skillshare/skills/review-animations/SKILL.md",
+      "extent": "Full SKILL.md; STANDARDS.md not read because this intake makes no new precise-value finding",
+      "use": "Separate purposeful performance from interface feedback, challenge needless movement, and require explicit interruption and evidence limits."
+    }
+  ],
+  "additionalContextRead": ["brand/workflow.json"],
+  "workflowChanges": [
+    "Before future motion edits, record frequency, named purpose, and whether the subject is interface feedback or intentionally requested character content. Retain the option to make no change.",
+    "Write a small timeline with lead, support and static roles before implementing. For the owner-selected Investigate and share, the antenna leads noticing, gaze and head lead investigation, and the presenting mitten leads the return; wing responses support those causes. Project question, link, page chrome and surrounding decoration stay static and usable.",
+    "Give supporting actions a causal attachment: attention drives the wing answer, the visitor-facing turn precedes the offering hand, and foot contact precedes head follow-through. Record overlap and holds instead of assigning uniform delays to every body part.",
+    "Specify interruption behavior alongside the timeline: rest entry, replay, airborne replacement, reflective-to-joy replacement, pause/resume and live reduced-motion change. New commands retarget from the actual pose and cancel prior scheduled work; they do not queue abandoned emotional beats.",
+    "Keep reliability evidence separate from feel. Use source and numeric checks for invariants and cleanup; inspect actual-size day/night frames for contacts and silhouettes; watch normal-speed playback for rhythm, using slowed playback to diagnose specific moments.",
+    "For a reported performance problem, inventory SVG transforms, path morphs, opacity and driver costs; profile main-thread work and paint before simplifying. Prefer CSS or WAAPI for simple interface transitions where suitable, retain direct renderer writes for expressive paths, and avoid speculative layer promotion.",
+    "Record real-device conditions before claiming performance: a mid-range phone, browser and refresh rate, including the roughly 8 ms budget at 120 Hz. Desktop throttling and deterministic 30 fps exports do not establish phone GPU, memory, or live-frame performance.",
+    "Route future tasks deliberately: animate for construction, choreograph for relationships, animation-performance for measured frame problems, and an explicitly requested review through review-animations. Load precise standards or matching recipes when an actual task needs them; do not introduce React Native, Swift, Sonner or a library without a matching need."
+  ],
+  "rulesNotApplicableWithReason": [
+    {
+      "rule": "Sub-300 ms UI timing and prescribed UI easing values",
+      "reason": "These govern interface response. Intentional character investigation, reading holds, emotional anticipation and settlement are content with authored narrative timing. Compressing them into a dropdown budget would erase their purpose; fast control response remains a separate requirement."
+    },
+    {
+      "rule": "No animation on keyboard-triggered actions",
+      "reason": "Keyboard focus, navigation and control feedback should remain immediate. Explicitly activating Play by keyboard requests the same animation content as pointer Play; suppressing that content would create unequal access. Reduced-motion mode still supplies the meaningful selected still and timeline inspection."
+    },
+    {
+      "rule": "Only transform/opacity and no rapidly triggered keyframes",
+      "reason": "Facial expression, antenna bending and mitten-connected acting use SVG path geometry that an equivalent rigid transform cannot reproduce. Their main-thread/paint cost must be measured. Authored pose frames remain valid when the engine retargets from current pose, carries bounded velocity and cancels old work; restarting at neutral would be the failure to prevent."
+    },
+    {
+      "rule": "Reduced motion must retain a gentle fade",
+      "reason": "The explanatory-content guidance in choreograph allows jumping between frames. A meaningful selected still with direct timeline inspection is appropriate here; an unsolicited fade is not required merely to preserve some motion."
+    },
+    {
+      "rule": "Never present motion alternatives",
+      "reason": "The user explicitly authorized a reversible comparison and selected Investigate and share as the lead. Purposeful comparison records and preserved controls are part of that authorized study; future ordinary implementation should make a recommendation rather than supply an unbounded menu."
+    }
+  ],
+  "limits": "This intake improves future engineering decisions. It is not fresh visual evidence, a new craft score, device validation, or a change to the owner's selected lead."
+}

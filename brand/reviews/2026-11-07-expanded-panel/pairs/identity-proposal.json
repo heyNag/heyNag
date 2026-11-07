@@ -1,0 +1,66 @@
+{
+  "role": "Identity systems designer pair",
+  "scope": "Proposed improvement plan for current V5 static applications; not final artwork, audience validation or publication approval.",
+  "evidence": [
+    "refinement/evidence/identity.png, original-resolution actual-size rows",
+    "refinement/evidence/readme-390-day.png and readme-390-night.png",
+    "brand/source/applications-v5.js and applications-v5.json",
+    "brand/animation-v5/character.js; brand/design-system.md; README.md"
+  ],
+  "challenges": [
+    {
+      "claim": "IDENTITY-B-01: night reduction robustness",
+      "AResponse": "Agree with the visible weakness; challenge its priority for GitHub. applications-v5.json explicitly prefers the paper-ground day avatar as the single universal account image. The actual-size day crop is clearer. Test that intended asset on both surrounds first, then the owned-surface night variant; hypothetical smaller use does not invalidate the tested minimum.",
+      "proposedResolution": "Separate primary account-avatar acceptance from optional night and subminimum boundary research."
+    },
+    {
+      "claim": "IDENTITY-B-02: possible sprout interpretation",
+      "AResponse": "The source deliberately clones only the existing head; the complete moth remains beside heyNag in both phone proofs. Wing absence is observed, but mistaken creature classification or failed Nag association is not. A head avatar need not communicate species to work as an identity.",
+      "proposedResolution": "Retain the current crop. Treat category naming as exploratory and owner/lockup association as a separate human research question; neither licenses anatomy changes."
+    },
+    {
+      "claim": "IDENTITY-B-03: limited proprietary wordmark character",
+      "AResponse": "The outlined wordmark is intentionally quiet and immediately legible in both phone proofs. Source reuses fixed paths, while the same name, palette and head join applications. Lack of decorative lettering is not a demonstrated craft defect; standalone recognition remains unknown.",
+      "proposedResolution": "Preserve the wordmark. Test the system and clarify usage only where a real application exposes ambiguity; do not custom-letter to manufacture novelty."
+    }
+  ],
+  "agreements": [
+    "Complete asymmetry, tiny anatomy, shared theme geometry and original rasters remain fixed.",
+    "Current header hierarchy and crop are sound; minimum-size facial and night-stem nuance is weaker than larger samples.",
+    "Expert visual distinctiveness and measured owner association are different claims."
+  ],
+  "differences": [
+    "A prioritizes the documented universal day avatar and isolates night optical refinement; B proposes a broader reduction-and-association study.",
+    "A records a scoped static-craft score in independent/identity-a.json; B has not supplied a numeric score. Neither judgment is replaced by pair agreement."
+  ],
+  "prioritizedExperiments": [
+    {
+      "priority": "First",
+      "work": "Compare the existing universal avatar at the documented minimum and the next established sizes on realistic light/dark surrounds. Include the night variant separately. Keep current export as control; trial framing, rasterization or local paint only if a concrete cue loss repeats.",
+      "decision": "Retain baseline if alternatives do not visibly improve the intended application."
+    },
+    {
+      "priority": "Second",
+      "work": "Check both current headers at the established phone width alongside avatar and wordmark-only usage. Preserve existing typography; record which application needs each form.",
+      "decision": "Change usage guidance only for demonstrated ambiguity."
+    },
+    {
+      "priority": "Separate research",
+      "work": "If owner association becomes a claim, run unprimed, formative avatar-to-lockup and delayed-association tasks. Smaller boundary probes remain optional.",
+      "decision": "Report human observations separately; do not infer recall from agent agreement."
+    }
+  ],
+  "acceptanceCriteria": [
+    "Actual-size circular crops retain both paddles and the complete face; named cue comparisons use identical size, surround and rendering conditions.",
+    "Any adopted candidate improves the identified cue without losing silhouette, shifting anatomy, diverging theme geometry or weakening larger uses.",
+    "Phone headers retain complete character, dominant readable heyNag and immediate first-person attribution.",
+    "Record intended asset, minimum tested size, supported ground and native-vector provenance; preserve original rasters.",
+    "Fresh A/B review judges implemented evidence independently; plan agreement never grants a target score."
+  ],
+  "remainingObjections": [
+    "No substantive objection to the current static identity direction. Actual browser placement, universal rendering and human association remain unverified scope limits.",
+    "B has not yet responded to these challenges or confirmed this proposal."
+  ],
+  "ADecision": "agree_with_named_nonblocking_limits \u2014 this plan only",
+  "BDecision": "pending"
+}

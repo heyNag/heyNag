@@ -1,0 +1,166 @@
+{
+  "reviewer": "brand-b",
+  "role": "Character brand director B — long-term recognition and distinctive brand behavior",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "partnerRecordRead": "independent/brand-a.json",
+  "partnerDiscussionRead": null,
+  "partnerDiscussionStatus": "No brand-a-discussion.json existed at inspection time. This is B's contribution and exact recommendation confirmation; A must respond and confirm individually.",
+  "proposalFile": "team-proposal-v1.json",
+  "proposalSha256": "db064ee23559e695e350ddc47e86c77380776554e6bb3a5a43eeadd8b18bd5f3",
+  "sourceManifest": "review-source-v1.json",
+  "sourceManifestSha256": "d5abc24f90f9539bfddb0223da42392fb31c9321ab7c962aa98c893ff3789e0e",
+  "verification": {
+    "proposalAndSourceHashesMatched": true,
+    "currentSourceFilesChecked": 12,
+    "sourceMismatches": [],
+    "eightInheritedHeaderAvatarExportsMatchPriorFinal": true,
+    "additionalEvidenceRead": [
+      "evidence/evidence-index.json",
+      "evidence/keyboard-controls.json",
+      "evidence/geometry.json"
+    ],
+    "additionalFindings": "567 structural same-input samples: no mismatches/invalid geometry. Root keyboard Play/Pause/Resume and range results support those bounded desktop behaviors. Current local index.html exists at the source link destination.",
+    "provenanceNote": "pair-vote-instructions.txt contains a carried-over 'unchanged since v4' phrase; this round's explicit v1 manifest and independently matched current hashes are authoritative. No unchanged-motion claim relative to the previous implementation v4 is made."
+  },
+  "meaningfulPartnerChallenges": [
+    {
+      "partnerFinding": "A says the chosen signature is less dependent on copy to explain that its hand is an offer.",
+      "challenge": "The matched contour and current scene support a cup more compatible with offering, but dependence on copy is a perceptual/comprehension claim we have not observed without labels. We should not let a well-primed expert comparison silently become evidence that unfamiliar visitors decode sharing.",
+      "resolution": "Accept the revised contour and describe its larger-scale shape as a clearer small upward cup. Keep movement-reading and unfamiliar semantic interpretation as separate questions. The stable project text and destination should stay available even if later viewing favors the cup.",
+      "evidence": [
+        "hands-day.png",
+        "hands-night.png",
+        "sizes-curious-investigate.png",
+        "attention-390-day-2720.png",
+        "A's own small-meaning deduction and evidence limits"
+      ]
+    },
+    {
+      "partnerFinding": "A retires the phone's unchanged lateral/downward reading coordinates and supports the same causal sequence.",
+      "challenge": "A correct numeric bearing and raised gaze are meaningful, but 'looks at the exact heading' must remain bounded to the actual composition evidence. The new film uses a simplified phone composition, so it cannot override the real DOM's spatial relation or certify its continuous perception.",
+      "resolution": "Both source and actual 320/390px frames resolve the specific prior mismatch. Retain desktop near-horizontal attention, return by 2350ms and the separate offering beat. Do not claim unprimed recognition of the heading as target, natural continuous timing or successful arbitrary future layouts.",
+      "evidence": [
+        "staging.js",
+        "attention-390-day-330/790/1190/1900/2350/2720.png",
+        "attention-320-day-790.png",
+        "attention-1440-day-790.png",
+        "attention-browser.json",
+        "evidence/evidence-index.json"
+      ]
+    },
+    {
+      "partnerFinding": "A retains the first-viewport exposure deduction and asks for a future initial/scrolled composition comparison.",
+      "challenge": "That concern is appropriate at the same full-foundation scope, but it must not turn into a mandatory above-the-fold rule or a reason to put the figure back into its superseded cramped column. In this local study, immediate useful project content is a valid priority.",
+      "resolution": "Retain the unchanged tall-layout tradeoff as nonblocking. Review a future phone introduction as a sequence of initial viewport and scrolled stage with realistic exposure, preserving sufficient figure space and current target-aware attention. Do not report lower scroll/engagement without observations.",
+      "evidence": [
+        "unchanged signature.css hash",
+        "current signature.html structure",
+        "prior FINAL first-viewport evidence",
+        "new scrolled-stage attention images"
+      ]
+    },
+    {
+      "partnerFinding": "A keeps introductory authorship below exceptional while treating gesture work as successful.",
+      "challenge": "I agree, with a scope guard: the next verified personal observation is a future authoring criterion, not a retroactive demand to expand this authorized refinement into a website build. Making the hand more unusual would not remedy generic content.",
+      "resolution": "Keep the warm owner-selected lead and truthful eva.md bridge. Deepen personal specificity through one sourced first-person decision or useful observation in the next appropriate project scene, never an invented result. Preserve our whole-foundation score scopes and their different numbers.",
+      "evidence": [
+        "current signature.html",
+        "owner preference retained from implementation round",
+        "both independent score scopes and authored-specificity deductions"
+      ]
+    },
+    {
+      "partnerFinding": "A supports quieter contact families while noting Shy's modest change.",
+      "challenge": "Lowering hands is not a universal brand improvement. Grateful needs intentional contact and Thinking needs chin support; a blanket 'separate every hand' rule would erase distinctions even while making individual contours cleaner.",
+      "resolution": "Accept the current family-specific hierarchy, preserve the exact Thinking contact and joined Grateful pose, and describe Shy's gain as modest. Future engineering briefs should name which hand leads, which rests and which contact carries meaning before changing coordinates.",
+      "evidence": [
+        "hands-day.png",
+        "hands-night.png",
+        "sizes-thinking.png",
+        "sizes-grateful.png",
+        "sizes-shy.png",
+        "motion.js diff"
+      ]
+    }
+  ],
+  "remainingDisagreements": [
+    "A's whole-foundation brand score is 8.5; mine is 8.6. These are separate holistic craft judgments, not a conflict requiring convergence.",
+    "I phrase reduced dependence on copy as a hypothesis supported by a clearer contour, rather than an observed comprehension result. A's own limits already support that narrower evidentiary reading.",
+    "No competing anatomical, signature-selection or publication recommendation is proposed."
+  ],
+  "acceptedJointRecommendation": "Keep the warm owner-selected signature and real project bridge. Accept the improved hand and phone attention; deepen verified authorship later and avoid audience-impact claims.",
+  "recommendationConfirmedByThisReviewer": true,
+  "jointStatus": "B explicitly confirms this exact recommendation. Root must obtain A's individual response before describing the pair as jointly confirmed; this record is not an all-team consensus.",
+  "personalScore": {
+    "value": 8.6,
+    "outOf": 10
+  },
+  "scoreHistory": [
+    {
+      "record": "../2026-11-07-implementation/team-votes/brand-b.json",
+      "sourceVersion": "implementation v4 final",
+      "value": 8.4,
+      "outOf": 10,
+      "scope": "Whole local foundation through brand B lens, source/stills and bounded application judgments; no continuous-motion or human-recognition score."
+    },
+    {
+      "record": "independent/brand-b.json",
+      "sourceVersion": "gesture-staging v1",
+      "value": 8.6,
+      "outOf": 10,
+      "reason": "Observed offering contour and question-attention improvements within the same whole-foundation scope. Retain first-viewport exposure, introductory authored story and tiny-size meaning limits."
+    },
+    {
+      "record": "team-votes/brand-b.json",
+      "sourceVersion": "same frozen gesture-staging v1",
+      "value": 8.6,
+      "outOf": 10,
+      "reason": "Pair challenge and additional root keyboard/geometry evidence do not alter the visual/authorship craft judgment or establish new audience outcomes."
+    }
+  ],
+  "skillsWorkflowAgreement": {
+    "messageAcknowledged": true,
+    "fullReadByBReused": [
+      "emil-design-eng",
+      "choreograph",
+      "mobile-native"
+    ],
+    "catalog": "All 17 installed entries reviewed in the earlier implementation round; retained capability intake.",
+    "newFullSkillReading": "None newly needed for this bounded gesture/staging review.",
+    "partnerPrototypeBoundary": "A's fully read prototype comparison guidance is compatible with matched-context review. B does not claim full prototype intake or invoke its build workflow.",
+    "practicalProcessConfirmedByB": [
+      "Begin with a verified project question, intended reader action and evidence source; character behavior supplies expressive support while content remains usable.",
+      "Use a prior FINAL deduction ledger before scoring: fixed, narrowed, retained and already-superseded are different states. Keep the whole-foundation scope constant.",
+      "Write the causal and contact relationships before tuning: target cue static; antenna notices; gaze leads head; visitor return precedes the cup; quiet free hand stays still; meaningful chin/clasp contact remains.",
+      "Record actual target position at intended compositions. Source unit tests, real DOM context frames and simplified comparison films carry different authority.",
+      "Review the offer in three lanes: distinguishable contour at actual size, normal-speed movement meaning, and unfamiliar Nag attribution/recall. Never promote evidence from the first lane into the others.",
+      "Inspect both first viewport and scrolled stage for future phone composition. Keep native document scrolling and zoom; separate emulated layout from physical-device feel.",
+      "Preserve the owner-selected warm lead and truthful content while using constrained matched alternatives when an explicit comparison is needed. No extra emotion, gesture, prop or decorative loop is required to demonstrate progress."
+    ],
+    "uiReviewTable": "| Before | After | Why |\n| A specific contour improvement could be described as proven invitation comprehension | Describe a clearer upward cup and keep unprimed meaning unscored | Rendered craft and audience response need different evidence |\n| Fixed lateral investigation across compositions | Actual heading bearing supports gaze/head until the authored return | The character's attention follows its subject without changing anatomy |\n| 'Clear hands' treated as one universal separation rule | Name leading, resting and intentional-contact hands per family | Chin support and gratitude clasp carry meaning |\n| Scores can quietly shift to only the successful fix | Keep prior final deductions and the same whole-foundation scope | A target number cannot replace judgment |",
+    "exceptions": [
+      "Short UI timing budgets do not shorten deliberate character content or its gaze/head/return/offer sequence.",
+      "Keyboard users can explicitly play content; no-incidental-animation guidance concerns control latency, not access.",
+      "Transform/opacity heuristics do not authorize removing SVG anatomy or expressive paths without a measured bottleneck.",
+      "Choreograph's Together default does not erase meaningful causal ordering or demand motion from the static project text.",
+      "No global contact separation: exact chin support and intentional clasp are protected.",
+      "Phone layout screenshots do not prove physical-device behavior; no app-shell scroll/zoom lock is justified.",
+      "Design-taste website-building systems, prototype divergence and unrelated installed stacks do not authorize a new page redesign in this review-only pass.",
+      "A deeper authored scene remains future content work, not a reason to invent a result or block this bounded local refinement."
+    ]
+  },
+  "substantiveObjections": [],
+  "remainingLimits": [
+    "No normal-speed continuous-motion judgment by B. Frame evidence cannot determine whether the 2350–2720ms wrist turn feels like a flick or an invitation.",
+    "No unfamiliar-human emotion comprehension, Nag attribution, attachment or delayed recall outcome. Owner choice remains personal-fit evidence; labels and explanations prime interpretation.",
+    "Phone PNGs are real DOM desktop-browser captures at phone widths, not physical-device testing. No new GPU, native-phone touch or spoken-AT validation.",
+    "Root desktop keyboard Play/Pause/Resume and range evidence now supports those specific controls. Native OS select-menu keyboard commit remains a separate unverified path.",
+    "The corrected phone attention does not solve unchanged vertical exposure; most of the figure and Play remain below the initial viewport at the previously inspected phone composition.",
+    "At 96–128px the hand remains a small accent. Clearer contour does not establish self-sufficient invitation meaning.",
+    "Current content remains a truthful introductory project bridge, not a complete verified personal story.",
+    "Existing day universal-avatar and night-more-room guidance remains; no avatar confusion/recall failure is demonstrated.",
+    "The comparison film's phone segment uses measured bearing within simplified composition. Actual DOM screenshots and browser records govern real layout claims.",
+    "Acceptance is local foundation work for continued design, not publication, deployment, remote identity changes, commit/push or a 9/10 certification."
+  ]
+}

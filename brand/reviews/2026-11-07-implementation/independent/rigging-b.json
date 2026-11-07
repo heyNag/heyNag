@@ -1,0 +1,275 @@
+{
+  "reviewer": "Technical character animator and rigger B",
+  "lens": "Rendering integrity and production reuse",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "independent": true,
+  "independenceStatement": "Saved before reading the partner's implementation review or score. Prior own-role expanded-panel history was read.",
+  "sourceVersion": "review-source-v4.json",
+  "scope": "Local native SVG rig, finite motion engine, inspected rendered poses and interrupted transitions, supported application exports, and final portrait signature composition. This is an implementation assessment, not production-device, continuous-playback, audience-recognition, or deployment approval.",
+  "evidenceActuallyInspected": [
+    "AGENTS.md; brand/team.json; this review's reviewer-instructions.txt, brief.json, installed-skills.json and owner-preference.json",
+    "brand/reviews/2026-11-07-expanded-panel/independent/rigging-b.json (own prior role)",
+    "review-source-v2.json and review-source-v3.json; independently hashed all 18 v3 manifest files with Python hashlib: zero mismatches",
+    "brand/animation-v5/character.js, including source paths, paint switching, per-instance IDs, articulated hierarchy, deformation, clipping and render constraints",
+    "brand/animation-v5/motion.js: numeric contract, relevant authored clips/studies, transition families, sampling, velocity carry, scheduler, pause/resume, reduced motion and destroy lifecycle",
+    "brand/animation-v5/motion.test.mjs; contract.json; README.md",
+    "brand/source/applications-v5.js and applications-v5.json: same-rig export construction, crop, namespace and supported-size policy",
+    "brand/animation-v5/signature.js and signature.css; evidence/harness.html",
+    "evidence/geometry.json: reported 567 identical-input samples, three renderers per sample, no geometry mismatches; paint/gradient/filter deliberately excluded",
+    "evidence/motion-tests.txt: recorded 15 passing deterministic tests; inspected their source, did not rerun them",
+    "evidence/desktop-performance.json: 1x and 4x local desktop rAF observations",
+    "evidence/comparison-export.json: 2664 frames, 30 fps, 88.8 seconds, exact engine sampled at 120 Hz; metadata read, continuous film not watched",
+    "evidence/final-ui.json: reported 320/390/1440 widths and reduced-motion still state",
+    "view_image: evidence/sizes-final.png, poses.png, all-final.png, paint.png and excited.png",
+    "view_image: evidence/decoded-day-4.png (hop), decoded-night-9.png (airborne to curious), decoded-day-10.png (thoughtful to happy), decoded-night-8.png (sad to worried)",
+    "view_image: evidence/signature-final-390-stage.png, signature-final-390-night.png and signature-final-320.png",
+    "view_image: assets/brand/heynag-moth-avatar-v5-day.png, heynag-moth-avatar-v5-night.png and header-v5-dark.png at native export sizes",
+    "review-source-v4.json: only signature.js differs from v3; read revised descriptions and still() aria-label assignment; all 18 current manifest hashes verified with zero mismatches",
+    "evidence/desktop-performance-focused.json: paused and playing controls remain visible and focused; paused control also has ~1-second gaps",
+    "evidence/desktop-performance-active.json: inspected summary and parsed all samples; active samples are visible and focused, 119 intervals with mean 34.45 ms, p95 35 ms, max 67 ms and four gaps over 50 ms"
+  ],
+  "score": {
+    "value": 8.5,
+    "outOf": 10,
+    "meaning": "Strong, reusable local implementation with convincing attachment and export integrity in the inspected evidence. The score includes residual small-scale contour congestion and unresolved live performance validation. It does not certify sustained smoothness or normal-speed acting appeal."
+  },
+  "strengths": [
+    {
+      "finding": "The character's compact anatomy is structurally protected and remains appealing in the inspected poses: short mittens, attached stub feet, oversized head, continuous unequal antennae and four hinged wing panels. Hop/contact and cross-family transition sheets show no detached limb, clipped paddle or lost wing panel at the sampled moments.",
+      "evidence": [
+        "character.js:124-166,209-220,284-315",
+        "evidence/all-final.png",
+        "evidence/excited.png",
+        "evidence/decoded-day-4.png",
+        "evidence/decoded-night-9.png",
+        "evidence/decoded-day-10.png"
+      ]
+    },
+    {
+      "finding": "Paint changes are cleanly separated from construction. The selected softer falloff and quieter antenna edge preserve source geometry; the light and dark poses match visually. The reported 567 geometry samples materially strengthen the earlier code-only parity argument, while correctly excluding paint from that claim.",
+      "evidence": [
+        "character.js:30-49,245-282",
+        "evidence/geometry.json",
+        "evidence/paint.png",
+        "evidence/all-final.png"
+      ]
+    },
+    {
+      "finding": "The engine is finite and reuse is practical: one explicit numeric pose interface, scheduler injection, cancellation epochs, current-pose interruption, paused-pose handling, reduced-motion stills and destroy. The new checks cover authored entry, hop contact, two difficult cross-family switches and compatible emotional continuity; they are more meaningful than simply checking that values differ.",
+      "evidence": [
+        "motion.js:475-760",
+        "motion.test.mjs",
+        "evidence/motion-tests.txt",
+        "evidence/decoded-night-8.png",
+        "evidence/decoded-day-10.png"
+      ]
+    },
+    {
+      "finding": "Exports reuse the existing head or complete rig instead of introducing a second drawing. Stable export IDs, per-instance live IDs and the repeated-inline namespace caveat make the packaging honest. Both native avatars retain full paddles, and the dark header has comfortable composition bounds.",
+      "evidence": [
+        "applications-v5.js:13-53",
+        "applications-v5.json",
+        "assets/brand/heynag-moth-avatar-v5-day.png",
+        "assets/brand/heynag-moth-avatar-v5-night.png",
+        "assets/brand/header-v5-dark.png"
+      ]
+    },
+    {
+      "finding": "The final portrait signature gives the actual character enough area for the little presenting mitten to remain visible. The question and character remain distinct, and light/dark framing is consistent. This is a better reuse surface than forcing a full scene into a tiny side-by-side phone row.",
+      "evidence": [
+        "signature.css portrait media rule",
+        "evidence/signature-final-390-stage.png",
+        "evidence/signature-final-390-night.png"
+      ]
+    }
+  ],
+  "deductions": [
+    {
+      "id": "RIG-B-PERF",
+      "type": "unresolved measured observation / validation limit",
+      "severity": "medium for live production reuse; nonblocking for local review and static exports",
+      "finding": "The original mixed-interval observation contains ~1-second gaps, but the focused paused control also has such gaps. The later active-only measurement excludes idle/settled intervals: 119 intervals during the 4100 ms Thinking performance, mean 34.45 ms, p95 35 ms, max 67 ms, four gaps over 50 ms, with visibility and focus stable. The earlier ~1-second figures must not be presented as demonstrated active-animation stalls or attributed to the SVG renderer. Active cadence in this environment is approximately 30 Hz, with residual longer intervals; neither sustained 60 fps nor physical-device smoothness is established.",
+      "basis": [
+        "evidence/desktop-performance.json",
+        "evidence/desktop-performance-focused.json",
+        "evidence/desktop-performance-active.json",
+        "motion.js:600-640",
+        "character.js:284-365"
+      ],
+      "confidence": "High about recorded cadence and state; low about browser/environment/rendering causes. No demonstrated SVG-cost attribution.",
+      "action": "Before production performance claims, attribute the residual active intervals with a rendering trace and verify intended physical hardware. Compare the final integration with an appropriate static/control condition; keep geometry intact while diagnosing."
+    },
+    {
+      "id": "RIG-B-CONTOUR",
+      "type": "observed visual quality",
+      "severity": "minor",
+      "finding": "Thinking and gathered-hand poses still concentrate several mitten, ruff and jaw contours in a very small area. In the 96px full-body sample the chin-support hand is less distinct than the open-hand signature. The compact anatomy reads, but fine hand intention remains weaker than the face and wing silhouette.",
+      "basis": [
+        "evidence/poses.png",
+        "evidence/sizes-final.png",
+        "evidence/all-final.png",
+        "motion.js:117-130,221-234"
+      ],
+      "confidence": "Medium-high for visible congestion; no claim about unprimed comprehension.",
+      "action": "Use the larger signature composition when the hand conveys the message. If further improvement is required, compare a small pose/timing adjustment at actual sizes; do not enlarge the anatomy or add fingers."
+    },
+    {
+      "id": "RIG-B-COVERAGE",
+      "type": "validation limit",
+      "severity": "minor within local scope",
+      "finding": "Numeric bounds and geometry equality establish useful invariants, but do not establish unobstructed contact for every intermediate pose or every consumer crop. The inspected decoded sheets sample transitions at intervals; they cannot certify all frames, normal-speed pacing, or arbitrary future inline integrations.",
+      "basis": [
+        "motion.test.mjs imports motion.js only",
+        "evidence/geometry.json",
+        "evidence/comparison-export.json",
+        "applications-v5.js:47-49"
+      ],
+      "confidence": "High",
+      "action": "Keep rendered regression sheets and minimum-size/crop checks attached to material rig changes. Review the exact final integration, including repeated inline instances if used, rather than inheriting this local review as blanket approval."
+    }
+  ],
+  "improvementCriteria": [
+    "Attribute residual active frame gaps with a rendering trace and verify intended physical hardware before claiming production smoothness. Do not reuse the historical mixed/idle ~1-second gaps as active-animation evidence.",
+    "Inspect normal-speed continuous playback and slower interruption/contact passages, with the same source version and final composition, before raising a timing or motion-feel score.",
+    "Maintain visible mitten/ruff separation at the minimum supported expressive size, improving posing or presentation area only where the rendered comparison shows a real gain.",
+    "Carry the same renderer, numeric theme poses, finite playback, reduced-motion stills and per-instance SVG ID contract into the actual website; recheck its crop and lifecycle."
+  ],
+  "confidence": {
+    "overall": "Medium-high within the stated local rendering/reuse scope",
+    "high": [
+      "Source geometry and export reuse",
+      "Inspected still-frame attachment and bounds",
+      "Recorded test coverage and manifest integrity"
+    ],
+    "medium": [
+      "Small-scale visual staging quality",
+      "Sampled transition rendering"
+    ],
+    "notEstablished": [
+      "Cause of residual active frame gaps and environment cadence",
+      "Continuous normal-speed feel",
+      "Physical-phone/GPU performance",
+      "Human recognition or emotional comprehension"
+    ]
+  },
+  "implementedAssessment": {
+    "state": "agree_with_named_nonblocking_limits",
+    "recommendation": "Accept the inspected v4 local rig, studies and supported static exports as a materially improved implementation. Retain the active-cadence and continuous/device validation limits explicitly; do not call this production smoothness approval.",
+    "ownerChoice": "Investigate and share is the recorded personal-fit lead; this preference is not audience research.",
+    "nightMinimum": "The 32px night avatar has weak stem continuity in sizes-final.png and remains excluded from the universal recommendation, as applications-v5.json already states. Day 32px remains the recommended universal asset.",
+    "noNewBlockingDefect": "No concrete clipping, detached anatomy, theme geometry divergence or broken export was found in the inspected evidence."
+  },
+  "objections": [],
+  "limits": [
+    "No browser operation, screen-reader spoken-output capture or physical-device interaction by this reviewer.",
+    "The exact-engine MP4 was not watched continuously. Its metadata and selected decoded sheets are evidence of frames and reproducibility, not subjective live smoothness.",
+    "The 15 tests and 567 geometry sample result were inspected as recorded evidence; only the 18 manifest checksums were independently executed in this review.",
+    "The final 320px screenshot shows the corrected header and upper question section; it does not by itself show the entire lower scene at that width.",
+    "The final portrait staging changes the visual relationship of question and gaze; static evidence supports layout and bounds, not unprimed interpretation of the whole performance.",
+    "No new audience, recognition, attribution or delayed-memory study. AI review is not human evidence.",
+    "No deployment or remote publication was performed or approved by this assessment."
+  ],
+  "skillsReviewed": {
+    "catalog": "All 17 entries in installed-skills.json were read.",
+    "fullSkillFiles": [
+      "emil-design-eng",
+      "animate",
+      "review-animations",
+      "improve-animations",
+      "choreograph",
+      "animation-performance"
+    ],
+    "catalogOnly": [
+      {
+        "name": "animate-expo",
+        "reason": "No Expo/React Native runtime in this implementation."
+      },
+      {
+        "name": "find-animation-opportunities",
+        "reason": "This is an implemented-rig review, not a request to add new motion."
+      },
+      {
+        "name": "remove-animations",
+        "reason": "No demonstrated unnecessary character motion to remove; retain its frequency/restraint principle without invoking an editing workflow."
+      },
+      {
+        "name": "animation-vocabulary",
+        "reason": "No unnamed effect needs terminology lookup."
+      },
+      {
+        "name": "apple-design",
+        "reason": "No gesture, drawer or Apple-style surface in this rig; interruption and restraint are covered by the selected animation skills."
+      },
+      {
+        "name": "write-swift",
+        "reason": "No Swift source in the reviewed runtime."
+      },
+      {
+        "name": "pick-ui-library",
+        "reason": "Not explicitly invoked to select a library; current plain SVG/native controls require no new dependency."
+      },
+      {
+        "name": "prototype",
+        "reason": "Not explicitly invoked; existing frozen/updated studies already supply the needed comparison."
+      },
+      {
+        "name": "mobile-native",
+        "reason": "Catalog reviewed; native-phone control audit belongs to the interaction specialists. This review does not certify native-device behavior."
+      },
+      {
+        "name": "break-ui",
+        "reason": "Variable-content stress testing is not this rig review; final website content boundaries should invoke it when relevant."
+      },
+      {
+        "name": "ask-sonner",
+        "reason": "No Sonner/toast component exists in this scope."
+      }
+    ]
+  },
+  "workflowChanges": [
+    "Before future animation implementation, record purpose, expected frequency, driver and animated properties; keep UI feedback and authored character acting as separate timing classes.",
+    "Use animation-performance to name and measure a bottleneck before changing code. Treat per-frame SVG path writes and the night filter as profiling candidates, not proven causes; never add blanket will-change or replace anatomy on speculation.",
+    "Use choreograph to mark lead, support and static parts in the character beat: antenna notices, gaze/head attend, mitten offers; wings support. Anchor secondary motion to the intended event rather than uniform delays.",
+    "For future website integration, inspect rapid retargeting, interrupted playback, hidden/offscreen behavior, preference changes and teardown alongside the final rendered crop. Keep regression evidence on the same source version.",
+    "Separate evidence columns for source invariants, deterministic renderer/export samples, continuous playback, physical-device traces and unprimed human studies. A pass in one column must not be reported as another.",
+    "Use the installed review skills as an explicit challenge pass, preserve justified exceptions and keep the independent score. Hand engineers precise file/evidence findings rather than a generic request for polish."
+  ],
+  "rulesNotApplicableWithReason": [
+    {
+      "rule": "UI animations under 300ms and never animate a keyboard action",
+      "reason": "The intentional multi-second character performance is the requested content, including when Play is activated by keyboard. UI controls should respond promptly; removing the performance for keyboard users would defeat equivalent access."
+    },
+    {
+      "rule": "Transform/opacity only",
+      "reason": "The authored eyelids, mouth and bending paddle antennae require SVG geometry changes. Preserve the tiny character and profile its actual cost. There is no established equally faithful compositor-only replacement."
+    },
+    {
+      "rule": "Prescribed UI easing curves for every animation",
+      "reason": "Authored acting uses numeric ease and selected Hermite tangents, including continuous descent and contact. Replacing them mechanically with a UI easing token would erase the deliberately verified trajectory."
+    },
+    {
+      "rule": "Reduced motion must retain gentle motion rather than zero",
+      "reason": "A selected expressive still with manual timeline inspection is a coherent and safer mode for this optional character performance; comprehension does not require an opacity animation."
+    },
+    {
+      "rule": "Add stagger or decorative blur as polish",
+      "reason": "This rig already has causal staging. Extra entrance delays or blur would not resolve contour or attachment questions and could conceal them."
+    },
+    {
+      "rule": "Skill-specific output tables, automatic source writing, plan-directory-only output or user-selection pause",
+      "reason": "The user/root's explicit independent-review protocol requires this JSON record, prohibits source edits and already authorizes review. Selected skills inform judgment; they do not replace that workflow or add a new permission gate."
+    }
+  ],
+  "addenda": [
+    {
+      "sequence": 1,
+      "sourceVersion": "v4",
+      "timing": "After independent v3 record was saved, before any partner review was read",
+      "change": "Signature description now updates per selected performance; engine, geometry, artwork and exports unchanged. Manifest comparison and source read confirm the narrow scope.",
+      "performanceReconciliation": "Focused paused control and active-only measurement narrow the original gap finding. Large mixed-run gaps are not an established active rig stall; active-only max is 67 ms.",
+      "scoreUnchanged": 8.5,
+      "reason": "The new evidence reduces causal ambiguity but does not establish production hardware cadence or continuous motion feel. The local rendering/reuse assessment and contour/coverage deductions remain."
+    }
+  ]
+}

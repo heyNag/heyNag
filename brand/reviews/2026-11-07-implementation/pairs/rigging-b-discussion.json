@@ -1,0 +1,75 @@
+{
+  "reviewer": "Technical character animator and rigger B — rendering integrity and production reuse",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "partnerRecordRead": "independent/rigging-a.json",
+  "partnerDiscussionRead": "pairs/rigging-a-discussion.json",
+  "independence": "My independent v3 review and v4 evidence addendum were saved before I read A's independent review or discussion. This response directly addresses A's subsequent discussion.",
+  "proposalFile": "team-proposal-v2.json",
+  "proposalSha256": "4eef022ccecba73621ca188b29c13cbc41d08b5268ffeaa6e98e2c4c5ea08c5c",
+  "sourceManifest": "review-source-v4.json",
+  "sourceManifestSha256": "4b70d40e6c6fed47936377ff71d915379cbe84bc2a23020ac2ab2fb9696b2caa",
+  "verification": {
+    "immutableFiles": "Read the complete proposal and recomputed both expected hashes; exact matches.",
+    "currentSource": "Independently recomputed all 18 current source/export hashes against v4; zero mismatches. Character and motion remain unchanged from the independently inspected source.",
+    "cadence": "My v4 independent addendum read focused and active diagnostic evidence and parsed all active samples: 119 playing=true intervals, all visible and focused, mean 34.45 ms, p95 35 ms, max 67 ms and four intervals over 50 ms. The focused paused control also has approximately one-second gaps.",
+    "semantics": "Read description-and-reduced-motion.json: each selected study has a matching accessible label; reduced mode records a still state and Show the thought control. This is recorded browser-state evidence, not spoken AT verification.",
+    "report": "Confirmed index.html exists; no browser operation was performed in this pair review.",
+    "visualBasis": "The final portrait day/night stage, corrected 320px header, actual-size sheet, all-emotion sheet, hop/contact sheets and selected decoded interruptions were already viewed during my independent review. Those remain the visual basis; no continuous playback claim is added."
+  },
+  "meaningfulChallenges": [
+    {
+      "partnerFinding": "A identifies credible hop contact order and strong tested interruption engineering.",
+      "challenge": "The verified numerical landing order and sampled attachment should not become a general guarantee of landing weight, perceived velocity continuity or correct contact in every transition. Current-pose continuity is narrower than continuous perceived motion, and the renderer's reach constraint is not a collision solver.",
+      "resolution": "A explicitly preserves that distinction in the discussion. We accept the source contract, meaningful selected regression cases and sampled no-detachment result. For a material future change, inspect the actual contact and interruption frames plus continuous playback; do not add a general solver or force all channels onto one curve without a reproduced defect."
+    },
+    {
+      "partnerFinding": "A's hand/ruff deduction includes thinking, grateful, shy, worried and the 96–128px offered mitten.",
+      "challenge": "Retain the distinction between a compact asset limit and failure of the larger current portrait composition. The final portrait gives the unchanged mitten visibly more space, which resolves part of the display-size problem. It does not establish that viewers read the gesture specifically as sharing, and it does not remove remaining jaw/ruff congestion in other poses.",
+      "resolution": "We keep the larger final portrait as the current implementation, preserve the small-scale contour deduction and name the phone question-to-eyeline mismatch. If a further comparison is commissioned, vary allowed wrist/head posing or composition while preserving short arms, tiny mittens and the existing anatomy. No blanket anatomy enlargement is warranted."
+    },
+    {
+      "partnerFinding": "A recommends measuring the current SVG updates and night filter on representative hardware before reuse claims.",
+      "challenge": "The per-frame path writes and filter are candidates for profiling, not established culprits. The original mixed one-second gaps include idle/settled behavior; the focused paused control reproduces large gaps. Neither these gaps nor callback cadence alone identify rendering cost or presented-frame rate.",
+      "resolution": "A's revised discussion agrees. We report the active-only values precisely and leave causal attribution open. A controlled rendering trace and intended hardware are required before claims about production cadence or optimization choices; no speculative will-change or geometry simplification is recommended."
+    }
+  ],
+  "responseToPartnerDiscussion": [
+    {
+      "partnerPoint": "Callback cadence must not be called presented-frame rate, and one Thinking run does not cover the future website.",
+      "response": "Accepted. My phrase approximately 30 Hz describes the recorded callback intervals only. It is not a display-frame measurement or certification of the other clips, devices, page load conditions or final embed. The original one-second figures remain historical mixed-run observations, not demonstrated active-rig stalls."
+    },
+    {
+      "partnerPoint": "More portrait display area improves visibility but does not fully resolve invitation semantics or phone eyeline.",
+      "response": "Accepted. I retain my observation that the mitten is visible at the inspected portrait scale while keeping the exact proposal's hand-specificity and stacked-question limitations. This does not require reverting to the superseded narrow side-by-side phone layout."
+    },
+    {
+      "partnerPoint": "A connected constrained arm and coherent sampled overlap are not a universal contact guarantee.",
+      "response": "Accepted. Our local no-detachment finding is bounded by the inspected source and samples. Export reuse additionally requires checking the actual crop and SVG ID policy at the eventual consumer. Existing static exports and per-instance live rig IDs are supported by my source and PNG inspection."
+    }
+  ],
+  "evidenceBasedResolution": "The v4 local foundation preserves the intact rig, shared theme geometry, authored contact order, finite playback and supported application exports. The final portrait is an implementation improvement with explicit spatial and semantic limits. The active-only diagnostic narrows the performance concern to the observed callback cadence and residual longer intervals; it does not establish SVG causation or production smoothness. A and B independently accept the same recommendation below while retaining their different scores and lenses.",
+  "acceptedJointRecommendation": "Accept the intact constrained rig and static exports with explicit contact-density and live-cadence limits. Do not attribute mixed idle one-second gaps to SVG without evidence.",
+  "remainingDisagreements": [
+    "A retains 8.7/10 for articulation/contact and selected interruption engineering; B retains 8.5/10 for rendering integrity and production reuse. The difference remains visible and is not a substantive objection.",
+    "No unresolved substantive disagreement with A's evidence boundaries or this exact joint recommendation. Continuous-motion feel, intended-device cadence and unprimed gesture interpretation remain unanswered."
+  ],
+  "practicalSkillsWorkflowAgreement": [
+    "Before future website motion work, create a small purpose/frequency/driver/property inventory. Use animate and review-animations to distinguish prompt UI response from explicitly requested character content; extend existing timing tokens for the UI.",
+    "Use choreograph to write a causal timeline before editing the rig: antenna notice, gaze/head attention, feet contact, head recovery and mitten offer. Mark static and supporting channels explicitly, and preserve consideration holds that carry the story.",
+    "Use animation-performance to design an active/control comparison and attribute scripting, paint or scheduling cost with a trace. Record visibility and focus. Treat SVG path updates and the night filter as hypotheses to test, never automatically as defects.",
+    "For material rig changes, combine numeric anatomy/termination/interruption checks with actual-size rendered contact sheets, exact export bounds and continuous playback of the changed passages. For the final website, add intended-device, offscreen/hidden, reduced-motion, teardown and repeated-instance checks.",
+    "Keep source invariants, sampled rendered integrity, callback cadence, perceived continuous motion and human research in separate evidence fields. Use improve-animations' evidence-based handoff discipline to give engineers specific locations, acceptance cases and unresolved observations.",
+    "Preserve frozen controls, current source hashes and both independent scores. Skills intake changes the review method; it does not substitute a checklist or consensus for craft judgment."
+  ],
+  "skillsExceptions": [
+    "A multi-second authored performance remains available when Play is activated by keyboard; UI feedback budgets do not erase the requested content or equivalent keyboard access.",
+    "SVG antenna, face and eyelid deformation and the authored hop tangents have expressive reasons. Transform/opacity advice does not authorize anatomy changes or mechanical replacement with UI curves.",
+    "A fully static expressive reduced-motion state is appropriate here. No fade, stagger, idle loop or blur is added merely to comply with a generic polish rule.",
+    "The explicit independent/pair JSON workflow and no-source-edit assignment govern output and permissions. Skill construction or plan-writing conventions do not add a confirmation gate."
+  ],
+  "personalScore": {"value": 8.5, "outOf": 10, "unchanged": true},
+  "scoreReason": "The new evidence narrows the cadence observation and validates the v4 description update, but does not remove contact-density limits or supply continuous/device verification. My rendering/reuse score remains unchanged.",
+  "substantiveObjections": [],
+  "position": "agree_with_named_nonblocking_limits"
+}

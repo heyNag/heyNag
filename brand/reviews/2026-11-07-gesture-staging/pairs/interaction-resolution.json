@@ -1,0 +1,20 @@
+{
+  "discipline": "interaction",
+  "state": "Both reviewers explicitly confirmed the same scoped recommendation.",
+  "recommendation": "Accept the local study controls and composition-aware attention with cached measurement, still inspection and reduced motion. Native menu commit, spoken AT and physical phones remain separate validation.",
+  "discussionRecords": [
+    "pairs/interaction-a-discussion.json",
+    "pairs/interaction-b-discussion.json"
+  ],
+  "independentReviews": [
+    "independent/interaction-a.json",
+    "independent/interaction-b.json"
+  ],
+  "explicitConfirmations": [
+    "team-votes/interaction-a.json",
+    "team-votes/interaction-b.json"
+  ],
+  "proposal": "team-proposal-v1.json",
+  "proposalSha256": "db064ee23559e695e350ddc47e86c77380776554e6bb3a5a43eeadd8b18bd5f3",
+  "scorePolicy": "Individual scores remain separate; acceptance does not imply a 9/10 rating."
+}

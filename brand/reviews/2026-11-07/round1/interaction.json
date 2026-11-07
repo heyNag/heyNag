@@ -1,0 +1,77 @@
+{
+  "role": "Interaction design and accessibility specialist",
+  "verdict": "A considerate local review tool with credible control foundations, but gallery keyboard navigation needs correction before public use. This does not establish future-site usability or audience appeal.",
+  "evidenceInspected": [
+    "brand/animation-v5/index.html",
+    "brand/animation-v5/studio.css",
+    "brand/animation-v5/studio.js",
+    "brand/character-proof/index.html",
+    "brand/expressions/index.html",
+    "brand/expressions/expressions.js",
+    "brand/expressions/expressions.css",
+    "brand/design-system.css",
+    "brand/reviews/2026-11-07/evidence/studio-desktop.png",
+    "brand/reviews/2026-11-07/evidence/studio-phone.png",
+    "brand/reviews/2026-11-07/evidence/studio-reduced-motion.png",
+    "brand/reviews/2026-11-07/evidence/studio-keyboard-focus.png",
+    "brand/reviews/2026-11-07/evidence/interaction-checks.json",
+    "brand/reviews/2026-11-07/evidence/studio-phone-metrics.json",
+    "brand/reviews/2026-11-07/evidence/keyboard-gallery.json",
+    "brand/reviews/2026-11-07/evidence/keyboard-gallery-activated.png",
+    "brand/reviews/2026-11-07/evidence/keyboard-gallery-next.png"
+  ],
+  "strengths": [
+    "Observed step 1, arrival: the scene starts still, with an explicit Play feeling action. Desktop and phone captures present the same understandable sequence: selected emotion, performance, transport, library.",
+    "Observed step 2, control: captured engine states prove pause and rest; native buttons, radios, a labelled range and pressed gallery states provide useful semantics. The captured Rest focus ring is visible. Transport buttons measure 44 CSS pixels high on the phone.",
+    "Observed step 3, reduced motion: the still pose remains expressive, the explanatory text is visible, and collection playback is disabled. Animation-frame updates do not continuously rewrite the polite status region.",
+    "Observed step 4, mobile browsing: width and scrollWidth are both 390; the three-column gallery keeps labels and large selection surfaces. Character-proof image alternatives describe distinctive anatomy rather than repeating a filename."
+  ],
+  "findings": [
+    {
+      "id": "IX-01",
+      "priority": "before-public-use",
+      "claimType": "observed",
+      "finding": "At 390px, keyboard activation of Angry scrolls the player into view but leaves focus on Angry at viewport y=2040.6. Tab moves to Disgusted, jumps back down the gallery and hides the player; the later offscreen callback pauses playback. The visitor loses both visible focus at activation and access to the performance on Tab.",
+      "evidence": ["brand/animation-v5/studio.js:109", "brand/animation-v5/studio.js:150", "brand/reviews/2026-11-07/evidence/keyboard-gallery.json", "brand/reviews/2026-11-07/evidence/keyboard-gallery-activated.png", "brand/reviews/2026-11-07/evidence/keyboard-gallery-next.png"],
+      "recommendation": "Choose one coherent navigation pattern: transfer focus to a labelled player heading when intentionally navigating there, with an easy return to the selected card; or keep playback adjacent to selection without scrolling away.",
+      "verification": "Activate Angry using keyboard on desktop and phone-sized layout, then Tab and Shift+Tab. Focus stays visible, the destination is announced, and playback controls are predictably reachable."
+    },
+    {
+      "id": "IX-03",
+      "priority": "next-refinement",
+      "claimType": "proposal",
+      "finding": "The player has no compact named emotion selector or previous/next controls, unlike the static studio. The full gallery becomes a long return trip on mobile. Body-level arrow shortcuts exist in source but are undisclosed and intentionally inactive on controls.",
+      "evidence": ["brand/animation-v5/studio.js:154", "brand/expressions/index.html", "brand/reviews/2026-11-07/evidence/studio-phone.png"],
+      "recommendation": "Reuse the static studio's labelled selector near transport; retain the visual library for browsing.",
+      "verification": "A visitor can compare three nonadjacent emotions without repeatedly traversing the page or learning hidden shortcuts."
+    },
+    {
+      "id": "IX-04",
+      "priority": "later",
+      "claimType": "proposal",
+      "finding": "The 24-emotion catalogue is effective review infrastructure, not evidence that all 24 belong in the portfolio's primary journey. Continuous reactions could compete with Nag's work, especially on repeat visits.",
+      "evidence": ["brand/reviews/2026-11-07/evidence/studio-desktop.png", "brand/animation-v5/studio.js:138"],
+      "recommendation": "Keep the complete collection in an optional playground. Test a small contextual vocabulary beside real work: curiosity for exploration, focus for making, gratitude after an actual completed action. Preserve textual feedback and a quiet returning-visitor state.",
+      "verification": "First-time and returning visitors find a project and explain Nag's contribution; compare distraction and voluntary character exploration without assuming delight."
+    },
+    {
+      "id": "IX-05",
+      "priority": "later",
+      "claimType": "proposal",
+      "finding": "Light/Dark currently means preview lighting; the review pages deliberately retain light chrome. Sound, weather and a site-wide comfort model are future coverage gaps, not existing failures.",
+      "evidence": ["brand/animation-v5/index.html", "brand/animation-v5/studio.js:135", "brand/design-system.css"],
+      "recommendation": "For the website, offer system/light/dark preference and persistent motion choice. Keep sound explicitly enabled by the visitor, independently mutable, and unnecessary for meaning. Make weather an optional scene setting; do not require location access to enjoy the character.",
+      "verification": "Revisit with saved preferences, reduced motion and sound off. Project reading remains complete, calm and functional with every environmental effect disabled."
+    }
+  ],
+  "keep": ["Finite, intentional performances; still defaults; explicit pause/rest; paired lighting comparison; ordinary labelled controls; offscreen and background pause intent."],
+  "challengeForOtherRoles": [
+    "Motion: demonstrate emotional readability in still and reduced-motion states before using movement to rescue similar expressions.",
+    "Brand: justify each proposed public interaction through Nag's actual content; a memorable mascot does not establish a useful personal website.",
+    "Visual design: test dark-page reading comfort separately from beautiful night-character art."
+  ],
+  "limits": [
+    "Independent source and fresh captured-evidence review; no peer opinions or prior approvals consulted. Root supplied browser evidence; this specialist did not operate a browser.",
+    "No assistive-technology session, exhaustive keyboard traversal, zoom, forced-colors, contrast inventory or user research. No accessibility conformance certification. Static-studio assessment is source-based; future-site recommendations remain hypotheses."
+  ]
+}

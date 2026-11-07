@@ -1,0 +1,26 @@
+{
+  "reviewer": "Storyboard/comic staging A; predecessor /root/panel_storyboard preserved",
+  "scope": "Refined V5 staging and authored temporal structure; current source and existing still evidence",
+  "independentBeforePeer": true,
+  "score": null,
+  "scoreReason": "No continuous playback inspected in this pass. A composite score would imply evidence for comic rhythm that source and held poses cannot supply.",
+  "evidence": [
+    "AGENTS.md; brand/team.json; expanded-panel/brief.json and score-policy.json",
+    "refinement/round1/storyboard.json; refinement/round2/storyboard.json",
+    "brand/animation-v5/motion.js:98–171,189–208,411–428, sample and Engine._begin/_advance; studio.js: onChange/choose",
+    "refinement/evidence/all-24.png; poses.png; exact-case-9.png; exact-hop-decoded.png (directly viewed)"
+  ],
+  "opinion": "The small, innocent figure already has an acting vocabulary worth developing. Prior refinements remain justified; this pass establishes no new production defect. The next useful question is whether an existing action communicates a particular thought over time, not whether the catalogue can contain more movement.",
+  "strengths": [
+    "poses.png distinguishes Thinking's chin-side mitten from Focused's low hands without enlarged anatomy; Grateful's joined hands remain a purposeful exception.",
+    "Mischievous already authors pretend sleep at 440–910ms, a half-eye reveal at 1250–1550ms, concealment at 2190ms and renewed peek at 2520ms. Curious already notices with its antenna before gaze and shares attention at 2040ms.",
+    "The interrupted-hop sheet preserves one compact figure; Engine._begin replaces the prior command. A cancelled anger request need not finish an anger performance."
+  ],
+  "limitsAndQuestions": [
+    "Mischievous reads near Sleepy in the small held-pose sheet. That is a static ambiguity, not proof the temporal joke fails.",
+    "Clip lengths and the studio's 600ms catalogue interval cannot establish comic rhythm. A catalogue is not an authored narrative.",
+    "Source supports the corrected descent; a decoded frame does not prove perceived weight. Audience comprehension, attachment and recall remain unmeasured."
+  ],
+  "criteriaForImprovement": "Compare existing signature beats at intended size and normal speed before changing them. Preserve a legible setup/reveal relationship, quiet holds, attached stub feet and identical theme poses. Revise timing only against a named observed failure; evaluate still communication separately.",
+  "confidence": "High for inspected static distinctions and source structure; limited for perceived rhythm and unaided meaning."
+}

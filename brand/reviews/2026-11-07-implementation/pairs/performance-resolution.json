@@ -1,0 +1,20 @@
+{
+  "discipline": "performance",
+  "state": "Both reviewers explicitly confirmed the same scoped recommendation.",
+  "recommendation": "Keep the improved beat structure. A bounded future study can vary tiny hand pose and orientation to strengthen invitation without changing anatomy. Continuous playback evidence is needed for timing judgments.",
+  "discussionRecords": [
+    "pairs/performance-a-discussion.json",
+    "pairs/performance-b-discussion.json"
+  ],
+  "independentReviews": [
+    "independent/performance-a.json",
+    "independent/performance-b.json"
+  ],
+  "explicitConfirmations": [
+    "team-votes/performance-a.json",
+    "team-votes/performance-b.json"
+  ],
+  "proposal": "team-proposal-v2.json",
+  "proposalSha256": "4eef022ccecba73621ca188b29c13cbc41d08b5268ffeaa6e98e2c4c5ea08c5c",
+  "scorePolicy": "Individual scores remain separate; acceptance does not imply a 9/10 rating."
+}

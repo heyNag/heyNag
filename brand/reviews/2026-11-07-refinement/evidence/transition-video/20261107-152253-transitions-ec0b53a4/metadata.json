@@ -1,0 +1,81 @@
+{
+  "engine": "local",
+  "question": null,
+  "media_identity": {
+    "path": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-refinement/evidence/transitions.webm",
+    "size": 11278020,
+    "mtime_ns": 1794039721505663988
+  },
+  "transcript": {
+    "source": "none",
+    "gaps": null,
+    "no_speech": null,
+    "reused_from": null
+  },
+  "supporting_transcripts": {
+    "path": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-refinement/evidence/transition-video/20261107-152253-transitions-ec0b53a4/supporting_transcripts.json",
+    "count": 0,
+    "sources": []
+  },
+  "source": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-refinement/evidence/transitions.webm",
+  "source_info": {
+    "title": "transitions.webm",
+    "path": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-refinement/evidence/transitions.webm",
+    "source_type": "local"
+  },
+  "video_path": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-refinement/evidence/transitions.webm",
+  "caption_path": null,
+  "caption_info": null,
+  "subtitle_langs": "en,en-orig,en-US,en-GB,en.*,-live_chat",
+  "probe": {
+    "duration_seconds": 41.971,
+    "width": 1280,
+    "height": 800,
+    "video_codec": "vp9",
+    "has_audio": false,
+    "size_bytes": 11278020,
+    "format_name": "matroska,webm"
+  },
+  "range": {
+    "start_seconds": 0.0,
+    "end_seconds": 41.971,
+    "duration_seconds": 41.971,
+    "focused": false,
+    "focused_download_section": null,
+    "focused_download_requested": false
+  },
+  "frames": {
+    "enabled": true,
+    "detail": "transcript",
+    "count": 86,
+    "mode": "auto",
+    "frame_interval": 5.0,
+    "fps": null,
+    "selected_fps": 0.9530390031212028,
+    "target_frames": 40,
+    "frame_cap": 90,
+    "max_frames": 90,
+    "width": 1024,
+    "format": "png",
+    "dedup": true,
+    "engine": null,
+    "cues": {
+      "engine": "timestamps",
+      "requested_count": 86,
+      "selected_count": 86,
+      "dropped_out_of_window": 0,
+      "warnings": []
+    },
+    "manifest": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-refinement/evidence/transition-video/20261107-152253-transitions-ec0b53a4/evidence.json"
+  },
+  "transcriber": "none",
+  "analyzer": "none",
+  "visual_evidence_requested": true,
+  "original_audio": {
+    "requested": false,
+    "path": null,
+    "status": "not_requested"
+  },
+  "audio_error": null,
+  "errors": []
+}

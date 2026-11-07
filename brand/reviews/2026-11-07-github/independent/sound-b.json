@@ -1,0 +1,162 @@
+{
+  "reviewerId": "sound-B",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "role": "Sound designer",
+  "lens": "Rhythm, optional audio and repeat-listening comfort; purposeful silence and static reading rhythm",
+  "scope": "Fresh review of the locally prepared GitHub profile application in its native preview: purposeful silence, static reading hierarchy and pacing, plus the written continuity contract for a future website. No new motion or audio is implemented. Previous mascot craft scores are not profile approval.",
+  "independence": "Saved before reading any new partner or other specialist review. No browser operation, source edit, publication or other-agent delegation.",
+  "sourceManifestSha256": "7b23e48c7555ab1abca2a81923bb526411043350c092e352ef42efd106b468d2",
+  "inspectedEvidence": [
+    "AGENTS.md; brand/workflow.json; sound role and complementary A/B lenses in brand/team.json",
+    "README.md; brand/profile/profile.json; brand/profile/continuity.json",
+    "brand/reviews/2026-11-07-github/review-instructions.txt; brief.json; review-source-v1.json; evidence/render-checks.json",
+    "evidence/profile-light-1440.png \u2014 view_image",
+    "evidence/profile-dark-1440.png \u2014 view_image",
+    "evidence/profile-light-320-top.png \u2014 view_image",
+    "evidence/profile-dark-320-top.png \u2014 view_image",
+    "evidence/readme-light-320-scroll.png \u2014 view_image",
+    "evidence/readme-dark-320-scroll.png \u2014 view_image",
+    "evidence/pins-light-320-scroll.png \u2014 view_image",
+    "All nine files in review-source-v1.json checked by SHA-256 and matched. No sticky full-page 320 capture used for reading claims."
+  ],
+  "skillsReviewed": {
+    "newFullReads": [
+      {
+        "name": "emil-design-eng",
+        "path": "/Users/nag/.agents/skills/emil-design-eng/SKILL.md"
+      },
+      {
+        "name": "design-taste-frontend",
+        "path": "/Users/nag/.agents/skills/taste-skill/SKILL.md"
+      }
+    ],
+    "reusedFullReads": [
+      "choreograph",
+      "remove-animations",
+      "review-animations"
+    ],
+    "priorIntake": "brand/reviews/2026-11-07-implementation/independent/sound-b.json records all 17 Emil catalog summaries and full relevant routing skills. The previously partial Emil design reading is replaced by a full read in this round.",
+    "actualApplication": "Use the should-this-animate decision, frequency/purpose restraint, clear content hierarchy, real evidence and plain copy. No animation or website kit implementation is inferred from reading the skills."
+  },
+  "workflowChanges": [
+    "Review the entire native reading sequence, including sidebar/bio and pins, so README copy is not judged in isolation from material the reader already encountered.",
+    "Use actual scrolled phone viewports for pacing and line-wrap claims; treat full-page sticky-header artifacts as capture limitations.",
+    "For future website work, keep a content-first reading path and assess optional character performance separately. Carry the identity through versioned assets and voice rather than making repeated motion or sound the continuity mechanism.",
+    "Keep the future sound decision independent: require a specific purpose, explicit reversible opt-in and actual listening/interruption evidence only if audio is later commissioned."
+  ],
+  "rulesNotApplicableWithReason": [
+    {
+      "rule": "Custom hover/press animation, loops and the taste-skill motion layer",
+      "reason": "This is a GitHub-native static profile. It cannot host the custom CSS/JS layer and has no motion problem that requires an animated image. Native interaction remains appropriate."
+    },
+    {
+      "rule": "One section per screen, dealt hero, custom fonts/palette and commercial-site asset counts",
+      "reason": "GitHub owns the layout and typography; this is a personal introduction, not a commercial landing page. Preserve the established palette/assets and native content flow."
+    },
+    {
+      "rule": "No caption under an image",
+      "reason": "The first-person introduction below the banner is meaningful native text, not decorative image commentary. It must remain accessible and independent of the image."
+    },
+    {
+      "rule": "Sound or movement as a required identity feature",
+      "reason": "Silence and a static moth are sufficient for this surface; there is no missing-audio or missing-animation deduction."
+    },
+    {
+      "rule": "Skill browser-check commands, site building and mandatory Markdown review tables",
+      "reason": "The assignment requires a read-only independent JSON review and gives root browser ownership. Reviewed the supplied real-DOM local preview evidence; no skill assets, servers or checks were run."
+    },
+    {
+      "rule": "Sub-300 ms UI and GPU-only character requirements",
+      "reason": "No custom motion is implemented in this application. Future intentional character content remains distinct from interface feedback and requires its own rendered review."
+    }
+  ],
+  "score": 8.8,
+  "scoreMeaning": "Quality of the implemented static GitHub application through the sound-B attention/reading lens: coherent purposeful silence and accessible content sequence, with avoidable repetition slowing the narrow-screen read. This is a new application score, not a revision of the prior 9.0 mascot-staging score; it excludes listening, human comfort and the unbuilt website.",
+  "confidence": {
+    "overall": "medium-high for source and static preview judgments",
+    "sourceAndRenderScope": "high",
+    "readingRhythm": "specialist craft judgment, not measured reading time",
+    "audienceAndListening": "unobserved"
+  },
+  "strengths": [
+    {
+      "finding": "Silence and stillness serve the profile rather than feeling like absent content.",
+      "evidence": "README uses a static picture with PNG theme alternatives followed by native headings, prose and links. Desktop and phone previews show the complete introduction can be read without waiting, playing, hovering or hearing anything."
+    },
+    {
+      "finding": "The character adds one visual identity beat while text carries the actual claims.",
+      "evidence": "1440 light/dark previews pair the same small moth identity with a large heyNag wordmark; the README immediately names Nag and describes the public projects. At 320 px no project meaning depends on reading a tiny hand gesture or recognizing an emotion."
+    },
+    {
+      "finding": "The three-project structure gives the reading sequence clear stopping points.",
+      "evidence": "readme-light-320-scroll.png and readme-dark-320-scroll.png show linked bold project names, separated paragraphs and a short closing line. Pins remain direct native destinations. All ten render-check records report document width equal to viewport and the expected three links."
+    },
+    {
+      "finding": "Tone remains grounded and companionable without asking the mascot to narrate.",
+      "evidence": "README clearly describes a small public window and acknowledges private work without exposing details. Concrete project descriptions come before the short reflective closing line; no invented outcomes or attention-grabbing counters are added by the profile draft."
+    },
+    {
+      "finding": "The continuity plan preserves a useful quiet baseline.",
+      "evidence": "continuity.json calls for real work visible without mascot interaction, static/reduced-motion paths, and no forced sound or interaction gate. It reuses the same character/palette/name/voice and postpones the website link until a useful live destination exists."
+    }
+  ],
+  "deductions": [
+    {
+      "id": "sound-b-github-preface-repetition",
+      "severity": "minor",
+      "type": "static reading-rhythm craft judgment",
+      "confidence": "medium-high",
+      "finding": "The sidebar/mobile bio and README opening repeat software, useful tools, curious experiments and how software feels before the reader reaches a concrete project. At 320 px the README opening occupies several lines after an already substantial native profile section, adding another introductory beat rather than new information.",
+      "evidence": [
+        "brand/profile/profile.json bio",
+        "README.md opening paragraph",
+        "evidence/profile-light-320-top.png",
+        "evidence/profile-dark-320-top.png",
+        "evidence/readme-light-320-scroll.png"
+      ],
+      "improvementCriterion": "Compare a shorter, more concrete README opening that complements the bio while preserving the private-work context. Judge actual 320 px scrolled reading order; do not alter GitHub chrome or add motion to accelerate it."
+    },
+    {
+      "id": "sound-b-github-project-repetition",
+      "severity": "minor",
+      "type": "static reading-rhythm craft judgment",
+      "confidence": "medium",
+      "finding": "The README project paragraphs are followed immediately by pins that restate much of their functional description. The second sentences add warmth, but the repeated experiment/personality language and repeated feature summaries make the final portion feel more uniform than the three projects themselves.",
+      "evidence": [
+        "README.md Things I have shared paragraphs",
+        "brand/profile/profile.json repositoryDescriptions",
+        "evidence/readme-light-320-scroll.png",
+        "evidence/readme-dark-320-scroll.png",
+        "evidence/pins-light-320-scroll.png"
+      ],
+      "improvementCriterion": "Keep the useful native pins and give the README a distinct job: a shorter selection rationale or one grounded personal detail per project, while pin descriptions carry the basic function. Preserve facts and do not invent motivations or results to create variety."
+    }
+  ],
+  "blockers": [],
+  "recommendations": [
+    "Accept purposeful static silence for the local GitHub draft; no animated header, sonic logo, mute button or play affordance is needed.",
+    "Try a restrained copy-only tightening of the repeated introduction and project/pin summaries if pursuing a stronger narrow-screen reading rhythm. Keep the existing short readable sections and direct links.",
+    "In the future website specification, interpret no forced sound as silent by default. If audio is ever requested, provide a separate reversible opt-in, keep important meaning visual/textual, prevent overlapping retriggers and catch-up playback, and review repeated listening before adoption.",
+    "Retain the current boundary between reviewed local preview, eventual live profile verification and unbuilt website design. A shared source and palette support continuity; they do not prove recognition or comfort."
+  ],
+  "continuityAssessment": {
+    "current": "Static paired headers, universal day avatar, personal naming and plain first-person project descriptions provide a coherent local GitHub application without borrowed motion/audio approval.",
+    "futurePlan": "The written contract is compatible with the quiet profile: same maker identity, useful work first, occasional character behavior, static/reduced-motion alternatives and no forced sound. It is a design direction only.",
+    "nextEvidence": "Review the built website with actual project content and responsive rendering before scoring reading flow, character behavior or optional audio. If published later, verify the real profile independently of this injected local preview.",
+    "notEstablished": "Cross-surface human recognition, emotional attachment, repeat-visit comfort, continuous motion or any sonic identity."
+  },
+  "unscoredOutcomes": {
+    "audioQuality": null,
+    "sonicIdentity": null,
+    "continuousMotionRhythm": null,
+    "repeatListeningComfort": null,
+    "humanReadingComfort": null,
+    "crossSurfaceRecognition": null,
+    "attachmentAndRecall": null,
+    "futureWebsiteQuality": null,
+    "physicalPhoneBehavior": null,
+    "spokenScreenReaderOutput": null,
+    "liveAccountPublicationState": "Not applied according to preview provenance; no live-settings certification."
+  }
+}

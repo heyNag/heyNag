@@ -1,0 +1,28 @@
+{
+  "viewBox": [0, 0, 640, 660],
+  "neutral": {
+    "bodyX": 0, "bodyY": 0, "bodyR": 0,
+    "headX": 0, "headY": 0, "headR": 0,
+    "antennaL": 0, "antennaR": 0,
+    "wingLF": 0, "wingRF": 0, "wingLH": 0, "wingRH": 0,
+    "handLX": 255, "handLY": 478, "handLR": 0,
+    "handRX": 387, "handRY": 444, "handRR": 0,
+    "footLR": 0, "footRR": 0,
+    "eyeL": 1, "eyeR": 1, "eyeJoy": 0,
+    "gazeX": 0, "gazeY": 0,
+    "browL": 0, "browR": 0, "browLY": 0, "browRY": 0,
+    "mouthSmile": 0.75, "mouthOpen": 0.35, "mouthO": 0,
+    "mouthX": 0, "glasses": 0, "glassesY": 0,
+    "bulb": 0, "heart": 0, "tear": 0, "breath": 0
+  },
+  "rules": [
+    "Numeric fields only. Renderer merges neutral defaults.",
+    "All rotation values degrees. Positive wing values open outward, renderer mirrors each side. Negative folds inward. Forewing range -18..22; hindwing -14..25. Four distinct panel hinges stay attached.",
+    "Hand coordinates in SVG units; shoulders near (270,456) and (368,447); clamp reach to 48px. Head comes down to mitten for thinking, never grow arms. Keep fingers round.",
+    "bodyY is whole-character vertical translation (negative hop), no scale. headY local offset. Foot rotations pivot near heels and retain attachment, range +/-12deg.",
+    "eyeL/eyeR openness 0..1.15, eyeJoy -1..1 controls closed arc curvature. gazeX/Y roughly +/-5. Brow rotations +/-18deg, Y +/-9px. mouthSmile -1..1, mouthOpen and mouthO 0..1; continuous path morphs.",
+    "antennaL/R signed bend degrees +/-20, deform tip and shaft together; no stump or floating tips.",
+    "Props opacity 0..1, same shapes both themes, bulb/heart/breath outside silhouette, tear on cheek.",
+    "Day/night geometry identical. No idle RAF. SVG fully vector and independently articulated, not PNG swapping."
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "role": "Audience and character-perception researcher — AI expert assessment, not human research",
+  "verdict": "A coherent, affectionate character prototype with plausible personal-brand potential. Public attribution, emotional interpretation, and lasting affinity remain untested. Preserve the tiny innocence; strengthen the relationship between the moth, Nag, and actual work before claiming memorability.",
+  "evidenceInspected": [
+    "brand/reviews/2026-11-07/brief.json",
+    "brand/reviews/2026-11-07/evidence/identity.png",
+    "brand/reviews/2026-11-07/evidence/all-24.png",
+    "brand/reviews/2026-11-07/evidence/studio-desktop.png",
+    "brand/reviews/2026-11-07/evidence/readme-phone-day.png",
+    "brand/reviews/2026-11-07/evidence/readme-phone-night.png",
+    "assets/brand/heynag-moth-v5-refined.png",
+    "assets/brand/heynag-moth-v5-night.png",
+    "README.md",
+    "brand/story.md"
+  ],
+  "strengths": [
+    "Observed: oversized cream head, black oval eyes, short mittens, attached feet, marked layered wings, and unequal paddle antennae recur across both palettes. This gives several recognition cues beyond green coloring.",
+    "Interpretation: the rounded proportions and open face support the intended innocence without needing adult anatomy. The quieter skeptical and mischievous faces offer a route to dry warmth alongside exuberance.",
+    "Observed: the README introduces Nag immediately and names actual projects with bounded descriptions. Its questions connect curiosity to software work; the moth does not have to carry professional credibility alone."
+  ],
+  "findings": [
+    {
+      "id": "AUD-01",
+      "priority": "research-question",
+      "claimType": "interpretation",
+      "finding": "Character recognition and author attribution are different outcomes. A visitor could remember a friendly green creature without remembering Nag or a project. The studio foregrounds the character; the README supplies the stronger author connection.",
+      "evidence": ["brand/reviews/2026-11-07/evidence/studio-desktop.png", "README.md"],
+      "recommendation": "Judge applications by unaided recall of Nag and one actual project connection, alongside recall of the moth. Keep first-person authorship prominent.",
+      "verification": "Record author, project, and character recall separately, including incorrect attributions."
+    },
+    {
+      "id": "AUD-02",
+      "priority": "next-refinement",
+      "claimType": "interpretation",
+      "finding": "Some held emotions occupy neighboring readings: thinking/focused share glasses; grateful/shy share contained hands; sad/worried share concern. These can form a coherent personality without all 24 labels being independently decodable. Dry wit is less established by these stills than friendliness.",
+      "evidence": ["brand/reviews/2026-11-07/evidence/all-24.png", "brand/story.md"],
+      "recommendation": "Prioritize a few useful narrative contrasts. Test unlabelled clips in context; allow reasonable synonyms instead of grading exact taxonomy matches. Evaluate dry wit through original copy and timing.",
+      "verification": "Observers describe the intended broad situation without labels or explanatory acting notes."
+    },
+    {
+      "id": "AUD-03",
+      "priority": "research-question",
+      "claimType": "interpretation",
+      "finding": "Childlike anatomy is visible; childish professional judgment is not. The same softness might suggest approachability, a playful developer, children's content, or a game character depending on context. Those are competing hypotheses, not audience findings.",
+      "evidence": ["assets/brand/heynag-moth-v5-refined.png", "brand/reviews/2026-11-07/evidence/readme-phone-day.png"],
+      "recommendation": "Ask what kind of person or work visitors expect and which specific evidence created that expectation. Address misleading context before altering the nonnegotiable innocence.",
+      "verification": "Collect verbatim expectations before introducing words such as cute, professional, childish, or curious."
+    },
+    {
+      "id": "AUD-04",
+      "priority": "research-question",
+      "claimType": "proposal",
+      "finding": "Run a small formative test that separates liking from understanding and memory.",
+      "evidence": ["README.md", "brand/reviews/2026-11-07/evidence/identity.png"],
+      "recommendation": "Recruit 12–16 unfamiliar people, primarily software peers or likely collaborators, plus several outside software. Randomly assign equal groups to equivalent README prototypes with either a V5 masthead or a wordmark alone; hold copy, size, exposure time, and project links constant. After a ten-second skim, hide the page: 'What do you remember?' Then ask who it concerns, what they do, and what they would inspect next. Restore it for a realistic project-finding task. Ask what increases or reduces interest and why; accept indifference. After 24–48 hours, obtain unaided name, work, and visual recall before any recognition choices. Only afterward show a balanced character recognition lineup and ask which, if any, appeared. Run unlabelled emotion interpretation after delayed recall or with separate participants to avoid extra exposure. Log exact language, errors, choices, and condition; treat patterns as formative, not population estimates.",
+      "verification": "Look for accurate author/project attribution alongside affinity and delayed recall; investigate repeated confusion rather than adopting a flattering average."
+    },
+    {
+      "id": "AUD-05",
+      "priority": "next-refinement",
+      "claimType": "observed",
+      "finding": "The evidence labels emotions and explains acting intent. The supplied brief states desired personality. Both help expert inspection but prime interpretation; repeated panel agreement cannot establish spontaneous audience response.",
+      "evidence": ["brand/reviews/2026-11-07/brief.json", "brand/reviews/2026-11-07/evidence/studio-desktop.png"],
+      "recommendation": "Freeze hypotheses before testing, conceal desired adjectives, seek disconfirming cases, and have another reader code anonymized responses. Report AI-panel judgments separately from human evidence.",
+      "verification": "A test report retains negative and ambiguous responses and distinguishes inference from observed behavior."
+    }
+  ],
+  "keep": ["Tiny anatomy and asymmetry", "Paired day/night identity", "Nag's first-person questions and bounded project claims"],
+  "challengeForOtherRoles": [
+    "Brand strategy: what evidence connects visual distinctiveness to remembering Nag rather than only the mascot?",
+    "Character and motion: are adjacent emotions harmful ambiguity, or sufficient nuance once a real situation supplies context?"
+  ],
+  "limits": [
+    "Paths are relative to the heyNag repository. No people were recruited; no audience, legal-clearance, or competitive-uniqueness claim is made.",
+    "Stills establish visible features, not timing or interactive comprehension. The README captures are local proofs with a legacy V2 header; neither a live GitHub audit nor a V5 application test. Future website and scenes are coverage gaps, not prototype defects."
+  ]
+}

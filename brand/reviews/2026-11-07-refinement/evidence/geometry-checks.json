@@ -1,0 +1,7 @@
+{
+  "samples": 504,
+  "dayNightGeometryMismatches": 0,
+  "beforeAfterAnatomyMismatches": 0,
+  "invalidSVG": 0,
+  "method": "24 clips ×21 poses; geometry attributes compared on matched poses, excluding only two added antenna-edge paths from the before/after comparison. Paint/color deliberately excluded."
+}

@@ -1,0 +1,24 @@
+✔ all 24 emotions and separate auditions preserve the numeric anatomy contract throughout playback (51.999125ms)
+✔ each performance completes once and leaves no scheduled animation frame (209.857ms)
+✔ rapid interruption starts from the actual pose, including a paused pose (0.651708ms)
+✔ seek, rest, and reduced-motion playback are deterministic and finite (2.562ms)
+✔ rest entry plays the authored first response without a second ease (1.555166ms)
+✔ curious replay retains attention and surprise replay keeps its quick face-first onset (3.415708ms)
+✔ the wry audition shares the same investigation before its single afterthought (5.283334ms)
+✔ the offering mitten turns out after the visitor return and holds without a wave (1.088583ms)
+✔ the one-peek audition holds its reveal while the two-peek control remains available (4.152167ms)
+✔ hop compression follows contact and the head recovers without another body bounce (1.723ms)
+✔ airborne-to-signature and reflective-to-joy interruptions stay continuous and finish (16.029166ms)
+✔ distinct wing acting survives in held poses and key motion is independent (0.353792ms)
+✔ sad and worried keep a closed, non-positive mouth and lowered head through both transitions (19.364ms)
+✔ nearby difficult and reflective switches preserve intention while welcoming rest remains available (41.559333ms)
+✔ the tiny hop descends through the wing reversal without a midair stop (5.31375ms)
+✔ rapid compatible interruptions retain the current pose and stay inside numeric bounds (5.1975ms)
+ℹ tests 16
+ℹ suites 0
+ℹ pass 16
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 426.993041

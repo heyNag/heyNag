@@ -1,0 +1,88 @@
+{
+  "pass": "Installed skill application to studio controls",
+  "sources": [
+    {
+      "file": "brand/animation-v5/studio.css",
+      "beforeSha256": "7d9a4e2138c36351e829af4592e31625f0e3c4181d096b9a881d0ffc04b8ead2",
+      "afterSha256": "a43848acd9bb41df4fd2c3c7c6015e74883d12ababd77489040f31f54acd18ca"
+    },
+    {
+      "file": "brand/animation-v5/signature.css",
+      "beforeSha256": "3460d83ec665d394fb9a3b859bc3d30dccd0a4164cfe396ff9ffc7c055038875",
+      "afterSha256": "5673eca0b40ed283f589c7b18706439f584710268d06aff7b2b206c511bc805a"
+    }
+  ],
+  "skillsReadInFull": [
+    "/Users/nag/.agents/skills/emil-design-eng/SKILL.md",
+    "/Users/nag/.agents/skills/mobile-native/SKILL.md",
+    "/Users/nag/.agents/skills/review-animations/SKILL.md",
+    "/Users/nag/.agents/skills/review-animations/STANDARDS.md"
+  ],
+  "catalogueInspected": "brand/reviews/2026-11-07-implementation/installed-skills.json",
+  "findingsTable": [
+    {
+      "before": "Unconditional button hover styles in both pages; unconditional link hover in the curiosity study.",
+      "after": "All local hover rules are inside (hover: hover) and (pointer: fine). Press feedback remains outside that query.",
+      "why": "Hover is a capability, not a viewport size. Touch does not need to retain a simulated hover state."
+    },
+    {
+      "before": "Background and transform both transitioned for 150ms using an implicit CSS ease. Press and release used identical timing.",
+      "after": "Only transform transitions: 140ms on press, 100ms on release, cubic-bezier(0.23,1,0.32,1). Background changes are immediate.",
+      "why": "Immediate visible feedback and a faster release, using the supplied curve. Remove the paint-based background transition rather than adding machinery."
+    },
+    {
+      "before": "The studio native select used 14px text; input sizing was not explicit for coarse pointers.",
+      "after": "Native selects and inputs use 16px under (pointer: coarse). Existing viewport metadata retains user zoom.",
+      "why": "Address the small-field-text cause of focus zoom without disabling zoom or guessing the device from width."
+    },
+    {
+      "before": "Pressable controls relied solely on the browser default touch-action.",
+      "after": "Buttons, links, summary, selects, native radios and their control labels use touch-action: manipulation.",
+      "why": "Permit normal panning and pinch zoom while expressing that those tap targets do not require double-tap zoom delay. Native range gestures remain unchanged."
+    },
+    {
+      "before": "Button and radio-label text could be selected by a long press.",
+      "after": "Only buttons, summary and radio control labels have user-select: none, with the Safari prefix.",
+      "why": "Keep controls deliberate while prose, statuses, project context and ordinary links remain selectable/copyable."
+    },
+    {
+      "before": "The new curiosity page generic light hover background could override its primary button fill while its text stayed light.",
+      "after": "An explicit dark primary hover/active background preserves the intended contrast.",
+      "why": "Capability gating alone would preserve that source-supported color mismatch; fix the primary control state in the same narrow rule change."
+    },
+    {
+      "before": "Keyboard-focused buttons could inherit the same transform transition as pointer press feedback.",
+      "after": "Focus-visible buttons keep immediate control feedback with no transform transition. The selected mascot performance is unchanged.",
+      "why": "Separate frequent UI feedback from the intentionally requested animated content. Keyboard Play must continue to play the film."
+    }
+  ],
+  "retainedByCause": [
+    {
+      "item": "Native tap highlight",
+      "reason": "Kept. Not every textual link has a designed alternate active state; suppressing the browser feedback globally would remove useful feedback."
+    },
+    {
+      "item": "Document scrolling, pinch zoom and text selection",
+      "reason": "Kept. These are scrolling review documents, not full-screen app shells or custom gesture canvases. No root overscroll lock, touchmove interception, viewport-fit change or zoom restriction was added."
+    },
+    {
+      "item": "Native selects, radios and ranges",
+      "reason": "Kept. The browser owns their input behavior; no custom dropdown, artificial delay or scripted gesture handler was introduced."
+    },
+    {
+      "item": "Reduced-motion stills and explicit keyboard Play",
+      "reason": "Kept. The mascot motion is requested content; the operational UI feedback is a separate scope. Reduced motion remains live and still-first."
+    }
+  ],
+  "validation": {
+    "source": "Reviewed selectors, cascade and exact curve/durations. No layout properties, keyframes, broad transition:all, root selection lock or zoom restriction were added.",
+    "browser": "Root owns fresh browser evidence; source changes invalidate the earlier UI freeze until rechecked.",
+    "hardware": "Not tested on physical iOS/Android hardware. Sticky hover, tap latency and focus zoom are source-addressed risks, not measured device outcomes.",
+    "performance": "Transform-only UI transitions reduce animated property scope; this is not a measured frame-budget or compositor-layer claim."
+  },
+  "decision": {
+    "sourcePatch": "Approve for browser verification within the authorized local scope.",
+    "productApproval": "Not assigned. Hardware comfort and independent specialist approval remain separate."
+  },
+  "markdownTable": "| Before | After | Why |\n| --- | --- | --- |\n| Unconditional button hover styles in both pages; unconditional link hover in the curiosity study. | All local hover rules are inside (hover: hover) and (pointer: fine). Press feedback remains outside that query. | Hover is a capability, not a viewport size. Touch does not need to retain a simulated hover state. |\n| Background and transform both transitioned for 150ms using an implicit CSS ease. Press and release used identical timing. | Only transform transitions: 140ms on press, 100ms on release, cubic-bezier(0.23,1,0.32,1). Background changes are immediate. | Immediate visible feedback and a faster release, using the supplied curve. Remove the paint-based background transition rather than adding machinery. |\n| The studio native select used 14px text; input sizing was not explicit for coarse pointers. | Native selects and inputs use 16px under (pointer: coarse). Existing viewport metadata retains user zoom. | Address the small-field-text cause of focus zoom without disabling zoom or guessing the device from width. |\n| Pressable controls relied solely on the browser default touch-action. | Buttons, links, summary, selects, native radios and their control labels use touch-action: manipulation. | Permit normal panning and pinch zoom while expressing that those tap targets do not require double-tap zoom delay. Native range gestures remain unchanged. |\n| Button and radio-label text could be selected by a long press. | Only buttons, summary and radio control labels have user-select: none, with the Safari prefix. | Keep controls deliberate while prose, statuses, project context and ordinary links remain selectable/copyable. |\n| The new curiosity page generic light hover background could override its primary button fill while its text stayed light. | An explicit dark primary hover/active background preserves the intended contrast. | Capability gating alone would preserve that source-supported color mismatch; fix the primary control state in the same narrow rule change. |\n| Keyboard-focused buttons could inherit the same transform transition as pointer press feedback. | Focus-visible buttons keep immediate control feedback with no transform transition. The selected mascot performance is unchanged. | Separate frequent UI feedback from the intentionally requested animated content. Keyboard Play must continue to play the film. |"
+}

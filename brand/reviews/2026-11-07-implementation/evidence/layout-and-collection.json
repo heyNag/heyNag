@@ -1,0 +1,109 @@
+{
+  "collectionOffscreen": {
+    "selected": "curious",
+    "info": {
+      "id": "curious",
+      "time": 2800,
+      "duration": 2800,
+      "playing": false,
+      "paused": false,
+      "progress": 1,
+      "transitioning": false,
+      "reducedMotion": false
+    },
+    "collection": "false"
+  },
+  "layout1440": {
+    "viewport": 1440,
+    "scrollWidth": 1440,
+    "moths": [
+      {
+        "width": 520,
+        "height": 465
+      },
+      {
+        "width": 520,
+        "height": 465
+      }
+    ]
+  },
+  "layout1024": {
+    "viewport": 1024,
+    "scrollWidth": 1024,
+    "moths": [
+      {
+        "width": 471,
+        "height": 348
+      },
+      {
+        "width": 471,
+        "height": 348
+      }
+    ]
+  },
+  "layout768": {
+    "viewport": 768,
+    "scrollWidth": 768,
+    "moths": [
+      {
+        "width": 359,
+        "height": 300
+      },
+      {
+        "width": 359,
+        "height": 300
+      }
+    ]
+  },
+  "layout390": {
+    "viewport": 390,
+    "scrollWidth": 390,
+    "moths": [
+      {
+        "width": 178,
+        "height": 255
+      },
+      {
+        "width": 178,
+        "height": 255
+      }
+    ]
+  },
+  "layout320": {
+    "viewport": 320,
+    "scrollWidth": 320,
+    "moths": [
+      {
+        "width": 143,
+        "height": 220
+      },
+      {
+        "width": 143,
+        "height": 220
+      }
+    ]
+  },
+  "mobileSingle": {
+    "viewport": 390,
+    "stage": {
+      "x": 17,
+      "y": 200.8671875,
+      "width": 356,
+      "height": 312,
+      "top": 200.8671875,
+      "right": 373,
+      "bottom": 512.8671875,
+      "left": 17
+    },
+    "moth": {
+      "x": 17,
+      "y": 200.8671875,
+      "width": 356,
+      "height": 312,
+      "top": 200.8671875,
+      "right": 373,
+      "bottom": 512.8671875,
+      "left": 17
+    }
+  }
+}

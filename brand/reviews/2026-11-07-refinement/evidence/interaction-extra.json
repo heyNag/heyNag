@@ -1,0 +1,49 @@
+{
+  "focus": {
+    "active": "feeling-name",
+    "visible": true,
+    "outline": "rgb(54, 85, 45) solid 3px",
+    "rect": {
+      "x": 84.8984375,
+      "y": 25.265625,
+      "width": 58.125,
+      "height": 26.3984375,
+      "top": 25.265625,
+      "right": 143.0234375,
+      "bottom": 51.6640625,
+      "left": 84.8984375
+    }
+  },
+  "native": {
+    "active": "feeling-select",
+    "selected": "angry",
+    "heading": "Angry"
+  },
+  "widths": [
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "selectorWidth": 200
+    },
+    {
+      "width": 1024,
+      "scrollWidth": 1024,
+      "selectorWidth": 200
+    },
+    {
+      "width": 768,
+      "scrollWidth": 768,
+      "selectorWidth": 200
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "selectorWidth": 168.5625
+    },
+    {
+      "width": 320,
+      "scrollWidth": 320,
+      "selectorWidth": 98.5625
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "question": "What should software remember?",
+  "source": "https://github.com/heyNag/eva-md/blob/main/README.md",
+  "blobSha": "46c8eb5492e0c626e39f9cdda8ab357db912ed76",
+  "checked": "2026-11-07",
+  "basis": "Markdown and git-based memory for Claude Code and Codex; local inbox and resume briefs. Existing local profile uses the same question.",
+  "publicCopy": "Exploring how Markdown and Git can carry context between coding sessions.",
+  "claimsAvoided": "No validated outcome, success rate, adoption or personal biography implied."
+}

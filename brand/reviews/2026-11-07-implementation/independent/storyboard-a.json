@@ -1,0 +1,125 @@
+{
+  "reviewer": "Storyboard, animatic and comic staging director A — visual storytelling and setup/payoff; standing role preserved from /root/panel_storyboard_astra",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "independentBeforePeer": true,
+  "reviewSource": "review-source-v4.json",
+  "scope": "Implemented Investigate & share signature staging and authored setup/payoff, supported by the selected comparative sequences and current 24-emotion still collection. The score covers source-supported event order and directly inspected rendered compositions; it does not score continuous perceived rhythm, live smoothness, physical-phone behavior or human comprehension.",
+  "evidenceActuallyInspected": [
+    "AGENTS.md; brand/team.json; brand/workflow.json; reviewer-instructions.txt; brief.json; full installed-skills.json catalog; review-source-v4.json; owner-preference.json",
+    "Prior own-role history: brand/reviews/2026-11-07-expanded-panel/independent/storyboard-a.json. No partner's new independent review read before saving this record.",
+    "brand/animation-v5/motion.js:1–179,191–281,408–760, including authored investigation, both peek variants, continuation families, sampling and engine interruption/completion",
+    "brand/animation-v5/character.js:1–240, including fixed geometry, four wing layers, head/hand drawing order and palette definitions",
+    "Complete brand/animation-v5/signature.js, signature.html and signature.css; complete evidence/comparison.js",
+    "SHA256 of the inspected motion.js, character.js and all three signature source files independently matches review-source-v4.json",
+    "implementation/motion.json; evidence/comparison-export.json; evidence/full-reel-export.json; evidence/geometry.json; evidence/final-ui.json; evidence/description-and-reduced-motion.json",
+    "Direct view_image inspection: evidence/signature-final-1440.png, signature-final-390-stage.png, signature-final-390-night.png, signature-final-320.png, curious-investigate.png, all-final.png, sizes-final.png, poses.png",
+    "Direct view_image inspection of selected decoded comparison sheets: evidence/decoded-day-5.png, decoded-night-5.png, decoded-day-2.png and decoded-day-6.png",
+    "Full SKILL.md: choreograph, review-animations, animation-vocabulary; review-animations/STANDARDS.md"
+  ],
+  "score": {
+    "value": 8.2,
+    "outOf": 10,
+    "meaning": "Strong, coherent authored visual storytelling with a concrete subject and an economical return to the visitor. The number rates inspected setup/payoff structure and rendered staging, not the still-unobserved felt rhythm or audience success. The two named deductions concern how distinctly the payoff reads and how literally attention connects to its subject on phones."
+  },
+  "strengths": [
+    "The question gives the attention a cause. The final desktop stage places What should software remember? to screen-right, matching the authored initial gaze. It is a question with an invitation to explore, not an unsupported result or victory claim.",
+    "The investigation has an intentional lead/support order: antenna at 150 ms, gaze at 330 ms, head/glasses at 790 ms, a gathered hand and lower scan at 1190 ms, an identical-pose consideration hold at 1610–1900 ms, return toward the visitor at 2350 ms, and the small offer at 2720 ms. The whole body does not compete for attention throughout.",
+    "The selected warm ending is held through the finite 4100 ms completion. The static cue stays available, so completing or skipping playback does not remove the project context. This is a complete thought with breathing room rather than a compulsory loop.",
+    "The final portrait composition gives the original little hand and face enough display area to inspect at 390 px. The paired day/night rendered images retain the same soft head, short body, small mittens, attached feet, unequal antennae and layered wings.",
+    "One-peek is a useful controlled economy study: the opening is shared with the two-peek control, but the conceal-and-recheck beat is removed while the asymmetric held eye remains. The decoded sheet makes that structural difference inspectable without pretending to resolve which timing is funnier.",
+    "The wry study confines its extra event to an afterthought after the shared invitation; source preserves the common opening. Nag's selected Investigate & share remains the lead, so the optional study does not redefine the intended personality.",
+    "Playback begins on request, remains pausable/scrubbable, and reduced motion retains a chosen pose and the complete visible question. Those choices keep intentional character performance available without making it an obstacle to the content."
+  ],
+  "deductions": [
+    {
+      "name": "The presenting payoff has limited silhouette separation",
+      "severity": "moderate craft weakness, nonblocking for this local study",
+      "confidence": "medium-high for the inspected stills; unmeasured at normal speed",
+      "scoreDeduction": 1.0,
+      "basis": "At the 2720 ms endpoint the presenting mitten remains close to the ruff and screen-right forewing. In curious-investigate.png and the smaller exact-engine sheet, the glasses and head change dominate the read; the final offer is a relatively small change from the gathered consideration pose. The larger final 390 px stage improves visibility but does not fully separate the hand's meaning from a general friendly raised hand.",
+      "references": ["brand/animation-v5/motion.js:418–442", "evidence/curious-investigate.png", "evidence/decoded-day-5.png", "evidence/signature-final-390-stage.png"],
+      "improvementCriterion": "Compare the exact 1190/1900/2350/2720 ms sequence at the intended display size without the intent explanation. If the presentation is still ambiguous, audition only a small existing-wrist position/rotation change or a clearer head-before-hand handoff; retain tiny mitten dimensions and the same numeric poses in both themes. Do not enlarge the anatomy to buy clarity."
+    },
+    {
+      "name": "Portrait staging weakens the literal attention-to-question relationship",
+      "severity": "minor craft weakness, nonblocking",
+      "confidence": "high for the layout difference; medium for its storytelling consequence",
+      "scoreDeduction": 0.8,
+      "basis": "The desktop scene puts the question beside the moth, close to the authored screen-right gaze and offering direction. At 390 px the question occupies a tall block above the character, while the authored reading scan turns right and then lower. Both elements are visible together in the scrolled stage capture, but their causal relationship relies more on the copy and sequence context. The 320 px initial-viewport capture does not yet show the figure and cannot establish the complete 320 px scene relationship.",
+      "references": ["brand/animation-v5/signature.css:18–22", "brand/animation-v5/motion.js:426–439", "evidence/signature-final-1440.png", "evidence/signature-final-390-stage.png", "evidence/signature-final-320.png"],
+      "improvementCriterion": "Inspect the whole 320 px and 390 px scene during the notice/read/return beats. A future layout audition should strengthen the question's placement relative to the unchanged gaze before introducing new pose logic. Preserve readable copy and the increased character display size."
+    }
+  ],
+  "improvementCriteria": [
+    "Confirm the handoff from consideration to invitation at normal playback speed, then use the frames to diagnose a named ambiguity. A source timeline alone is not sufficient evidence to retime the performance.",
+    "Review matched complete phone scenes at the actual intended display sizes so the relationship between question, eyes and hand can be judged together.",
+    "Retain the finite hold, static project cue, identical light/dark numeric poses and tiny anatomy while investigating the two craft weaknesses.",
+    "Keep the one-peek/two-peek and warm/wry comparisons controlled; do not promote a timing preference to a claim of audience comprehension or personal fit. Nag's warm selection already resolves the personal-fit lead."
+  ],
+  "confidence": {
+    "renderedComposition": "high",
+    "authoredSetupPayoffOrder": "high",
+    "semanticClarityOfSmallHand": "medium",
+    "continuousRhythmAndComicTiming": "not scored; continuous motion not watched",
+    "unprimedAudienceResponse": "not measured"
+  },
+  "implementedAssessment": {
+    "position": "Accept as a coherent, reviewable implemented local signature study with named nonblocking craft limits; no new substantive source defect established in this lens.",
+    "selectedLead": "Investigate & share — owner-selected warm and curious",
+    "sourceAndRendering": "The source and inspected frames support the intended sequence and preservation of anatomy; they do not establish every perceptual effect claimed by its descriptive labels.",
+    "continuousMotionJudgment": "Withheld. The comparison metadata records 2664 output frames at 30 fps over 88.8 seconds, sampled from the real engine. I inspected selected decoded sheets and metadata, not uninterrupted normal-speed playback.",
+    "onePeekJudgment": "A structurally cleaner alternative with its one reveal held; whether it outperforms two peeks as a joke remains open.",
+    "wryJudgment": "A contained optional afterthought rather than a necessary improvement to the selected warm story."
+  },
+  "objections": [],
+  "limits": [
+    "No continuous perceptual playback inspection. Sampled sheets cannot establish pause feel, smoothness, comic rhythm, weight or fatigue over repeated live playback.",
+    "No physical-phone, screen-reader speech, or new unprimed-human observation. Desktop/emulated evidence and AI craft judgment do not establish those outcomes.",
+    "The viewed 320 px screenshot proves the visible initial layout and heading wrap, not the complete scrolled composition or interaction.",
+    "The full 24-emotion film was not watched; its metadata and the all-final held-pose sheet were inspected. A catalogue is not an authored continuous story.",
+    "The geometry evidence reports 567 matched input samples with no mismatches; that is supplied numeric/rendered attribute evidence, not a new comprehensive geometry test performed by this reviewer.",
+    "No new source changes or browser operations were made by this reviewer."
+  ],
+  "skillsReviewed": {
+    "catalogCount": 17,
+    "catalogSummariesRead": ["emil-design-eng", "animate", "animate-expo", "review-animations", "improve-animations", "find-animation-opportunities", "remove-animations", "choreograph", "animation-performance", "animation-vocabulary", "apple-design", "write-swift", "pick-ui-library", "prototype", "mobile-native", "break-ui", "ask-sonner"],
+    "fullInstructionsRead": [
+      {"name": "choreograph", "path": "/Users/nag/.config/skillshare/skills/choreograph/SKILL.md", "use": "Cast lead/support/static elements; make cause/effect order explicit; preserve stillness and interruption; separate frame evidence from felt timing."},
+      {"name": "review-animations", "path": "/Users/nag/.config/skillshare/skills/review-animations/SKILL.md", "additionalReferenceRead": "/Users/nag/.config/skillshare/skills/review-animations/STANDARDS.md", "use": "Demand purposeful motion and evidence for the explicit approval scope; distinguish UI responsiveness from explanatory character performance."},
+      {"name": "animation-vocabulary", "path": "/Users/nag/.config/skillshare/skills/animation-vocabulary/SKILL.md", "use": "Use shared established terms for anticipation, follow-through, orchestration, interpolation and interruption rather than vague requests for more life."}
+    ],
+    "intakeBoundary": "All 17 catalog descriptions were read; only the three materially relevant full skills and the named standards reference were read. Catalog intake is not claimed as full instruction review of all 17."
+  },
+  "workflowChanges": [
+    {
+      "change": "Write the relationship timeline before proposing motion changes.",
+      "application": "Antenna leads attention at 150 ms; gaze supports at 330 ms; head/glasses support at 790 ms; hand supports consideration at 1190 ms; stillness at 1610–1900 ms; head returns before hand offer at 2350/2720 ms. Question, link and interface chrome remain static because they supply context and controls."
+    },
+    {
+      "change": "Require both perceptual and forensic review for final timing judgment.",
+      "application": "Normal-speed inspection answers whether the sequence reads; decoded frames and the timeline locate the cause of a failure. Record separately which evidence was available. Never substitute exact 30 fps export cadence for experienced rhythm."
+    },
+    {
+      "change": "Change one expressive variable per audition and preserve the baseline.",
+      "application": "The one-peek study changes a repetition decision; the wry study adds one late afterthought. Future website work should keep a shared opening and compare the actual rendered target size before stacking more expressive beats."
+    },
+    {
+      "change": "Make interruption and the static endpoint part of the storyboard brief.",
+      "application": "Every intentional scene needs a readable held state, cancellation/retrigger behavior, and an equivalent informative reduced-motion state. Interface controls must remain usable while the scene performs."
+    },
+    {
+      "change": "Treat responsive placement as part of storytelling.",
+      "application": "When layout moves a subject from beside the character to above it, re-check eyeline and presenting direction at the actual viewport instead of treating an overflow-free CSS layout as complete staging approval."
+    }
+  ],
+  "rulesNotApplicableWithReason": [
+    {"rule": "Sub-300 ms UI timing and short stagger budgets", "reason": "The requested 4.1-second character investigation is intentional explanatory content with cause, consideration and an invitation. Those UI budgets apply to controls and navigation, not to compressing the whole scene."},
+    {"rule": "Never animate keyboard-initiated actions", "reason": "Immediate keyboard feedback is appropriate for the interface, but keyboard activation of Play must still provide the deliberately requested performance. Removing that access would contradict the product purpose."},
+    {"rule": "GPU-only transform/opacity as an unconditional anatomy constraint", "reason": "Expressive SVG face and antenna deformation is the artwork. This review does not replace those paths or tiny proportions to satisfy a generic UI optimization rule; any optimization needs a relevant measured workload."},
+    {"rule": "One entrance per container and universal sequence collapse", "reason": "The moth is not a menu entrance. The antenna-to-eye-to-head ordering carries the story's causality. The rule remains useful for future page/control entrances but does not erase necessary character beats."},
+    {"rule": "Animation-vocabulary initial greeting and naming-only response format", "reason": "Nag explicitly requested skill intake and a substantive specialist review; the glossary is being read for shared terms, not invoked as an unanswered naming prompt."},
+    {"rule": "Skill-prescribed markdown review format", "reason": "The repository requires a structured independent JSON review. Its substantive findings, evidence, timeline and verdict are preserved here instead of replacing the mandated record format."},
+    {"rule": "Invoke prototype, pick-ui-library, or platform/tool-specific implementation from catalog discovery", "reason": "No new UI picker, library, React Native, Swift or Sonner feature is required for this read-only storyboard review. The catalog was inspected; unrelated implementation workflows were not run."}
+  ]
+}

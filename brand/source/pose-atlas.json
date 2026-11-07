@@ -1,0 +1,22 @@
+{
+  "asset": "assets/brand/moth-poses.png",
+  "method": "OpenAI built-in image generation",
+  "reference": "assets/brand/heynag-moth.png",
+  "prompt": "Use case: illustration-story.\nAsset type: motion-development pose atlas for the original heyNag personal-brand moth.\nInput image: identity reference, the accepted full-body heyNag moth. Preserve this particular character, not an existing entertainment character.\nPrimary request: develop the reference into a beautifully consistent six-pose acting sheet with genuinely expressive, appealing body language. The character embodies curious fun, noticing things, trying ideas, and sharing a discovery. Contemporary clean 2D animation character design, rounded confident contours, sophisticated simple appeal, warm and memorable.\nCanvas: 3 equal columns by 2 equal rows, landscape ratio 3:2. EXACTLY six complete separate characters, one centered inside each cell. Entire canvas genuinely transparent. No text or labels. Each pose stays entirely inside its own cell, with at least 12% empty margin from cell edges. Same scale and head/body proportions in all six cells. No touching or overlapping between cells.\nIdentity invariants: compact cream fluffy rounded head with only a few broad cheek tufts; small cream body; two large charcoal oval eyes; flexible leaf-tipped antennae, each tip fresh chartreuse green; pale green elongated moth wings with exactly one darker green teardrop mark per wing; two stubby fresh green feet; tiny cream forelegs. Thick smooth charcoal contours #1C1C1C, cream #FFF8E9, pale wing green #DCE8C2, fresh chartreuse #A8C84B. Flat opaque fills INSIDE character, clean alpha outside. No texture, gradients, lighting or shadows.\nSix performances, reading left to right:\nTOP LEFT — Hello: happy open smile, one small foreleg waving, body slightly forward, eyes welcoming. Stable friendly silhouette.\nTOP CENTER — Curious: lean and look toward upper right, one antenna reaches up and the other curls lower, wide attentive eyes, tiny rounded mouth. Curious, never afraid.\nTOP RIGHT — Thinking: foreleg gently under chin, eyes glance sideways, one eyebrow raised, relaxed mouth, wings tucked, thoughtful and soft. No angry or aggressive brows.\nBOTTOM LEFT — Aha: eyes closed in broad delighted arcs, big joyful open smile, wings raised, tiny feet tucked in a cheerful small hop. Open, expressive silhouette.\nBOTTOM CENTER — Sharing: looks back toward the viewer with an inviting happy smile, one foreleg presents the space to its right, other rests near chest. The gesture says 'look what I found'. No actual props.\nBOTTOM RIGHT — Oops: sheepish amused smile, gently uneven eyebrows, one antenna droops and the other perks, one tiny foreleg behind its head. Endearing resilient imperfection, not sadness.\nAvoid separate symbols, motion strokes, sparkles, borders, numbered cells, props, clothing, robot details, type, logos, watermarks, a background, drop shadows or checkerboard pixels. Strong emotional acting through face, antennae, wings and posture. Keep the character's identity faithful in all six poses. Complete antennae and feet in every cell. This atlas will be used in a small interactive prototype.",
+  "role": "Six-pose atlas for interactive motion study; not an articulated animation rig",
+  "layout": {
+    "columns": 3,
+    "rows": 2,
+    "cellWidth": 512,
+    "cellHeight": 512
+  },
+  "states": [
+    "hello",
+    "curious",
+    "thinking",
+    "aha",
+    "sharing",
+    "oops"
+  ],
+  "transparency": "Original generated alpha preserved; no raster postprocessing."
+}

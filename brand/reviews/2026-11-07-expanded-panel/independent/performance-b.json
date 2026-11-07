@@ -1,0 +1,35 @@
+{
+  "role": "Performance B — timing, weight and emotional clarity",
+  "observedStrengths": [
+    "Curiosity has a clear order of attention: antenna at 160 ms, gaze at 320 ms, head and wing by 680 ms, then a viewer-sharing glance at 2040 ms. This is authored intention, not merely an expression swap.",
+    "Updated mitten staging visibly separates thinking, focused and worried actions in poses.png while preserving the small body. The updated thinking replay frames retain their contemplative face instead of briefly showing the earlier smiling reset.",
+    "The hop carries its fall through the wing reversal. Direct sampling gives bodyY velocity approximately 0.050 SVG units/ms on both sides of 900 ms; exact-case-8 supports continued descent. Shared geometry, restrained amplitude and finite endings suit the innocent character.",
+    "The pretend-sleep peek is a promising mischievous signature; the code gives it a setup, reveal, concealment and second peek. No sound or scenery is necessary to understand the intended joke."
+  ],
+  "concreteConcerns": [
+    {
+      "id": "PB1",
+      "claim": "Small held poses do not yet give equally strong emotional separation; this particularly risks the mischievous signature.",
+      "evidence": "In all-24.png, mischievous initially reads to me as peaceful closed-eye contentment. Its defining half-eye is much less salient than the large glasses used by thinking/focused. Source specifies eyeR 0.48 at 1250–1550 ms against eyeL 0.04. This is my thumbnail reading, not an audience confusion measurement."
+    },
+    {
+      "id": "PB2",
+      "claim": "Landing weight needs normal-speed assessment before treating the corrected fall as finished acting.",
+      "evidence": "Direct samples: bodyY reaches zero at 1060 ms with incoming velocity 0.075 units/ms and then stops. Head compression is already nearly complete at 1033 ms (headY 3.469 versus 4 at contact), then immediately recovers. Thus most cushioning precedes contact. exact-case-8 shows the shapes but cannot establish whether this reads as soft landing or suspended bobbing."
+    },
+    {
+      "id": "PB3",
+      "claim": "The catalogue may share too much eased, multi-stage pacing for quick reactions and sustained contemplation to feel decisively different.",
+      "evidence": "All 24 durations fall between 2500 and 4100 ms. Except explicitly tangent-authored bodyY segments, sample() uses smoothstep with zero endpoint speed for every keyframe interval. Surprised spends 320 ms on anticipation and reaches its raised-head key at 540 ms. These are numeric facts; a softened startle or overly segmented rhythm remains a playback hypothesis, not an observed defect."
+    }
+  ],
+  "qualityCriteriaForNine": [
+    "Normal-speed silent playback makes attention, response and settlement legible on first viewing at intended display sizes, with visibly different rhythms for startle, contemplation and mischief.",
+    "Excited reads as a tiny weighted hop: continuous descent, convincing contact and recovery, with no anatomy enlargement or obligatory extra wing activity.",
+    "Without labels, viewers distinguish priority neighboring feelings using face, pose and timing; record actual descriptions and confusions before choosing revisions.",
+    "Replays and interruptions preserve emotional continuity while settling physical motion; source checks and frame sheets supplement, rather than replace, playback review."
+  ],
+  "highestValueExperiment": "Prepare a silent, unlabeled timing comparison using current geometry: current versus one narrowly retimed alternative for mischievous, surprised and excited. Vary only reveal duration, startle onset or post-contact head recovery respectively. Show each once at intended small and larger sizes; collect what happened, perceived feeling and any floating/stopping moment before showing labels. Review normal-speed playback plus contact frames. Keep the original when the alternative has no clear advantage.",
+  "subjectiveScore": null,
+  "limits": "Independent review recorded before reading A or previous reviews. Inspected current motion.js and character.js, five supplied PNG sheets, and direct numeric samples. No continuous playback, browser, new artwork or audience research performed. No score for unseen timing quality; website/scenes and intentional silence are outside defect scope."
+}

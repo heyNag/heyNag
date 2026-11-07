@@ -1,0 +1,107 @@
+{
+  "role": "Visual implementation engineer",
+  "request": "Nag asked the entire team to inspect the installed Emil Kowalski skills and improve future workflow.",
+  "scope": "Skill intake only. Current v4 remains frozen; no application source edits, new tests, new product audit or new score.",
+  "catalogRead": {
+    "path": "brand/reviews/2026-11-07-implementation/installed-skills.json",
+    "coverage": "All 17 catalog summaries read. Full reading is claimed only for the separately listed skills.",
+    "names": ["emil-design-eng", "animate", "animate-expo", "review-animations", "improve-animations", "find-animation-opportunities", "remove-animations", "choreograph", "animation-performance", "animation-vocabulary", "apple-design", "write-swift", "pick-ui-library", "prototype", "mobile-native", "break-ui", "ask-sonner"]
+  },
+  "skillsReviewed": [
+    {
+      "name": "emil-design-eng",
+      "path": "/Users/nag/.config/skillshare/skills/emil-design-eng/SKILL.md",
+      "reading": "Full SKILL.md, including the performance, accessibility, debugging and review sections.",
+      "relevance": "Purpose, frequency, cohesive defaults, responsive controls, deliberate visual tradeoffs, and rendered rather than code-only judgment. Future UI code reviews use its Before/After/Why table."
+    },
+    {
+      "name": "apple-design",
+      "path": "/Users/nag/.config/skillshare/skills/apple-design/SKILL.md",
+      "reading": "Full SKILL.md.",
+      "relevance": "Presentation-state continuity, spatial consistency, hierarchy, restraint, accessible alternatives and interactive evidence. These principles inform the surrounding product and coordination with the motion engineer."
+    },
+    {
+      "name": "prototype",
+      "path": "/Users/nag/.config/skillshare/skills/prototype/SKILL.md",
+      "reading": "Full SKILL.md and its PICKER.md reference.",
+      "referencePath": "/Users/nag/.config/skillshare/skills/prototype/PICKER.md",
+      "relevance": "Named experimental axes, isolated explorations, realistic context, full-size viewing and explicit tradeoffs. Reading this skill does not start its build-and-select workflow."
+    },
+    {
+      "name": "mobile-native",
+      "path": "/Users/nag/.config/skillshare/skills/mobile-native/SKILL.md",
+      "reading": "Full SKILL.md.",
+      "relevance": "Capability-based input handling, contextual CSS changes, preserved zoom and an explicit boundary between desktop emulation and actual phone behavior."
+    }
+  ],
+  "projectContextRead": [
+    "AGENTS.md",
+    "brand/workflow.json",
+    "brand/reviews/2026-11-07-implementation/implementation/visual.json"
+  ],
+  "workflowChanges": [
+    {
+      "change": "Before future visual work, state the context, supported grounds/sizes, named experimental axis, expected benefit and likely cost. Freeze a selectable control and hold geometry, numeric pose and visible height constant for paint comparisons.",
+      "basis": "prototype recon and named axes; emil-design-eng purpose and cohesion."
+    },
+    {
+      "change": "Add one-at-a-time, full-size viewing in realistic context alongside the existing matched diagnostic sheets. Swap static variants instantly and hold their exact pose/time; replay is a separate deliberate action. Inspect the actual avatar/full-figure ladder before choosing a default.",
+      "basis": "prototype full-size context and instant swapping. Sheets remain useful for controlled diagnosis but cannot replace actual-size review."
+    },
+    {
+      "change": "Review silhouette, antenna continuity, facial hierarchy and hand/ruff negative space before adding material effects. Preserve the oversized head, compact body, tiny mittens, attached feet, unequal paddles and four marked wings. Try posing or local paint changes before any anatomy proposal.",
+      "basis": "Project invariants, apple-design simplicity and craft, emil-design-eng coherent detail."
+    },
+    {
+      "change": "Adopt an experiment only for a named observed benefit with its regression check and limitations recorded. Report the 96px glasses/mitten/ruff limitation as reduced detail separation when the head/body grouping remains coherent. Preserve rejected variants and reasons, including the reduced-rim tradeoff.",
+      "basis": "prototype honest costs; existing visual evidence and project score policy."
+    },
+    {
+      "change": "Coordinate visual staging with motion and interaction engineers: inspect current rendered values during interruption, meaningful contacts and fixed landmarks. Keep control response immediate, with reduced-motion stills and intentional Play access. Review continuous normal-speed playback separately from diagnostic frames.",
+      "basis": "apple-design presentation-state continuity and agency; emil-design-eng purpose and debugging."
+    },
+    {
+      "change": "Label evidence by method: source/numeric checks, desktop browser rendering, emulated viewport/pointer checks, physical-device observations, and human response. A 390px screenshot establishes that rendered composition, not iPhone touch feel, safe-area behavior, keyboard behavior or performance.",
+      "basis": "mobile-native real-hardware requirement and project evidence policy."
+    },
+    {
+      "change": "For future mobile surroundings, use hover/pointer capabilities rather than width or user-agent guesses, preserve zoom and native reading behavior, and verify replacement feedback before suppressing browser feedback. Run only through the authorized browser and Portly workflows when testing is actually in scope.",
+      "basis": "mobile-native contextual fixes and personal agent instructions."
+    }
+  ],
+  "rulesNotApplicableWithReason": [
+    {
+      "rule": "Blur to mask a transition, glass materials, motion blur/stretch, or decorative spring behavior.",
+      "decision": "Do not apply these as default character treatments. They could obscure fine stems, facial marks and hand contacts or change the matte drawing. Contour/staging comes first; a future effect needs an explicit purpose and demonstrated benefit."
+    },
+    {
+      "rule": "Only transform/opacity; use springs for anything touchable.",
+      "decision": "Good defaults for surrounding interface motion do not prohibit expressive SVG path posing or require replacing the finite authored rig. Measure the relevant workload before simplifying it; do not add a framework or animation dependency for conformity."
+    },
+    {
+      "rule": "Sub-300ms UI timing; never animate keyboard actions; scale pressable elements.",
+      "decision": "These do not shorten intentional character scenes, disable keyboard Play or scale the moth's anatomy. Apply immediate feedback and suitable timing to controls while preserving deliberate attention, response and settlement beats in the content."
+    },
+    {
+      "rule": "Prototype requires divergent directions, remounts on swap, then deletes the exploration surface.",
+      "decision": "Broad UI exploration can use this model when explicitly requested. Narrow paint experiments intentionally isolate one variable; holding the same pose is essential to causal comparison. The project's requirement to retain editable variants and evidence overrides automatic deletion of these review controls."
+    },
+    {
+      "rule": "PICKER.md supplies verbatim document-level number/arrow/replay shortcuts.",
+      "decision": "Do not copy those handlers into the reading page or current studio: page-wide key interception was a concrete defect already corrected. Any future requested prototype must preserve native input/reading behavior with deliberate picker focus/context, following the user's project rules. No new picker is being built now."
+    },
+    {
+      "rule": "Global removal of tap highlights, overscroll or text selection; phone verification before declaring mobile fixed.",
+      "decision": "Do not remove native feedback or document behaviors indiscriminately. Preserve content selection and zoom. No hardware result is claimed from this intake or the existing desktop screenshots; record any remaining device checks honestly rather than inventing them."
+    },
+    {
+      "rule": "Default platform typography and Apple-style translucent chrome.",
+      "decision": "They do not authorize replacing the established outlined heyNag wordmark or adding glass to the brand. Use typography and hierarchy principles where relevant while preserving the identity and its readable applications."
+    },
+    {
+      "rule": "Additional catalog workflows and technology-specific recipes.",
+      "decision": "Catalog review does not launch a motion audit, prototype build, library selection, stress test, Swift/Expo work or Sonner integration. Read the relevant complete skill when a later task actually requires it. No additional approval gate is introduced for routine work already authorized by Nag."
+    }
+  ],
+  "carryForward": "Use these decisions with brand/workflow.json on future visual tasks. They refine the engineering process; they neither reopen frozen v4 nor replace independent specialist judgments, owner preference or human research."
+}

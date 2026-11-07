@@ -1,0 +1,63 @@
+{
+  "before": {
+    "active": "angry",
+    "scrollY": 229,
+    "info": {
+      "id": "angry",
+      "time": 0,
+      "duration": 3000,
+      "playing": true,
+      "paused": false,
+      "progress": 0,
+      "transitioning": true,
+      "reducedMotion": false
+    },
+    "rect": {
+      "x": 138,
+      "y": 2040.6171875,
+      "width": 114,
+      "height": 152.1953125,
+      "top": 2040.6171875,
+      "right": 252,
+      "bottom": 2192.8125,
+      "left": 138
+    }
+  },
+  "after": {
+    "active": "disgusted",
+    "scrollY": 1807.5,
+    "info": {
+      "id": "angry",
+      "time": 137.20000004768372,
+      "duration": 3000,
+      "playing": true,
+      "paused": false,
+      "progress": 0.045733333349227905,
+      "transitioning": true,
+      "reducedMotion": false
+    },
+    "rect": {
+      "x": 260,
+      "y": 462.1171875,
+      "width": 114,
+      "height": 152.1953125,
+      "top": 462.1171875,
+      "right": 374,
+      "bottom": 614.3125,
+      "left": 260
+    }
+  },
+  "afterOffscreenCallback": {
+    "scrollY": 1325,
+    "info": {
+      "id": "angry",
+      "time": 156.4000000357628,
+      "duration": 3000,
+      "playing": false,
+      "paused": true,
+      "progress": 0.05213333334525426,
+      "transitioning": true,
+      "reducedMotion": false
+    }
+  }
+}

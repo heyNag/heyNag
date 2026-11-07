@@ -1,0 +1,181 @@
+{
+  "reviewer": "audience-a — emotion comprehension and Nag attribution",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "scope": "The updated local V5 foundation through the same overall expert static emotional-staging, attribution and research-readiness lens as my previous final vote. Includes continuity of the unchanged identity applications, six revised hand families and composition-aware project attention. This is not an isolated score for the new code and is not an audience-outcome score.",
+  "independence": "Saved before reading any Audience B record in the gesture-staging round. Previous implementation-round records were retained for continuity; no current partner judgment informed this number.",
+  "sourceManifest": "review-source-v1.json",
+  "sourceManifestSha256": "d5abc24f90f9539bfddb0223da42392fb31c9321ab7c962aa98c893ff3789e0e",
+  "sourceVerification": {"filesChecked": 12, "sha256Mismatches": [], "characterGeometryAndPaint": "character.js is byte-identical to the previous v4 source; signature.css is also unchanged."},
+  "previousScoreAndScope": {
+    "value": 8.2,
+    "outOf": 10,
+    "record": "../2026-11-07-implementation/team-votes/audience-a.json",
+    "meaning": "Subjective expert craft readiness of inspected static emotional staging and attribution in the local study; quiet-pose separation, small night antenna continuity and scrolled-scene attribution deductions remained visible.",
+    "continuity": "Same lens and overall foundation retained. Unchanged small night-avatar and attribution-placement limitations have not been removed to reach a target. No credit is awarded for unmeasured audience improvement."
+  },
+  "score": {
+    "value": 8.5,
+    "outOf": 10,
+    "meaning": "Subjective expert craft/research readiness of the inspected local foundation, especially static emotional staging and attribution. Stronger hand differentiation and a more credible phone attention direction justify a modest increase. This is not an empirical comprehension rate, human preference result, live-motion rating or universal brand score.",
+    "changeBasis": "The previous 0.8 quiet-gesture deduction is reduced to 0.5 after visible separation of Thinking/Focused and cleaner Grateful contact, alongside a clearer offer silhouette. The previous 0.6 small night-avatar and 0.4 attribution-placement deductions remain. Phone attention is improved on rendered evidence, without claiming semantic success."
+  },
+  "scoreHistory": [
+    {"round": "2026-11-07-implementation final vote", "value": 8.2},
+    {"round": "2026-11-07-gesture-staging independent", "value": 8.5}
+  ],
+  "evidenceActuallyInspected": {
+    "instructionsAndContinuity": [
+      "AGENTS.md reread; brand/team.json and brand/workflow.json retained from the previous full reading",
+      "reviewer-instructions.txt; brief.json; review-source-v1.json",
+      "Previous own independent/audience-a.json and pairs/audience-a-discussion.json retained from this conversation; previous final team-votes/audience-a.json reread",
+      "evidence/evidence-index.json",
+      "implementation/hand-changes.json; implementation/eyeline-changes.json"
+    ],
+    "source": [
+      "Complete diff of before/animation-v5/motion.js against current brand/animation-v5/motion.js",
+      "brand/animation-v5/staging.js — complete",
+      "brand/animation-v5/signature.js — complete",
+      "brand/animation-v5/signature.html — complete",
+      "All 12 frozen source files hash-verified; this verification is not a claim that every file was line-reviewed again"
+    ],
+    "pngsViewedWithViewImage": [
+      "evidence/hands-day.png",
+      "evidence/hands-night.png",
+      "evidence/offer-sequence-day.png",
+      "evidence/offer-sequence-night.png",
+      "evidence/sizes-curious-investigate.png",
+      "evidence/sizes-thinking.png",
+      "evidence/sizes-grateful.png",
+      "evidence/sizes-shy.png",
+      "evidence/sizes-worried.png",
+      "evidence/baseline-attention-390-day.png",
+      "evidence/attention-390-day-330.png",
+      "evidence/attention-390-day-790.png",
+      "evidence/attention-390-day-1190.png",
+      "evidence/attention-390-day-1900.png",
+      "evidence/attention-390-day-2350.png",
+      "evidence/attention-390-day-2720.png",
+      "evidence/baseline-attention-390-night.png",
+      "evidence/attention-390-night-330.png",
+      "evidence/attention-390-night-790.png",
+      "evidence/attention-390-night-1190.png",
+      "evidence/attention-390-night-1900.png",
+      "evidence/attention-390-night-2350.png",
+      "evidence/attention-390-night-2720.png",
+      "evidence/baseline-attention-320-day.png",
+      "evidence/attention-320-day-790.png",
+      "evidence/attention-320-night-790.png",
+      "evidence/baseline-attention-1440-day.png",
+      "evidence/attention-1440-day-790.png",
+      "evidence/attention-1440-night-790.png",
+      "evidence/all-current.png — overview, tool resized from 1440x2100 to 1312x1913; actual-size judgments use the separate ladders",
+      "evidence/decoded-phone-night.png — one decoded comparison moment, not actual DOM layout",
+      "../2026-11-07-implementation/evidence/sizes-final.png — revisited unchanged avatar/header scale evidence"
+    ],
+    "testAndBrowserRecords": [
+      "evidence/all-tests.txt — recorded 23 tests passed, none failed; not rerun by this reviewer",
+      "evidence/browser-checks.json — source record plus computed summary of all 108 cases at 320/390/650/651/768/1440; all theme-parity checks true, 36 exact-return checks and 36 unchanged-control checks true, no width overflow, paused resize frozen, replay exact and reduced-motion still",
+      "evidence/geometry.json — 567 samples, three characters per sample, no mismatches or invalid values; structure excludes paint/defs",
+      "evidence/attention-browser.json — first/last detailed records and record count inspected; not a claim of individual reading of every numeric sample",
+      "evidence/keyboard-controls.json — desktop Play/Pause/Resume and range; explicitly not native OS select-menu or spoken-AT validation"
+    ],
+    "filmMetadata": [
+      "evidence/comparison-export.json — 1956 frames at 30fps, 65.2 seconds, eight matched segment types per theme",
+      "evidence/full-reel-export.json — 2655 frames at 30fps, 24 catalogue segments"
+    ],
+    "notObserved": "No browser operated; root owns TaskSpace9. No continuous playback watched, no physical phone or screen-reader speech heard, no human participant response collected."
+  },
+  "strengths": [
+    "Thinking now has one clearly lower free mitten while preserving the high chin-contact hand. Focused reads as two separate low hands. In the matched day/night sheets this is a more useful body-level distinction than the previous compact band of contours beneath glasses.",
+    "Grateful's lowered clasp has two visible lobes beneath the ruff rather than being compressed into it. Worried preserves a diagonal high/low relation. These changes improve contour organization without growing the arms or hands; Shy's small change remains appropriately modest.",
+    "The selected offer has a clearer outward/upward cup at 160–240px and in the 390px return frame. The offer sequence shows the hand tucked at the return and extended afterward, while the free hand remains quiet. This supports a more legible invitation hypothesis without proving what strangers would call it.",
+    "At 390px in both themes, the investigation samples are more upright and visibly attend upward toward the text than the baseline. At 320px the same direction remains plausible. The desktop composition preserves its largely lateral subject relationship. Actual DOM screenshots support this finding; the simplified phone film alone would not.",
+    "The source confines attention adaptation to gaze and head channels in the two signature variants, derives it from measured composition, and releases it by the visitor return. Browser records support theme parity, preserved original Curious, explicit seeking and a frozen paused frame. These mechanics improve the reliability of future comparisons without answering the perception question.",
+    "The warm expression, selected tiny anatomy, project question and owner choice remain coherent. No new scene decoration or explanation was added to compensate for an unclear gesture."
+  ],
+  "deductions": [
+    {
+      "id": "AUD-A-G1",
+      "points": 0.5,
+      "severity": "minor to moderate craft compromise; nonblocking",
+      "classification": "Observed static cue density plus a semantic hypothesis; no measured audience failure",
+      "finding": "The revised hands differentiate Thinking and Focused more clearly, but Grateful and Shy still share an open-eyed soft face and a compact two-mitten gathering. At 96–128px their fine contact/asymmetry distinctions remain small. The offering cup is also a tiny directional accent near the wing/ruff at those sizes; its social meaning is less explicit than the face/glasses.",
+      "basis": ["hands-day.png", "hands-night.png", "sizes-grateful.png", "sizes-shy.png", "sizes-curious-investigate.png", "all-current.png"],
+      "confidence": "Moderate for this static reading. Labels and implementation descriptions prime interpretation; no claim that people confuse or fail these actions.",
+      "changeFromPrior": "Reduced from the prior 0.8 deduction, retaining the unresolved part rather than treating all six changes as equally large."
+    },
+    {
+      "id": "AUD-A-G2",
+      "points": 0.6,
+      "severity": "minor to moderate at the smallest night-avatar sizes",
+      "classification": "Unchanged observed application-scale compromise",
+      "finding": "The 32–48px night avatar still emphasizes the pale face and green paddle tips while connecting stems recede relative to day. This hand/eyeline pass changes neither that paint nor that anatomy. Using day as the universal 32px mark mitigates use risk but does not resolve the night mark's scale limitation.",
+      "basis": ["Revisited implementation/evidence/sizes-final.png", "Byte-identical character.js hash in current manifest"],
+      "confidence": "Moderate from the supplied scale proof, not physical displays or live GitHub.",
+      "changeFromPrior": "Prior 0.6 deduction retained."
+    },
+    {
+      "id": "AUD-A-G3",
+      "points": 0.4,
+      "severity": "minor attribution-staging compromise",
+      "classification": "Context-dependent placement limitation, not established misattribution",
+      "finding": "The project/moth scene still names eva.md without an adjacent explicit owner/first-person cue. The new 390px and desktop 900px-tall captures do show the heyNag/Nagarjuna Boddu footer below, which is real attribution context and must not be ignored; the shown 320px crop does not. Attribution remains dependent on whole-page exposure and framing, while the scene itself is not self-contained in that respect.",
+      "basis": ["signature.html", "attention-390-day-2720.png", "attention-1440-day-790.png", "attention-320-day-790.png"],
+      "confidence": "High for visible placement; unknown effect on a naturally scrolling visitor.",
+      "changeFromPrior": "Prior 0.4 deduction retained with the fuller current-capture nuance. An adjacent cue remains a testable option, not an assumed improvement."
+    }
+  ],
+  "improvementCriteria": [
+    "Evaluate the specific used gestures at their intended display size. Preserve the original contours; if a necessary distinction remains weak in actual use, vary existing pose, separation, hold or context rather than enlarging anatomy.",
+    "For a future invitation-comprehension question, use a separate neutral single-clip exposure and ask what happened before revealing 'sharing' or emotion options. Keep brand/project context in separate attribution/recall exposures; stripping it would change that research question.",
+    "For attribution, record viewport, scroll, whether name and moth were seen, and exposure/playback. An adjacent verified owner cue can be one controlled variant; natural browsing already includes attribution above and below the scene.",
+    "Retain the day universal small avatar policy. Any future night micro-size refinement should compare the specific 32–48px application with unchanged geometry rather than altering larger scenes globally.",
+    "Review the wrist turn and return through continuous normal-speed playback before making timing claims. This is a validation step, not evidence of a current flick or a penalty for absent humans."
+  ],
+  "confidence": "Moderate overall for the unchanged broad expert craft/readiness scope. High for source boundaries, label/attribution placement and recorded test results; moderate for scale-sensitive visual interpretation; no empirical audience confidence claimed.",
+  "implementedAssessment": "Accept the implemented local refinement with named limits. Hand contours and phone spatial attention are improved while identity and owner preference are preserved. No concrete blocking defect was observed in this role's evidence. The result does not establish a 9/10 audience impact or require unsolicited human recruitment before authorized local use.",
+  "objections": [],
+  "unsupportedOutcomes": {
+    "unprimedComprehension": null,
+    "nagAttribution": null,
+    "delayedRecall": null,
+    "attachment": null,
+    "populationPreference": null,
+    "ownerFitNumeric": null,
+    "reason": "No new human response evidence. Nag's prior Investigate & share choice remains a categorical owner preference."
+  },
+  "limits": [
+    "Labelled sheets, comparison captions and prior knowledge prime this expert review. They remain appropriate authoring tools, not neutral research stimuli.",
+    "The complete 390px supplied attention/return samples and offering sequence were inspected as stills. They do not establish continuous perceived attention, wrist-turn feel, rhythm or attachment.",
+    "The deterministic film's phone segment uses the measured 390px bearing in a simplified composition. Actual DOM screenshots carry the layout finding.",
+    "23 tests, 108 browser cases and 567 geometry samples support their specified mechanical claims only. No physical-device cadence, native select-menu keyboard commit or spoken screen-reader output is established.",
+    "The unchanged small-avatar deduction uses explicitly historical application evidence and byte-identical character geometry/paint. No new small-avatar rendering or live GitHub inspection is claimed.",
+    "No public deployment or source edits were performed by this reviewer."
+  ],
+  "skillsApplied": {
+    "priorIntake": "All 17 installed Emil catalog entries and full emil-design-eng, prototype and mobile-native were read in the previous round; their actual paths/intake remain in ../2026-11-07-implementation/independent/audience-a.json. No rereading or full reading of the other 14 is claimed.",
+    "currentApplications": [
+      {"skill": "emil-design-eng", "application": "Separate control feedback from intentional character performance; judge actual rendered contour/attention changes instead of awarding points for code/tests; use an evidence-linked Before/After table."},
+      {"skill": "prototype", "application": "Use matched before/current context and actual-size ladders to isolate the hand axis. Preserve the selected owner direction and historical comparisons. No variant-building workflow invoked."},
+      {"skill": "mobile-native", "application": "Use actual composition and capability evidence, preserve zoom/document flow, and keep desktop emulation separate from phone behavior."},
+      {"skill": "design-taste-frontend", "fullSkillReadNow": "/Users/nag/.agents/skills/taste-skill/SKILL.md", "application": "Check that the scene's real subject and Nag's actual project context carry meaning; avoid invented outcomes and decorative substitutes; verify the visual in context across widths. This was guidance for the review, not a new website construction run."}
+    ]
+  },
+  "workflowChanges": [
+    "Carry a deduction ledger across rounds: resolved, reduced or retained, with matched evidence and unchanged score meaning. Do not narrow the scope to new code to manufacture 9.",
+    "For each spatial-attention change, inspect the actual DOM at notice, investigation, return and offer in both themes, rather than relying on a simplified film or numeric direction alone.",
+    "Separate improvement in visible silhouette from improvement in named social meaning. Store the latter as a hypothesis until suitable observations exist.",
+    "Record capture height and crop alongside width. The newly visible footer demonstrates why a 390px-wide screenshot is not automatically the same attribution exposure as another 390px-wide screenshot.",
+    "Retain branded natural exposure for attribution/recall and neutral isolated clips for action comprehension; use full-size single stimuli for first exposure and labelled matched sheets for later diagnosis."
+  ],
+  "workflowBeforeAfterMarkdown": "| Before | After | Why |\n| --- | --- | --- |\n| Dense high free hand competes with Thinking's chin contact; Focused has a compact hand cluster | Thinking's free hand sits lower and Focused has two separate low mittens | Creates a clearer body-level contrast without changing anatomy |\n| Phone investigation retains a predominantly lateral/downward authored reading pose | Cached composition bearing supports upward gaze/head attention during investigation | Makes the intended subject spatially more plausible in the inspected DOM |\n| Treat same-width captures as equivalent attribution exposures | Record crop, height, scroll and name/moth visibility | Footer visibility differs despite the same width |",
+  "rulesNotApplicableWithReason": [
+    {"rule": "Sub-300ms UI timing and no animation for keyboard actions", "reason": "Control feedback is distinct from intentionally requested multi-second character content. Keyboard Play remains functional; no timing compression is justified by this review."},
+    {"rule": "Transform/opacity only", "reason": "The preserved SVG face and head channels carry attention. A UI compositor preference is not a reason to remove expressive anatomy; diagnose a relevant measured workload before changing it."},
+    {"rule": "Prototype build, owner-choice pause and cleanup", "reason": "This is a read-only independent review, Nag has chosen the lead, and historical evidence must remain. No new build or deletion is needed."},
+    {"rule": "Design-taste one section per screen, no visual labels, fixed dealer/starter and mandatory hover loops", "reason": "This is a labelled local character-authoring study with native controls and an established owner-selected identity, not a new company marketing page. Removing explanatory or accessible labels, forcing viewport sections, or adding loops would harm its task. Repository/user instructions take precedence."},
+    {"rule": "Design-taste headless checker/browser route", "reason": "Root owns the authorized browser TaskSpace and reviewers are explicitly prohibited from browser/source operations. I used supplied actual renders and source records; no separate browser or checker claim is made."},
+    {"rule": "Apply mobile-native global baseline mechanically", "reason": "Document scrolling, content selection and zoom remain useful. Desktop evidence cannot prove touch feel or browser-chrome behavior, and missing hardware is not a demonstrated defect or new permission gate."}
+  ]
+}

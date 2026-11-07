@@ -1,0 +1,76 @@
+{
+  "role": "Independent character brand director",
+  "verdict": "Keep the character-led direction. It has a coherent personal premise and a usable visual anchor, but it is a prototype family, not yet one settled public identity. Author specificity and cross-surface recognition need evidence before expanding the performance vocabulary.",
+  "evidenceInspected": [
+    "README.md",
+    "brand/story.md",
+    "brand/design-system.md",
+    "brand/character.md",
+    "brand/expressions.md",
+    "brand/animation-v5/README.md",
+    "brand/animation-v5/index.html",
+    "brand/animation-v5/contract.json",
+    "Viewed: assets/brand/heynag-moth-v5.png, heynag-moth-v5-refined.png, heynag-moth-v5-night.png",
+    "Viewed: assets/brand/header-light.png, header-dark.png, heynag-moth-avatar-v2.png",
+    "Viewed: assets/brand/expressions-v5/anchors-day-r3.png, mind-day-r2.png"
+  ],
+  "strengths": [
+    "The oversized cream head, unequal paddle antennae, compact stance, and green wing markings form a repeatable visual combination. The refined day/night masters preserve the same character to my eye.",
+    "The actual header gives heyNag commanding typographic presence. Its welcoming moth supports the name; these assets do not establish that the character overshadows Nag.",
+    "The README connects curiosity to named projects and first-person authorship. The story avoids invented biography, job titles, and success claims, and its question-led structure can outlast today's software platforms."
+  ],
+  "findings": [
+    {
+      "id": "BR-01",
+      "priority": "before-public-use",
+      "claimType": "observed",
+      "finding": "The default repository application still uses V2 while the current character direction is V5. The visible change is substantive: V2 has a longer torso and continuous wing silhouette; V5 has a dominant head and layered marked wings. Documentation calls the headers historical, but README actively selects them.",
+      "evidence": ["README.md picture sources", "assets/brand/header-light.png", "assets/brand/heynag-moth-v5-refined.png", "brand/design-system.md: GitHub and future website boundaries"],
+      "recommendation": "Before the next public identity update, choose and label one application set spanning header, avatar, and full-body character. Preserve historical studies as studies; a V5 avatar remains a coverage gap, not a defective existing drawing.",
+      "verification": "Inspect that exact set together at GitHub desktop/mobile and actual avatar sizes; confirm a newcomer can associate all three without version explanations."
+    },
+    {
+      "id": "BR-02",
+      "priority": "next-refinement",
+      "claimType": "observed",
+      "finding": "The identity instructions disagree about what exists. story.md and design-system.md place expressions and motion in the future; character.md identifies 24 articulated studies as current; expressions.md still calls articulation future work. This makes future creative handoffs unreliable.",
+      "evidence": ["brand/story.md opening", "brand/design-system.md: Character direction", "brand/character.md: The favored v5 foundation", "brand/expressions.md: Stage boundary"],
+      "recommendation": "Reconcile stage descriptions around one dated status source, keeping study availability separate from application approval.",
+      "verification": "A new collaborator can identify the current visual reference, current experiment, and public-ready exports without consulting review history."
+    },
+    {
+      "id": "BR-03",
+      "priority": "next-refinement",
+      "claimType": "interpretation",
+      "finding": "The README communicates useful interests, but little uniquely personal judgment. Repeated question headings and polished curiosity language could describe many software makers. The promised talkative warmth and gentle dry wit are clearer in the guide than in the public-facing draft.",
+      "evidence": ["README.md", "brand/story.md: Voice and comic timing"],
+      "recommendation": "Develop one project account around Nag's actual decision, surprising observation, and unresolved tradeoff; retain an authentic aside if Nag naturally supplies one. Do not manufacture jokes or enlarge the biography.",
+      "verification": "Nag recognizes his own voice, and readers can recount one decision he made rather than only a project category."
+    },
+    {
+      "id": "BR-04",
+      "priority": "research-question",
+      "claimType": "interpretation",
+      "finding": "Cute proportions and an expressive face establish friendliness in the artwork, but do not establish distinctiveness or attachment. The asymmetric antenna pair is the strongest candidate mnemonic; its recognition and association with Nag remain untested.",
+      "evidence": ["assets/brand/heynag-moth-v5-refined.png", "assets/brand/heynag-moth-avatar-v2.png", "brand/character.md: Character behavior"],
+      "recommendation": "Run exploratory, unprompted name/work recall and delayed mascot matching using the intended application. Separately compare silhouette and behavior against adjacent companion characters as a creative differentiation exercise.",
+      "verification": "Record remembered features, mistaken associations, and author recall separately from liking scores. This supplies creative evidence, not legal clearance."
+    },
+    {
+      "id": "BR-05",
+      "priority": "later",
+      "claimType": "proposal",
+      "finding": "Twenty-four emotions demonstrate range; they do not yet demonstrate the signature notice–investigate–share relationship with actual work. The missing website and environmental scenes are planned coverage, not prototype defects.",
+      "evidence": ["brand/animation-v5/index.html", "brand/story.md: One question through the scene", "brand/character.md: Character behavior"],
+      "recommendation": "Before multiplying scenes, validate one small character sequence around one real project fragment, including the return of attention to the reader and a usable still.",
+      "verification": "Readers reach and understand the project with motion enabled or disabled, while describing the character's contribution as curiosity and invitation."
+    }
+  ],
+  "keep": ["heyNag naming and large wordmark", "Tiny innocent V5 anatomy and unequal antennae", "Paired day/night identity", "Nag as first-person author", "Question-led stories grounded in real projects", "Glasses as temporary deep-work behavior"],
+  "challengeForOtherRoles": [
+    "Identity systems: demonstrate actual confusion before forcing every expressive pose into a rigid neutral silhouette; consistency should preserve authorship and character, not erase acting.",
+    "Performance: technical motion quality cannot establish a memorable personality. Identify the distinctive attention-and-return beat in an actual sequence.",
+    "Audience: separate mascot appeal, name recall, work comprehension, and professional confidence. Neither personal taste nor agreement among reviewers measures audience response."
+  ],
+  "limits": ["Independent source and image inspection only; fresh browser evidence was not available at this round's completion.", "No prior approval reports or peer reviews inspected.", "No human research, external character comparison, legal assessment, or deployed GitHub inspection; attention and differentiation conclusions remain bounded hypotheses."]
+}

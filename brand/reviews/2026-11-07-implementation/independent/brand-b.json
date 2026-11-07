@@ -1,0 +1,252 @@
+{
+  "reviewer": "brand-b",
+  "role": "Character brand director B — long-term recognition and distinctive brand behavior",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "scope": "Implemented local brand application: selected Investigate & share signature study, visible native V5 character and scale treatments, authored narrative relationship to eva.md, and source-level finite/reduced-motion behavior. This is not a live-motion, native-phone, deployed-website, or human-recognition score.",
+  "sourceVersion": {
+    "manifest": "review-source-v1.json",
+    "matchingInspectedSources": [
+      "character.js",
+      "motion.js",
+      "signature.html",
+      "signature.js"
+    ],
+    "signatureCssObservedSha256": "5673eca0b40ed283f589c7b18706439f584710268d06aff7b2b206c511bc805a",
+    "note": "CSS had changed from v1 by hash-check time. Screenshot judgments refer to supplied v1 PNGs; current CSS is not assumed visually verified. Final immutable manifest remains pending."
+  },
+  "evidenceActuallyInspected": [
+    "AGENTS.md; brand/team.json brand B role; expanded-panel/independent/brand-b.json and historical brand-resolution.json",
+    "Implementation reviewer-instructions.txt, brief.json, installed-skills.json (all 17 entries), review-source-v1.json, owner-preference.json",
+    "README.md; brand/story.md; complete signature.html, signature.js and signature.css",
+    "character.js neutral anatomy, theme/paint separation and render transforms; motion.js investigationFrames, sharingPose and all three study definitions",
+    "implementation/project-cue.json including verified source blob and restricted public claim; implementation/motion.json; implementation/visual.json",
+    "view_image: evidence/signature-1440.png, signature-390.png, curious-investigate.png, curious-wry.png, paint.png, sizes-refined.png, poses.png, mischievous-one-peek.png, studio-390-single.png, excited.png, surprised.png",
+    "evidence/geometry.json; interaction.json; keyboard-before.json; keyboard-after.json; layout-and-collection.json",
+    "evidence/comparison-export.json: exact-engine 30 fps, 2664-frame/88.8-second export metadata, with named day/night segments. Continuous video was not watched.",
+    "Full emil-design-eng/SKILL.md, choreograph/SKILL.md, mobile-native/SKILL.md."
+  ],
+  "score": {
+    "value": 8.4,
+    "outOf": 10,
+    "meaning": "Strong, coherent and personally grounded local signature implementation with a clear owner-selected lead. The remaining shortfall is primarily the small-screen signature gesture and the degree of distinctive authorship conveyed by the current static application; this is not a claim of measured recognition or a numerical motion-quality judgment."
+  },
+  "strengths": [
+    "Investigate & share turns the previous broad emotion catalogue into a chosen recurring behavior. Nag explicitly prefers its warmth and curiosity; that resolves owner fit within its stated scope.",
+    "The character now attends to one actual project question and returns toward the visitor. The eva.md link and exploratory Markdown/Git description avoid inventing success, failure, adoption or biography.",
+    "The desktop image puts heyNag, a named project and the character in one readable composition. The README adds first-person work evidence, while the signature page retains Nag and Nagarjuna Boddu attribution.",
+    "The unequal paddle antennae, soft large head, four marked wings, compact body and stub feet remain visibly coherent in the paint and pose sheets. Palette changes do not create a second character.",
+    "The selected paint change is modest and preserves the face-first hierarchy. Keeping a paper-ground day avatar for universal small account use is more defensible than claiming equivalent night-stem readability at 32px.",
+    "The page starts at a canonical still, offers deliberate finite playback and leaves the question/link available independently of motion. Source pauses on hiding/offscreen, and reduced motion retains a pose. This supports repeat visits without making attention-seeking behavior the identity.",
+    "The wry and one-peek treatments remain supporting studies. They add optional personality without overriding Nag's chosen warm lead or changing tiny anatomy."
+  ],
+  "deductions": [
+    {
+      "id": "brand-b-implementation-1",
+      "severity": "medium",
+      "category": "visible application weakness",
+      "confidence": "high for the inspected still",
+      "claim": "The presenting mitten contributes too little to the signature at 390px.",
+      "basis": "signature-390.png shows an approximately 105px-wide visible moth in a narrow side-by-side column. Glasses and antennae remain readable, but the open mitten merges perceptually with ruff/chest detail; sizes-refined.png shows the same density at small full-figure scales.",
+      "implication": "The copy carries 'share' more strongly than the character at this width. This is not evidence that humans fail to understand it, and it is not a reason to enlarge hands or replace the anatomy.",
+      "action": "For future phone staging, compare a wider character region or a deliberately restaged composition. Preserve the screen-right question eye-line; merely stacking the current cue below would contradict the authored gaze."
+    },
+    {
+      "id": "brand-b-implementation-2",
+      "severity": "minor",
+      "category": "brand craft judgment / taste",
+      "confidence": "medium",
+      "claim": "The static signature is more strongly 'friendly curious person' than a highly specific Nag behavior.",
+      "basis": "The canonical invitation uses glasses, a soft smile and a tiny raised hand; the real project cue provides the strongest particular association. 'One question leads to another' and 'Notice something. Look a little closer. Bring someone along' are coherent but broadly reusable language.",
+      "implication": "This is a strong foundation, not yet a fully ownable behavioral shorthand. It does not mean the approved warm lead should become more mischievous, loud or anatomically elaborate.",
+      "action": "Carry the same small repertoire into a second verified project moment with one actual detail or decision from Nag's work, using first-person authorship. Repetition with truthful specific content can establish distinctiveness without adding decorative movement."
+    },
+    {
+      "id": "brand-b-implementation-3",
+      "severity": "minor",
+      "category": "visible small-size tradeoff",
+      "confidence": "high for image evidence; low for audience outcome",
+      "claim": "The head-only avatar trades the most obvious moth cue for face readability.",
+      "basis": "sizes-refined.png shows a coherent 32–64px paper-ground face/antenna mark, but the four marked wings are outside that crop; night 32px stems are weaker still.",
+      "implication": "The avatar's recognition burden rests on head contour and unequal paddles. Keep that scope explicit rather than presenting every crop as equally distinctive.",
+      "action": "Retain day paper-ground universal avatar and introduce it near heyNag/full figure when feasible. Later compare unaided attribution and delayed recall; do not redesign from an untested confusion hypothesis."
+    }
+  ],
+  "improvementCriteria": [
+    "Preserve tiny anatomy, theme geometry parity, the owner-selected warm lead, the full project question and immediate access to real work.",
+    "Demonstrate that the finite signature's look-to-question and return-to-visitor survive its smallest intended application, with a phone layout that gives the mitten enough space or honestly assigns the meaning to static copy.",
+    "Establish a small repeated signature repertoire across truthful project-specific moments, with Nag's first-person contribution visible; avoid making the full 24-emotion catalogue the default brand behavior.",
+    "Review the actual revised exports and a final source manifest before extending this assessment to those files.",
+    "Keep expert appeal, owner fit, native-device usability, unprimed emotion comprehension, Nag attribution and delayed recall as separate evidence categories. Audience testing would support broader claims, not automatically raise this craft score."
+  ],
+  "confidence": {
+    "overall": "medium-high for local brand system and inspected stills",
+    "sourceBehavior": "medium: read code and root evidence, did not operate UI",
+    "continuousMotion": "not assessed",
+    "humanRecognition": "not assessed"
+  },
+  "implementedAssessment": "The agreed signature-selection experiment is materially implemented rather than merely proposed: three studies exist separately from 24 emotions, the selected study is the default, the real eva.md cue stays stable, and still/reduced-motion use is designed. The original concern that the emotional library lacked a selected brand behavior is substantially resolved. Support acceptance of this local study with named small-screen and evidence limits; do not call it a completed website or validated recognizable identity.",
+  "objections": [],
+  "limits": [
+    "No new partner review or score read before saving this independent record.",
+    "No browser operated; root owns the isolated TaskSpace.",
+    "I inspected authored frame sheets, not continuous motion. Export cadence metadata does not prove subjective smoothness, timing feel, or ordinary live performance.",
+    "No decoded continuous-film frame sheet was present in the evidence file search when inspected; named authored-pose sheets were available and inspected.",
+    "Supplied desktop viewport screenshots do not establish native-phone touch feel, software keyboard behavior or assistive-technology spoken output.",
+    "Root interaction evidence records inconclusive native dropdown keyboard commit and absent spoken screen-reader capture; neither is silently upgraded.",
+    "No unprimed human emotion comprehension, attribution, attachment or delayed-recall data. Owner choice establishes owner preference only.",
+    "sizes-refined.png header strips are comparison controls, not final refreshed-header evidence. Final regenerated application exports were not inspected in this independent record.",
+    "Source CSS changed during the review; see sourceVersion. Final vote must identify immutable source and resolutions."
+  ],
+  "skillsReviewed": [
+    {
+      "name": "emil-design-eng",
+      "depth": "full SKILL.md",
+      "use": "Good defaults, frequency/purpose gate, cohesive voice and motion, review with fresh evidence."
+    },
+    {
+      "name": "choreograph",
+      "depth": "full SKILL.md",
+      "use": "Assign lead/support/static roles, sequence only for meaning, inspect interruption and finite settling."
+    },
+    {
+      "name": "mobile-native",
+      "depth": "full SKILL.md",
+      "use": "Separate desktop layout evidence from physical-device claims; preserve zoom and native scrolling, verify capability-based controls."
+    },
+    {
+      "name": "animate",
+      "depth": "catalog",
+      "use": "Engineering workflow for an authorized new motion, after brand intent is specified."
+    },
+    {
+      "name": "animate-expo",
+      "depth": "catalog",
+      "use": "Future Expo work only; current study is browser SVG."
+    },
+    {
+      "name": "review-animations",
+      "depth": "catalog",
+      "use": "Performance/interaction reviewer route for specific existing-motion critique, not a substitute for brand or audience judgment."
+    },
+    {
+      "name": "improve-animations",
+      "depth": "catalog",
+      "use": "Read-only audit/planning route when future website motion spans a codebase; keep findings distinct from implementation approval."
+    },
+    {
+      "name": "find-animation-opportunities",
+      "depth": "catalog",
+      "use": "Future deliberate discovery of useful motion; no mandate to fill every brand moment with movement."
+    },
+    {
+      "name": "remove-animations",
+      "depth": "catalog",
+      "use": "Future subtraction pass for excessive/repeated motion when requested or supported by actual need."
+    },
+    {
+      "name": "animation-performance",
+      "depth": "catalog",
+      "use": "Engineering profiling and property selection; cannot justify erasing characteristic anatomy."
+    },
+    {
+      "name": "animation-vocabulary",
+      "depth": "catalog",
+      "use": "Shared naming when an owner description is ambiguous; terminology does not determine personality."
+    },
+    {
+      "name": "apple-design",
+      "depth": "catalog",
+      "use": "Future physical interaction and restraint review if the surface calls for it; Apple styling is not the heyNag identity."
+    },
+    {
+      "name": "write-swift",
+      "depth": "catalog",
+      "use": "No Swift implementation in this scope."
+    },
+    {
+      "name": "pick-ui-library",
+      "depth": "catalog",
+      "use": "Explicit-invocation library decision only; no library needed for this brand review."
+    },
+    {
+      "name": "prototype",
+      "depth": "catalog",
+      "use": "Explicit-invocation future visual comparisons; do not launch new variants just because installed."
+    },
+    {
+      "name": "break-ui",
+      "depth": "catalog",
+      "use": "Future website data-stress task; not a perceptual or authorship test."
+    },
+    {
+      "name": "ask-sonner",
+      "depth": "catalog",
+      "use": "No Sonner/toast system in this scope; avoid adding a component without need."
+    }
+  ],
+  "workflowChanges": [
+    "Begin each future website brief with the actual Nag project question, verified public evidence, intended reader action, and one chosen signature behavior. Brand determines meaning before engineering chooses timing.",
+    "Review the 50th visit as well as the first: static useful content, one opt-in finite performance, no hover/idle motion added by default. Record why every moving element earns attention.",
+    "Before implementation, cast real project content as informational lead, character as expressive support, optional ornaments as static; write cause-to-response beats and keep the destination usable throughout.",
+    "Produce matched desktop and smallest intended-size frames, then separate continuous live playback and native-phone evidence. Tag each conclusion by its evidence source rather than collapsing them into 'tested'.",
+    "Use full relevant skill instructions in the responsible engineering/review role, preserve independent paired reviews, and discuss applicable exceptions. Brand accepts the meaningful behavior, not a generic under-300ms rule.",
+    "Keep a single truthfully attributed project cue through a performance; use source version hashes and fresh exports to prevent an older successful capture from approving a newer uninspected source."
+  ],
+  "rulesNotApplicableWithReason": [
+    "Generic UI duration/stagger budgets do not compress a 4.1-second opt-in character thought into 300ms. The content and controls remain immediately usable; acting order carries meaning.",
+    "'Never animate keyboard actions' removes incidental control animation, not an explicitly requested Play action that a keyboard user should also be able to invoke; reduced-motion preference still governs movement.",
+    "'Only transform and opacity' is not permission to delete tiny mittens, wing markings or antenna geometry. Any engine optimization requires measured bottlenecks and preserved character invariants.",
+    "Attention-loop examples are not a recommendation to add idle loops: the selected finite still-first behavior already serves repeat visits.",
+    "Mobile-native's blanket app-shell baseline is conditional. This is a scrolling document; it does not justify disabling native document scrolling, pinch zoom or text selection.",
+    "Skills' implementation output instructions do not authorize this reviewer to edit source; root explicitly owns implementation/browser work. I use their review principles and record scoped observations.",
+    "Swift/Expo, Sonner, drag/sheet recipes and library selection have no current implementation target. Explicit-only prototype/pick-ui-library are not silently invoked by catalog inspection."
+  ],
+  "uiReviewTable": "| Before / inspected state | After / proposed review practice | Why |\\n| Small side-by-side phone character keeps its correct rightward cue but compresses the mitten | Compare a wider staged region while preserving gaze-to-question geometry | Preserve anatomy and the meaning of sharing |\\n| Desktop screenshots and exact-export metadata can look complete | Label layout, continuous playback, native phone, and human recall separately | Prevent unsupported brand-confidence claims |\\n| A broad expression catalogue can dominate brand choices | Keep Investigate & share as the selected lead and wry/peek as supporting studies | Good defaults establish a repeatable voice |",
+  "choreographyInterpretation": {
+    "timeline": [
+      {
+        "element": "Long antenna notices",
+        "role": "expressive lead",
+        "atMs": 150
+      },
+      {
+        "element": "Gaze identifies the right-hand question",
+        "role": "meaningful follow",
+        "atMs": 330
+      },
+      {
+        "element": "Head/glasses consider the cue",
+        "role": "support",
+        "atMs": 790
+      },
+      {
+        "element": "Consideration hold",
+        "role": "intentional stillness",
+        "fromMs": 1610,
+        "toMs": 1900
+      },
+      {
+        "element": "Return to visitor",
+        "role": "meaningful sequence",
+        "atMs": 2350
+      },
+      {
+        "element": "Small open mitten offers question",
+        "role": "support/payoff",
+        "atMs": 2720
+      },
+      {
+        "element": "Final invitation",
+        "role": "held pose",
+        "toMs": 4100
+      }
+    ],
+    "staticElements": [
+      "Project question and explanatory text stay readable.",
+      "Project link stays usable.",
+      "Page attribution remains stable."
+    ],
+    "feelCheck": "These timings describe source and sampled poses; I cannot certify their normal-speed felt rhythm without continuous viewing."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "signature1440": {
+    "width": 1440,
+    "scrollWidth": 1440
+  },
+  "signature390": {
+    "width": 390,
+    "scrollWidth": 390
+  },
+  "signature320": {
+    "width": 320,
+    "scrollWidth": 320
+  },
+  "coarse": {
+    "pointerCoarse": true,
+    "hover": false,
+    "selectFont": "16px",
+    "touchAction": "manipulation",
+    "bodySelection": "auto",
+    "buttonSelection": "none"
+  },
+  "signatureReduced": {
+    "playing": false,
+    "status": "Still pose · press play · reduced motion"
+  }
+}

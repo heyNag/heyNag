@@ -1,0 +1,18 @@
+{
+  "source": "Prior accepted v4 local foundation",
+  "files": {
+    "brand/animation-v5/reel.js": "7af6dbdb9c5a95d2e72b2b73ffa309a22a10d30fa53c1dc73616586e3b4ef864",
+    "brand/animation-v5/signature.html": "e216bac4b50d6e337d344773adb162c82923ed9ed004d23504f450f693f7aaf4",
+    "brand/animation-v5/index.html": "b6d131043c416cc5acd5780c8762753dead910787ccfda1186f0497498dac8c7",
+    "brand/animation-v5/studio.css": "a43848acd9bb41df4fd2c3c7c6015e74883d12ababd77489040f31f54acd18ca",
+    "brand/animation-v5/motion.test.mjs": "7de881782f84035d2f346ea0835e33c1e1831f2d1c1d0542966163eda2d11a9f",
+    "brand/animation-v5/acting-review.md": "e40a52c5da6e0f741f5fef40943f362d8d39c8fa6ff4393ad076c3d17db4e7c4",
+    "brand/animation-v5/studio.js": "cdde884a87090cb33b4f227367f301f5f5797ae22ee09e10d4b6ff4f78ffdbec",
+    "brand/animation-v5/signature.js": "dbe5805035cd6ca5571afd8ca2b9a79ff7481eae9e97af8dc825de9c2ebaafbb",
+    "brand/animation-v5/README.md": "2688190a4c6ff6f3168d4f995805387ecc5090e7c83ba39c5b5483e277f83025",
+    "brand/animation-v5/signature.css": "5032455c9ad8f6cd607b40a21f83652560432c171544040a86a59d8f29d1a059",
+    "brand/animation-v5/motion.js": "1027502ecbe9c43a067d09c819842c3876d307a7fa737e4064bebd386ee65a04",
+    "brand/animation-v5/character.js": "b93400daeaa43af99e4b8c30942b80d4d69aba545a808863dd92ebe1830a97fa",
+    "brand/animation-v5/contract.json": "627adea4249a68ee8f81a0135ee1af6864b8f9ddbb1bbdcb481a7a37c89b9f8c"
+  }
+}

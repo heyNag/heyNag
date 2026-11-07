@@ -1,0 +1,121 @@
+{
+  "reviewerId": "storyboard-b",
+  "role": "Storyboard, animatic and comic staging director B",
+  "lens": "Editing rhythm and comic economy",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "scope": "Fresh review of the prepared GitHub-native profile's narrative order, reading rhythm, static character use and connection to the proposed website. The score covers the concrete local preview and current copy. It does not inherit the mascot's prior score or score an unbuilt website, nonexistent profile motion, live publication or audience response.",
+  "sourceManifestSha256": "7b23e48c7555ab1abca2a81923bb526411043350c092e352ef42efd106b468d2",
+  "inspectedEvidence": [
+    "AGENTS.md; brand/workflow.json; current storyboard role and complementary A/B lenses in brand/team.json",
+    "README.md; brand/profile/profile.json; brand/profile/continuity.json",
+    "brand/reviews/2026-11-07-github/review-instructions.txt; brief.json; review-source-v1.json",
+    "evidence/render-checks.json: local preview provenance, ten theme/width checks, matching document/viewport widths, theme selection and three destination URLs",
+    "Direct view_image: evidence/profile-light-1440.png; evidence/profile-dark-1440.png",
+    "Direct view_image: evidence/profile-light-320-top.png; evidence/profile-dark-320-top.png",
+    "Direct view_image: evidence/readme-light-320-scroll.png; evidence/readme-dark-320-scroll.png; evidence/pins-light-320-scroll.png",
+    "Direct view_image: assets/brand/heynag-moth-avatar-v5-day.png at 512 px",
+    "Manifest SHA256 independently recomputed; all nine listed current files independently hashed with no mismatch. Hash verification is not a claim to have newly audited all generator/renderer source."
+  ],
+  "skillsReviewed": {
+    "newFullInstructionsRead": [
+      "/Users/nag/.agents/skills/emil-design-eng/SKILL.md",
+      "/Users/nag/.agents/skills/taste-skill/SKILL.md"
+    ],
+    "newSupportingReferenceRead": "/Users/nag/.agents/skills/taste-skill/references/copy.md",
+    "previousFullInstructionsReused": [
+      "choreograph: /Users/nag/.config/skillshare/skills/choreograph/SKILL.md",
+      "review-animations: /Users/nag/.config/skillshare/skills/review-animations/SKILL.md",
+      "animation-vocabulary: /Users/nag/.config/skillshare/skills/animation-vocabulary/SKILL.md"
+    ],
+    "application": "Use grounded copy and one coherent identity from design-taste; purposeful restraint and actual rendering from Emil; lead/support/static hierarchy and semantic endings from choreography. The profile is a static introduction, so its reading sequence is reviewed without pretending it has timed performance.",
+    "intakeBoundary": "Prior all-17 catalog intake is retained. Only the named full skills/references are claimed as read. No template assets, custom CSS, browser scripts or new animation workflow were run."
+  },
+  "workflowChanges": [
+    "Storyboard the native reading route before proposing embellishment: identity/name and bio, README welcome, honest public-work boundary, project examples, closing line, then native pins. Give each stage a distinct informational job.",
+    "Review the bio, README and pin descriptions together for repetition. Text that feels concise in one file can repeat its setup when the native phone layout stacks those surfaces.",
+    "Use wheel-scrolled viewport evidence for the reading sequence and initial-viewport evidence for exposure. Do not infer mobile reading behavior from full-page captures with sticky-navigation artifacts.",
+    "Treat the moth as static support for the maker's introduction here. Any future website performance needs a concrete project subject, a readable static path and its own fresh timing/staging review.",
+    "Keep current visual continuity, future implementation intent and human recognition as separate claims. A shared asset source demonstrates consistency; it does not demonstrate recall."
+  ],
+  "rulesNotApplicableWithReason": [
+    {
+      "rule": "Design-taste's one-section-per-screen, dealt hero, custom font/grid and prescribed hover/loop layers",
+      "reason": "This is a personal profile within GitHub's native layout and sanitized README surface. The task requires the existing identity and native controls, not a commercial-site rebuild. No custom CSS/JS, shader, photography quota or template checker is applicable."
+    },
+    {
+      "rule": "A product-category sales headline, transaction CTA, ban on greetings, and a numerical hard fact in the hero",
+      "reason": "The page introduces Nag and links actual public work. 'Hey, I'm Nag.' is an appropriate first-person greeting; adding a buyer, sales transaction, metric or invented title would misstate the brief."
+    },
+    {
+      "rule": "No text beneath a visual, interpreted as removing the introduction beneath the header",
+      "reason": "The README introduction is useful native text about the person, not an explanatory caption apologizing for artwork. It must remain accessible and separate from the raster header."
+    },
+    {
+      "rule": "Motion timings, stagger, spring, compositor and keyboard-animation prescriptions",
+      "reason": "There is no authored profile motion. Static restraint is appropriate; the future website's interruptible performance is a plan and receives no timing approval in this review."
+    },
+    {
+      "rule": "Run the design-taste browser/checker workflow or edit source during review",
+      "reason": "Root owns the browser and supplies explicitly labelled native-DOM local-preview evidence. This specialist is instructed to perform a read-only independent review and write only its own record."
+    },
+    {
+      "rule": "Replace the required JSON record with a skill-specific Markdown review format",
+      "reason": "The application review mandates structured independent JSON. Findings retain evidence, improvement criteria and a scoped verdict within that required format."
+    }
+  ],
+  "score": 8.8,
+  "scoreMeaning": "Strong current static profile storytelling: the maker is clearly introduced, the public sample is honestly bounded, projects are readily scannable, and the moth supplies warmth without competing for the narrative. The main remaining weakness is avoidable repetition along the stacked phone reading route. This is a fresh GitHub application score, not an update to the prior mascot score and not a website or audience score.",
+  "confidence": {
+    "renderedReadingOrderAndCopy": "high within the inspected desktop and 320 px local previews",
+    "editorialEconomyJudgment": "medium-high",
+    "humanRecognitionAndEngagement": "unmeasured",
+    "futureWebsiteExecution": "not built or scored"
+  },
+  "strengths": [
+    "The order is intelligible without mascot exposition: the real name and bio establish the maker, 'Hey, I'm Nag.' speaks in first person, the private-work sentence explains the limited public sample, and three named links supply concrete things to inspect. The moth never becomes the implied author.",
+    "The project order makes a useful small progression: Charms presents practical agent tools, Grok Bot demonstrates interest in software personality, and eva.md introduces continuity. The closing 'Exploring ideas worth keeping.' then echoes the last project's subject without adding another claim or call to action.",
+    "The static character is economical. The face avatar and full-figure header repeat the same identity at different native placements, while the plain text carries the meaning. No tiny mitten gesture, animated gag, sound or interaction is needed to understand who made the work or where to go.",
+    "At 1440 px the README is a compact welcome and project list in both themes. At 320 px the actual scrolled captures show clearly separated project paragraphs, visible link names and a quiet divider/closing line. The supplied native layout preserves reading order instead of trying to simulate a custom portfolio.",
+    "The public/private boundary prevents an inflated story. The descriptions identify what the linked work does and call evolving work an experiment, while the proposed website link is omitted until there is a useful destination. That restraint leaves space for later verified stories without pretending they already exist."
+  ],
+  "deductions": [
+    {
+      "id": "SB-B-GH-01",
+      "severity": "minor to moderate editorial inefficiency; nonblocking",
+      "confidence": "high for repetition, medium-high for its effect on reading rhythm",
+      "evidence": ["brand/profile/profile.json bio", "README.md opening paragraph", "evidence/profile-light-320-top.png", "evidence/profile-dark-320-top.png", "evidence/readme-light-320-scroll.png"],
+      "finding": "The bio and README opening repeat nearly the same setup: software and systems, curious experiments, useful tools, and care for how software feels. On desktop this reinforces the identity in adjacent columns; on the stacked phone route it becomes a second introduction before the examples arrive. GitHub's own achievement/navigation blocks already delay the README, making avoidable repetition more noticeable.",
+      "improvementCriterion": "Give the two introductions complementary jobs in a later copy pass: retain the concise bio, and make the README opening advance directly to the public-work window or one distinct, verified motivation. Recheck the native phone sequence; do not remove the useful personal greeting merely to shorten it."
+    },
+    {
+      "id": "SB-B-GH-02",
+      "severity": "minor editorial softness; nonblocking",
+      "confidence": "medium-high",
+      "evidence": ["README.md project descriptions", "brand/profile/profile.json repositoryDescriptions", "evidence/readme-light-320-scroll.png", "evidence/pins-light-320-scroll.png"],
+      "finding": "The project paragraphs are followed by pin cards that restate much of their functional information. The README's extra phrases add warmth, but 'A few extra ways to look closely' and 'giving software a little personality' mostly return to the opening's traits. The result is readable yet slightly circular rather than advancing every time the visitor reaches another block.",
+      "improvementCriterion": "Preserve the useful factual pin summaries and consistent project names. Where a README entry adds a second sentence, make that sentence earn its space through a distinct verified motive or current status; otherwise shorten it. Keep the explicit unofficial label and eva.md's evolving status. Do not invent outcomes to manufacture a stronger narrative."
+    }
+  ],
+  "blockers": [],
+  "recommendations": [
+    "Accept the concrete static profile application for the paired review with the two named nonblocking economy concerns. No new motion, mascot dialogue or decorative panel is needed.",
+    "Keep the current three-project order and one quiet closing. Make any later copy tightening across bio, README and pins as a single editorial pass rather than optimizing each fragment independently.",
+    "For heyNag.com, use the promised project stories to add a real decision, its context and what happened. Keep work visible without mascot interaction, and review any Investigate & share scene as new implementation with its actual surrounding composition."
+  ],
+  "continuityAssessment": {
+    "demonstratedNow": "The current local profile uses the existing moth, wordmark, palette and personal names consistently in both themes. Static treatment carries the selected warm, curious tone without claiming to reproduce the motion study.",
+    "planAssessment": "continuity.json is a coherent direction: the same maker and versioned identity, richer verified work stories, and optional interruptible Investigate & share behavior with static/reduced-motion paths. Those are implementation constraints, not evidence that the future website already works.",
+    "wordingBoundary": "The continuity record's statement that avatar/header/wordmark establish recognition immediately is an intended design effect. Shared assets are directly observable; immediate recognition by unfamiliar people is not established.",
+    "futureWebsiteScore": null,
+    "futureMotionScore": null
+  },
+  "unscoredOutcomes": [
+    "Unfamiliar-human maker attribution, recognition, affection, comprehension, clicks or delayed recall.",
+    "The future website's layout, project-story depth, animation timing, interaction quality or reduced-motion execution.",
+    "Live account settings, applied pins, published profile behavior or remote asset delivery; the screenshots are labelled local previews using native GitHub DOM and GitHub Markdown API output.",
+    "Physical-phone behavior, screen-reader spoken output and measurements outside the supplied local rendering checks.",
+    "No new continuous motion or audio exists on this profile to judge. Prior character playback reviews are not fresh approval of this application."
+  ],
+  "independence": "Saved before reading any other new GitHub independent review. No browser, web research, other-agent delegation, source edits or publication performed."
+}

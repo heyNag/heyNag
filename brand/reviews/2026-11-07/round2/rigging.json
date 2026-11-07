@@ -1,0 +1,54 @@
+{
+  "role": "Technical character animator and rigger",
+  "challenges": [
+    {
+      "role": "Performance director",
+      "claimId": "PERF-01",
+      "decision": "accept with narrower release scope",
+      "reason": "The open-mouth interruption is evidenced; 'smiling' describes our reading, not measured audience interpretation. The gate belongs to this animated transition when used publicly. Static artwork and unrelated actions are not blocked.",
+      "evidence": ["evidence/sad-worried-transition.png:100–300 ms", "animation-v5/motion.js:71,513–521"],
+      "implication": "Retain outgoing mouth/gaze tension during incoming anticipation, or blend facial channels toward an appropriate incoming pose. Keep the existing body continuity and anatomy. Verify this pair and nearby difficult-feeling switches; do not globally replace the welcoming neutral."
+    },
+    {
+      "role": "Storyboard director",
+      "claimId": "STORY-03",
+      "decision": "revise",
+      "reason": "The small mitten/ruff cluster is a legibility concern, but does not establish deficient rig geometry. Existing hand translation, rotation and head offsets permit meaningful negative-space trials within the 48-unit reach limit.",
+      "evidence": ["evidence/thinking-sequence.png:1150,1500,1900 ms", "animation-v5/character.js:237,250–258"],
+      "implication": "Lower the supporting mitten, reserve symmetry, and adjust head-to-mitten contact first. Compare at intended size. Redraw only if these controlled pose trials cannot separate the intended action; do not lengthen arms or enlarge hands."
+    },
+    {
+      "role": "Performance and storyboard directors",
+      "claimId": "PERF-02 / STORY-04",
+      "decision": "accept source diagnosis; qualify perceptual consequence",
+      "reason": "Smoothstep forces a mathematical stop at every key; it cannot itself prove a distracting pause or insufficiently sharp fear. Sampled frames also cannot demonstrate cadence. These are targeted playback questions, not reasons to discard the motion catalogue.",
+      "evidence": ["animation-v5/motion.js:26,184–186,352–353,417", "evidence/excited-sequence.png:720–1060 ms"],
+      "implication": "Compare continuous hop descent and stimulus-timed fear variants. Keep numeric bounds/lifecycle tests; add temporal review for these actions. Still-asset approval does not require that motion review."
+    },
+    {
+      "role": "Identity and visual development",
+      "claimId": "IDENTITY-03 / VIS-01",
+      "decision": "accept",
+      "reason": "Fresh night-size evidence shows stems becoming difficult to trace although their geometry remains connected. Shared geometry is insufficient for equivalent visible anatomy.",
+      "evidence": ["evidence/identity.png:night 96/128/160px rows", "animation-v5/character.js:57–70,100–101,224,247–248"],
+      "implication": "Test restrained local edge or stage-value changes on the actual ground before changing antenna geometry. A detached-looking paddle is a lighting/contrast problem here, not evidence of a broken joint."
+    },
+    {
+      "role": "Storyboard director",
+      "claimId": "keep[0]: four-panel wing identity",
+      "decision": "accept with occlusion distinction",
+      "reason": "Four independently connected panels should remain in the asset, but demanding four readable outlines in every pose would compromise protective contraction. Scared largely occludes its hindwings at 1050 ms. Roots are intentionally covered by torso/ruff; exposed sockets are not required.",
+      "evidence": ["evidence/scared-sequence.png:600,1050,1600 ms", "animation-v5/character.js:118–135,243–246"],
+      "implication": "Preserve panel construction and believable visible continuity through movement. Judge overlap intentionally; do not equate temporary occlusion with missing anatomy."
+    }
+  ],
+  "ownPositionChanged": [
+    "RIG-03 is explicitly an application-specific animated verification gate, not a blanket prohibition on public still assets.",
+    "Night contrast is a concrete visible connectivity concern beyond my initial numeric/contact review. It strengthens local lighting refinement, not wholesale rebuilding."
+  ],
+  "finalVerdict": "Preserve the rig. Refine selected transitions, pose separation and night readability; verify each intended application. The studio keyboard finding IX-01 belongs to that interface, not the underlying artwork.",
+  "openQuestions": [
+    "Does uninterrupted playback reveal a noticeable mid-descent hesitation?",
+    "Can pose-only changes make the dominant mitten action clear at its actual public size?"
+  ]
+}

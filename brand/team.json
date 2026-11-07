@@ -1,0 +1,870 @@
+{
+  "brand": "heyNag",
+  "owner": "Nag / Nagarjuna Boddu",
+  "continuity": "Standing review roles for the complete brand and future website process. Runtime persistence is not guaranteed; role briefs and decisions are durable.",
+  "modelPreference": {
+    "model": "gpt-6-astra",
+    "reasoning": "ultra",
+    "source": "Explicit user request for GPT-6 Astra with highest reasoning."
+  },
+  "team": [
+    {
+      "id": "brand",
+      "role": "Character brand director",
+      "agent": "/root/panel_brand_director_astra",
+      "responsibility": "Nag attribution, voice, personal relevance and authentic project stories",
+      "independentReview": "brand/reviews/2026-11-07/round1/brand.json",
+      "crossReview": "brand/reviews/2026-11-07/round2/brand.json",
+      "latestIndependentReview": "brand/reviews/2026-11-07-refinement/round1/brand.json",
+      "latestCrossReview": "brand/reviews/2026-11-07-refinement/round2/brand.json",
+      "reviewers": [
+        {
+          "id": "A",
+          "agent": "/root/panel_brand_director_astra",
+          "lens": "Personal voice and authentic work",
+          "status": "expanded review and explicit team-plan vote complete; available for future follow-up",
+          "model": "gpt-6-astra",
+          "reasoningEffort": "ultra",
+          "predecessorAgent": "/root/panel_brand_director",
+          "createdWith": {
+            "model": "gpt-6-astra",
+            "reasoning_effort": "ultra",
+            "fork_turns": "none"
+          },
+          "implementationAgent": "/root/panel_brand_a_implementation",
+          "implementationReview": "brand/reviews/2026-11-07-implementation/independent/brand-a.json",
+          "skillsMessage": "Explicit user message to the entire team: inspect installed Emil Kowalski skills and improve workflow. See brand/workflow.json.",
+          "implementationStatus": "Independent review, pair discussion and explicit individual v2 vote complete; accepted local foundation with named limits.",
+          "implementationVote": "brand/reviews/2026-11-07-implementation/team-votes/brand-a.json",
+          "implementationDiscussion": "brand/reviews/2026-11-07-implementation/pairs/brand-a-discussion.json",
+          "gestureAgent": "/root/panel_brand_a_implementation",
+          "gestureReview": "brand/reviews/2026-11-07-gesture-staging/independent/brand-a.json",
+          "gestureDiscussion": "brand/reviews/2026-11-07-gesture-staging/pairs/brand-a-discussion.json",
+          "gestureVote": "brand/reviews/2026-11-07-gesture-staging/team-votes/brand-a.json",
+          "gestureStatus": "Fresh independent review, partner challenge and explicit individual vote complete.",
+          "githubAgent": "/root/panel_brand_a_implementation",
+          "githubIndependentReview": "brand/reviews/2026-11-07-github/independent/brand-a.json",
+          "githubVote": "brand/reviews/2026-11-07-github/team-votes/brand-a.json",
+          "githubStatus": "Updated application inspected; paired challenge and explicit scoped vote recorded. Individual scores and limits retained."
+        },
+        {
+          "id": "B",
+          "agent": "/root/panel_brand_director_peer",
+          "lens": "Long-term recognition and distinctive brand behavior",
+          "status": "expanded review and explicit team-plan vote complete; available for future follow-up",
+          "model": "gpt-6-astra",
+          "reasoningEffort": "ultra",
+          "createdWith": {
+            "model": "gpt-6-astra",
+            "reasoning_effort": "ultra",
+            "fork_turns": "none"
+          },
+          "implementationAgent": "/root/panel_brand_b_implementation",
+          "implementationReview": "brand/reviews/2026-11-07-implementation/independent/brand-b.json",
+          "skillsMessage": "Explicit user message to the entire team: inspect installed Emil Kowalski skills and improve workflow. See brand/workflow.json.",
+          "implementationStatus": "Independent review, pair discussion and explicit individual v2 vote complete; accepted local foundation with named limits.",
+          "implementationVote": "brand/reviews/2026-11-07-implementation/team-votes/brand-b.json",
+          "implementationDiscussion": "brand/reviews/2026-11-07-implementation/pairs/brand-b-discussion.json",
+          "gestureAgent": "/root/panel_brand_b_implementation",
+          "gestureReview": "brand/reviews/2026-11-07-gesture-staging/independent/brand-b.json",
+          "gestureDiscussion": "brand/reviews/2026-11-07-gesture-staging/pairs/brand-b-discussion.json",
+          "gestureVote": "brand/reviews/2026-11-07-gesture-staging/team-votes/brand-b.json",
+          "gestureStatus": "Fresh independent review, partner challenge and explicit individual vote complete.",
+          "githubAgent": "/root/panel_brand_b_implementation",
+          "githubIndependentReview": "brand/reviews/2026-11-07-github/independent/brand-b.json",
+          "githubVote": "brand/reviews/2026-11-07-github/team-votes/brand-b.json",
+          "githubStatus": "Updated application inspected; paired challenge and explicit scoped vote recorded. Individual scores and limits retained."
+        }
+      ],
+      "legacyAgent": "/root/panel_brand_director",
+      "expandedIndependentReviews": [
+        "brand/reviews/2026-11-07-expanded-panel/independent/brand-a.json",
+        "brand/reviews/2026-11-07-expanded-panel/independent/brand-b.json"
+      ],
+      "expandedPairProposal": "brand/reviews/2026-11-07-expanded-panel/pairs/brand-proposal.json",
+      "expandedPairResolution": "brand/reviews/2026-11-07-expanded-panel/pairs/brand-resolution.json",
+      "implementationIndependentReviews": [
+        "brand/reviews/2026-11-07-implementation/independent/brand-a.json",
+        "brand/reviews/2026-11-07-implementation/independent/brand-b.json"
+      ],
+      "implementationPairResolution": "brand/reviews/2026-11-07-implementation/pairs/brand-resolution.json",
+      "gestureIndependentReviews": [
+        "brand/reviews/2026-11-07-gesture-staging/independent/brand-a.json",
+        "brand/reviews/2026-11-07-gesture-staging/independent/brand-b.json"
+      ],
+      "gesturePairResolution": "brand/reviews/2026-11-07-gesture-staging/pairs/brand-resolution.json",
+      "githubPairResolution": "brand/reviews/2026-11-07-github/pairs/brand-resolution.json"
+    },
+    {
+      "id": "performance",
+      "role": "Character performance director",
+      "agent": "/root/panel_performance_director_astra",
+      "responsibility": "Intention, pantomime, weight, timing, gaze and emotion continuity",
+      "independentReview": "brand/reviews/2026-11-07/round1/performance.json",
+      "crossReview": "brand/reviews/2026-11-07/round2/performance.json",
+      "latestIndependentReview": "brand/reviews/2026-11-07-refinement/round1/performance.json",
+      "latestCrossReview": "brand/reviews/2026-11-07-refinement/round2/performance.json",
+      "reviewers": [
+        {
+          "id": "A",
+          "agent": "/root/panel_performance_director_astra",
+          "lens": "Intention and comic acting",
+          "status": "expanded review and explicit team-plan vote complete; available for future follow-up",
+          "model": "gpt-6-astra",
+          "reasoningEffort": "ultra",
+          "predecessorAgent": "/root/panel_performance_director",
+          "createdWith": {
+            "model": "gpt-6-astra",
+            "reasoning_effort": "ultra",
+            "fork_turns": "none"
+          },
+          "implementationAgent": "/root/panel_performance_a_implementation",
+          "implementationReview": "brand/reviews/2026-11-07-implementation/independent/performance-a.json",
+          "skillsMessage": "Explicit user message to the entire team: inspect installed Emil Kowalski skills and improve workflow. See brand/workflow.json.",
+          "implementationStatus": "Independent review, pair discussion and explicit individual v2 vote complete; accepted local foundation with named limits.",
+          "implementationVote": "brand/reviews/2026-11-07-implementation/team-votes/performance-a.json",
+          "implementationDiscussion": "brand/reviews/2026-11-07-implementation/pairs/performance-a-discussion.json",
+          "gestureAgent": "/root/panel_performance_a_implementation",
+          "gestureReview": "brand/reviews/2026-11-07-gesture-staging/independent/performance-a.json",
+          "gestureDiscussion": "brand/reviews/2026-11-07-gesture-staging/pairs/performance-a-discussion.json",
+          "gestureVote": "brand/reviews/2026-11-07-gesture-staging/team-votes/performance-a.json",
+          "gestureStatus": "Fresh independent review, partner challenge and explicit individual vote complete.",
+          "githubAgent": "/root/panel_performance_a_implementation",
+          "githubIndependentReview": "brand/reviews/2026-11-07-github/independent/performance-a.json",
+          "githubVote": "brand/reviews/2026-11-07-github/team-votes/performance-a.json",
+          "githubStatus": "Updated application inspected; paired challenge and explicit scoped vote recorded. Individual scores and limits retained."
+        },
+        {
+          "id": "B",
+          "agent": "/root/panel_performance_director_peer",
+          "lens": "Timing, weight and emotional clarity",
+          "status": "expanded review and explicit team-plan vote complete; available for future follow-up",
+          "model": "gpt-6-astra",
+          "reasoningEffort": "ultra",
+          "createdWith": {
+            "model": "gpt-6-astra",
+            "reasoning_effort": "ultra",
+            "fork_turns": "none"
+          },
+          "implementationAgent": "/root/panel_performance_b_implementation",
+          "implementationReview": "brand/reviews/2026-11-07-implementation/independent/performance-b.json",
+          "skillsMessage": "Explicit user message to the entire team: inspect installed Emil Kowalski skills and improve workflow. See brand/workflow.json.",
+          "implementationStatus": "Independent review, pair discussion and explicit individual v2 vote complete; accepted local foundation with named limits.",
+          "implementationVote": "brand/reviews/2026-11-07-implementation/team-votes/performance-b.json",
+          "implementationDiscussion": "brand/reviews/2026-11-07-implementation/pairs/performance-b-discussion.json",
+          "gestureAgent": "/root/panel_performance_b_implementation",
+          "gestureReview": "brand/reviews/2026-11-07-gesture-staging/independent/performance-b.json",
+          "gestureDiscussion": "brand/reviews/2026-11-07-gesture-staging/pairs/performance-b-discussion.json",
+          "gestureVote": "brand/reviews/2026-11-07-gesture-staging/team-votes/performance-b.json",
+          "gestureStatus": "Fresh independent review, partner challenge and explicit individual vote complete.",
+          "githubAgent": "/root/panel_performance_b_implementation",
+          "githubIndependentReview": "brand/reviews/2026-11-07-github/independent/performance-b.json",
+          "githubVote": "brand/reviews/2026-11-07-github/team-votes/performance-b.json",
+          "githubStatus": "Updated application inspected; paired challenge and explicit scoped vote recorded. Individual scores and limits retained."
+        }
+      ],
+      "legacyAgent": "/root/panel_performance_director",
+      "expandedIndependentReviews": [
+        "brand/reviews/2026-11-07-expanded-panel/independent/performance-a.json",
+        "brand/reviews/2026-11-07-expanded-panel/independent/performance-b.json"
+      ],
+      "expandedPairProposal": "brand/reviews/2026-11-07-expanded-panel/pairs/performance-proposal.json",
+      "expandedPairResolution": "brand/reviews/2026-11-07-expanded-panel/pairs/performance-resolution.json",
+      "implementationIndependentReviews": [
+        "brand/reviews/2026-11-07-implementation/independent/performance-a.json",
+        "brand/reviews/2026-11-07-implementation/independent/performance-b.json"
+      ],
+      "implementationPairResolution": "brand/reviews/2026-11-07-implementation/pairs/performance-resolution.json",
+      "gestureIndependentReviews": [
+        "brand/reviews/2026-11-07-gesture-staging/independent/performance-a.json",
+        "brand/reviews/2026-11-07-gesture-staging/independent/performance-b.json"
+      ],
+      "gesturePairResolution": "brand/reviews/2026-11-07-gesture-staging/pairs/performance-resolution.json",
+      "githubPairResolution": "brand/reviews/2026-11-07-github/pairs/performance-resolution.json"
+    },
+    {
+      "id": "identity",
+      "role": "Identity systems designer",
+      "agent": "/root/panel_identity_systems_astra",
+      "responsibility": "Silhouette, typography, palette, avatars, GitHub and cross-surface consistency",
+      "independentReview": "brand/reviews/2026-11-07/round1/identity.json",
+      "crossReview": "brand/reviews/2026-11-07/round2/identity.json",
+      "latestIndependentReview": "brand/reviews/2026-11-07-refinement/round1/identity.json",
+      "latestCrossReview": "brand/reviews/2026-11-07-refinement/round2/identity.json",
+      "reviewers": [
+        {
+          "id": "A",
+          "agent": "/root/panel_identity_systems_astra",
+          "lens": "Silhouette and cross-surface identity",
+          "status": "expanded review and explicit team-plan vote complete; available for future follow-up",
+          "model": "gpt-6-astra",
+          "reasoningEffort": "ultra",
+          "predecessorAgent": "/root/panel_identity_systems",
+          "createdWith": {
+            "model": "gpt-6-astra",
+            "reasoning_effort": "ultra",
+            "fork_turns": "none"
+          },
+          "implementationAgent": "/root/panel_identity_a_implementation",
+          "implementationReview": "brand/reviews/2026-11-07-implementation/independent/identity-a.json",
+          "skillsMessage": "Explicit user message to the entire team: inspect installed Emil Kowalski skills and improve workflow. See brand/workflow.json.",
+          "implementationStatus": "Independent review, pair discussion and explicit individual v2 vote complete; accepted local foundation with named limits.",
+          "implementationVote": "brand/reviews/2026-11-07-implementation/team-votes/identity-a.json",
+          "implementationDiscussion": "brand/reviews/2026-11-07-implementation/pairs/identity-a-discussion.json",
+          "gestureAgent": "/root/panel_identity_a_implementation",
+          "gestureReview": "brand/reviews/2026-11-07-gesture-staging/independent/identity-a.json",
+          "gestureDiscussion": "brand/reviews/2026-11-07-gesture-staging/pairs/identity-a-discussion.json",
+          "gestureVote": "brand/reviews/2026-11-07-gesture-staging/team-votes/identity-a.json",
+          "gestureStatus": "Fresh independent review, partner challenge and explicit individual vote complete.",
+          "githubAgent": "/root/panel_identity_a_implementation",
+          "githubIndependentReview": "brand/reviews/2026-11-07-github/independent/identity-a.json",
+          "githubVote": "brand/reviews/2026-11-07-github/team-votes/identity-a.json",
+          "githubStatus": "Updated application inspected; paired challenge and explicit scoped vote recorded. Individual scores and limits retained."
+        },
+        {
+          "id": "B",
+          "agent": "/root/panel_identity_systems_peer",
+          "lens": "Small-size recognition and typography hierarchy",
+          "status": "expanded review and explicit team-plan vote complete; available for future follow-up",
+          "model": "gpt-6-astra",
+          "reasoningEffort": "ultra",
+          "createdWith": {
+            "model": "gpt-6-astra",
+            "reasoning_effort": "ultra",
+            "fork_turns": "none"
+          },
+          "implementationAgent": "/root/panel_identity_b_implementation",
+          "implementationReview": "brand/reviews/2026-11-07-implementation/independent/identity-b.json",
+          "skillsMessage": "Explicit user message to the entire team: inspect installed Emil Kowalski skills and improve workflow. See brand/workflow.json.",
+          "implementationStatus": "Independent review, pair discussion and explicit individual v2 vote complete; accepted local foundation with named limits.",
+          "implementationVote": "brand/reviews/2026-11-07-implementation/team-votes/identity-b.json",
+          "implementationDiscussion": "brand/reviews/2026-11-07-implementation/pairs/identity-b-discussion.json",
+          "gestureAgent": "/root/panel_identity_b_implementation",
+          "gestureReview": "brand/reviews/2026-11-07-gesture-staging/independent/identity-b.json",
+          "gestureDiscussion": "brand/reviews/2026-11-07-gesture-staging/pairs/identity-b-discussion.json",
+          "gestureVote": "brand/reviews/2026-11-07-gesture-staging/team-votes/identity-b.json",
+          "gestureStatus": "Fresh independent review, partner challenge and explicit individual vote complete.",
+          "githubAgent": "/root/panel_identity_b_implementation",
+          "githubIndependentReview": "brand/reviews/2026-11-07-github/independent/identity-b.json",
+          "githubVote": "brand/reviews/2026-11-07-github/team-votes/identity-b.json",
+          "githubStatus": "Updated application inspected; paired challenge and explicit scoped vote recorded. Individual scores and limits retained."
+        }
+      ],
+      "legacyAgent": "/root/panel_identity_systems",
+      "expandedIndependentReviews": [
+        "brand/reviews/2026-11-07-expanded-panel/independent/identity-a.json",
+        "brand/reviews/2026-11-07-expanded-panel/independent/identity-b.json"
+      ],
+      "expandedPairProposal": "brand/reviews/2026-11-07-expanded-panel/pairs/identity-proposal.json",
+      "expandedPairResolution": "brand/reviews/2026-11-07-expanded-panel/pairs/identity-resolution.json",
+      "implementationIndependentReviews": [
+        "brand/reviews/2026-11-07-implementation/independent/identity-a.json",
+        "brand/reviews/2026-11-07-implementation/independent/identity-b.json"
+      ],
+      "implementationPairResolution": "brand/reviews/2026-11-07-implementation/pairs/identity-resolution.json",
+      "gestureIndependentReviews": [
+        "brand/reviews/2026-11-07-gesture-staging/independent/identity-a.json",
+        "brand/reviews/2026-11-07-gesture-staging/independent/identity-b.json"
+      ],
+      "gesturePairResolution": "brand/reviews/2026-11-07-gesture-staging/pairs/identity-resolution.json",
+      "githubPairResolution": "brand/reviews/2026-11-07-github/pairs/identity-resolution.json"
+    },
+    {
+      "id": "rigging",
+      "role": "Technical character animator and rigger",
+      "agent": "/root/panel_rigging_astra",
+      "responsibility": "Articulation, contact, interpolation, interruption and rendering integrity",
+      "independentReview": "brand/reviews/2026-11-07/round1/rigging.json",
+      "crossReview": "brand/reviews/2026-11-07/round2/rigging.json",
+      "latestIndependentReview": "brand/reviews/2026-11-07-refinement/round1/rigging.json",
+      "latestCrossReview": "brand/reviews/2026-11-07-refinement/round2/rigging.json",
+      "reviewers": [
+        {
+          "id": "A",
+          "agent": "/root/panel_rigging_astra",
+          "lens": "Articulation and contact",
+          "status": "expanded review and explicit team-plan vote complete; available for future follow-up",
+          "model": "gpt-6-astra",
+          "reasoningEffort": "ultra",
+          "predecessorAgent": "/root/panel_rigging",
+          "createdWith": {
+            "model": "gpt-6-astra",
+            "reasoning_effort": "ultra",
+            "fork_turns": "none"
+          },
+          "implementationAgent": "/root/panel_rigging_a_implementation",
+          "implementationReview": "brand/reviews/2026-11-07-implementation/independent/rigging-a.json",
+          "skillsMessage": "Explicit user message to the entire team: inspect installed Emil Kowalski skills and improve workflow. See brand/workflow.json.",
+          "implementationStatus": "Independent review, pair discussion and explicit individual v2 vote complete; accepted local foundation with named limits.",
+          "implementationVote": "brand/reviews/2026-11-07-implementation/team-votes/rigging-a.json",
+          "implementationDiscussion": "brand/reviews/2026-11-07-implementation/pairs/rigging-a-discussion.json",
+          "gestureAgent": "/root/panel_rigging_a_implementation",
+          "gestureReview": "brand/reviews/2026-11-07-gesture-staging/independent/rigging-a.json",
+          "gestureDiscussion": "brand/reviews/2026-11-07-gesture-staging/pairs/rigging-a-discussion.json",
+          "gestureVote": "brand/reviews/2026-11-07-gesture-staging/team-votes/rigging-a.json",
+          "gestureStatus": "Fresh independent review, partner challenge and explicit individual vote complete.",
+          "githubAgent": "/root/panel_rigging_a_implementation",
+          "githubIndependentReview": "brand/reviews/2026-11-07-github/independent/rigging-a.json",
+          "githubVote": "brand/reviews/2026-11-07-github/team-votes/rigging-a.json",
+          "githubStatus": "Updated application inspected; paired challenge and explicit scoped vote recorded. Individual scores and limits retained."
+        },
+        {
+          "id": "B",
+          "agent": "/root/panel_rigging_peer",
+          "lens": "Rendering integrity and production reuse",
+          "status": "expanded review and explicit team-plan vote complete; available for future follow-up",
+          "model": "gpt-6-astra",
+          "reasoningEffort": "ultra",
+          "createdWith": {
+            "model": "gpt-6-astra",
+            "reasoning_effort": "ultra",
+            "fork_turns": "none"
+          },
+          "implementationAgent": "/root/panel_rigging_b_implementation",
+          "implementationReview": "brand/reviews/2026-11-07-implementation/independent/rigging-b.json",
+          "skillsMessage": "Explicit user message to the entire team: inspect installed Emil Kowalski skills and improve workflow. See brand/workflow.json.",
+          "implementationStatus": "Independent review, pair discussion and explicit individual v2 vote complete; accepted local foundation with named limits.",
+          "implementationVote": "brand/reviews/2026-11-07-implementation/team-votes/rigging-b.json",
+          "implementationDiscussion": "brand/reviews/2026-11-07-implementation/pairs/rigging-b-discussion.json",
+          "gestureAgent": "/root/panel_rigging_b_implementation",
+          "gestureReview": "brand/reviews/2026-11-07-gesture-staging/independent/rigging-b.json",
+          "gestureDiscussion": "brand/reviews/2026-11-07-gesture-staging/pairs/rigging-b-discussion.json",
+          "gestureVote": "brand/reviews/2026-11-07-gesture-staging/team-votes/rigging-b.json",
+          "gestureStatus": "Fresh independent review, partner challenge and explicit individual vote complete.",
+          "githubAgent": "/root/panel_rigging_b_implementation",
+          "githubIndependentReview": "brand/reviews/2026-11-07-github/independent/rigging-b.json",
+          "githubVote": "brand/reviews/2026-11-07-github/team-votes/rigging-b.json",
+          "githubStatus": "Updated application inspected; paired challenge and explicit scoped vote recorded. Individual scores and limits retained."
+        }
+      ],
+      "legacyAgent": "/root/panel_rigging",
+      "expandedIndependentReviews": [
+        "brand/reviews/2026-11-07-expanded-panel/independent/rigging-a.json",
+        "brand/reviews/2026-11-07-expanded-panel/independent/rigging-b.json"
+      ],
+      "expandedPairProposal": "brand/reviews/2026-11-07-expanded-panel/pairs/rigging-proposal.json",
+      "expandedPairResolution": "brand/reviews/2026-11-07-expanded-panel/pairs/rigging-resolution.json",
+      "implementationIndependentReviews": [
+        "brand/reviews/2026-11-07-implementation/independent/rigging-a.json",
+        "brand/reviews/2026-11-07-implementation/independent/rigging-b.json"
+      ],
+      "implementationPairResolution": "brand/reviews/2026-11-07-implementation/pairs/rigging-resolution.json",
+      "gestureIndependentReviews": [
+        "brand/reviews/2026-11-07-gesture-staging/independent/rigging-a.json",
+        "brand/reviews/2026-11-07-gesture-staging/independent/rigging-b.json"
+      ],
+      "gesturePairResolution": "brand/reviews/2026-11-07-gesture-staging/pairs/rigging-resolution.json",
+      "githubPairResolution": "brand/reviews/2026-11-07-github/pairs/rigging-resolution.json"
+    },
+    {
+      "id": "interaction",
+      "role": "Interaction and accessibility designer",
+      "agent": "/root/panel_interaction_astra",
+      "responsibility": "Keyboard, controls, reduced motion, focus, reading comfort and truthful states",
+      "independentReview": "brand/reviews/2026-11-07/round1/interaction.json",
+      "crossReview": "brand/reviews/2026-11-07/round2/interaction.json",
+      "latestIndependentReview": "brand/reviews/2026-11-07-refinement/round1/interaction.json",
+      "latestCrossReview": "brand/reviews/2026-11-07-refinement/round2/interaction.json",
+      "reviewers": [
+        {
+          "id": "A",
+          "agent": "/root/panel_interaction_astra",
+          "lens": "Keyboard and accessible controls",
+          "status": "expanded review and explicit team-plan vote complete; available for future follow-up",
+          "model": "gpt-6-astra",
+          "reasoningEffort": "ultra",
+          "predecessorAgent": "/root/panel_interaction",
+          "createdWith": {
+            "model": "gpt-6-astra",
+            "reasoning_effort": "ultra",
+            "fork_turns": "none"
+          },
+          "implementationAgent": "/root/panel_interaction_a_implementation",
+          "implementationReview": "brand/reviews/2026-11-07-implementation/independent/interaction-a.json",
+          "skillsMessage": "Explicit user message to the entire team: inspect installed Emil Kowalski skills and improve workflow. See brand/workflow.json.",
+          "implementationStatus": "Independent review, pair discussion and explicit individual v2 vote complete; accepted local foundation with named limits.",
+          "implementationVote": "brand/reviews/2026-11-07-implementation/team-votes/interaction-a.json",
+          "implementationDiscussion": "brand/reviews/2026-11-07-implementation/pairs/interaction-a-discussion.json",
+          "gestureAgent": "/root/panel_interaction_a_implementation",
+          "gestureReview": "brand/reviews/2026-11-07-gesture-staging/independent/interaction-a.json",
+          "gestureDiscussion": "brand/reviews/2026-11-07-gesture-staging/pairs/interaction-a-discussion.json",
+          "gestureVote": "brand/reviews/2026-11-07-gesture-staging/team-votes/interaction-a.json",
+          "gestureStatus": "Fresh independent review, partner challenge and explicit individual vote complete.",
+          "githubAgent": "/root/panel_interaction_a_implementation",
+          "githubIndependentReview": "brand/reviews/2026-11-07-github/independent/interaction-a.json",
+          "githubVote": "brand/reviews/2026-11-07-github/team-votes/interaction-a.json",
+          "githubStatus": "Updated application inspected; paired challenge and explicit scoped vote recorded. Individual scores and limits retained."
+        },
+        {
+          "id": "B",
+          "agent": "/root/panel_interaction_peer",
+          "lens": "Discoverability, comfort and repeat visits",
+          "status": "expanded review and explicit team-plan vote complete; available for future follow-up",
+          "model": "gpt-6-astra",
+          "reasoningEffort": "ultra",
+          "createdWith": {
+            "model": "gpt-6-astra",
+            "reasoning_effort": "ultra",
+            "fork_turns": "none"
+          },
+          "implementationAgent": "/root/panel_interaction_b_implementation",
+          "implementationReview": "brand/reviews/2026-11-07-implementation/independent/interaction-b.json",
+          "skillsMessage": "Explicit user message to the entire team: inspect installed Emil Kowalski skills and improve workflow. See brand/workflow.json.",
+          "implementationStatus": "Independent review, pair discussion and explicit individual v2 vote complete; accepted local foundation with named limits.",
+          "implementationVote": "brand/reviews/2026-11-07-implementation/team-votes/interaction-b.json",
+          "implementationDiscussion": "brand/reviews/2026-11-07-implementation/pairs/interaction-b-discussion.json",
+          "gestureAgent": "/root/panel_interaction_b_implementation",
+          "gestureReview": "brand/reviews/2026-11-07-gesture-staging/independent/interaction-b.json",
+          "gestureDiscussion": "brand/reviews/2026-11-07-gesture-staging/pairs/interaction-b-discussion.json",
+          "gestureVote": "brand/reviews/2026-11-07-gesture-staging/team-votes/interaction-b.json",
+          "gestureStatus": "Fresh independent review, partner challenge and explicit individual vote complete.",
+          "githubAgent": "/root/panel_interaction_b_implementation",
+          "githubIndependentReview": "brand/reviews/2026-11-07-github/independent/interaction-b.json",
+          "githubVote": "brand/reviews/2026-11-07-github/team-votes/interaction-b.json",
+          "githubStatus": "Updated application inspected; paired challenge and explicit scoped vote recorded. Individual scores and limits retained."
+        }
+      ],
+      "legacyAgent": "/root/panel_interaction",
+      "expandedIndependentReviews": [
+        "brand/reviews/2026-11-07-expanded-panel/independent/interaction-a.json",
+        "brand/reviews/2026-11-07-expanded-panel/independent/interaction-b.json"
+      ],
+      "expandedPairProposal": "brand/reviews/2026-11-07-expanded-panel/pairs/interaction-proposal.json",
+      "expandedPairResolution": "brand/reviews/2026-11-07-expanded-panel/pairs/interaction-resolution.json",
+      "implementationIndependentReviews": [
+        "brand/reviews/2026-11-07-implementation/independent/interaction-a.json",
+        "brand/reviews/2026-11-07-implementation/independent/interaction-b.json"
+      ],
+      "implementationPairResolution": "brand/reviews/2026-11-07-implementation/pairs/interaction-resolution.json",
+      "gestureIndependentReviews": [
+        "brand/reviews/2026-11-07-gesture-staging/independent/interaction-a.json",
+        "brand/reviews/2026-11-07-gesture-staging/independent/interaction-b.json"
+      ],
+      "gesturePairResolution": "brand/reviews/2026-11-07-gesture-staging/pairs/interaction-resolution.json",
+      "githubPairResolution": "brand/reviews/2026-11-07-github/pairs/interaction-resolution.json"
+    },
+    {
+      "id": "audience",
+      "role": "Audience and character-perception researcher",
+      "agent": "/root/panel_audience_astra",
+      "responsibility": "Testable hypotheses, unprimed comprehension, Nag attribution and delayed recall",
+      "independentReview": "brand/reviews/2026-11-07/round1/audience.json",
+      "crossReview": "brand/reviews/2026-11-07/round2/audience.json",
+      "latestIndependentReview": "brand/reviews/2026-11-07-refinement/round1/audience.json",
+      "latestCrossReview": "brand/reviews/2026-11-07-refinement/round2/audience.json",
+      "reviewers": [
+        {
+          "id": "A",
+          "agent": "/root/panel_audience_astra",
+          "lens": "Emotion comprehension and attribution",
+          "status": "expanded review and explicit team-plan vote complete; available for future follow-up",
+          "model": "gpt-6-astra",
+          "reasoningEffort": "ultra",
+          "predecessorAgent": "/root/panel_audience",
+          "createdWith": {
+            "model": "gpt-6-astra",
+            "reasoning_effort": "ultra",
+            "fork_turns": "none"
+          },
+          "implementationAgent": "/root/panel_audience_a_implementation",
+          "implementationReview": "brand/reviews/2026-11-07-implementation/independent/audience-a.json",
+          "skillsMessage": "Explicit user message to the entire team: inspect installed Emil Kowalski skills and improve workflow. See brand/workflow.json.",
+          "implementationStatus": "Independent review, pair discussion and explicit individual v2 vote complete; accepted local foundation with named limits.",
+          "implementationVote": "brand/reviews/2026-11-07-implementation/team-votes/audience-a.json",
+          "implementationDiscussion": "brand/reviews/2026-11-07-implementation/pairs/audience-a-discussion.json",
+          "gestureAgent": "/root/panel_audience_a_implementation",
+          "gestureReview": "brand/reviews/2026-11-07-gesture-staging/independent/audience-a.json",
+          "gestureDiscussion": "brand/reviews/2026-11-07-gesture-staging/pairs/audience-a-discussion.json",
+          "gestureVote": "brand/reviews/2026-11-07-gesture-staging/team-votes/audience-a.json",
+          "gestureStatus": "Fresh independent review, partner challenge and explicit individual vote complete.",
+          "githubAgent": "/root/panel_audience_a_implementation",
+          "githubIndependentReview": "brand/reviews/2026-11-07-github/independent/audience-a.json",
+          "githubVote": "brand/reviews/2026-11-07-github/team-votes/audience-a.json",
+          "githubStatus": "Updated application inspected; paired challenge and explicit scoped vote recorded. Individual scores and limits retained."
+        },
+        {
+          "id": "B",
+          "agent": "/root/panel_audience_peer",
+          "lens": "Research design and memory hypotheses",
+          "status": "expanded review and explicit team-plan vote complete; available for future follow-up",
+          "model": "gpt-6-astra",
+          "reasoningEffort": "ultra",
+          "createdWith": {
+            "model": "gpt-6-astra",
+            "reasoning_effort": "ultra",
+            "fork_turns": "none"
+          },
+          "implementationAgent": "/root/panel_audience_b_implementation",
+          "implementationReview": "brand/reviews/2026-11-07-implementation/independent/audience-b.json",
+          "skillsMessage": "Explicit user message to the entire team: inspect installed Emil Kowalski skills and improve workflow. See brand/workflow.json.",
+          "implementationStatus": "Independent review, pair discussion and explicit individual v2 vote complete; accepted local foundation with named limits.",
+          "implementationVote": "brand/reviews/2026-11-07-implementation/team-votes/audience-b.json",
+          "implementationDiscussion": "brand/reviews/2026-11-07-implementation/pairs/audience-b-discussion.json",
+          "gestureAgent": "/root/panel_audience_b_implementation",
+          "gestureReview": "brand/reviews/2026-11-07-gesture-staging/independent/audience-b.json",
+          "gestureDiscussion": "brand/reviews/2026-11-07-gesture-staging/pairs/audience-b-discussion.json",
+          "gestureVote": "brand/reviews/2026-11-07-gesture-staging/team-votes/audience-b.json",
+          "gestureStatus": "Fresh independent review, partner challenge and explicit individual vote complete.",
+          "githubAgent": "/root/panel_audience_b_implementation",
+          "githubIndependentReview": "brand/reviews/2026-11-07-github/independent/audience-b.json",
+          "githubVote": "brand/reviews/2026-11-07-github/team-votes/audience-b.json",
+          "githubStatus": "Updated application inspected; paired challenge and explicit scoped vote recorded. Individual scores and limits retained."
+        }
+      ],
+      "legacyAgent": "/root/panel_audience",
+      "expandedIndependentReviews": [
+        "brand/reviews/2026-11-07-expanded-panel/independent/audience-a.json",
+        "brand/reviews/2026-11-07-expanded-panel/independent/audience-b.json"
+      ],
+      "expandedPairProposal": "brand/reviews/2026-11-07-expanded-panel/pairs/audience-proposal.json",
+      "expandedPairResolution": "brand/reviews/2026-11-07-expanded-panel/pairs/audience-resolution.json",
+      "implementationIndependentReviews": [
+        "brand/reviews/2026-11-07-implementation/independent/audience-a.json",
+        "brand/reviews/2026-11-07-implementation/independent/audience-b.json"
+      ],
+      "implementationPairResolution": "brand/reviews/2026-11-07-implementation/pairs/audience-resolution.json",
+      "gestureIndependentReviews": [
+        "brand/reviews/2026-11-07-gesture-staging/independent/audience-a.json",
+        "brand/reviews/2026-11-07-gesture-staging/independent/audience-b.json"
+      ],
+      "gesturePairResolution": "brand/reviews/2026-11-07-gesture-staging/pairs/audience-resolution.json",
+      "githubPairResolution": "brand/reviews/2026-11-07-github/pairs/audience-resolution.json"
+    },
+    {
+      "id": "storyboard",
+      "role": "Storyboard, animatic and comic staging director",
+      "agent": "/root/panel_storyboard_astra",
+      "responsibility": "Motivated sequence, visual comedy, clear staging and scene continuity",
+      "independentReview": "brand/reviews/2026-11-07/round1/storyboard.json",
+      "crossReview": "brand/reviews/2026-11-07/round2/storyboard.json",
+      "latestIndependentReview": "brand/reviews/2026-11-07-refinement/round1/storyboard.json",
+      "latestCrossReview": "brand/reviews/2026-11-07-refinement/round2/storyboard.json",
+      "reviewers": [
+        {
+          "id": "A",
+          "agent": "/root/panel_storyboard_astra",
+          "lens": "Visual storytelling and setup/payoff",
+          "status": "expanded review and explicit team-plan vote complete; available for future follow-up",
+          "model": "gpt-6-astra",
+          "reasoningEffort": "ultra",
+          "predecessorAgent": "/root/panel_storyboard",
+          "createdWith": {
+            "model": "gpt-6-astra",
+            "reasoning_effort": "ultra",
+            "fork_turns": "none"
+          },
+          "implementationAgent": "/root/panel_storyboard_a_implementation",
+          "implementationReview": "brand/reviews/2026-11-07-implementation/independent/storyboard-a.json",
+          "skillsMessage": "Explicit user message to the entire team: inspect installed Emil Kowalski skills and improve workflow. See brand/workflow.json.",
+          "implementationStatus": "Independent review, pair discussion and explicit individual v2 vote complete; accepted local foundation with named limits.",
+          "implementationVote": "brand/reviews/2026-11-07-implementation/team-votes/storyboard-a.json",
+          "implementationDiscussion": "brand/reviews/2026-11-07-implementation/pairs/storyboard-a-discussion.json",
+          "gestureAgent": "/root/panel_storyboard_a_implementation",
+          "gestureReview": "brand/reviews/2026-11-07-gesture-staging/independent/storyboard-a.json",
+          "gestureDiscussion": "brand/reviews/2026-11-07-gesture-staging/pairs/storyboard-a-discussion.json",
+          "gestureVote": "brand/reviews/2026-11-07-gesture-staging/team-votes/storyboard-a.json",
+          "gestureStatus": "Fresh independent review, partner challenge and explicit individual vote complete.",
+          "githubAgent": "/root/panel_storyboard_a_implementation",
+          "githubIndependentReview": "brand/reviews/2026-11-07-github/independent/storyboard-a.json",
+          "githubVote": "brand/reviews/2026-11-07-github/team-votes/storyboard-a.json",
+          "githubStatus": "Updated application inspected; paired challenge and explicit scoped vote recorded. Individual scores and limits retained."
+        },
+        {
+          "id": "B",
+          "agent": "/root/panel_storyboard_peer",
+          "lens": "Editing rhythm and comic economy",
+          "status": "expanded review and explicit team-plan vote complete; available for future follow-up",
+          "model": "gpt-6-astra",
+          "reasoningEffort": "ultra",
+          "createdWith": {
+            "model": "gpt-6-astra",
+            "reasoning_effort": "ultra",
+            "fork_turns": "none"
+          },
+          "implementationAgent": "/root/panel_storyboard_b_implementation",
+          "implementationReview": "brand/reviews/2026-11-07-implementation/independent/storyboard-b.json",
+          "skillsMessage": "Explicit user message to the entire team: inspect installed Emil Kowalski skills and improve workflow. See brand/workflow.json.",
+          "implementationStatus": "Independent review, pair discussion and explicit individual v2 vote complete; accepted local foundation with named limits.",
+          "implementationVote": "brand/reviews/2026-11-07-implementation/team-votes/storyboard-b.json",
+          "implementationDiscussion": "brand/reviews/2026-11-07-implementation/pairs/storyboard-b-discussion.json",
+          "gestureAgent": "/root/panel_storyboard_b_implementation",
+          "gestureReview": "brand/reviews/2026-11-07-gesture-staging/independent/storyboard-b.json",
+          "gestureDiscussion": "brand/reviews/2026-11-07-gesture-staging/pairs/storyboard-b-discussion.json",
+          "gestureVote": "brand/reviews/2026-11-07-gesture-staging/team-votes/storyboard-b.json",
+          "gestureStatus": "Fresh independent review, partner challenge and explicit individual vote complete.",
+          "githubAgent": "/root/panel_storyboard_b_implementation",
+          "githubIndependentReview": "brand/reviews/2026-11-07-github/independent/storyboard-b.json",
+          "githubVote": "brand/reviews/2026-11-07-github/team-votes/storyboard-b.json",
+          "githubStatus": "Updated application inspected; paired challenge and explicit scoped vote recorded. Individual scores and limits retained."
+        }
+      ],
+      "legacyAgent": "/root/panel_storyboard",
+      "expandedIndependentReviews": [
+        "brand/reviews/2026-11-07-expanded-panel/independent/storyboard-a.json",
+        "brand/reviews/2026-11-07-expanded-panel/independent/storyboard-b.json"
+      ],
+      "expandedPairProposal": "brand/reviews/2026-11-07-expanded-panel/pairs/storyboard-proposal.json",
+      "expandedPairResolution": "brand/reviews/2026-11-07-expanded-panel/pairs/storyboard-resolution.json",
+      "implementationIndependentReviews": [
+        "brand/reviews/2026-11-07-implementation/independent/storyboard-a.json",
+        "brand/reviews/2026-11-07-implementation/independent/storyboard-b.json"
+      ],
+      "implementationPairResolution": "brand/reviews/2026-11-07-implementation/pairs/storyboard-resolution.json",
+      "gestureIndependentReviews": [
+        "brand/reviews/2026-11-07-gesture-staging/independent/storyboard-a.json",
+        "brand/reviews/2026-11-07-gesture-staging/independent/storyboard-b.json"
+      ],
+      "gesturePairResolution": "brand/reviews/2026-11-07-gesture-staging/pairs/storyboard-resolution.json",
+      "githubPairResolution": "brand/reviews/2026-11-07-github/pairs/storyboard-resolution.json"
+    },
+    {
+      "id": "visual",
+      "role": "Visual development and lighting artist",
+      "agent": "/root/panel_visual_development_astra",
+      "responsibility": "Materials, light/dark readability, environment integration and color hierarchy",
+      "independentReview": "brand/reviews/2026-11-07/round1/visual.json",
+      "crossReview": "brand/reviews/2026-11-07/round2/visual.json",
+      "latestIndependentReview": "brand/reviews/2026-11-07-refinement/round1/visual.json",
+      "latestCrossReview": "brand/reviews/2026-11-07-refinement/round2/visual.json",
+      "reviewers": [
+        {
+          "id": "A",
+          "agent": "/root/panel_visual_development_astra",
+          "lens": "Materials and light/dark continuity",
+          "status": "expanded review and explicit team-plan vote complete; available for future follow-up",
+          "model": "gpt-6-astra",
+          "reasoningEffort": "ultra",
+          "predecessorAgent": "/root/panel_visual_development",
+          "createdWith": {
+            "model": "gpt-6-astra",
+            "reasoning_effort": "ultra",
+            "fork_turns": "none"
+          },
+          "implementationAgent": "/root/panel_visual_development_astra",
+          "implementationReview": "brand/reviews/2026-11-07-implementation/independent/visual-a.json",
+          "skillsMessage": "Explicit user message to the entire team: inspect installed Emil Kowalski skills and improve workflow. See brand/workflow.json.",
+          "implementationStatus": "Independent review, pair discussion and explicit individual v2 vote complete; accepted local foundation with named limits.",
+          "implementationVote": "brand/reviews/2026-11-07-implementation/team-votes/visual-a.json",
+          "implementationDiscussion": "brand/reviews/2026-11-07-implementation/pairs/visual-a-discussion.json",
+          "gestureAgent": "/root/panel_visual_development_astra",
+          "gestureReview": "brand/reviews/2026-11-07-gesture-staging/independent/visual-a.json",
+          "gestureDiscussion": "brand/reviews/2026-11-07-gesture-staging/pairs/visual-a-discussion.json",
+          "gestureVote": "brand/reviews/2026-11-07-gesture-staging/team-votes/visual-a.json",
+          "gestureStatus": "Fresh independent review, partner challenge and explicit individual vote complete.",
+          "githubAgent": "/root/panel_visual_development_astra",
+          "githubIndependentReview": "brand/reviews/2026-11-07-github/independent/visual-a.json",
+          "githubVote": "brand/reviews/2026-11-07-github/team-votes/visual-a.json",
+          "githubStatus": "Updated application inspected; paired challenge and explicit scoped vote recorded. Individual scores and limits retained."
+        },
+        {
+          "id": "B",
+          "agent": "/root/panel_visual_development_peer",
+          "lens": "Drawing appeal, contour and scale simplification",
+          "status": "expanded review and explicit team-plan vote complete; available for future follow-up",
+          "model": "gpt-6-astra",
+          "reasoningEffort": "ultra",
+          "createdWith": {
+            "model": "gpt-6-astra",
+            "reasoning_effort": "ultra",
+            "fork_turns": "none"
+          },
+          "implementationAgent": "/root/panel_visual_b_implementation",
+          "implementationReview": "brand/reviews/2026-11-07-implementation/independent/visual-b.json",
+          "skillsMessage": "Explicit user message to the entire team: inspect installed Emil Kowalski skills and improve workflow. See brand/workflow.json.",
+          "implementationStatus": "Independent review, pair discussion and explicit individual v2 vote complete; accepted local foundation with named limits.",
+          "implementationVote": "brand/reviews/2026-11-07-implementation/team-votes/visual-b.json",
+          "implementationDiscussion": "brand/reviews/2026-11-07-implementation/pairs/visual-b-discussion.json",
+          "gestureAgent": "/root/panel_visual_b_implementation",
+          "gestureReview": "brand/reviews/2026-11-07-gesture-staging/independent/visual-b.json",
+          "gestureDiscussion": "brand/reviews/2026-11-07-gesture-staging/pairs/visual-b-discussion.json",
+          "gestureVote": "brand/reviews/2026-11-07-gesture-staging/team-votes/visual-b.json",
+          "gestureStatus": "Fresh independent review, partner challenge and explicit individual vote complete.",
+          "githubAgent": "/root/panel_visual_b_implementation",
+          "githubIndependentReview": "brand/reviews/2026-11-07-github/independent/visual-b.json",
+          "githubVote": "brand/reviews/2026-11-07-github/team-votes/visual-b.json",
+          "githubStatus": "Updated application inspected; paired challenge and explicit scoped vote recorded. Individual scores and limits retained."
+        }
+      ],
+      "legacyAgent": "/root/panel_visual_development",
+      "expandedIndependentReviews": [
+        "brand/reviews/2026-11-07-expanded-panel/independent/visual-a.json",
+        "brand/reviews/2026-11-07-expanded-panel/independent/visual-b.json"
+      ],
+      "expandedPairProposal": "brand/reviews/2026-11-07-expanded-panel/pairs/visual-proposal.json",
+      "expandedPairResolution": "brand/reviews/2026-11-07-expanded-panel/pairs/visual-resolution.json",
+      "implementationIndependentReviews": [
+        "brand/reviews/2026-11-07-implementation/independent/visual-a.json",
+        "brand/reviews/2026-11-07-implementation/independent/visual-b.json"
+      ],
+      "implementationPairResolution": "brand/reviews/2026-11-07-implementation/pairs/visual-resolution.json",
+      "gestureIndependentReviews": [
+        "brand/reviews/2026-11-07-gesture-staging/independent/visual-a.json",
+        "brand/reviews/2026-11-07-gesture-staging/independent/visual-b.json"
+      ],
+      "gesturePairResolution": "brand/reviews/2026-11-07-gesture-staging/pairs/visual-resolution.json",
+      "githubPairResolution": "brand/reviews/2026-11-07-github/pairs/visual-resolution.json"
+    },
+    {
+      "id": "sound",
+      "role": "Sound designer",
+      "agent": "/root/panel_sound_astra",
+      "responsibility": "Silence, optional sound, visual cause, consent and repeat-visit comfort",
+      "independentReview": "brand/reviews/2026-11-07/round1/sound.json",
+      "crossReview": "brand/reviews/2026-11-07/round2/sound.json",
+      "latestIndependentReview": "brand/reviews/2026-11-07-refinement/round1/sound.json",
+      "latestCrossReview": "brand/reviews/2026-11-07-refinement/round2/sound.json",
+      "reviewers": [
+        {
+          "id": "A",
+          "agent": "/root/panel_sound_astra",
+          "lens": "Silent legibility and restraint",
+          "status": "expanded review and explicit team-plan vote complete; available for future follow-up",
+          "model": "gpt-6-astra",
+          "reasoningEffort": "ultra",
+          "predecessorAgent": "/root/panel_sound",
+          "createdWith": {
+            "model": "gpt-6-astra",
+            "reasoning_effort": "ultra",
+            "fork_turns": "none"
+          },
+          "implementationAgent": "/root/panel_sound_a_implementation",
+          "implementationReview": "brand/reviews/2026-11-07-implementation/independent/sound-a.json",
+          "skillsMessage": "Explicit user message to the entire team: inspect installed Emil Kowalski skills and improve workflow. See brand/workflow.json.",
+          "implementationStatus": "Independent review, pair discussion and explicit individual v2 vote complete; accepted local foundation with named limits.",
+          "implementationVote": "brand/reviews/2026-11-07-implementation/team-votes/sound-a.json",
+          "implementationDiscussion": "brand/reviews/2026-11-07-implementation/pairs/sound-a-discussion.json",
+          "gestureAgent": "/root/panel_sound_a_implementation",
+          "gestureReview": "brand/reviews/2026-11-07-gesture-staging/independent/sound-a.json",
+          "gestureDiscussion": "brand/reviews/2026-11-07-gesture-staging/pairs/sound-a-discussion.json",
+          "gestureVote": "brand/reviews/2026-11-07-gesture-staging/team-votes/sound-a.json",
+          "gestureStatus": "Fresh independent review, partner challenge and explicit individual vote complete.",
+          "githubAgent": "/root/panel_sound_a_implementation",
+          "githubIndependentReview": "brand/reviews/2026-11-07-github/independent/sound-a.json",
+          "githubVote": "brand/reviews/2026-11-07-github/team-votes/sound-a.json",
+          "githubStatus": "Updated application inspected; paired challenge and explicit scoped vote recorded. Individual scores and limits retained."
+        },
+        {
+          "id": "B",
+          "agent": "/root/panel_sound_peer",
+          "lens": "Rhythm, optional audio and repeat-listening comfort",
+          "status": "expanded review and explicit team-plan vote complete; available for future follow-up",
+          "model": "gpt-6-astra",
+          "reasoningEffort": "ultra",
+          "createdWith": {
+            "model": "gpt-6-astra",
+            "reasoning_effort": "ultra",
+            "fork_turns": "none"
+          },
+          "implementationAgent": "/root/panel_sound_b_implementation",
+          "implementationReview": "brand/reviews/2026-11-07-implementation/independent/sound-b.json",
+          "skillsMessage": "Explicit user message to the entire team: inspect installed Emil Kowalski skills and improve workflow. See brand/workflow.json.",
+          "implementationStatus": "Independent review, pair discussion and explicit individual v2 vote complete; accepted local foundation with named limits.",
+          "implementationVote": "brand/reviews/2026-11-07-implementation/team-votes/sound-b.json",
+          "implementationDiscussion": "brand/reviews/2026-11-07-implementation/pairs/sound-b-discussion.json",
+          "gestureAgent": "/root/panel_sound_b_implementation",
+          "gestureReview": "brand/reviews/2026-11-07-gesture-staging/independent/sound-b.json",
+          "gestureDiscussion": "brand/reviews/2026-11-07-gesture-staging/pairs/sound-b-discussion.json",
+          "gestureVote": "brand/reviews/2026-11-07-gesture-staging/team-votes/sound-b.json",
+          "gestureStatus": "Fresh independent review, partner challenge and explicit individual vote complete.",
+          "githubAgent": "/root/panel_sound_b_implementation",
+          "githubIndependentReview": "brand/reviews/2026-11-07-github/independent/sound-b.json",
+          "githubVote": "brand/reviews/2026-11-07-github/team-votes/sound-b.json",
+          "githubStatus": "Updated application inspected; paired challenge and explicit scoped vote recorded. Individual scores and limits retained."
+        }
+      ],
+      "legacyAgent": "/root/panel_sound",
+      "expandedIndependentReviews": [
+        "brand/reviews/2026-11-07-expanded-panel/independent/sound-a.json",
+        "brand/reviews/2026-11-07-expanded-panel/independent/sound-b.json"
+      ],
+      "expandedPairProposal": "brand/reviews/2026-11-07-expanded-panel/pairs/sound-proposal.json",
+      "expandedPairResolution": "brand/reviews/2026-11-07-expanded-panel/pairs/sound-resolution.json",
+      "implementationIndependentReviews": [
+        "brand/reviews/2026-11-07-implementation/independent/sound-a.json",
+        "brand/reviews/2026-11-07-implementation/independent/sound-b.json"
+      ],
+      "implementationPairResolution": "brand/reviews/2026-11-07-implementation/pairs/sound-resolution.json",
+      "gestureIndependentReviews": [
+        "brand/reviews/2026-11-07-gesture-staging/independent/sound-a.json",
+        "brand/reviews/2026-11-07-gesture-staging/independent/sound-b.json"
+      ],
+      "gesturePairResolution": "brand/reviews/2026-11-07-gesture-staging/pairs/sound-resolution.json",
+      "githubPairResolution": "brand/reviews/2026-11-07-github/pairs/sound-resolution.json"
+    }
+  ],
+  "workflow": [
+    "Engineers prepare source and fresh evidence.",
+    "Both specialists in every affected discipline review independently before seeing the partner\u2019s findings.",
+    "Each pair discusses concrete differences; both explicitly confirm its joint recommendation and record any remaining objection.",
+    "For major creative decisions and milestones, all eighteen specialists review the cross-disciplinary proposal and register their own position.",
+    "Investigate objections, revise work or justify a scoped decision with evidence, and re-review the affected claims. Consensus is recorded only when all eighteen explicitly agree to that same scope.",
+    "Scores describe the reviewed work. A target score never changes a reviewer\u2019s recorded judgment.",
+    "Present the resulting work, agreement, evidence and remaining limits to Nag. Publication follows actual authorization."
+  ],
+  "invariants": [
+    "Tiny innocent anatomy preserved",
+    "Geometry and numeric poses shared across themes",
+    "Actual project evidence and first-person authorship",
+    "No automatic requirement for extra detail, continuous wing flutter, sound or scenery",
+    "AI consensus is not human audience evidence"
+  ],
+  "records": [
+    "brand/reviews/2026-11-07/index.html",
+    "brand/reviews/2026-11-07-refinement/brief.json",
+    "brand/reviews/2026-11-07-refinement/index.html",
+    "brand/reviews/2026-11-07-expanded-panel/brief.json",
+    "brand/reviews/2026-11-07-expanded-panel/index.html",
+    "brand/reviews/2026-11-07-expanded-panel/consensus.json",
+    "brand/reviews/2026-11-07-implementation/index.html",
+    "brand/reviews/2026-11-07-gesture-staging/index.html",
+    "brand/reviews/2026-11-07-github/index.html"
+  ],
+  "specialistCount": 18,
+  "disciplineCount": 9,
+  "reviewersPerDiscipline": 2,
+  "consensusProtocol": {
+    "states": [
+      "agree",
+      "agree_with_named_nonblocking_limits",
+      "object_with_specific_evidence"
+    ],
+    "rule": "An unresolved substantive objection means no full-team consensus. Silence, inactivity, pair-lead approval and majority votes do not count as unanimous agreement.",
+    "scope": "Agreement states exactly what is accepted: plan, experiment or completed implementation. A plan agreement is not artwork approval or an automatic 9/10.",
+    "independence": "Second specialists start with separate contexts and complementary lenses. These remain AI-agent perspectives, not independent human research.",
+    "execution": "Run in available batches; runtime persistence is not guaranteed, so preserve roles, decisions and records."
+  },
+  "qualityPolicy": {
+    "priority": "Quality first, explicitly requested by Nag.",
+    "model": "gpt-6-astra",
+    "reasoningEffort": "ultra",
+    "configuration": "Explicit model and reasoning arguments for every active panel reviewer. Preserve predecessor review history when creating fresh reviewer contexts.",
+    "capacity": "18 standing specialists, scheduled within available active-agent slots; not 18 simultaneous executions.",
+    "scoring": "Do not trade honest judgments for unanimous 9s. Re-score improved evidence after implementation."
+  },
+  "scorePolicy": "brand/reviews/2026-11-07-expanded-panel/score-policy.json",
+  "configurationStatus": "All 18 standing reviewers explicitly created as GPT-6 Astra / ultra; prior role histories retained.",
+  "latestConsensus": {
+    "record": "brand/reviews/2026-11-07-github/consensus.json",
+    "scope": "Prepared GitHub profile application and continuity contract for the future website. Neither publication nor a built website is certified.",
+    "state": "All 18 specialists accept the prepared GitHub application and website continuity contract with named limits.",
+    "specialists": 18,
+    "proposalSha256": "5a062f65c993eadec03c5b218b4903c9f05ca6bf1ec51c3eedf9d4c52e030f54",
+    "sourceManifestSha256": "ac469332a20a2638e3d9e926334100ca83d7554af935a0ed427203c6ae40d702",
+    "allAtLeastNine": false,
+    "scoreRange": [
+      8.7,
+      9.3
+    ]
+  },
+  "skillsWorkflow": "brand/workflow.json",
+  "currentImplementationReview": {
+    "record": "brand/reviews/2026-11-07-gesture-staging/index.html",
+    "sourceManifest": "brand/reviews/2026-11-07-gesture-staging/review-source-v1.json",
+    "state": "All 18 specialists accept the implemented local foundation with named limits. The 9/10 target has not been reached across the board."
+  },
+  "currentProfileReview": {
+    "record": "brand/reviews/2026-11-07-github/index.html",
+    "sourceManifest": "brand/reviews/2026-11-07-github/review-source-v2.json",
+    "state": "All 18 specialists accept the prepared GitHub application and website continuity contract with named limits."
+  }
+}

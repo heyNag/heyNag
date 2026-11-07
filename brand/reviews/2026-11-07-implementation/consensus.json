@@ -1,0 +1,360 @@
+{
+  "status": "All 18 specialists accept the implemented local foundation with named limits. The 9/10 target has not been reached across the board.",
+  "scope": "Accept the implemented local foundation for continued design and future website work with named limits. Keep individual scores; do not claim9/10 across the board.",
+  "specialists": 18,
+  "disciplines": 9,
+  "independentReviews": 18,
+  "pairedDiscussions": 9,
+  "teamVotes": 18,
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "proposal": "team-proposal-v2.json",
+  "proposalSha256": "4eef022ccecba73621ca188b29c13cbc41d08b5268ffeaa6e98e2c4c5ea08c5c",
+  "sourceManifest": "review-source-v4.json",
+  "sourceManifestSha256": "4b70d40e6c6fed47936377ff71d915379cbe84bc2a23020ac2ab2fb9696b2caa",
+  "substantiveObjectionsRemaining": 0,
+  "humanResearchPerformed": false,
+  "physicalPhoneValidation": false,
+  "published": false,
+  "skillsCatalogEntries": 17,
+  "specialistsWithSkillIntakeRecords": 18,
+  "pairs": [
+    {
+      "discipline": "brand",
+      "state": "Both reviewers explicitly confirmed the same scoped recommendation.",
+      "recommendation": "Keep the warm owner-selected signature and real project bridge. Deepen verified authorship later; avoid audience-impact claims.",
+      "discussionRecords": [
+        "pairs/brand-a-discussion.json",
+        "pairs/brand-b-discussion.json"
+      ],
+      "independentReviews": [
+        "independent/brand-a.json",
+        "independent/brand-b.json"
+      ],
+      "explicitConfirmations": [
+        "team-votes/brand-a.json",
+        "team-votes/brand-b.json"
+      ],
+      "proposal": "team-proposal-v2.json",
+      "proposalSha256": "4eef022ccecba73621ca188b29c13cbc41d08b5268ffeaa6e98e2c4c5ea08c5c",
+      "scorePolicy": "Individual scores remain separate; acceptance does not imply a 9/10 rating."
+    },
+    {
+      "discipline": "performance",
+      "state": "Both reviewers explicitly confirmed the same scoped recommendation.",
+      "recommendation": "Keep the improved beat structure. A bounded future study can vary tiny hand pose and orientation to strengthen invitation without changing anatomy. Continuous playback evidence is needed for timing judgments.",
+      "discussionRecords": [
+        "pairs/performance-a-discussion.json",
+        "pairs/performance-b-discussion.json"
+      ],
+      "independentReviews": [
+        "independent/performance-a.json",
+        "independent/performance-b.json"
+      ],
+      "explicitConfirmations": [
+        "team-votes/performance-a.json",
+        "team-votes/performance-b.json"
+      ],
+      "proposal": "team-proposal-v2.json",
+      "proposalSha256": "4eef022ccecba73621ca188b29c13cbc41d08b5268ffeaa6e98e2c4c5ea08c5c",
+      "scorePolicy": "Individual scores remain separate; acceptance does not imply a 9/10 rating."
+    },
+    {
+      "discipline": "identity",
+      "state": "Both reviewers explicitly confirmed the same scoped recommendation.",
+      "recommendation": "Keep the current identity and matched themes. Use the day universal avatar and give night more room. Final portrait and 320px wrapping supersede old phone criticisms.",
+      "discussionRecords": [
+        "pairs/identity-a-discussion.json",
+        "pairs/identity-b-discussion.json"
+      ],
+      "independentReviews": [
+        "independent/identity-a.json",
+        "independent/identity-b.json"
+      ],
+      "explicitConfirmations": [
+        "team-votes/identity-a.json",
+        "team-votes/identity-b.json"
+      ],
+      "proposal": "team-proposal-v2.json",
+      "proposalSha256": "4eef022ccecba73621ca188b29c13cbc41d08b5268ffeaa6e98e2c4c5ea08c5c",
+      "scorePolicy": "Individual scores remain separate; acceptance does not imply a 9/10 rating."
+    },
+    {
+      "discipline": "rigging",
+      "state": "Both reviewers explicitly confirmed the same scoped recommendation.",
+      "recommendation": "Accept the intact constrained rig and static exports with explicit contact-density and live-cadence limits. Do not attribute mixed idle one-second gaps to SVG without evidence.",
+      "discussionRecords": [
+        "pairs/rigging-a-discussion.json",
+        "pairs/rigging-b-discussion.json"
+      ],
+      "independentReviews": [
+        "independent/rigging-a.json",
+        "independent/rigging-b.json"
+      ],
+      "explicitConfirmations": [
+        "team-votes/rigging-a.json",
+        "team-votes/rigging-b.json"
+      ],
+      "proposal": "team-proposal-v2.json",
+      "proposalSha256": "4eef022ccecba73621ca188b29c13cbc41d08b5268ffeaa6e98e2c4c5ea08c5c",
+      "scorePolicy": "Individual scores remain separate; acceptance does not imply a 9/10 rating."
+    },
+    {
+      "discipline": "interaction",
+      "state": "Both reviewers explicitly confirmed the same scoped recommendation.",
+      "recommendation": "Accept the native controls and v4 semantics for the local study. The report link must resolve. Native keyboard, spoken AT and phone validation remain separate.",
+      "discussionRecords": [
+        "pairs/interaction-a-discussion.json",
+        "pairs/interaction-b-discussion.json"
+      ],
+      "independentReviews": [
+        "independent/interaction-a.json",
+        "independent/interaction-b.json"
+      ],
+      "explicitConfirmations": [
+        "team-votes/interaction-a.json",
+        "team-votes/interaction-b.json"
+      ],
+      "proposal": "team-proposal-v2.json",
+      "proposalSha256": "4eef022ccecba73621ca188b29c13cbc41d08b5268ffeaa6e98e2c4c5ea08c5c",
+      "scorePolicy": "Individual scores remain separate; acceptance does not imply a 9/10 rating."
+    },
+    {
+      "discipline": "audience",
+      "state": "Both reviewers explicitly confirmed the same scoped recommendation.",
+      "recommendation": "Keep hypotheses separate from owner preference and expert craft. Audience outcomes remain unscored; authoring labels are not neutral research stimuli.",
+      "discussionRecords": [
+        "pairs/audience-a-discussion.json",
+        "pairs/audience-b-discussion.json"
+      ],
+      "independentReviews": [
+        "independent/audience-a.json",
+        "independent/audience-b.json"
+      ],
+      "explicitConfirmations": [
+        "team-votes/audience-a.json",
+        "team-votes/audience-b.json"
+      ],
+      "proposal": "team-proposal-v2.json",
+      "proposalSha256": "4eef022ccecba73621ca188b29c13cbc41d08b5268ffeaa6e98e2c4c5ea08c5c",
+      "scorePolicy": "Individual scores remain separate; acceptance does not imply a 9/10 rating."
+    },
+    {
+      "discipline": "storyboard",
+      "state": "Both reviewers explicitly confirmed the same scoped recommendation.",
+      "recommendation": "Keep Investigate & share as the lead and the one-peek audition as an alternative. Continue challenging hand specificity, comic rhythm and the phone eyeline-to-question relation within the same anatomy.",
+      "discussionRecords": [
+        "pairs/storyboard-a-discussion.json",
+        "pairs/storyboard-b-discussion.json"
+      ],
+      "independentReviews": [
+        "independent/storyboard-a.json",
+        "independent/storyboard-b.json"
+      ],
+      "explicitConfirmations": [
+        "team-votes/storyboard-a.json",
+        "team-votes/storyboard-b.json"
+      ],
+      "proposal": "team-proposal-v2.json",
+      "proposalSha256": "4eef022ccecba73621ca188b29c13cbc41d08b5268ffeaa6e98e2c4c5ea08c5c",
+      "scorePolicy": "Individual scores remain separate; acceptance does not imply a 9/10 rating."
+    },
+    {
+      "discipline": "visual",
+      "state": "Both reviewers explicitly confirmed the same scoped recommendation.",
+      "recommendation": "Keep the refined night paint and identical geometry. Material polish does not resolve hand-contour density.",
+      "discussionRecords": [
+        "pairs/visual-a-discussion.json",
+        "pairs/visual-b-discussion.json"
+      ],
+      "independentReviews": [
+        "independent/visual-a.json",
+        "independent/visual-b.json"
+      ],
+      "explicitConfirmations": [
+        "team-votes/visual-a.json",
+        "team-votes/visual-b.json"
+      ],
+      "proposal": "team-proposal-v2.json",
+      "proposalSha256": "4eef022ccecba73621ca188b29c13cbc41d08b5268ffeaa6e98e2c4c5ea08c5c",
+      "scorePolicy": "Individual scores remain separate; acceptance does not imply a 9/10 rating."
+    },
+    {
+      "discipline": "sound",
+      "state": "Both reviewers explicitly confirmed the same scoped recommendation.",
+      "recommendation": "Keep motion silent and self-contained. Optional future audio should reinforce an already readable visual cause, never mask the unresolved phone eyeline relation.",
+      "discussionRecords": [
+        "pairs/sound-a-discussion.json",
+        "pairs/sound-b-discussion.json"
+      ],
+      "independentReviews": [
+        "independent/sound-a.json",
+        "independent/sound-b.json"
+      ],
+      "explicitConfirmations": [
+        "team-votes/sound-a.json",
+        "team-votes/sound-b.json"
+      ],
+      "proposal": "team-proposal-v2.json",
+      "proposalSha256": "4eef022ccecba73621ca188b29c13cbc41d08b5268ffeaa6e98e2c4c5ea08c5c",
+      "scorePolicy": "Individual scores remain separate; acceptance does not imply a 9/10 rating."
+    }
+  ],
+  "votes": {
+    "brand-a": {
+      "decision": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/brand-a.json",
+      "personalScore": {
+        "outOf10": 8.2
+      }
+    },
+    "brand-b": {
+      "decision": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/brand-b.json",
+      "personalScore": {
+        "outOf10": 8.4
+      }
+    },
+    "performance-a": {
+      "decision": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/performance-a.json",
+      "personalScore": 8.4
+    },
+    "performance-b": {
+      "decision": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/performance-b.json",
+      "personalScore": {
+        "value": 8.4,
+        "outOf": 10
+      }
+    },
+    "identity-a": {
+      "decision": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/identity-a.json",
+      "personalScore": {
+        "value": 8.7,
+        "outOf": 10
+      }
+    },
+    "identity-b": {
+      "decision": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/identity-b.json",
+      "personalScore": {
+        "value": 8.6,
+        "outOf": 10
+      }
+    },
+    "rigging-a": {
+      "decision": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/rigging-a.json",
+      "personalScore": {
+        "value": 8.7,
+        "outOf": 10,
+        "unchanged": true
+      }
+    },
+    "rigging-b": {
+      "decision": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/rigging-b.json",
+      "personalScore": {
+        "value": 8.5,
+        "outOf": 10,
+        "unchanged": true
+      }
+    },
+    "interaction-a": {
+      "decision": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/interaction-a.json",
+      "personalScore": {
+        "value": 8.8,
+        "outOf": 10,
+        "scope": "Interaction A: local keyboard, controls, focus, reduced-motion and truthful semantics",
+        "history": "v3 8.6 retained in independent review scoreHistory; v4 8.8 remains unchanged after partner discussion."
+      }
+    },
+    "interaction-b": {
+      "decision": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/interaction-b.json",
+      "personalScore": {
+        "value": 8.5,
+        "outOf": 10,
+        "changed": false
+      }
+    },
+    "audience-a": {
+      "decision": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/audience-a.json",
+      "personalScore": {
+        "value": 8.2,
+        "outOf": 10,
+        "changedFromIndependent": false
+      }
+    },
+    "audience-b": {
+      "decision": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/audience-b.json",
+      "personalScore": {
+        "value": 8.3,
+        "outOf": 10,
+        "meaning": "Strong, coherent visual association material and unusually clear evidence boundaries; not yet a neutral, exposure-controlled audience research stimulus. Ordinal specialist judgment within this narrow inspected scope, not an empirical success rate."
+      }
+    },
+    "storyboard-a": {
+      "decision": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/storyboard-a.json",
+      "personalScore": {
+        "value": 8.2,
+        "outOf": 10
+      }
+    },
+    "storyboard-b": {
+      "decision": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/storyboard-b.json",
+      "personalScore": 8.4
+    },
+    "visual-a": {
+      "decision": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/visual-a.json",
+      "personalScore": {
+        "value": 8.6,
+        "outOf": 10,
+        "scope": "Static V5 materials, theme continuity and inspected v4 identity/signature applications",
+        "confidence": "Moderate overall; high on shown layout/source identity; no continuous or physical-phone judgment."
+      }
+    },
+    "visual-b": {
+      "decision": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/visual-b.json",
+      "personalScore": {
+        "value": 8.5,
+        "outOf": 10
+      }
+    },
+    "sound-a": {
+      "decision": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/sound-a.json",
+      "personalScore": 8.6
+    },
+    "sound-b": {
+      "decision": "agree_with_named_nonblocking_limits",
+      "record": "team-votes/sound-b.json",
+      "personalScore": 8.5
+    }
+  },
+  "unresolvedCraft": [
+    "Mitten, ruff and glasses details remain dense at 96\u2013128px. The sharing hand is visible, but its invitational meaning is less specific than the face and glasses.",
+    "Small night-avatar antenna connections remain weaker than day. Use day as the universal 32px mark; night needs more room.",
+    "The wry afterthought and isolated mischievous still remain subtle. Their temporal reading needs observation.",
+    "The project question is a credible authorship bridge. A deeper verified story about a decision and its result belongs in the future website.",
+    "Phone portrait staging prioritizes legibility with more vertical height; the first viewport does not show every control and the complete character.",
+    "The authored screen-right investigation glance is less literally aligned with the question in the stacked phone composition. Better visibility does not mean this spatial relation is fully resolved."
+  ],
+  "validationLimits": [
+    "No new unfamiliar-human emotion comprehension, personal attribution, attachment or delayed-recall results.",
+    "No subjective continuous-motion certification from sampled frames.",
+    "No physical-phone or GPU performance validation; measured cadence is local desktop evidence only.",
+    "Native OS menu keyboard commit and spoken screen-reader output remain unverified.",
+    "No public GitHub changes, remote commit/push or deployment.",
+    "Emotion labels and explanatory copy prime the intended interpretation. Any future comprehension study needs neutral prompts and recorded viewport/scroll exposure."
+  ]
+}

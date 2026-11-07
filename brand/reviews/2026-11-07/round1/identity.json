@@ -1,0 +1,110 @@
+{
+  "role": "Identity systems designer",
+  "verdict": "Preserve the V5 foundation, wordmark and palette. The identity is coherent, but dark-silhouette legibility and a matched V5 GitHub package need work before public adoption. Audience recognition remains untested.",
+  "evidenceInspected": [
+    "README.md",
+    "brand/README.md",
+    "brand/design-system.md and brand/design-system.css",
+    "brand/character-proof/index.html",
+    "assets/brand/heynag-moth-v5.png, heynag-moth-v5-refined.png and heynag-moth-v5-night.png viewed directly",
+    "assets/brand/header-light.png, header-dark.png and heynag-moth-avatar-v2.png viewed directly",
+    "assets/brand/preview/wordmark-ink.png viewed directly",
+    "assets/brand/expressions-v5/anchors-day-r3.png and anchors-night.png viewed directly; brand/expressions/acting.json",
+    "brand/animation-v5/README.md, character.js, contract.json and studio.js",
+    "brand/source/build.swift, brand/source/manifest.mjs and brand/manifest.json",
+    "brand/reviews/2026-11-07/evidence/identity.png",
+    "brand/reviews/2026-11-07/evidence/readme-phone-night.png and readme-desktop-day/night.png",
+    "brand/reviews/2026-11-07/evidence/studio-desktop.png"
+  ],
+  "strengths": [
+    "The longer viewer-right paddle, cream scalloped head, dark oval eyes and pale-over-green wings form a repeatable set of visual identifiers. The refined raster retains the foundation's compact body and attached feet.",
+    "The large outlined heyNag wordmark remains clear in the fresh phone-width README proof. Quiet Schibsted Grotesk leaves expression to the character; the following first-person introduction keeps Nag present.",
+    "Paper/ink reading colors, one chartreuse accent and forest for light-ground links create useful role separation. The rig shares geometry across themes; theme changes alter paints and edge treatment instead of anatomy."
+  ],
+  "findings": [
+    {
+      "id": "IDENTITY-01",
+      "priority": "before-public-use",
+      "claimType": "observed",
+      "finding": "The profile draft loads unversioned header PNGs containing the taller V2 moth with simpler wings. Fresh desktop/phone proofs confirm readable name-first hierarchy. Neither these headers nor the V2 avatar establishes a V5 application; this is a coverage gap, not a V5 construction defect.",
+      "evidence": [
+        "README.md picture sources",
+        "assets/brand/header-light.png",
+        "brand/source/build.swift",
+        "evidence/readme-desktop-day.png and readme-phone-night.png"
+      ],
+      "recommendation": "Before a V5 release, retain a labeled V2 draft or assemble matching reviewed V5 header/avatar exports. Preserve the successful name-first hierarchy.",
+      "verification": "Inspect the exact packaged header and avatar together at desktop and phone widths, with both GitHub themes and complete antenna tips."
+    },
+    {
+      "id": "IDENTITY-02",
+      "priority": "before-public-use",
+      "claimType": "observed",
+      "finding": "The fresh sheet shows small full figures losing wing/face detail at 32\u201348px. The legacy avatar preserves a readable face but its circular mask cuts the longer paddle. No V5 tiny avatar is established; a full-body 96px recommendation does not solve this use.",
+      "evidence": [
+        "evidence/identity.png full-body rows and legacy avatar row",
+        "brand/character-proof/index.html",
+        "brand/README.md avatar boundary"
+      ],
+      "recommendation": "Define separate full-body and avatar limits. Evaluate the existing V5 construction in its intended circle before choosing a crop; preserve complete asymmetric tips.",
+      "verification": "Inspect 24/32/48/64px circles and 96/128/160px full figures on paper and ink for face readability, intact tips, edge clearance and wing layering."
+    },
+    {
+      "id": "IDENTITY-03",
+      "priority": "before-public-use",
+      "claimType": "observed",
+      "finding": "Dark antenna stems fade into the ground in both the retained V2 header and current V5 rig. In the fresh small-size night rows, green paddles can read as detached. The V5 raster retains a somewhat clearer edge, but shared geometry alone does not produce equivalent silhouette readability across themes.",
+      "evidence": [
+        "evidence/identity.png night raster/rig rows",
+        "evidence/readme-phone-night.png",
+        "evidence/studio-desktop.png",
+        "brand/animation-v5/character.js NIGHT palette and edge filter"
+      ],
+      "recommendation": "Tune night-edge separation on actual application grounds before adoption, preserving the dark outline and restrained lighting. Evaluate silhouette continuity separately from wordmark contrast.",
+      "verification": "At 96\u2013160px and header phone size, stems must remain visibly connected to head and paddles, with readable wing/foot boundaries and no conspicuous halo."
+    },
+    {
+      "id": "IDENTITY-04",
+      "priority": "next-refinement",
+      "claimType": "interpretation",
+      "finding": "The fresh rest comparison still reads as one character family: large cream head, four wings and asymmetric paddles survive. The SVG has a wider smile, changed mitten/ruff contours and cleaner surfaces. These are visible adaptation choices, not evidence that the entire rig needs rebuilding.",
+      "evidence": [
+        "evidence/identity.png top comparison",
+        "brand/animation-v5/character.js",
+        "brand/animation-v5/contract.json"
+      ],
+      "recommendation": "Record deliberate differences and keep reference pairs for rest, thinking and one broad expression. Match visible figure height for proportion judgments; the current sheet matches image boxes.",
+      "verification": "Compare head/body ratio, face landmarks, antenna reach, mitten size and wing overlap at matched visible size in both themes."
+    },
+    {
+      "id": "IDENTITY-05",
+      "priority": "next-refinement",
+      "claimType": "observed",
+      "finding": "The checksum inventory helps, but its shared draft status does not encode permitted uses of legacy assets, candidates and the rig. Prose carries that distinction; design-system.md still says expressions and motion follow although they exist.",
+      "evidence": [
+        "brand/manifest.json",
+        "brand/source/manifest.mjs",
+        "brand/design-system.md active-stage paragraph",
+        "brand/README.md current files"
+      ],
+      "recommendation": "Maintain one application map with asset version, surface, theme pair and release state; reconcile stage language. Historical filenames should not determine asset selection.",
+      "verification": "A new contributor can select the correct GitHub header, avatar and motion source without reading review history or guessing from suffixes."
+    }
+  ],
+  "keep": [
+    "Exact heyNag capitalization and outlined wordmark",
+    "Chartreuse/paper/ink with forest utility links",
+    "V5's head-dominant anatomy and asymmetric paddles",
+    "Paired-theme geometry and historical provenance"
+  ],
+  "challengeForOtherRoles": [
+    "Brand: what evidence would justify replacing the readable wordmark? Distinctiveness currently comes from the combined system.",
+    "Visual development: distinguish identity drift from useful adaptation. Which contour differences change the perceived character, and which simply support articulation?",
+    "Interaction: treat the suggested one-third-to-one-half character share as an introduction pattern. Demonstrate findable name and real project destinations when the character dominates."
+  ],
+  "limits": [
+    "No audience recognition testing or legal clearance.",
+    "Fresh README proofs render local content, not live GitHub. The identity comparison uses equal image boxes, not equal visible figure height.",
+    "Direct source, assets and fresh captures inspected before peer findings; no independent browser session."
+  ]
+}

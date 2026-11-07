@@ -1,0 +1,58 @@
+{
+  "reviewer": "Performance A \u2014 intention and comic acting",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "proposalFile": "team-proposal-v2.json",
+  "proposalSha256": "4eef022ccecba73621ca188b29c13cbc41d08b5268ffeaa6e98e2c4c5ea08c5c",
+  "sourceManifestSha256": "4b70d40e6c6fed47936377ff71d915379cbe84bc2a23020ac2ab2fb9696b2caa",
+  "decision": "agree_with_named_nonblocking_limits",
+  "acceptedScope": "Accept proposal v2's implemented local foundation, bound to review-source-v4.json: constrained V5 character and27 performances, owner-selected portrait signature study, current exports/films, and recorded control/description improvements, for continued design and future website work. This is not publication or a claim that every discipline's evidence was personally re-performed.",
+  "personalScore": 8.4,
+  "outOf": 10,
+  "scoreMeaning": "Independent craft score for authored intention, inspected pose relationships and sampled staging; no score for unseen continuous rhythm, real-phone smoothness or human comprehension. Final portrait supersedes the old narrowphone size criticism. Current gesture specificity, optional wry subtlety and phone eyeline limits remain.",
+  "scoreHistory": [
+    {
+      "stage": "independent review-source-v1",
+      "value": 8.4,
+      "outOf": 10,
+      "record": "independent/performance-a.json"
+    },
+    {
+      "stage": "final v4/proposal v2 pair review",
+      "value": 8.4,
+      "outOf": 10,
+      "reason": "Retained on the original authored-acting/sampled-staging scope. Final portrait removes obsolete cramped-size criticism; gesture specificity, optional wry subtlety and the acknowledged cue-to-gaze limitation remain. No performance-source change or continuous-perception evidence warrants recalibrating the number."
+    }
+  ],
+  "namedLimits": [
+    "The sharing mitten is visible in the final portrait but its specific invitational meaning remains weaker than the glasses and face; tiny96\u2013128px contacts remain dense.",
+    "The authored screen-right investigation is less literally directed toward the question in the stacked phone composition. Final portrait legibility does not resolve that eyeline relationship.",
+    "The optional wry beat remains subtle; an isolated mischievous still carries broad knowing affect more securely than the full pretend-sleep joke.",
+    "No continuous normal-speed perception was performed by this reviewer. Sampled frames establish poses and authored progression, not felt weight or comic timing.",
+    "No physical-phone/GPU, unprimed-human comprehension, attribution or recall evidence is claimed. Correct accessible descriptions do not establish spoken screen-reader output.",
+    "The focused desktop active sample is119 intervals with mean34.45ms,p9535ms,max67ms and four above50ms. It neither proves production smoothness nor identifies SVG cost as the cause of prior mixed idle gaps.",
+    "Acceptance covers the implemented local foundation only; no publication, remote commit/push, deployment or universal9/10 certification."
+  ],
+  "substantiveObjections": [],
+  "pairRecommendationConfirmed": true,
+  "acceptedPairRecommendation": "Keep the improved beat structure. A bounded future study can vary tiny hand pose and orientation to strengthen invitation without changing anatomy. Continuous playback evidence is needed for timing judgments.",
+  "skillsMessageAcknowledged": true,
+  "skillsWorkflowRecord": "pairs/performance-a-discussion.json",
+  "verifiedSource": "All18 files in review-source-v4.json independently SHA256-checked and matched; proposal and manifest hashes also match the immutable round.",
+  "evidenceActuallyInspectedThisRound": [
+    "evidence/signature-final-390-stage.png",
+    "evidence/signature-final-390-night.png",
+    "evidence/signature-final-320.png",
+    "evidence/signature-final-1440.png",
+    "evidence/all-final.png",
+    "evidence/sizes-final.png",
+    "independent/performance-b.json",
+    "team-proposal-v2.json full",
+    "review-source-v4.json full",
+    "signature.css full",
+    "signature.js full",
+    "evidence/description-and-reduced-motion.json",
+    "evidence/desktop-performance-active.json"
+  ],
+  "individualPositionOnly": "This file records A's vote only. It does not establish B's confirmation, all18 agreement or human audience validation."
+}

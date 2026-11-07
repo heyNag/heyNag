@@ -1,0 +1,48 @@
+{
+  "role": "Technical character animator and rigger",
+  "inspectedEvidence": [
+    "round1/performance.json and interaction.json; current motion.js, studio.js and applications-v5.js; evidence/family-sweep.json, geometry-checks.json and interaction-checks.json.",
+    "Independently sampled angry→scared, scared→angry, thinking→confused and thinking replay with the deterministic Engine at 0/200/400/800/1100 ms.",
+    "Full-reel decoded frames cue_0000–0007 at actual 1.166641,4.700000,8.966667,12.466667,15.900026,19.233320,22.766667,25.633346 seconds, under evidence/full-video/20261107-152235-heynag-v5-refined-emotions-dac69228. All eight were viewed."
+  ],
+  "challenges": [
+    {
+      "role": "Performance director",
+      "claimId": "PERF-R1",
+      "decision": "revise scope; accept narrative distinction",
+      "reason": "The 42-pair sweep now supports finite values, short reach and nonpositive difficult-feeling mouths beyond the original two directions. My targeted samples show progressive anger/fear exchanges; thinking→confused fades glasses while changing posture; thinking replay still lowers/re-raises its acting mitten before later beats. No newly demonstrated family-rule defect remains. Scared→relieved is outside both families, so its smile is existing cross-family anticipation, not a regression caused by inheritance.",
+      "evidence": ["motion.js:411–428", "evidence/family-sweep.json", "independent targeted Engine samples"],
+      "implication": "Keep the current rule. Review intended story pairs when a story is selected, and introduce exceptions only for demonstrated intention conflicts. Do not expand the current refinement into an exhaustive emotional-certification requirement."
+    },
+    {
+      "role": "Performance director",
+      "claimId": "PERF-R2",
+      "decision": "accept",
+      "reason": "The intermediate descent stop is fixed mathematically. Ground contact may legitimately stop velocity abruptly; it is not equivalent to stopping in midair. The viewed Excited export frame preserves headroom, attached feet and matched theme poses, but a single frame cannot certify landing weight.",
+      "evidence": ["motion.test.mjs:174–191", "full-video cue_0007 at25.633346s", "evidence/video-cadence.json"],
+      "implication": "Do not demand another curve change without a visible problem. Distinguish final playback evidence from the initial transition capture, whose long frame gaps prevent uniform-cadence claims. Its exact-frame replacement is being prepared by root."
+    },
+    {
+      "role": "Interaction specialist",
+      "claimId": "resolvedIssues[0–3]: focus and selection",
+      "decision": "accept within observed scope",
+      "reason": "The gallery handler moves focus after intentional navigation, while shared choose performs no focus transfer. This preserves sequence focus and local-control focus without changing Engine lifecycle. Captured keyboard and pointer-to-Tab paths stay at scrollY229 with playback active, resolving the earlier accidental offscreen pause.",
+      "evidence": ["studio.js:65–82,118–138", "evidence/interaction-checks.json:keyboard,tab,pointerTab,sequenceAdvance"],
+      "implication": "Close the reproduced studio defect. The inconclusive native-selector key probe should neither be counted as successful keyboard selection nor escalated into a presumed broken control."
+    },
+    {
+      "role": "Performance director",
+      "claimId": "PERF-R3",
+      "decision": "accept",
+      "reason": "Mitten separation improves staging without requiring every feeling to maximize negative space. The viewed Thinking frame clearly separates supporting and acting mittens; no body/limb redraw is justified.",
+      "evidence": ["full-video cue_0001 at4.7s", "evidence/geometry-checks.json:504 matched samples"],
+      "implication": "Keep the pose-only changes and intentionally joined gratitude hands. Emotion recognition remains a later audience question."
+    }
+  ],
+  "ownPositionChanged": [
+    "REFRIG-02 is closed: exporter comments now accurately require per-instance namespaces for repeated inline copies; current standalone exports remain valid.",
+    "The 504-sample geometry comparison strengthens anatomical invariance beyond my source diff. The eight decoded frames show complete antennae/feet, matching theme poses and no export breakage."
+  ],
+  "finalVerdict": "No further rigging change is justified by the inspected evidence. Present the scoped fixes with precise verification claims; reserve universal transition appeal and perceived timing polish for evidence that actually measures them.",
+  "openQuestions": ["Exact-frame transition replacement was pending this review; no uninterrupted-playback approval is claimed here."]
+}

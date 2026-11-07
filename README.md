@@ -1,20 +1,23 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/heyNag/heyNag/main/assets/landing.png" width="100%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/brand/header-v5-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/brand/header-v5-light.png">
+  <img alt="heyNag, with a curious little moth" src="assets/brand/header-v5-light.png" width="1200">
+</picture>
 
-<h3 align="center">Exploring ideas worth keeping.</h3>
+## Hey, I'm Nag.
 
-<p align="center">
-  I build small, open-source tools —<br />
-  with a bias toward restraint and craft.
-</p>
+I work in software. I like figuring things out, making them useful, and sharing what I find.
 
-<p align="center">
-  Projects live under <a href="https://github.com/nag-codes"><b>@nag-codes</b></a>.
-</p>
+Most of my work lives in private repositories. These are a few things I've shared.
 
-<p align="center">
-  <a href="https://github.com/orgs/nag-codes/repositories">
-    <img src="https://img.shields.io/badge/view%20projects-0f172a?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+### Things I've shared
+
+**[Charms](https://github.com/heyNag/charms)** — Plugins I build for video analysis and saved-post research with coding agents. Video notes connect back to timestamps and frames.
+
+**[Grok Bot](https://github.com/heyNag/codex-pet-grok-bot)** — My study in character animation, packaged as an unofficial Codex pet with light and dark editions.
+
+**[eva.md](https://github.com/heyNag/eva-md)** — A memory experiment I'm building for Claude Code and Codex, using Markdown and Git to help new chats pick up where the last one left off.
+
+---
+
+Exploring ideas worth keeping.

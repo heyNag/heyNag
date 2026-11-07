@@ -1,0 +1,166 @@
+{
+  "owner": "Motion refinement implementation",
+  "files": [
+    "brand/animation-v5/motion.js",
+    "brand/animation-v5/motion.test.mjs"
+  ],
+  "addressedFindings": [
+    "PERF-01",
+    "PERF-02",
+    "RIG-01",
+    "RIG-02",
+    "STORY-02",
+    "STORY-03"
+  ],
+  "changes": [
+    "Compatible difficult-feeling and reflective transitions substitute the actual outgoing posture for incoming anticipation fields that inherited neutral. Explicit incoming glance, brow, mouth and timing cues remain authored. This preserves intention without removing the welcoming rest pose.",
+    "Continuity covers head, antennae, wings, hands, face and glasses; a previous hop, foot tap and transient visual effects still release. Every switch starts from the current rendered pose, including rapid and paused switches.",
+    "Only excited bodyY uses new cubic Hermite tangents: 0.05 SVG units/ms through the 900ms wing reversal; incoming 0.075 and outgoing 0 at the 1060ms landing. Other channel intervals retain their existing timing. Hop height remains 17 units and feet/torso geometry is unchanged.",
+    "Thinking lowers its supporting left mitten while preserving right chin contact and its head/hand nod. Focused uses two low separated mittens. Worried keeps one mitten inward above a lower supporting mitten. Grateful reserves a symmetric paired acknowledgment under the ruff. Hand geometry and 48-unit reach are unchanged."
+  ],
+  "verification": {
+    "command": "node --test brand/animation-v5/motion.test.mjs",
+    "result": "9 passing tests",
+    "coverage": [
+      "All 24 clips remain finite, uniquely settled, numerically bounded and lifecycle-safe.",
+      "Both sad/worried directions sampled every 5ms across their first 1100ms: mouthSmile <= 0, mouthOpen <= 0.02, headY >= 5, concern brows retained, and exact authored incoming pose recovered after anticipation.",
+      "Eight nearby difficult or reflective switches retain non-cheerful mouth intent; thinking/focused retain glasses. Explicit rest still reaches unchanged neutral.",
+      "Every millisecond of hop descent is strictly monotonic. Velocity at 900ms is nonzero and agrees on both sides; ground contact is reached at 1060ms before stopping. Wings independently reverse at 900ms.",
+      "Rapid compatible interruptions preserve current pose and remain finite, within hand/wing/body bounds and under a 4-unit per-16ms hand displacement limit.",
+      "Existing pause/resume, reduced-motion, rest, destruction and no-idle-RAF checks pass."
+    ]
+  },
+  "hopTrace": [
+    {
+      "timeMs": 720,
+      "beforeY": -17,
+      "afterY": -17,
+      "beforeVelocityUnitsPerMs": 0.00002844570108351263,
+      "afterVelocityUnitsPerMs": -0.000040805842125735126
+    },
+    {
+      "timeMs": 760,
+      "beforeY": -16.242798353909464,
+      "afterY": -16.588477366255145,
+      "beforeVelocityUnitsPerMs": 0.03456738683127725,
+      "afterVelocityUnitsPerMs": 0.019752957818930383
+    },
+    {
+      "timeMs": 800,
+      "beforeY": -14.497942386831276,
+      "afterY": -15.485596707818932,
+      "beforeVelocityUnitsPerMs": 0.04938220164609142,
+      "afterVelocityUnitsPerMs": 0.03456777263374633
+    },
+    {
+      "timeMs": 850,
+      "beforeY": -12.131687242798353,
+      "afterY": -13.435699588477366,
+      "beforeVelocityUnitsPerMs": 0.04012294238683367,
+      "afterVelocityUnitsPerMs": 0.04614184670782073
+    },
+    {
+      "timeMs": 899,
+      "beforeY": -11.000553497942388,
+      "afterY": -11.049999485596711,
+      "beforeVelocityUnitsPerMs": 0.001104423868312665,
+      "afterVelocityUnitsPerMs": 0.04999832818930372
+    },
+    {
+      "timeMs": 900,
+      "beforeY": -11,
+      "afterY": -11,
+      "beforeVelocityUnitsPerMs": 0.00046022592552397157,
+      "afterVelocityUnitsPerMs": 0.05004870278943052
+    },
+    {
+      "timeMs": 901,
+      "beforeY": -10.99871630859375,
+      "afterY": -10.94980517578125,
+      "beforeVelocityUnitsPerMs": 0.002560668945312372,
+      "afterVelocityUnitsPerMs": 0.05038903808593709
+    },
+    {
+      "timeMs": 950,
+      "beforeY": -8.44873046875,
+      "afterY": -8.07275390625,
+      "beforeVelocityUnitsPerMs": 0.0886217041015609,
+      "afterVelocityUnitsPerMs": 0.06586901855468774
+    },
+    {
+      "timeMs": 1000,
+      "beforeY": -3.48046875,
+      "afterY": -4.53515625,
+      "beforeVelocityUnitsPerMs": 0.09667834472656356,
+      "afterVelocityUnitsPerMs": 0.07441394042968863
+    },
+    {
+      "timeMs": 1059,
+      "beforeY": -0.001283691406250398,
+      "afterY": -0.07503857421874738,
+      "beforeVelocityUnitsPerMs": 0.002560668945312372,
+      "afterVelocityUnitsPerMs": 0.0750765380859384
+    },
+    {
+      "timeMs": 1060,
+      "beforeY": 0,
+      "afterY": 0,
+      "beforeVelocityUnitsPerMs": 0.0003215942382812642,
+      "afterVelocityUnitsPerMs": 0.03750970458984182
+    },
+    {
+      "timeMs": 1061,
+      "beforeY": 0,
+      "afterY": 0,
+      "beforeVelocityUnitsPerMs": 0,
+      "afterVelocityUnitsPerMs": 0
+    }
+  ],
+  "requestedRenderedEvidence": {
+    "transitions": [
+      "sad→worried",
+      "worried→sad",
+      "thinking→focused",
+      "focused→thinking"
+    ],
+    "transitionTimesMs": [
+      0,
+      100,
+      200,
+      300,
+      380,
+      500,
+      970,
+      1100
+    ],
+    "poses": {
+      "thinking": [
+        1400,
+        1730,
+        1920
+      ],
+      "focused": [
+        1330
+      ],
+      "worried": [
+        1510
+      ],
+      "grateful": [
+        960,
+        1350
+      ]
+    },
+    "hopTimesMs": [
+      720,
+      800,
+      900,
+      980,
+      1060,
+      1410
+    ]
+  },
+  "limitations": [
+    "Numeric and source checks do not certify mitten contact, visible silhouette clarity, perceived weight or audience interpretation. Root owns fresh browser screenshots and continuous playback review.",
+    "No new biography, scenes, expressions, renderer geometry or theme-specific poses were added."
+  ]
+}

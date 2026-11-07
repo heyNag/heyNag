@@ -1,0 +1,50 @@
+{
+  "paused": {
+    "id": "thinking",
+    "time": 833.3000000119209,
+    "duration": 4100,
+    "playing": false,
+    "paused": true,
+    "progress": 0.20324390244193194,
+    "transitioning": false,
+    "reducedMotion": false
+  },
+  "rest": {
+    "id": null,
+    "time": 380,
+    "duration": 380,
+    "playing": false,
+    "paused": false,
+    "progress": 1,
+    "transitioning": false,
+    "reducedMotion": false
+  },
+  "reduced": {
+    "info": {
+      "id": "happy",
+      "time": 1050,
+      "duration": 2500,
+      "playing": false,
+      "paused": false,
+      "progress": 0.42,
+      "transitioning": false,
+      "reducedMotion": true
+    },
+    "sequenceDisabled": true,
+    "preferenceVisible": true
+  },
+  "keyboard": {
+    "active": "rest",
+    "outline": "rgb(54, 85, 45) solid 3px",
+    "box": {
+      "x": 320.0625,
+      "y": 564.6171875,
+      "width": 66.5625,
+      "height": 44.3984375,
+      "top": 564.6171875,
+      "right": 386.625,
+      "bottom": 609.015625,
+      "left": 320.0625
+    }
+  }
+}

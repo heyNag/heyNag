@@ -1,0 +1,65 @@
+{
+  "reviewer": "Performance B — timing, weight and emotional clarity",
+  "partner": "/root/panel_performance_director_astra",
+  "proposalReviewed": "pairs/performance-proposal.json",
+  "perClaimDecisions": [
+    {
+      "claim": "PB1: held-peek inference versus temporal joke",
+      "decision": "Accept A’s distinction; retain the narrow static concern.",
+      "reason": "My observation concerns the labelled 1550-ms thumbnail, not recognition of the full joke. The authored conceal/reveal/reconceal sequence can communicate mischief even if an isolated peek reads ambiguously. The selected static fallback still deserves its own inspection because its users do not receive that sequence.",
+      "acceptedWording": "The full mischievous beat and its selected static fallback require separate evaluation. Thumbnail ambiguity does not establish failure of the temporal joke or require a stronger pose."
+    },
+    {
+      "claim": "PB2: pre-contact compression versus failed cushioning",
+      "decision": "Accept the evidence limit and refine my wording.",
+      "reason": "The sampled headY values establish downward head movement relative to the body before contact, with maximum compression at 1060 ms. Calling that movement cushioning assigns a function the samples cannot prove. Neither source nor supplied frames establish a failed landing. Coordinated anticipatory movement may be appropriate.",
+      "acceptedWording": "Head compression develops before contact and peaks at contact; its contribution to perceived weight remains a normal-speed playback question. No later compression or recovery is mandatory."
+    },
+    {
+      "claim": "PB3: duration versus beat rhythm",
+      "decision": "Accept; total duration is descriptive, not a useful quality proxy.",
+      "reason": "The 2500–4100-ms range combines active response, secondary accents, recovery and holds. Thinking’s late toe tap and Surprise’s early lift already show different structures. Smoothstep endpoint stops are a reason to inspect the flow of specific connected actions, not proof that whole clips feel alike.",
+      "acceptedWording": "Compare first readable response, reveal timing, accent spacing and settlement in normal-speed playback. Do not shorten or equalize complete clips merely because their runtimes overlap."
+    },
+    {
+      "claim": "A’s PA1–PA4 and shared preservation principles",
+      "decision": "Agree.",
+      "reason": "Intention changes, dominant hand actions, the corrected continuous descent and broad-affect evidence are supported by the materials I inspected. Tiny anatomy, theme parity, silence, finite endings and restrained wings remain valid. This agreement does not extend to unseen playback or human interpretation."
+    },
+    {
+      "claim": "Baseline observation versus alternative-first comparison",
+      "decision": "Agree to show and describe the baseline first; object to making baseline failure a prerequisite for reversible exploration.",
+      "reason": "A one-variable alternative can reveal a useful expressive choice even when the baseline works. A demonstrated named benefit is necessary to adopt a change; a preexisting defect is not necessary to author and compare it. This matches root’s forthcoming team scope."
+    }
+  ],
+  "acceptedWording": [
+    "Agreement concerns a bounded performance experiment plan, not final-art approval or an automatic nine score.",
+    "Inspect the baseline first. Permit narrowly scoped, reversible timing alternatives for a named expressive question. Adopt an alternative only when comparison identifies a named benefit without violating anatomy, theme parity or continuity; otherwise retain the baseline.",
+    "Observe current Curious beside a real content cue to test attention and thought change; this need not introduce scenery."
+  ],
+  "requestedChanges": [
+    {
+      "location": "prioritizedExperiments[1].action",
+      "requirement": "Replace “For a demonstrated failing beat only” with “For a named expressive question or demonstrated difficulty”. Keep the one-variable and retain-baseline conditions."
+    },
+    {
+      "location": "challenges[1].resolution",
+      "requirement": "Replace “only if playback identifies weight loss” with “as a reversible comparison for a named contact/recovery question; adoption requires a named benefit”. Baseline observation remains first."
+    },
+    {
+      "location": "remainingObjections",
+      "requirement": "Keep the lack of playback and human evidence as named limits. Clarify that hypothetical failure does not justify wholesale retiming, while bounded exploration remains permitted."
+    }
+  ],
+  "substantiveObjections": [
+    "The unchanged proposal forbids alternatives unless a failing beat is demonstrated. I object to that unnecessary exploration gate, not to the preservation rules, baseline inspection, or benefit requirement for adoption."
+  ],
+  "unchangedProposalScope": {
+    "headlineScopeEndorsed": true,
+    "unchangedProposalEndorsed": false,
+    "explanation": "I endorse the stated experiment-plan scope. I cannot endorse the unchanged operative wording until the failure-only prerequisite is removed."
+  },
+  "BDecision": "object",
+  "subjectiveScore": null,
+  "limits": "No new artwork or playback was reviewed during deliberation. The independent null score remains unchanged. This response approves no production modification and claims no audience result."
+}

@@ -1,0 +1,280 @@
+// Generated from acting.json for file:// review.
+window.HEYNAG_EXPRESSIONS = {
+  "version": "v5",
+  "status": "24 static expression studies in matching light and dark. Original motion notes retained as direction; implemented vector motion lives separately in brand/animation-v5/.",
+  "groups": [
+    {
+      "id": "anchors",
+      "title": "Core expressions",
+      "day": "../../assets/brand/expressions-v5/anchors-day-r3.png",
+      "night": "../../assets/brand/expressions-v5/anchors-night.png",
+      "states": [
+        {
+          "id": "curious",
+          "label": "Curious",
+          "cell": 0,
+          "face": "Open oval eyes attend to one side beneath a gently raised brow, with a tiny closed questioning smile.",
+          "body": "The large head leans toward the interest while the tiny body stays round and empty mittens remain low.",
+          "detail": "The longer viewer-right antenna reaches first while all four layered wing panels remain distinct.",
+          "motion": "Future direction: bend the long antenna for a sixth of a second, let gaze, head and tiny body follow in order, then briefly look back to share and settle within two seconds.",
+          "contrast": "Curiosity approaches its subject, while confusion retracts and skepticism holds back."
+        },
+        {
+          "id": "thinking",
+          "label": "Thinking",
+          "cell": 1,
+          "face": "Eyes glance upward through clear, softly rectangular charcoal glasses with rounded corners beneath unequal thoughtful brows, with a small absorbed smile.",
+          "body": "The head lowers onto one short chin-side mitten while the other tucks beneath it at the upper belly, with no visible forearm bridge.",
+          "detail": "Glasses leave both eyes visible and one stub toe may be poised to tap beneath the body.",
+          "motion": "Future direction: lower the head to the mitten over a quarter second, make one tiny chin-and-mitten nod followed by one heel-anchored toe tap, then settle within two seconds.",
+          "contrast": "Thinking combines an upward glance and chin contact, while focused keeps its gaze steady and its mittens low."
+        },
+        {
+          "id": "happy",
+          "label": "Happy",
+          "cell": 2,
+          "face": "Open oval eyes, gently lifted brows and a rounded open smile preserve the welcoming master expression.",
+          "body": "Both little mittens lift beside the upper belly while the compact body rests over planted stub feet.",
+          "detail": "Unequal antennae and the four pale-over-rich wing panels rest comfortably open.",
+          "motion": "Future direction: give the head one small buoyant lift over a third of a second, let the antenna tips follow, then return gently to rest within one second.",
+          "contrast": "Happiness rests comfortably, while excitement lifts the whole character and laughter closes both eyes."
+        },
+        {
+          "id": "mischievous",
+          "label": "Mischievous",
+          "cell": 3,
+          "face": "One softly half-open oval eye peeks while the other stays peacefully closed above a tiny centered U-smile.",
+          "body": "One tiny mitten rests near the lower cheek, and the other stays tucked close to the belly.",
+          "detail": "The long antenna stays quietly alert during the pretend-sleep pose, with no sharp smirk or diagonal eye slits.",
+          "motion": "Future direction: open the peeking lid over a sixth of a second, hold the innocent smile for half a second, then close the eye and settle within one and a half seconds.",
+          "contrast": "Mischief pairs an alert peek with a smile, while sleepy droops on both sides and skeptical keeps a flat mouth."
+        },
+        {
+          "id": "aha",
+          "label": "Aha",
+          "cell": 4,
+          "face": "Wide oval eyes, raised brows and a rounded delighted mouth show the instant an idea arrives.",
+          "body": "The head lifts and one short mitten rises beside the lower cheek without stretching the torso, neck or arm.",
+          "detail": "One small idea bulb sits clear of the long antenna and the four layered wing panels stay legible.",
+          "motion": "Future direction: dip the head briefly, lift it over an eighth of a second, let the long antenna follow, then hold the idea and settle within one second.",
+          "contrast": "Aha lifts one mitten with a delighted discovery, while surprise opens both low mittens around a startled O-mouth."
+        },
+        {
+          "id": "oops",
+          "label": "Oops",
+          "cell": 5,
+          "face": "Round eyes, uneven sheepish brows and a small apologetic smile turn a mistake into a gentle pause.",
+          "body": "One short mitten touches the lower cheek while the other opens beside the belly; both feet stay grounded.",
+          "detail": "The short antenna droops slightly while the long one hesitates, and no mitten reaches the crown.",
+          "motion": "Future direction: pause briefly, glance toward the mistake, lower the mouth to its mitten over a quarter second, then hold and settle within one and a half seconds.",
+          "contrast": "Oops uses one lower-mouth contact and a sheepish asymmetry, while surprise leaves both mittens away from the face."
+        }
+      ]
+    },
+    {
+      "id": "joy",
+      "title": "Joy and connection",
+      "day": "../../assets/brand/expressions-v5/joy-day.png",
+      "night": "../../assets/brand/expressions-v5/joy-night-r2.png",
+      "states": [
+        {
+          "id": "laughing",
+          "label": "Laughing",
+          "cell": 0,
+          "face": "Both eyes become soft happy arcs above a broad rounded laugh, with relaxed brows.",
+          "body": "One little mitten rises to the lower mouth while the other rests on the belly, holding a compact chuckle pose.",
+          "detail": "Antenna tips swing loosely outward and all four wing panels remain visible without becoming oversized.",
+          "motion": "Future direction: give the head and compact body two small laugh bobs across two-thirds of a second, then let the antennae settle over another third of a second.",
+          "contrast": "Laughter closes both eyes and opens the mouth broadly, while happy keeps open eyes and excited lifts its mittens."
+        },
+        {
+          "id": "excited",
+          "label": "Excited",
+          "cell": 1,
+          "face": "Very open oval eyes, high brows and a broad U-shaped smile convey eager delight.",
+          "body": "Both short mittens lift beside the ruff as the whole compact character rises slightly, with unchanged stub feet directly beneath the body.",
+          "detail": "The unequal antennae spring apart and the four layered wings open together without changing their markings.",
+          "motion": "Future direction: dip the head for an eighth of a second, make one brief whole-character hop, land with the same short feet, then settle the antenna tips for half a second.",
+          "contrast": "Excitement is buoyant with a broad smile, while surprise stays upright with an O-mouth and fear recoils inward."
+        },
+        {
+          "id": "proud",
+          "label": "Proud",
+          "cell": 2,
+          "face": "Softly closed eyes and a small satisfied smile accompany a modestly lifted chin.",
+          "body": "Both tiny mittens rest together on the upper belly above a close planted stance.",
+          "detail": "Antennae stand comfortably and the wings open slightly, without a broad chest, long legs or a power pose.",
+          "motion": "Future direction: raise the chin gently over a quarter second, hold the pleased pose for half a second, then soften back to rest over another quarter second.",
+          "contrast": "Pride lifts the chin quietly, while gratitude bows toward the viewer and excitement springs upward."
+        },
+        {
+          "id": "grateful",
+          "label": "Grateful",
+          "cell": 3,
+          "face": "Soft attentive eyes, gently lifted inner brows and a small closed smile address the viewer.",
+          "body": "Both tiny mittens meet at the upper chest immediately below the ruff as the head dips in acknowledgment.",
+          "detail": "Antennae incline forward and the wings settle close while keeping their four separate panels.",
+          "motion": "Future direction: bring the mittens together over a quarter second, make one small head bow, then return to a gentle attentive hold within one and a half seconds.",
+          "contrast": "Gratitude directs a small bow outward, while affection tilts warmly and shyness turns its gaze down and away."
+        },
+        {
+          "id": "affectionate",
+          "label": "Affectionate",
+          "cell": 4,
+          "face": "Warm curved eyes and soft brows sit above a small rounded smile.",
+          "body": "The head tilts toward the viewer and both small mittens meet gently just below the ruff without lengthening the arms.",
+          "detail": "One small heart may support the warm expression while the antennae relax outward and the wings softly cup the body.",
+          "motion": "Future direction: bring the mittens together and tilt the head over half a second, hold the affectionate pose briefly, then ease the antenna tips to rest within one and a half seconds.",
+          "contrast": "Affection uses a warm sideways tilt and curved eyes, while gratitude keeps attentive eyes and a direct acknowledging bow."
+        },
+        {
+          "id": "shy",
+          "label": "Shy",
+          "cell": 5,
+          "face": "Eyes glance down and sideways beneath lightly raised brows, with a small restrained smile.",
+          "body": "The head dips slightly away while both tiny mittens tuck together low on the belly and the close stub feet angle inward a little.",
+          "detail": "Antennae incline inward without crossing and the four wing panels close protectively around the compact body.",
+          "motion": "Future direction: glance down first, let the head follow over a third of a second, tuck the mittens close, then hold and settle within one and a half seconds.",
+          "contrast": "Shyness keeps a small smile and avoids the viewer, while sadness lowers its gaze with a frown and gratitude looks back warmly."
+        }
+      ]
+    },
+    {
+      "id": "mind",
+      "title": "Thought and rest",
+      "day": "../../assets/brand/expressions-v5/mind-day-r2.png",
+      "night": "../../assets/brand/expressions-v5/mind-night.png",
+      "states": [
+        {
+          "id": "confused",
+          "label": "Confused",
+          "cell": 0,
+          "face": "Uneven brows and open eyes frame a tiny uncertain downturned mouth.",
+          "body": "The head retracts and tilts while both short mittens turn outward near the belly, leaving the torso round and small.",
+          "detail": "Antenna tips bend in different directions while their unequal lengths and the four wing panels remain unchanged.",
+          "motion": "Future direction: pause for a sixth of a second, retract and tilt the head over a quarter second, turn the low mittens outward, then settle within one and a half seconds.",
+          "contrast": "Confusion retreats with two questioning mittens, while curiosity leans forward and skepticism offers one restrained gesture."
+        },
+        {
+          "id": "focused",
+          "label": "Focused",
+          "cell": 1,
+          "face": "Steady level eyes look through clear, softly rectangular charcoal glasses with rounded corners beneath slightly lowered brows, with a tiny straight mouth.",
+          "body": "The head leans a little toward the task while both short mittens stay together low on the small round belly.",
+          "detail": "Use the same rounded-corner rectangular glasses as thinking, with visible eyes and antennae attending to the same point.",
+          "motion": "Future direction: set the gaze first, ease the head forward over a third of a second, hold attention for half a second, then settle without a repeated bob.",
+          "contrast": "Focus keeps a steady gaze and low hands, while thinking looks upward and rests its lower chin on a mitten."
+        },
+        {
+          "id": "skeptical",
+          "label": "Skeptical",
+          "cell": 2,
+          "face": "Softly lowered lids and unequal brows frame a small flat mouth, with the face kept round.",
+          "body": "The head tilts slightly back while both tiny mittens stay close together over the belly.",
+          "detail": "The long antenna bends back gently while the wings stay quiet and the face avoids a sharp sneer.",
+          "motion": "Future direction: raise one brow over a third of a second, draw the head back a little, hold for half a second, then ease to rest within one and a half seconds.",
+          "contrast": "Skepticism holds back with a flat mouth, while mischief smiles through a playful peek and confusion questions with both mittens."
+        },
+        {
+          "id": "surprised",
+          "label": "Surprised",
+          "cell": 3,
+          "face": "Round open eyes and high brows surround a clear rounded O-mouth.",
+          "body": "The head lifts over the unchanged tiny torso while both empty mittens spread slightly outward at its sides.",
+          "detail": "Both unequal antennae spring upright and the four wing panels open evenly without stretching the body.",
+          "motion": "Future direction: lift the head and open the low mittens over an eighth of a second, hold the startled pose for a third of a second, then settle gently within one second.",
+          "contrast": "Surprise expands upright with empty hands, while fear tucks toward both mittens and oops touches its lower mouth with one."
+        },
+        {
+          "id": "relieved",
+          "label": "Relieved",
+          "cell": 4,
+          "face": "Gently closed eyes and released brows accompany a tiny exhaling mouth.",
+          "body": "The head settles comfortably toward the ruff while one short mitten rests at the chest and the other loosens outward.",
+          "detail": "Antenna tips and four wing panels relax downward, with an optional small breath curl clear of the character.",
+          "motion": "Future direction: release the brows, lower the head gently over half a second, loosen the free mitten and let the antenna tips settle over another half second.",
+          "contrast": "Relief releases tension through an exhale, while sleepiness droops into a yawn and gratitude stays attentive to the viewer."
+        },
+        {
+          "id": "sleepy",
+          "label": "Sleepy",
+          "cell": 5,
+          "face": "Both oval eyes droop beneath soft brows above a small rounded yawn.",
+          "body": "The head nods toward a little cheek-rubbing mitten while the other mitten rests at the belly.",
+          "detail": "Both antennae sag softly without swapping lengths and the four wing panels fold loosely around the small body.",
+          "motion": "Future direction: lower both lids over half a second, make one small yawn and head dip, then close the mouth and settle within two seconds.",
+          "contrast": "Sleepiness droops on both sides with a yawn, while mischief preserves one alert peek and a small smiling mouth."
+        }
+      ]
+    },
+    {
+      "id": "tender",
+      "title": "Tender and difficult feelings",
+      "day": "../../assets/brand/expressions-v5/tender-day.png",
+      "night": "../../assets/brand/expressions-v5/tender-night.png",
+      "states": [
+        {
+          "id": "sad",
+          "label": "Sad",
+          "cell": 0,
+          "face": "A lowered gaze and raised inner brows sit above a small downturned mouth, preserving the full soft cheeks.",
+          "body": "The head bows while both empty mittens hang low and the stub feet remain close beneath the unchanged round body.",
+          "detail": "A single small tear supports the downturned mouth and drooping antennae; the body stays soft and round.",
+          "motion": "Future direction: lower the gaze, bow the head over half a second, let the antenna tips follow slowly, then hold a quiet resting pose within two seconds.",
+          "contrast": "Sadness sinks with low empty hands, while worry attends sideways and fear recoils toward both mittens."
+        },
+        {
+          "id": "worried",
+          "label": "Worried",
+          "cell": 1,
+          "face": "Eyes glance sideways beneath lifted pinched inner brows, with a small uneven closed mouth.",
+          "body": "The head tucks slightly toward the ruff while both tiny mittens clasp near the belly without creating a hunched adult torso.",
+          "detail": "Antenna tips curve toward each other and the four wing panels fold close without crossing or changing their markings.",
+          "motion": "Future direction: glance toward the concern, bring the mittens together over a quarter second, make one small head tuck, then hold and settle within one and a half seconds.",
+          "contrast": "Worry stays alert to something unresolved with a closed mouth, while sadness looks down and fear opens its mouth during a recoil."
+        },
+        {
+          "id": "scared",
+          "label": "Scared",
+          "cell": 2,
+          "face": "Wide oval eyes, high pinched brows and a narrow open mouth show a small startled fright.",
+          "body": "The whole compact character recoils as the head tucks toward both short mittens beneath the chin and the close stub feet brace below the body.",
+          "detail": "The open mouth, lifted antennae and both lower-cheek mittens create a small bracing reaction.",
+          "motion": "Future direction: recoil as one compact shape over a sixth of a second, tuck the head toward the fixed mittens, hold briefly, then ease the antennae to rest within one and a half seconds.",
+          "contrast": "Fear contracts around two chin-side mittens, while surprise opens outward and oops uses only one lower-mouth contact."
+        },
+        {
+          "id": "frustrated",
+          "label": "Frustrated",
+          "cell": 3,
+          "face": "Eyes squeeze closed beneath uneven pinched brows, with a small strained wavy mouth.",
+          "body": "Both short mittens huddle beneath the ruff while one attached stub toe presses or pivots in place, with no hands at the crown or temples.",
+          "detail": "Antenna tips bend in opposing directions while the heel stays anchored and no shin or wider stance appears.",
+          "motion": "Future direction: close the eyes over a sixth of a second, make one heel-anchored toe tap over a quarter second, then loosen the mittens and settle within one and a half seconds.",
+          "contrast": "Frustration struggles inward with closed eyes and a toe tap, while anger looks outward with open eyes and both feet planted."
+        },
+        {
+          "id": "angry",
+          "label": "Angry",
+          "cell": 4,
+          "face": "Open eyes beneath softly lowered inner brows accompany a small firm frown without teeth or a sharpened jaw.",
+          "body": "Tiny clenched mitten shapes stay at the sides of the round belly while both stub feet plant directly beneath it.",
+          "detail": "Antennae stiffen outward and the four wings flare slightly in a childlike protest, with no oversized fists.",
+          "motion": "Future direction: set the brows over a quarter second, firm the tiny mittens and wing pose, hold the protest for half a second, then release slightly within one and a half seconds.",
+          "contrast": "Anger faces outward with open eyes and planted feet, while frustration closes its eyes and disgust leans away."
+        },
+        {
+          "id": "disgusted",
+          "label": "Disgusted",
+          "cell": 5,
+          "face": "Partly closed eyes and pinched brows frame a small asymmetric wavy grimace without an added nose or tongue.",
+          "body": "The head and compact body lean away as one short mitten turns outward in a low declining gesture and the other stays near the belly.",
+          "detail": "Antennae pull away from the subject and the four wing panels retract without changing the tiny stance.",
+          "motion": "Future direction: draw the head away over a quarter second, turn one low mitten outward, pause for half a second, then settle within one and a half seconds.",
+          "contrast": "Disgust recoils from its subject with a declining mitten, while skepticism merely holds back and anger plants itself in protest."
+        }
+      ]
+    }
+  ],
+  "displayGuidance": "128–160px cells for general full-library use; 96px is a compact contextual preview. Nuanced labels are not independently validated."
+};

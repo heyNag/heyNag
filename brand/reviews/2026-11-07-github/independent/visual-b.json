@@ -1,0 +1,151 @@
+{
+  "reviewerId": "visual-b",
+  "role": "Visual development and lighting artist",
+  "lens": "Drawing appeal, contour and scale simplification",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "independence": "Saved before reading any new GitHub partner review, pair response or proposal.",
+  "scope": "Fresh review of the prepared native GitHub profile as rendered in the labelled local preview: avatar/header drawing, light/dark hierarchy, small-size clarity and the connection to the proposed website identity. This is an application score, not a reused mascot score or approval of a built website.",
+  "sourceManifestSha256": "7b23e48c7555ab1abca2a81923bb526411043350c092e352ef42efd106b468d2",
+  "sourceVerification": {
+    "allNineManifestHashesMatched": true,
+    "publicationStatus": "Prepared locally; not applied to the account."
+  },
+  "inspectedEvidence": [
+    "AGENTS.md",
+    "brand/workflow.json",
+    "brand/team.json (Visual A/B role and lens)",
+    "README.md",
+    "brand/profile/profile.json",
+    "brand/profile/continuity.json",
+    "brand/reviews/2026-11-07-github/review-instructions.txt",
+    "brand/reviews/2026-11-07-github/brief.json",
+    "brand/reviews/2026-11-07-github/review-source-v1.json",
+    "brand/source/applications-v5.js (full source)",
+    "view_image: brand/reviews/2026-11-07-github/evidence/profile-light-1440.png",
+    "view_image: brand/reviews/2026-11-07-github/evidence/profile-dark-1440.png",
+    "view_image: brand/reviews/2026-11-07-github/evidence/profile-light-320-top.png",
+    "view_image: brand/reviews/2026-11-07-github/evidence/profile-dark-320-top.png",
+    "view_image: brand/reviews/2026-11-07-github/evidence/readme-light-320-scroll.png",
+    "view_image: brand/reviews/2026-11-07-github/evidence/readme-dark-320-scroll.png",
+    "view_image: brand/reviews/2026-11-07-github/evidence/pins-light-320-scroll.png",
+    "view_image: assets/brand/heynag-moth-avatar-v5-day.png (512px)",
+    "brand/reviews/2026-11-07-github/evidence/render-checks.json (full record; not personally rerun)"
+  ],
+  "skillsReviewed": {
+    "newFullRead": [
+      {
+        "name": "design-taste-frontend",
+        "path": "/Users/nag/.agents/skills/taste-skill/SKILL.md",
+        "scope": "Full 278-line SKILL.md read for grounded copy, real material, coherent identity and rendered review. No commercial-site build recipes or scripts invoked."
+      }
+    ],
+    "fullReadReused": [
+      {
+        "name": "emil-design-eng",
+        "path": "/Users/nag/.agents/skills/emil-design-eng/SKILL.md"
+      },
+      {
+        "name": "apple-design",
+        "path": "/Users/nag/.agents/skills/apple-design/SKILL.md"
+      },
+      {
+        "name": "prototype",
+        "path": "/Users/nag/.agents/skills/prototype/SKILL.md"
+      }
+    ],
+    "intakeBoundary": "These three complete instructions and all 17 Emil catalog entries were read earlier in this conversation. This record reuses that actual intake; it does not claim new full reading of every skill or taste reference file."
+  },
+  "workflowChanges": [
+    "Review exported identity at the actual host sizes, not just the 512px master: the universal avatar and the 238px-wide phone banner have different drawing jobs.",
+    "Use genuine scrolled viewport screenshots for reading and name/header claims; do not mistake the full-page sticky-navigation capture artifact for a profile defect.",
+    "Apply taste guidance as a hierarchy and truthfulness test within native GitHub: existing identity, clear author, real linked work and restrained visuals. Do not import a commercial hero, custom font or shader to satisfy a recipe.",
+    "Keep profile evidence, website design contract, live publication and human recognition as separate states. A shared source/shape makes continuity plausible; it does not demonstrate recognition."
+  ],
+  "rulesNotApplicableWithReason": [
+    {
+      "rule": "Taste one section per screen, dealt palettes/fonts, custom effects, mandatory hover motion and company-site action structure.",
+      "reason": "GitHub owns layout, typography and interaction; this is a personal profile using native Markdown. The existing identity is deliberate and the task does not permit a custom site or redesign."
+    },
+    {
+      "rule": "Taste starter/assets and headless checker workflow.",
+      "reason": "No standalone page is being built. Root owns the real GitHub DOM preview; reviewers are explicitly barred from browsers or scripts that launch them. Actual supplied native screenshots and render records are the relevant evidence."
+    },
+    {
+      "rule": "No description under a visual, or every screen requires product imagery.",
+      "reason": "Useful native introduction and factual project descriptions are the substance of a personal profile. The banner is identity, not a substitute for evidence or a commercial product render."
+    },
+    {
+      "rule": "Animate or enhance every interaction; generic UI spring/press guidance.",
+      "reason": "The application is intentionally static and GitHub controls its interactive UI. Silence and a still mascot preserve reading; no custom animation is needed."
+    },
+    {
+      "rule": "Prototype a new character or change its small anatomy for clarity.",
+      "reason": "The existing head-only avatar is already the appropriate scale simplification. Full-body header detail may compress without carrying essential meaning; no drawing blocker justifies new anatomy."
+    },
+    {
+      "rule": "Replace the avatar with a separate dark version on dark pages.",
+      "reason": "A single account avatar must remain legible in both themes. The fixed paper-ground day asset has clearer connected antennae at the inspected narrow size; a theme-paired header can handle atmosphere."
+    }
+  ],
+  "score": 8.9,
+  "scoreMeaning": "Strong native GitHub visual application: an appealing, legible universal avatar, coherent paired headers and readable content hierarchy. Small dark-header detail and the fixed light-avatar focal contrast retain minor limitations. This is a fresh subjective application judgment out of 10, not a scientific measurement or a claim that the whole mascot system or future website has this score.",
+  "confidence": {
+    "overall": "high for shown static application",
+    "smallSizeDetail": "medium-high at supplied raster scale",
+    "futureWebsiteOrHumanRecognition": "not assessed"
+  },
+  "strengths": [
+    "The head-only avatar preserves the huge soft face and unequal paddle antennae with generous crop clearance. The actual 320px top views show a readable small face with connected dark stems in both GitHub themes; the 512px source confirms clean contour construction.",
+    "The banner retains the tiny compact full body, short mittens and feet, and layered wings alongside a much larger heyNag wordmark. At the 238px phone banner width the name stays immediately readable even though fine gesture detail becomes secondary.",
+    "The same cream/green character and chartreuse wordmark connect the day and forest-night headers. The night image has enough separation from GitHub's near-black ground to remain a deliberate brand surface without adding a border or glow treatment.",
+    "The friendly visual does not replace Nag's authorship. The large native full name, handle, plain bio, \u201cHey, I'm Nag\u201d heading and linked project names give the character a human context; the readable scrolled README and pin cards survive the narrow layout.",
+    "The universal avatar plus paired banner is an appropriate division of responsibility: the avatar carries a simple stable face, while the wider image carries the name and full-body silhouette. No tiny gesture or color-only distinction is needed to understand the profile."
+  ],
+  "deductions": [
+    {
+      "id": "VB-GH-01",
+      "severity": "minor",
+      "type": "observed small-size detail limit",
+      "evidence": [
+        "evidence/profile-light-320-top.png",
+        "evidence/profile-dark-320-top.png",
+        "evidence/render-checks.json: 238px banner at 320px viewport"
+      ],
+      "observation": "The full-body banner moth is very small on the narrow profile. Ruff/mitten overlaps compress into a central knot, and the thin night antenna connections are less immediate than the day mark. The face and wordmark still work; this is an ornament-detail limit, not an unreadable identity.",
+      "improvementCriterion": "If a future banner variant is explored, show a better face/antenna/body grouping at the actual 238px width in both themes while keeping the wordmark readable and the same anatomy. Do not enlarge hands or require the little wave to carry meaning."
+    },
+    {
+      "id": "VB-GH-02",
+      "severity": "minor",
+      "type": "accepted theme/focal-balance tradeoff partly taste",
+      "evidence": [
+        "evidence/profile-dark-1440.png",
+        "evidence/profile-dark-320-top.png"
+      ],
+      "observation": "The fixed pale avatar disc is the brightest large surface on the dark desktop profile and is more prominent than the softer night banner character. It is clear and defensible, but the two occurrences do not have identical material emphasis.",
+      "improvementCriterion": "Retain the universal avatar unless an unchanged-geometry, single-ground comparison improves balance in both native themes and at the small avatar size. Future website layouts should not repeat several competing large pale discs merely to mirror GitHub."
+    }
+  ],
+  "blockers": [],
+  "recommendations": [
+    "Keep the existing avatar, paired headers and static presentation for this profile; no anatomy redraw is needed.",
+    "Treat the small full-body banner moth as an identity accent and keep project meaning in native text and links.",
+    "Carry the same silhouette, palette, names and source assets to heyNag.com, while letting real project evidence occupy its own visual space. The future site should not become a sequence of enlarged mascot banners.",
+    "Read continuity.json's immediate-recognition wording as design intent. Record audience recognition only if it is later tested; maintain the clear local-preview/unpublished status until actual account changes are verified."
+  ],
+  "continuityAssessment": {
+    "currentProfile": "The demonstrated avatar, headers, name and prose form a coherent current native application.",
+    "futureWebsiteContract": "The proposed reuse of versioned character sources, tokens, warm voice and Investigate & share behavior is a sensible continuity plan. Keeping actual work accessible without interacting with the moth is particularly important.",
+    "notBuilt": "The website has not been rendered, tested or scored. There is no evidence here of its layout, motion, device behavior or cross-surface recognition.",
+    "futureReviewCriterion": "Compare the profile and first website screen with the same actual-size discipline, preserving tiny anatomy and clear Nag attribution while giving verified project work enough prominence."
+  },
+  "unscoredOutcomes": [
+    "Unfamiliar-human recognition, affection, recall or interpretation of Nag from the mascot.",
+    "Any future heyNag.com visual/interaction quality or implementation of the continuity plan.",
+    "Published GitHub account appearance, saved settings, image delivery/caching or logged-in variations; these screenshots are a labelled local preview in GitHub's real DOM using GitHub Markdown API output and local asset data URLs.",
+    "Physical-phone behavior, spoken screen-reader output and network/performance results. Render-checks reports desktop viewport emulation and no overflow, not device validation.",
+    "Motion or sound quality; neither is part of this static native application."
+  ],
+  "workflowReviewTable": "| Before | After | Why |\n| --- | --- | --- |\n| Judge only the 512px avatar | Judge native avatar and 238px phone banner separately | Each application has a different detail budget |\n| Apply commercial-site recipes literally | Preserve GitHub's native text and fixed layout | The host, not custom CSS, owns the interaction system |\n| Treat shared assets as proven recognition | Record continuity as a plan until rendered/tested | Source reuse supports coherence, not audience outcomes |"
+}

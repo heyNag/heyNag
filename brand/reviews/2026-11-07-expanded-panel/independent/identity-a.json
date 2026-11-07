@@ -1,0 +1,48 @@
+{
+  "role": "Identity systems designer A \u2014 silhouette and cross-surface identity",
+  "independence": "Recorded before reading identity-b.json; predecessor refinement judgments retained and current evidence reinspected.",
+  "scope": "Current V5 native-vector neutral avatar and GitHub header applications; local draft.",
+  "evidence": [
+    "AGENTS.md; expanded-panel/brief.json and score-policy.json",
+    "refinement/round1/identity.json and round2/identity.json",
+    "refinement/evidence/identity.png viewed at original resolution, including actual-size avatar/full-body rows",
+    "refinement/evidence/readme-390-day.png and readme-390-night.png viewed at original resolution",
+    "brand/source/applications-v5.js and applications-v5.json; brand/animation-v5/character.js",
+    "README.md; brand/README.md; brand/design-system.md"
+  ],
+  "strengths": [
+    "Complete unequal paddles, cream head and neutral face survive the circular crop. Header and avatar reuse the same head; the complete header retains tiny body, attached feet and layered wings.",
+    "Both phone proofs preserve the complete silhouette and clearly dominant heyNag wordmark. First-person introduction ties the character to Nag and actual project destinations.",
+    "Current documentation identifies the native-vector interpretation, tested sizes, local-draft status and preferred universal day avatar. The predecessor documentation contradiction is resolved."
+  ],
+  "deductions": [
+    {
+      "id": "IDA-SCALE",
+      "observation": "At the actual-size 32px samples the mouth is a small mark and night antenna connections are much less assertive than the cream head. The larger samples carry more facial nuance.",
+      "effect": "The minimum avatar conveys the friendly head family more reliably than expressive detail. This is a modest optical craft limitation, not proof of failed recognition or a reason to alter anatomy."
+    }
+  ],
+  "score": {
+    "value": 8,
+    "outOf": 10,
+    "scope": "Inspected static application craft and cross-surface coherence only",
+    "evidence": [
+      "identity.png actual-size rows",
+      "readme-390-day.png",
+      "readme-390-night.png",
+      "applications-v5.js shared head and outlined wordmark reuse"
+    ],
+    "confidence": "Moderate; strong direct evidence for crop/hierarchy, narrow rasterization and placement coverage.",
+    "whyNotHigher": "The minimum avatar loses mouth/stem clarity relative to its stronger larger applications; no controlled comparison yet establishes a better optical treatment or deliberate acceptance of that tradeoff.",
+    "whatWouldRaiseIt": "A same-anatomy actual-size comparison showing clearer minimum-size cues without crop or larger-size regressions, followed by fresh review. A better-supported retained baseline can also close an unjustified change request; no score is promised."
+  },
+  "criteria": [
+    "Preserve exact head/body construction, shared day/night geometry and original rasters.",
+    "Compare current export against framing, rendering or local-edge candidates at intended sizes; reject new details or enlarged anatomy.",
+    "Keep heyNag dominant and complete at the demonstrated phone header width; do not reconstruct its outlined wordmark."
+  ],
+  "limits": [
+    "Unaided Nag association and delayed recall remain unmeasured, not defects.",
+    "No live GitHub, arbitrary-ground, smaller-than-tested, animated-avatar or future-website claim; no production changes."
+  ]
+}

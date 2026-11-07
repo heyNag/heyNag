@@ -1,0 +1,45 @@
+{
+  "role": "Character performance director — refinement cross-review",
+  "inspectedEvidence": [
+    "Peer round1/rigging.json and round1/storyboard.json; current motion.js and character.js retained from independent review.",
+    "New exact Engine sheets: scared-relieved.png, angry-scared.png, scared-angry.png, thinking-confused.png, thinking-thinking.png and sad-angry.png.",
+    "exact-case-0.png and exact-case-1.png at 0.000,0.200,0.367,0.667,0.967,1.500,2.500,3.800 seconds; exact-case-3.png at corresponding release samples; exact-case-8.png at 0.667–1.500 seconds. These are source frames from the deterministic 30fps render, not decoded MP4 frames.",
+    "Decoded full-reel frames cue_0007 through cue_0014: 25.633346,29.700000,33.266667,37.066693,40.833346,44.700013,48.233320,52.133320 seconds, using full-video/20261107-152235-heynag-v5-refined-emotions-dac69228/evidence.json timestamps.",
+    "family-sweep.json and video-cadence.json; numerical coverage and recorded file cadence, not independent perception tests."
+  ],
+  "challenges": [
+    {
+      "role": "Rigging",
+      "claimId": "REFRIG-01",
+      "decision": "revise",
+      "reason": "The broader rule remains a provisional acting policy, but the requested additional pairs now have rendered evidence. Angry↔scared and sad→angry retain purposeful concern or protest in the inspected samples. Thinking→confused keeps glasses until uncertainty develops; thinking replay retains glasses while restaging its chin hand. I see no demonstrated reason to narrow the rule now.",
+      "evidence": ["angry-scared.png; scared-angry.png; sad-angry.png:updated rows", "thinking-confused.png:200–800ms", "thinking-thinking.png:updated row"],
+      "implication": "Keep the implementation. Revisit a specific transition only when a real scene exposes contradictory intention; do not convert untested combinations into invented defects."
+    },
+    {
+      "role": "Storyboard",
+      "claimId": "REF-STORY-01",
+      "decision": "revise",
+      "reason": "The evidence gap has narrowed. Exact render samples clearly preserve concern through the former smile interval and keep the hop compact through landing. The replacement film has regular frame timing according to the cadence audit. However, I inspected extracted images, so I still cannot personally certify the felt rhythm of uninterrupted playback.",
+      "evidence": ["exact-case-0.png:0.200,0.367s", "exact-case-1.png:0.200,0.367s", "exact-case-8.png:0.867–1.200s", "video-cadence.json:transitions-exact.mp4"],
+      "implication": "Accept the demonstrated corrections for presentation. Describe cadence honestly; do not delay unrelated assets or add bigger motion to compensate for an unobserved problem."
+    },
+    {
+      "role": "Storyboard",
+      "claimId": "resolvedIssues[1] — dominant mitten action",
+      "decision": "accept",
+      "reason": "The revised hierarchy survives the actual reel export: Focused has distinct low hands, while Grateful deliberately joins them. Maximizing separation in every pose would erase meaningful contrast. The inspected paired frames preserve complete antenna tips, feet and wing layering in both themes.",
+      "evidence": ["Decoded full reel:Focused 48.233320s; Grateful 33.266667s; Excited 25.633346s"],
+      "implication": "Keep the staging and tiny anatomy; no mitten enlargement or wing-rig rebuild is warranted."
+    }
+  ],
+  "ownPositionChanged": [
+    "Clarified PERF-R1: scared→relieved is outside the compatibility families. Its smile is unchanged, visibly compatible with releasing fear, and not a regression attributable to the new inheritance rule.",
+    "The 42-pair sweep reduces numerical uncertainty. Nonpositive mouthSmile alone cannot establish absence of a perceived smile because mouth opening and shape also contribute; rendered evidence remains necessary.",
+    "No new blocker emerged from the additional samples. The specific four refinements need no further acting redesign before presentation."
+  ],
+  "finalVerdict": "Accept the targeted refinements for presentation. They preserve innocence while improving attention, pose separation and the demonstrated transition faults. Approval is bounded to the inspected behavior and assets, not every future story or claimed audience response.",
+  "openQuestions": [
+    "Future application testing should establish whether the intended gaze target and adjacent emotions read without labels at actual display size. This is follow-up work, not a newly discovered blocker."
+  ]
+}

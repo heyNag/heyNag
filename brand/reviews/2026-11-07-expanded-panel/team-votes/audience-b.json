@@ -1,0 +1,16 @@
+{
+  "reviewerId": "audience-b",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "proposalSha256": "0665e3d5d15f945e095fb200458d9fe0a63539bd432b6918f80fcdc7388ea0c4",
+  "decision": "agree_with_named_nonblocking_limits",
+  "substantiveObjections": [],
+  "nonblockingLimits": [
+    "The current record contains no recruited human participants or findings. Plan agreement cannot establish recognition, affection, comprehension or delayed recall.",
+    "A delayed-only recall condition must avoid earlier interviews that rehearse the target, including what-stood-out or owner-name questions. Otherwise label delayed results as following an immediate intervention; recognition alternatives and clips remain after the final unaided probe.",
+    "Expert reviewers already familiar with this character cannot become unprimed by hiding labels. Unlabelled expert viewing usefully examines staging; unfamiliar observers answer the audience question.",
+    "No score is awarded here. Lower and withheld scores remain visible; human-study size and availability are not universal gates for unrelated authorized work."
+  ],
+  "rationale": "I read the entire six-package proposal and score policy and verified the proposal file hash. P1 connects curiosity and sharing to a verified project cue; P2 and P3 investigate relevant performance and small-size questions while retaining the control and innocent anatomy. P4 addresses operability separately from meaning, and P5 separates renderer reliability from creative quality. P6 explicitly corrects recall sequencing, preserves dissent and distinguishes owner preference, expert judgment and human response. Reversible alternatives can seek stronger appeal without declaring the baseline defective; adoption still requires an observed benefit. These are proportionate, reviewable next steps within the current foundation.",
+  "pairPosition": "Endorse the audience pair plan with all three A challenges accepted and the named experimental-freedom clarification recorded in pairs/audience-b-response.json. Preserve A\u2019s numeric scope and B\u2019s qualitative judgment separately."
+}

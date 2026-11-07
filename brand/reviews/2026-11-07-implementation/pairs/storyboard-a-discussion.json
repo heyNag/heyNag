@@ -1,0 +1,93 @@
+{
+  "reviewer": "Storyboard A — visual storytelling and setup/payoff",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "partnerRecordRead": "independent/storyboard-b.json",
+  "partnerDiscussionRead": null,
+  "partnerDiscussionStatus": "No storyboard-b-discussion.json existed at initial writing or the subsequent file check. B then explicitly confirmed the recommendation and the practical workflow through a direct collaboration message; A replied confirming the same resolution. Each reviewer retains ownership of their own record and vote.",
+  "directPairExchange": {
+    "partner": "/root/panel_storyboard_b_implementation",
+    "messageRead": "B explicitly accepted the phone eyeline finding as distinct from B's first-viewport exposure deduction; both survive the portrait scale improvement. B agreed the mitten invitation is subtler than the glasses/return and that one-peek is structurally economical but not proven funnier. B retained 8.4 and confirmed the exact v2 recommendation with named nonblocking limits.",
+    "responseSent": "A confirmed the exact v2 recommendation and retained 8.2, agreeing that isolated sleepy ambiguity cannot reject the concealed-to-revealed sequence and that the two phone issues remain separate.",
+    "workflowConfirmed": "Both reviewers explicitly agreed to cast/timeline before edits, preserve a baseline with one variable per audition, review complete responsive scenes and eyeline, distinguish normal-speed reading from frame diagnosis, and separate UI budgets from character content."
+  },
+  "proposalFile": "team-proposal-v2.json",
+  "proposalSha256": "4eef022ccecba73621ca188b29c13cbc41d08b5268ffeaa6e98e2c4c5ea08c5c",
+  "sourceManifest": "review-source-v4.json",
+  "sourceManifestSha256": "4b70d40e6c6fed47936377ff71d915379cbe84bc2a23020ac2ab2fb9696b2caa",
+  "verification": {
+    "proposalAndManifestHashes": "Independently recomputed and matched the immutable requested values.",
+    "currentSourceHashesMatched": ["brand/animation-v5/motion.js", "brand/animation-v5/character.js", "brand/animation-v5/signature.js", "brand/animation-v5/signature.html", "brand/animation-v5/signature.css"],
+    "newEvidenceRead": ["team-proposal-v2.json in full", "evidence/desktop-performance-active.json in full"],
+    "report": "index.html exists at the target of the signature's local report link; no new browser navigation was performed.",
+    "retainedVisualEvidence": "The independent review already used final portrait, 320 px wrapping, night, decoded investigation/peek/wry and selected-pose evidence. It did not rely on superseded side-by-side phone screenshots."
+  },
+  "challengesAndResolutions": [
+    {
+      "topic": "Offer specificity versus visible hand",
+      "partnerFinding": "B finds the return clearer than the offer, with the glasses the strongest new cue and the mitten endpoint readable as friendly thinking.",
+      "challenge": "The hand is visibly present at the final portrait scale; this is not a finding of disappearance or necessarily a failed invitation. Its curled outline is part of the selected tiny anatomy. Neither reviewer has an unprimed viewer response that would establish failure.",
+      "resolution": "Retain the semantic-specificity deduction: the consideration and presentation silhouettes are close. Compare only the existing hand's pose/orientation and head-before-hand handoff at matching scale before changing anything. No larger mittens, longer limbs, props, or stronger asserted emotion are warranted. A agrees with B's bounded reversible audition and keeps this nonblocking for the local foundation.",
+      "evidence": ["motion.js:418–442", "character.js:209–217", "curious-investigate.png", "signature-final-390-stage.png", "decoded-day-5.png"]
+    },
+    {
+      "topic": "Phone scale, first exposure and eyeline are separate questions",
+      "partnerFinding": "B values the larger portrait gesture but notes that the 320 px first viewport reaches the project copy before the moth's face.",
+      "challenge": "A future hero need not inherit the review study's introduction and comparison controls. The first-viewport tradeoff is therefore not a broken current layout. Conversely, calling the bigger character legible does not settle A's different concern: a screen-right/lower reading scan is less literally related to copy placed above it.",
+      "resolution": "Keep the portrait scale and corrected wrapping. Record both the vertical-exposure tradeoff and the unresolved phone eyeline relation without resurrecting the old small-character layout criticism. Before website adoption, inspect complete phone scenes during notice/read/return and design the first-view hierarchy intentionally. Prefer layout auditions around the same anatomy and shared numeric pose contract before new pose logic.",
+      "evidence": ["signature.css:18–22", "signature-final-1440.png", "signature-final-390-stage.png", "signature-final-390-night.png", "signature-final-320.png", "motion.js:426–439"]
+    },
+    {
+      "topic": "One-peek representation versus continuous comic success",
+      "partnerFinding": "B calls removal of the second peek structurally economical while retaining the sleepy/knowing ambiguity and asking for silent playback comparison.",
+      "challenge": "Fewer authored repetitions establish a simpler structure, not an improved joke. The concealed setup can make a subtle half-eye meaningful over time even when the isolated endpoint resembles drowsiness. A frame-based ambiguity cannot reject the temporal performance.",
+      "resolution": "Keep the one-peek audition beside the original two-peek emotion, with neither promoted as the comic winner. The independent findings agree that the altered sequence is real and inspectable; its timing and unaided meaning remain open. Test normal-speed silent playback with neutral prompts before retiming, then use decoded frames to locate any identified failure.",
+      "evidence": ["motion.js:141–152", "motion.js:457–467", "decoded-day-2.png", "all-final.png"]
+    },
+    {
+      "topic": "Updated active cadence evidence",
+      "partnerFinding": "B's independent limits cite mixed paused/playing records with approximately one-second gaps and an unestablished cause.",
+      "challenge": "That historical observation should not become a statement that this SVG performance incurs one-second stalls. The newer active-only record is more relevant to the particular playback workload, but its numbers still cannot establish perceptual timing or physical-device behavior.",
+      "resolution": "Use the newer active Thinking record when describing measured cadence: 119 intervals, mean 34.45 ms, p95 35 ms, maximum 67 ms and four intervals above 50 ms. Keep the cause of the older mixed gaps unassigned. Neither record changes A's staging score or fills the continuous-rhythm evidence gap.",
+      "evidence": ["evidence/desktop-performance-active.json", "team-proposal-v2.json evidence and validationLimits"]
+    }
+  ],
+  "acceptedJointRecommendation": "Keep Investigate & share as the lead and the one-peek audition as an alternative. Continue challenging hand specificity, comic rhythm and the phone eyeline-to-question relation within the same anatomy.",
+  "jointRecommendationConfirmedByThisReviewer": true,
+  "remainingDisagreements": [
+    "A retains 8.2/10; B independently assigned 8.4/10. These remain separate judgments rather than an averaged or negotiated score.",
+    "A's scored phone deduction emphasizes the physical relation of attention to its subject; B's emphasizes the first-viewport exposure tradeoff. Both are retained, and neither is recast as overflow or a control defect.",
+    "No substantive disagreement with the quoted shared recommendation. Comic superiority of one peek versus two remains undecided rather than settled by the pair."
+  ],
+  "personalScore": {
+    "value": 8.2,
+    "outOf": 10,
+    "meaning": "Authored setup/payoff and directly inspected rendered staging only; continuous perceived rhythm, live smoothness and human comprehension remain outside the score."
+  },
+  "scoreHistory": [
+    {"stage": "independent v4", "value": 8.2, "source": "independent/storyboard-a.json"},
+    {"stage": "pair response and immutable v2 vote", "value": 8.2, "reason": "The partner review and updated cadence evidence add nuance but do not remove either inspected craft deduction."}
+  ],
+  "practicalSkillsWorkflowAgreement": {
+    "basis": "A and B explicitly confirmed this practical workflow through the direct pair exchange, supported by their independently recorded skill intake. B writes B's own pair record and vote.",
+    "catalogAndFullReading": "Both records distinguish all 17 catalog summaries from full choreograph, review-animations and animation-vocabulary intake. A additionally read review-animations/STANDARDS.md. No unsupported claim that all 17 complete skills were read.",
+    "futureProcess": [
+      "Write one lead/support/static beat table before implementation, including the cause of attention, the semantic ending and the final hold. For this scene the question and interface remain static while antenna, gaze, head and hand perform their distinct roles.",
+      "Keep interface feedback timings separate from the character timeline. Review immediate input responsiveness independently of the deliberately requested investigation duration.",
+      "Run controlled, reversible alternatives at matched size, theme and common opening. Change one gesture or repetition decision per audition and retain the control until the result earns adoption.",
+      "Use continuous playback to decide whether a thought or joke lands; use decoded frames and source timings to diagnose the particular moment. Explicitly record when continuous evidence is absent.",
+      "Include replay, cancellation and incoming-emotion continuity in the storyboard review, then provide the same constraints to engineering. Mechanical interruption success and a coherent incoming intention are separate checks.",
+      "Include first-view and scrolled phone compositions in the staging brief. An element fitting without overflow does not by itself establish the character's eyeline, reading order or payoff."
+    ],
+    "exceptions": [
+      "Do not compress a 4.1-second intentional character scene into a sub-300 ms UI budget.",
+      "Keep keyboard Play available; immediate keyboard feedback rules do not remove access to requested performance content.",
+      "Do not remove expressive SVG anatomy to satisfy transform/opacity guidance without a measured relevant workload.",
+      "Do not treat character cause/effect ordering as forbidden menu stagger or impose a parent-entrance rule on the thought sequence.",
+      "Do not automatically delete the second peek: repetition may carry suspicion or hesitation and must be assessed in playback.",
+      "The vocabulary skill supplies precise names, not evidence of quality; catalog discovery alone does not invoke new libraries or prototype infrastructure."
+    ]
+  },
+  "substantiveObjections": [],
+  "acceptanceScope": "Implemented local foundation only, with the proposal's named craft and evidence limits. No public release, 9/10 certification, audience outcome, physical-phone validation or continuous-motion certification is implied."
+}

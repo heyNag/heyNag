@@ -1,0 +1,359 @@
+{
+  "role": "Pre-implementation character performance and graphic staging advisor; separate from the subsequent 18-specialist independent review",
+  "status": "Baseline advice plus actual-render selection of invitation candidate B; no implementation score",
+  "scope": "Investigate and share invitation, hand/ruff silhouette clusters, and contextual phone attention. Source editing and browser operation excluded from this advisory task.",
+  "instructionsRead": [
+    "AGENTS.md",
+    "brand/workflow.json",
+    "brand/reviews/2026-11-07-implementation/installed-skills.json"
+  ],
+  "skillsReviewed": {
+    "fullInstructionsRead": [
+      {
+        "name": "emil-design-eng",
+        "path": "/Users/nag/.agents/skills/emil-design-eng/SKILL.md"
+      },
+      {
+        "name": "choreograph",
+        "path": "/Users/nag/.agents/skills/choreograph/SKILL.md"
+      }
+    ],
+    "catalogRead": "brand/reviews/2026-11-07-implementation/installed-skills.json",
+    "catalogDiscoveryIsNotFullIntake": true
+  },
+  "baselineSource": {
+    "brand/reviews/2026-11-07-gesture-staging/before/animation-v5/motion.js": "1027502ecbe9c43a067d09c819842c3876d307a7fa737e4064bebd386ee65a04",
+    "brand/reviews/2026-11-07-gesture-staging/before/animation-v5/character.js": "b93400daeaa43af99e4b8c30942b80d4d69aba545a808863dd92ebe1830a97fa"
+  },
+  "evidenceActuallyInspected": {
+    "source": [
+      "brand/animation-v5/motion.js: authored poses, investigation frames, wrist reach handling",
+      "brand/animation-v5/character.js: original mitten paths, ruff/arms draw order, head and eye transforms, wrist reach handling"
+    ],
+    "viewImage": [
+      "brand/reviews/2026-11-07-implementation/evidence/all-final.png",
+      "brand/reviews/2026-11-07-implementation/evidence/poses.png",
+      "brand/reviews/2026-11-07-implementation/evidence/sizes-final.png",
+      "brand/reviews/2026-11-07-implementation/evidence/signature-final-390-stage.png",
+      "brand/reviews/2026-11-07-implementation/evidence/signature-final-390-night.png",
+      "brand/reviews/2026-11-07-implementation/evidence/curious-investigate.png",
+      "brand/reviews/2026-11-07-implementation/evidence/curious-wry.png",
+      "brand/reviews/2026-11-07-gesture-staging/evidence/offer-candidates.png"
+    ],
+    "priorRecords": [
+      "brand/reviews/2026-11-07-implementation/independent/performance-a.json",
+      "brand/reviews/2026-11-07-implementation/independent/performance-b.json",
+      "brand/reviews/2026-11-07-implementation/independent/visual-a.json",
+      "brand/reviews/2026-11-07-implementation/independent/visual-b.json",
+      "brand/reviews/2026-11-07-implementation/independent/storyboard-a.json",
+      "brand/reviews/2026-11-07-implementation/independent/storyboard-b.json",
+      "brand/reviews/2026-11-07-implementation/pairs/performance-a-discussion.json",
+      "brand/reviews/2026-11-07-implementation/pairs/performance-b-discussion.json",
+      "brand/reviews/2026-11-07-implementation/pairs/performance-resolution.json",
+      "brand/reviews/2026-11-07-implementation/pairs/visual-a-discussion.json",
+      "brand/reviews/2026-11-07-implementation/pairs/visual-b-discussion.json",
+      "brand/reviews/2026-11-07-implementation/pairs/visual-resolution.json",
+      "brand/reviews/2026-11-07-implementation/pairs/storyboard-a-discussion.json",
+      "brand/reviews/2026-11-07-implementation/pairs/storyboard-b-discussion.json",
+      "brand/reviews/2026-11-07-implementation/pairs/storyboard-resolution.json"
+    ],
+    "recordReadingScope": "Read independent deductions and improvement criteria plus complete relevant pair conclusions/challenges. This is not a claim of freshly reviewing all historical evidence mentioned by those records.",
+    "continuousPlaybackWatched": false,
+    "browserOperated": false,
+    "newCandidateRendersInspected": true
+  },
+  "baselineFindings": [
+    {
+      "id": "AD-1",
+      "observation": "The visitor return is visible, but the final right mitten shares a compact silhouette band with the ruff and wing root. At 390px it can read as a small thumb-like acknowledgement; at96\u2013160px it is a contour accent.",
+      "confidence": "high for contour crowding; medium for inferred intent",
+      "evidence": [
+        "signature-final-390-stage.png",
+        "signature-final-390-night.png",
+        "curious-investigate.png"
+      ]
+    },
+    {
+      "id": "AD-2",
+      "observation": "Grateful has intentional hand contact, yet similarly weighted ruff and mitten loops form one small horizontal cluster. Shy and worried remain close to this same central band. Treating every contact as an error would remove legitimate acting.",
+      "confidence": "high for overlap location; medium for emotion-specific interpretation",
+      "evidence": [
+        "all-final.png",
+        "poses.png",
+        "sizes-final.png"
+      ]
+    },
+    {
+      "id": "AD-3",
+      "observation": "The phone question is above the head and slightly right of the eye midpoint, while the authored investigation primarily looks right, then down. Existing portrait scale makes the actual spatial mismatch easier to inspect.",
+      "confidence": "high for composition, medium for how much it affects an unprimed viewer",
+      "evidence": [
+        "signature-final-390-stage.png",
+        "signature-final-390-night.png",
+        "motion.js investigationFrames"
+      ]
+    }
+  ],
+  "invariants": [
+    "Original mitten paths, strokes, ruff geometry, compact torso, oversized head, unequal paddle antennae, stub feet and four marked wings remain unchanged.",
+    "Identical numeric pose and geometry for light and dark; contextual eye aiming may depend on layout but never on theme.",
+    "Every wrist stays within48 SVG units of its original shoulder. Do not rely on clamping to conceal an overreach.",
+    "One semantic ending for Investigate and share; no additional wave, hand pulse, wing flourish or celebratory bounce.",
+    "Thinking chin contact and grateful clasp are intentional. Clear the unintended neighboring contours while preserving those contacts."
+  ],
+  "boundedPoseHypotheses": {
+    "invite-first": {
+      "handLX": 269,
+      "handLY": 481,
+      "handLR": 0,
+      "handRX": 407,
+      "handRY": 458,
+      "handRR": 32
+    },
+    "invite-rotation-comparison": {
+      "handLX": 269,
+      "handLY": 481,
+      "handLR": 0,
+      "handRX": 407,
+      "handRY": 458,
+      "handRR": -26
+    },
+    "thinking-free-left": {
+      "handLX": 260,
+      "handLY": 490,
+      "handLR": -8
+    },
+    "focused-low-separated": {
+      "handLX": 269,
+      "handLY": 491,
+      "handLR": -8,
+      "handRX": 374,
+      "handRY": 486,
+      "handRR": 8
+    },
+    "grateful-low-contact": {
+      "handLX": 300,
+      "handLY": 477,
+      "handLR": 12,
+      "handRX": 341,
+      "handRY": 477,
+      "handRR": -12
+    },
+    "shy-low-offset": {
+      "handLX": 295,
+      "handLY": 482,
+      "handLR": 15,
+      "handRX": 346,
+      "handRY": 479,
+      "handRR": -15
+    },
+    "worried-diagonal": {
+      "handLX": 290,
+      "handLY": 491,
+      "handLR": 8,
+      "handRX": 346,
+      "handRY": 473,
+      "handRR": -12
+    }
+  },
+  "unclampedWristReachForHypotheses": {
+    "invite-first": {
+      "L": 25.02,
+      "R": 40.522
+    },
+    "invite-rotation-comparison": {
+      "L": 25.02,
+      "R": 40.522
+    },
+    "thinking-free-left": {
+      "L": 35.44
+    },
+    "focused-low-separated": {
+      "L": 35.014,
+      "R": 39.459
+    },
+    "grateful-low-contact": {
+      "L": 36.62,
+      "R": 40.361
+    },
+    "shy-low-offset": {
+      "L": 36.069,
+      "R": 38.833
+    },
+    "worried-diagonal": {
+      "L": 40.311,
+      "R": 34.059
+    }
+  },
+  "invitation": {
+    "firstCandidate": "invite-first",
+    "controlledAlternative": "invite-rotation-comparison",
+    "rationale": "Move the right wrist14 units outward and11 down from(393,447), then compare orientation at exactly the same wrist position. The original right mitten has a thumb-like top bump; rotation can change its reading without altering anatomy.",
+    "rotationUncertainty": "The+32degree candidate may still read as a thumb-up. Compare-26degrees with the same position. Neither is pre-approved as palm-up; the original drawing is a stylized mitten and its exact semantic read needs rendered evidence.",
+    "timing": {
+      "preserveNoticeReadHoldThroughMs": 1900,
+      "visitorReturnMs": 2350,
+      "rightWristAtVisitorReturn": {
+        "handRX": 382,
+        "handRY": 470,
+        "handRR": 10
+      },
+      "offerSettledMs": 2720,
+      "endMs": 4100
+    },
+    "trajectory": "Keep the hand low as the face returns, then move outward and slightly up into the held offer. This is one small presenting arc. The head/gaze lead the invitation rather than waiting for a simultaneous full-body pose change.",
+    "freeLeft": "Keep the existing low neutral free left initially. If another source change lowers it, compare that separately from the presenting-wrist rotation.",
+    "keepStatic": "Leave the opposite wing, torso scale, feet, question and interface still. Existing modest right-wing opening is enough support.",
+    "acceptance": "Compared at identical scale and theme with the baseline, the outer mitten is visibly separate from the ruff and the return-to-offer change reads as a deliberate small presentation without a longer-arm or adult-proportioned impression."
+  },
+  "contactFamilies": [
+    {
+      "clip": "thinking",
+      "proposal": "thinking-free-left",
+      "preserve": "Exact right chin mitten(338,423,-20) and its nod-contact keyframes; glasses and thinking timing.",
+      "reason": "A lower free left reduces central competing loops while one hand still visibly supports the chin. A detached chin hand would change the action."
+    },
+    {
+      "clip": "focused",
+      "proposal": "focused-low-separated",
+      "preserve": "Two separate hands, level gaze and existing single wing close.",
+      "reason": "Low separated mittens create quiet readiness; do not convert focus into a chin-rest or clasp."
+    },
+    {
+      "clip": "grateful",
+      "proposal": "grateful-low-contact",
+      "preserve": "One deliberate clasp before the acknowledgment bow.",
+      "reason": "Lower the pair beneath the ruff and increase center distance to41units, so facing contours can meet in one small overlap instead of deeply stacking two full mitten loops. Exact contact is a render gate.",
+      "challengeSent": "Do not adopt(306,477)/(333,477) solely because it clears the ruff:27unit centers preserve heavy mitten overlap. A visible clasp seam matters more than a universal minimum gap."
+    },
+    {
+      "clip": "shy",
+      "proposal": "shy-low-offset",
+      "preserve": "Low near-contact pair, small vertical offset and down/side glance.",
+      "reason": "Move down only4\u20135units from baseline. Keep the hands separate or nearly touching, rather than merging them into the grateful clasp. The two hands should seem held close, not formally presented."
+    },
+    {
+      "clip": "worried",
+      "proposal": "worried-diagonal",
+      "preserve": "Upper inward mitten above a lower supporting mitten, unresolved sideways glance.",
+      "reason": "The diagonal separates the upper anxious hand from the ruff while preserving a different relationship from grateful and shy. Do not even out both wrists or create a formal same-level clasp."
+    },
+    {
+      "clip": "other24",
+      "proposal": "No blanket migration",
+      "preserve": "Existing emotion-specific gesture intent, including cheek/under-ruff contact where meaningful.",
+      "reason": "A global separation or lowering rule could improve a contact sheet while removing individual intentions. Review the whole24 after scoped changes for regressions."
+    }
+  ],
+  "phoneAttentionAdvice": {
+    "owner": "interaction engineer/root, outside motion.js advisory ownership",
+    "target": "Actual h2 question center from the unchanged neutral eye midpoint in current layout, not the viewport edge or a hardcoded right cue.",
+    "boundedExample": {
+      "gazeX": 1.5,
+      "gazeY": -4.5,
+      "headX": 1,
+      "headY": -2,
+      "headR": -1
+    },
+    "exampleMeaning": "Illustrative phone values, not an instruction to override measured layout geometry. Looking up is primary; the right component should remain small for the inspected composition.",
+    "timing": "Attention starts during antenna150/gaze330; head follows330\u2013790; read1190\u20131900; contextual adjustment returns to zero by2350.",
+    "scan": "The original read gazeY+3 must not make the phone character look down away from the question. Retain at most about1unit of scan while remaining decisively upward, or scan along the text target plane.",
+    "headSupport": "For a strongly above target, attenuate lateral headX/headR; p.headY*.25-3 is a reasonable bounded hypothesis for the read headY4\u2192-2. Keep head roll close to0, within roughly\u00b12degrees here. Body and limbs stay authored.",
+    "continuity": "Use cached measured geometry; resize or orientation changes must not snap the gaze. Retarget smoothly or freeze the target through one performance and recompute for the next.",
+    "captureNeeded": [
+      330,
+      790,
+      1190,
+      1900,
+      2350,
+      2720
+    ],
+    "scopeLimit": "This advice improves a causal attention cue; it does not certify the first-viewport composition, physical-phone behavior or unprimed comprehension."
+  },
+  "choreographyTimelineTable": "| Element | Role | Starts | Duration | Motion | Relationship |\n| Long antenna | Lead |0ms|150ms|Existing notice|Cause of attention|\n| Gaze toward actual question | Lead |150ms|180ms|Small target-directed eye move|Follows notice|\n| Head and glasses | Support |330ms|460ms|Bounded head support and glasses settle|Overlaps established gaze|\n| Consideration | Lead |790ms|1110ms|Read and hold|Allows one thought to register|\n| Face return | Lead |1900ms|450ms|Return to visitor|Leads offer|\n| Presenting mitten | Support |2350ms|370ms|One small outward/up settling arc|Follows face return|\n| Final pose | Static hold |2720ms|1380ms|None|One semantic ending|",
+  "deliberateStillness": [
+    "Question and surrounding interface: attention needs a stable subject and readable context.",
+    "Feet and body scale: invitation does not need a hop, taller stance or enlargement.",
+    "Opposite wing and low free hand: the presenting mitten needs one clear supporting role without a second gesture.",
+    "Final hold: the scene ends and gives the visitor room to read."
+  ],
+  "reviewTable": "| Before | After | Why |\n| Presenting wrist(393,447,+25) crowds ruff/wing root | Compare(407,458,+32) and(407,458,-26) at equal scale | Existing mitten gains contour separation before anatomy changes are considered |\n| Grateful hands and ruff form a horizontal loop band | Lower a still-contacting pair and reduce excessive overlap | Preserve the clasp while revealing which loops are hands |\n| Phone read drives right/down beneath above-head copy | Aim bounded gaze toward the measured question and suppress downward scan | Attention has a visible spatial cause |",
+  "workflowChanges": [
+    "Write the intended contact or gap for each hand pair before editing; do not apply one global separation rule.",
+    "Record one-variable rotation comparisons at an identical wrist position, then decide from actual rendering.",
+    "Use a cast/timeline with the face returning before the hand presents; keep one semantic ending.",
+    "Capture both contact sheets and complete contextual phone frames at the same exact times in both themes.",
+    "Keep static contour findings separate from continuous timing, physical-device behavior and audience interpretation."
+  ],
+  "rulesNotApplicableWithReason": [
+    {
+      "rule": "Sub300ms UI timing and never animate keyboard actions",
+      "reason": "This4.1second authored character thought is intentionally played content. Its control feedback remains immediate and short; keyboard Play still plays the scene."
+    },
+    {
+      "rule": "Transform and opacity only",
+      "reason": "Existing expressive SVG anatomy/path rendering is selected artwork. No measured workload in this advisory task justifies replacing it."
+    },
+    {
+      "rule": "Stagger every moving part",
+      "reason": "Character cause/effect earns the antenna\u2192gaze\u2192head order; extra decorative delays or additional gestures would compete with the offer."
+    },
+    {
+      "rule": "Always separate shapes to improve clarity",
+      "reason": "Thinking chin contact and grateful clasp carry meaning; intentional contour contact must remain. This is a graphic-staging criterion rather than a generic gap rule."
+    },
+    {
+      "rule": "Add a prototype library/picker or platform framework",
+      "reason": "The existing exact-engine comparison workflow is sufficient. No extra UI infrastructure was requested or needed."
+    }
+  ],
+  "validationRequested": [
+    "Actual-size baseline/candidate stills at96/128/160px, plus the300px phone host in both themes.",
+    "Compare same-position+32/-26 invite orientations, with labels hidden during initial visual interpretation; record what the reviewer actually sees without claiming audience research.",
+    "Inspect1190/1900/2350/2720ms and normal-speed silent return\u2192offer playback; decoded frames alone do not establish perceived phrasing.",
+    "Check grateful clasp remains contact and thinking chin remains supported through their full motion, not just the settled frame.",
+    "Check all24 at held poses for unintentional duplicated gesture families or new hand/wing tangencies.",
+    "Verify identical numeric geometry and poses across day/night, unchanged original mitten paths, and\u226448unit wrist reach before and after interpolation.",
+    "Use fresh independent specialists for actual scoring; this advisory record does not substitute for their reviews."
+  ],
+  "feelCheck": "Scrub1900\u20132720ms to locate the head-to-hand handoff, then watch it continuously and silently to decide if it reads as one thought. Scrub grateful490\u20131350ms to ensure the clasp forms before the bow without the two mittens disappearing into a knot. Neither perceived result can be judged from the proposed numbers.",
+  "score": {
+    "value": null,
+    "status": "not-yet-scored",
+    "reason": "The actual candidate sheet supports a scoped provisional B selection. Full implemented motion, small-size contact families and contextual phone attention have not yet been inspected by this advisor. The requested honest9 remains an aspiration, not a required score."
+  },
+  "editsMade": [
+    "brand/reviews/2026-11-07-gesture-staging/implementation/acting-advice.json"
+  ],
+  "sourceEditsMade": false,
+  "actualCandidateAssessment": {
+    "evidence": "brand/reviews/2026-11-07-gesture-staging/evidence/offer-candidates.png",
+    "method": "Viewed the actual matched day/night sheet using view_image; all four columns retain the same face, body, wings and scale.",
+    "selected": "B-turned-invitation",
+    "patch": {
+      "handRX": 407,
+      "handRY": 458,
+      "handRR": -26
+    },
+    "before": "Presenting mitten touches the ruff-side band and has an acknowledgement/thumb accent.",
+    "A": "Outward/down placement improves space, but the positive rotation retains the acknowledgement/thumb accent.",
+    "B": "The two small top lobes face upward and the right mitten is visibly more separate from the ruff. This is the clearest small stylized presenting shape in the inspected sheet.",
+    "C": "The lower inward position recedes toward the torso/wing junction and has less deliberate outward presentation.",
+    "recommendation": "Use B provisionally for the implemented return-to-offer sequence; preserve the current reach and anatomy. Further extension or larger hands is not justified by this sheet.",
+    "challenge": "B is not a literal human palm, and the static sheet cannot prove audience interpretation or continuous phrasing. Keep those claims separate.",
+    "followup": "Inspect the2350\u21922720ms+10\u2192-26degree rotation while the wrist moves outward: it must accompany one small arc, not read as a wrist flick. Inspect96/128/160px and contextual phone frames before final adoption.",
+    "score": null
+  },
+  "timingFollowup": {
+    "clip": "grateful",
+    "observation": "The authored baseline forms the clasp490\u2013960ms while bowing; no continuous playback was viewed here.",
+    "decision": "Retain existing timing for the current capture and provisional pose implementation.",
+    "optionalHypothesis": {
+      "timeMs": 720,
+      "clasp": "fully formed lower contact pair",
+      "headY": 2
+    },
+    "useCondition": "Only if actual continuous comparison shows that the clasp still assembles too late during the deep bow. Keep the same scene duration.",
+    "reason": "Separate the observed contour repair from an unproven additional timing change; an overlapping gesture may still read as one acknowledgment."
+  }
+}

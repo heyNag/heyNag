@@ -1,0 +1,58 @@
+{
+  "scope": "Agreement sought on performance experiments toward stronger work; no claim that current art scores nine.",
+  "challenges": [
+    {
+      "claim": "PB1: weak small held-pose separation risks the mischievous signature.",
+      "position": "Retain as a thumbnail concern; reject static recognition as the decisive comic test.",
+      "evidence": "motion.js:135\u2013145 authors two peeks separated by concealment. all-24.png supplies only the 1550-ms pose, excluding that reversal.",
+      "resolution": "Test the whole beat and selected static fallback separately; strengthen neither automatically."
+    },
+    {
+      "claim": "PB2: most cushioning precedes contact.",
+      "position": "The source supports the timing fact, not a demonstrated weight defect or mandatory later compression.",
+      "evidence": "motion.js:194\u2013199 already coordinates descent, head compression and antenna reversal at 1060 ms; exact-case-8 preserves tiny contact geometry.",
+      "resolution": "Observe the baseline first. Try later head recovery only if playback identifies weight loss; pre-contact head movement can be intentional anticipation."
+    },
+    {
+      "claim": "PB3: similar total durations and smoothstep may homogenize rhythm.",
+      "position": "Keep the hypothesis, but total runtime mixes active response with settling and holds.",
+      "evidence": "Surprised reaches its lifted-head key at 540 ms; Thinking stages a separate toe tap at 2590\u20132770 ms. motion.js:115\u2013128,294\u2013304.",
+      "resolution": "Compare time to readable reaction and accent spacing, not equalize or shorten whole clips."
+    }
+  ],
+  "agreements": [
+    "Keep tiny anatomy, matched theme poses, purposeful hand hierarchy and the corrected descent.",
+    "Source curves and frame sheets establish mechanics; playback and observer responses establish different evidence.",
+    "Silence, finite endings and restrained wings remain valid choices."
+  ],
+  "differences": [
+    "A prioritizes a coherent thought and comic reversal; B prioritizes onset, contact and temporal contrast.",
+    "A proposes baseline observation before retimed alternatives; B proposed immediate current-versus-alternative comparisons."
+  ],
+  "prioritizedExperiments": [
+    {
+      "priority": 1,
+      "action": "Show current Mischievous, Surprised, Thinking and Excited silently, unlabelled, once at intended small and larger sizes. Capture descriptions, first readable response and any float/stop; include one relevant replay/interruption."
+    },
+    {
+      "priority": 2,
+      "action": "For a demonstrated failing beat only, compare one variable: peek reveal/hold, surprise onset, or head recovery around contact. Preserve amplitude and anatomy; retain baseline if benefit is unclear."
+    },
+    {
+      "priority": 3,
+      "action": "Place one current Curious thought change beside a real content cue to test gaze intention; do not require new scenery."
+    }
+  ],
+  "acceptanceCriteria": [
+    "Both reviewers identify stimulus/attention, response and settlement in actual-size playback; record any disagreement.",
+    "Mischief reveals an intentional peek rather than only sleep/contentment; startle and contemplation have distinguishable rhythms.",
+    "Hop contact/recovery reads coherently without added height, foot separation or interruption-induced bounce.",
+    "Record unlabelled human descriptions and confusions separately from AI judgments; no unsupported recognition percentage or nine score."
+  ],
+  "remainingObjections": [
+    "No observed continuous playback or audience responses yet; hypothetical failures cannot justify wholesale retiming.",
+    "Static fallback selection may need its own solution even when comic playback succeeds."
+  ],
+  "ADecision": "Approve this bounded experiment plan; not final-art approval.",
+  "BDecision": "pending"
+}

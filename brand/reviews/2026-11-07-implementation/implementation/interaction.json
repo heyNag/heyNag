@@ -1,0 +1,94 @@
+{
+  "package": "P4 \u2014 Studio operation and mobile inspection",
+  "authorRole": "Interaction implementation engineer; this is not specialist approval",
+  "date": "2026-11-07",
+  "scope": [
+    "brand/animation-v5/studio.js",
+    "brand/animation-v5/studio.css",
+    "brand/animation-v5/index.html"
+  ],
+  "baseline": "brand/reviews/2026-11-07-implementation/before/animation-v5",
+  "decisions": [
+    {
+      "change": "Remove the document keydown handler entirely.",
+      "reason": "Space and Left/Right were prevented on noninteractive reading targets; Escape also changed the character outside any deliberate player context. Visible native buttons, selection, radios and range provide the supported keyboard controls.",
+      "preserved": "Native browser key behavior and existing gallery-to-heading focus handoff. No new keyboard shortcut contract."
+    },
+    {
+      "change": "Cancel the collection whenever the player leaves the viewport, including its 600ms inter-clip wait; guard scheduled advance against a cancelled collection, hidden document or reduced-motion preference.",
+      "reason": "The prior observer cancelled only while the engine was playing, so a settled clip's pending timer could start the next clip offscreen.",
+      "preserved": "Explicit collection playback, manual selection cancellation, finite clips and no automatic resume on return."
+    },
+    {
+      "change": "Report Returning to rest, At rest and Pose inspection accurately; append reduced motion to the current action.",
+      "reason": "The former reduced-motion status always said Still pose even after a deliberate Rest or timeline inspection.",
+      "preserved": "Status text changes only when its semantic message changes, not on every animation frame."
+    },
+    {
+      "change": "Keep Both as the starting view. On small screens, show a short Light/Dark enlargement hint, give lighting targets at least 44px height, and give single-theme stages a 280\u2013360px height using available viewport width.",
+      "reason": "Theme comparison stays discoverable while a deliberate single-theme choice has room for a larger actual figure. A default change is not justified by source geometry alone.",
+      "preserved": "The same character paths, numeric pose and anatomy in both themes. No expression-recognition claim follows from larger rendered bounds."
+    },
+    {
+      "change": "Move the mobile Feeling label above its navigation row and let the native selector use the width between the two 44px arrows. Allow mobile status text to wrap.",
+      "reason": "The prior label shared scarce width with the selector at 320px. The new row leaves more room for long feeling names and status at zoom.",
+      "preserved": "Native grouped selection, explicit label, Previous/Next wrapping and focus ownership."
+    },
+    {
+      "change": "Link The curiosity study within the studio's existing direction disclosure.",
+      "reason": "Connect the dedicated project-cue comparison without adding an unrelated scene or a second player to the studio."
+    }
+  ],
+  "skillApplication": {
+    "skill": "/Users/nag/.agents/skills/taste-skill/SKILL.md",
+    "applied": "Preserve one existing visual system, readable edges, visible focus, deliberate controls and reduced-motion behavior.",
+    "notApplied": "Marketing-site generation, palette dealing, one-section-per-screen layouts, sales copy, scenery and decorative motion would conflict with this operational review studio and its bounded change scope."
+  },
+  "engineerChecks": [
+    {
+      "check": "node --check brand/animation-v5/studio.js",
+      "result": "pass"
+    },
+    {
+      "check": "Source comparison against frozen before/animation-v5",
+      "result": "No character geometry, pose or motion engine changes in this package."
+    }
+  ],
+  "freshBrowserEvidence": "Collected by the root browser owner separately; this record does not claim native selection, AT speech, zoom, mobile figure size or live preference tests have passed.",
+  "requestedRegressionCoverage": [
+    "Space and arrows on a reading heading/body retain ordinary browser behavior without selecting or playing a feeling.",
+    "Actually open, navigate and commit a native selection; compare selected value, heading, status and active element.",
+    "Gallery activation focuses the heading and next Tab remains in player; Previous/Next wrap.",
+    "Pause/resume/rest, collection cancellation by manual selection, and leaving the viewport during the collection's inter-clip wait.",
+    "Live reduced-motion activation stops playback and collection; disabling it leaves a still; reduced-motion Rest and timeline statuses match the action.",
+    "Measure matched visible figure height for Both versus Light/Dark at 390px, inspect the longer selector at 320px, and verify zoom/reflow and bounded AT speech."
+  ],
+  "limits": [
+    "No browser was operated by this engineer; the root owns that shared surface.",
+    "No human usability study, emotional recognition result or comprehensive accessibility claim.",
+    "No score assigned, no deployment, no commit and no push."
+  ],
+  "workflowChanges": {
+    "source": "Nag requested that the entire team inspect the newly installed emilkowalski/skills collection and improve the workflow.",
+    "skillsCatalogue": "brand/reviews/2026-11-07-implementation/installed-skills.json",
+    "appliedSkills": [
+      "emil-design-eng",
+      "mobile-native",
+      "review-animations"
+    ],
+    "findingsArtifact": "brand/reviews/2026-11-07-implementation/implementation/interaction-skills.json",
+    "changes": [
+      "Before changing UI motion, classify its purpose, repetition and input context; keep control feedback separate from intentionally requested character content.",
+      "Use platform capability queries for hover and input size. Do not infer touch from viewport width or apply mobile baseline CSS without its causal justification.",
+      "Prefer subtraction first: remove animated background paint; retain short interruptible transform feedback with an explicit supplied curve and asymmetric press/release timing.",
+      "Preserve native controls, document scrolling, zoom, content selection and browser feedback unless a concrete replacement is present.",
+      "Record each observed source issue in a Before/After/Why table with exact changed properties; keep source checks, desktop emulation, physical-device observations and independent craft approval distinct.",
+      "After CSS changes, revise the UI freeze and rerun the affected capability, keyboard, reduced-motion and responsive checks. Do not promote untested device comfort to a verified result."
+    ],
+    "implementedSource": [
+      "brand/animation-v5/studio.css",
+      "brand/animation-v5/signature.css"
+    ],
+    "limits": "No browser or physical device was operated by this engineer. No mascot motion, character anatomy or sound was changed."
+  }
+}

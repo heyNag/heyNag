@@ -1,0 +1,24 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>V5 refinement evidence</title>
+<style>*{box-sizing:border-box}body{font:15px/1.5 system-ui;margin:0;background:#f1f1ef;color:#252923}main{padding:24px}h1{font-size:25px}h2{font-size:18px}.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}.cell{background:#eaf0dc;padding:12px;min-width:0}.night{background:#202b21;color:#edf2db}.art{height:280px}.art svg{width:100%;height:100%}.label{font-size:13px;margin:6px 0}.sizes{display:flex;align-items:end;gap:28px;padding:24px}.size{text-align:center}.size img{display:block;border-radius:50%;outline:1px solid #8a937b55}.row{margin-bottom:16px}.timeline{display:grid;grid-template-columns:repeat(6,1fr);gap:8px}.timeline .art{height:190px}.header{width:100%;height:auto;display:block}.all{display:grid;grid-template-columns:repeat(6,1fr);gap:8px}.all .art{height:180px}.pair{display:grid;grid-template-columns:1fr 1fr;gap:6px}.pair .art{height:170px}</style>
+<main id="main"></main>
+<script src="../before/character.js"></script><script src="../before/motion.js"></script><script>window.BeforeCharacter=HeyNagCharacter;window.BeforeMotion=HeyNagMotion;</script>
+<script src="../../../animation-v5/character.js"></script><script src="../../../animation-v5/motion.js"></script><script>
+const q=new URLSearchParams(location.search),page=q.get('page')||'identity',root=document.getElementById('main'),assets='../../../../assets/brand/';
+function el(tag,cls,parent,text){const e=document.createElement(tag);e.className=cls||'';if(text)e.textContent=text;(parent||root).append(e);return e}
+function art(parent,theme,pose,label,before=false,size){const c=el('div','cell '+(theme==='night'?'night':''),parent);el('div','label',c,label);const host=el('div','art',c);if(size){host.style.width=size+'px';host.style.height=size+'px'}const rig=new(before?BeforeCharacter:HeyNagCharacter)(host,{theme});rig.render(pose);return rig}
+if(page==='identity'){
+ el('h1','',root,'Existing anatomy / local night edge / new V5 applications');const g=el('div','grid');for(const theme of ['day','night'])for(const before of [true,false])art(g,theme,HeyNagMotion.neutral,(before?'Before':'Updated')+' / '+theme,before);
+ for(const theme of ['day','night']){el('h2','',root,'New head avatar / circular mask / '+theme);const row=el('div','sizes '+(theme==='night'?'night':'cell'));for(const size of [32,48,64,96,128,160]){const box=el('div','size',row);const im=el('img','',box);im.src=assets+'heynag-moth-avatar-v5-'+theme+'.png';im.width=im.height=size;el('div','label',box,size+'px')}}
+ for(const before of [true,false]){el('h2','',root,(before?'Before':'Updated')+' night full body / actual CSS sizes');const row=el('div','sizes night');for(const size of [96,128,160])art(row,'night',HeyNagMotion.neutral,size+'px',before,size)}
+ el('h2','',root,'V5 GitHub headers');for(const theme of ['light','dark']){const im=el('img','header row');im.src=assets+'header-v5-'+theme+'.png'}
+}else if(page==='poses'){
+ el('h1','',root,'Same tiny figure / mitten staging before and after');const g=el('div','grid');for(const id of ['thinking','focused','worried','grateful'])for(const before of [true,false]){const m=before?BeforeMotion:HeyNagMotion;art(g,'day',m.sample(id,m.clips[id].stillTime),id+' / '+(before?'before':'updated'),before)}
+}else if(page==='all'){
+ el('h1','',root,'Updated 24 held poses / same geometry in both themes');const g=el('div','all');for(const[id,c]of Object.entries(HeyNagMotion.clips)){const box=el('div','',g);el('div','label',box,c.label+' · '+c.stillTime+'ms');const p=el('div','pair',box);for(const theme of ['day','night'])art(p,theme,HeyNagMotion.sample(id,c.stillTime),'')}
+}else if(page==='transition'){
+ const from=q.get('from')||'sad',to=q.get('to')||'worried';el('h1','',root,from+' → '+to+' / exact engine poses, not video frames');for(const before of [true,false]){el('h2','',root,before?'Before':'Updated');const g=el('div','timeline');let now=0,cb=null;const m=before?BeforeMotion:HeyNagMotion;const engine=new m.Engine({scheduler:{now:()=>now,requestAnimationFrame:f=>(cb=f,1),cancelAnimationFrame:()=>cb=null}});engine.seek(from,m.clips[from].duration);engine.play(to);for(const ms of [0,100,200,300,380,500,650,800,970,1160,1500,2000]){while(now<ms){now=Math.min(ms,now+10);const f=cb;cb=null;if(f)f()}art(g,'day',engine.pose,ms+'ms',before)}engine.destroy()}
+}else if(page==='sequence'){
+ const id=q.get('id')||'thinking',theme=q.get('theme')||'day',times=id==='excited'?[380,550,720,800,850,900,950,1000,1060,1160,1250,1410]:id==='thinking'?[700,1200,1400,1550,1730,1920,2200,2400,2590,2800,3200,4100]:[0,160,320,520,760,960,1160,1540,2000,2400,2800,3000];el('h1','',root,id+' / '+theme+' / exact source poses');const g=el('div','timeline');for(const ms of times)art(g,theme,HeyNagMotion.sample(id,ms),ms+'ms');
+}
+window.auditReady=true;
+</script></html>

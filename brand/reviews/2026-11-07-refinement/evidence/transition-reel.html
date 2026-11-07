@@ -1,0 +1,21 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><title>heyNag transition comparison</title><style>body{margin:0;background:#f1f1ef;font-family:system-ui}canvas{width:100%;max-width:1280px;display:block;margin:auto}</style><canvas id="film" width="1280" height="800"></canvas>
+<script src="../before/character.js"></script><script src="../before/motion.js"></script><script>window.BeforeCharacter=HeyNagCharacter;window.BeforeMotion=HeyNagMotion;</script><script src="../../../animation-v5/character.js"></script><script src="../../../animation-v5/motion.js"></script><script>
+const cases=[['sad','worried'],['worried','sad'],['sad','angry'],['scared','relieved'],['angry','scared'],['scared','angry'],['thinking','confused'],['thinking','thinking'],[null,'excited'],[null,'excited','interrupt']];
+const api=window.TransitionReel={status:'idle',index:0,blob:null,frames:0};
+api.start=async()=>{
+ const canvas=document.querySelector('canvas'),ctx=canvas.getContext('2d'),stream=canvas.captureStream(30),chunks=[];
+ const recorder=new MediaRecorder(stream,{mimeType:'video/webm;codecs=vp9',videoBitsPerSecond:5000000});
+ recorder.ondataavailable=e=>{if(e.data.size)chunks.push(e.data)};
+ const rigs=[BeforeCharacter,HeyNagCharacter].map(C=>new C(document.createElement('div'),{theme:'day'}));
+ const image=svg=>new Promise((resolve,reject)=>{const u=URL.createObjectURL(new Blob([svg.outerHTML],{type:'image/svg+xml'})),i=new Image();i.onload=()=>{URL.revokeObjectURL(u);resolve(i)};i.onerror=reject;i.src=u});
+ let current=-1,now=0,engines=[],callbacks=[],started=performance.now(),last=-100,busy=false,raf;
+ function init(index){engines.forEach(e=>e.destroy());callbacks=[];now=0;const[from,to]=cases[index];engines=[BeforeMotion,HeyNagMotion].map((M,i)=>{const e=new M.Engine({scheduler:{now:()=>now,requestAnimationFrame:f=>(callbacks[i]=f,1),cancelAnimationFrame:()=>callbacks[i]=null}});if(from)e.seek(from,M.clips[from].duration);e.play(to);return e})}
+ function tick(target){while(now<target){const prev=now;now=Math.min(target,now+1000/120);callbacks.forEach((f,i)=>{callbacks[i]=null;if(f)f()});if(cases[current][2]){for(const[ms,id]of[[850,'angry'],[1040,'worried']])if(prev<ms&&now>=ms)engines.forEach(e=>e.play(id));}}}
+ const done=new Promise(resolve=>recorder.onstop=()=>{cancelAnimationFrame(raf);engines.forEach(e=>e.destroy());stream.getTracks().forEach(t=>t.stop());api.blob=new Blob(chunks,{type:recorder.mimeType});api.status='ready';api.stats={frames:api.frames,seconds:(performance.now()-started)/1000,cases:cases.length};resolve(api.stats)});
+ async function draw(ts){raf=requestAnimationFrame(draw);if(busy||ts-last<31)return;busy=true;last=ts;try{const elapsed=ts-started,index=Math.floor(elapsed/4200);if(index>=cases.length){recorder.stop();return}if(index!==current){current=index;api.index=index;init(index)}tick(elapsed-index*4200);ctx.fillStyle='#f1f1ef';ctx.fillRect(0,0,1280,800);ctx.fillStyle='#252923';ctx.font='26px system-ui';ctx.fillText('heyNag · '+(cases[index][0]||'Rest')+' → '+cases[index][1]+(cases[index][2]?' → angry → worried':''),30,42);ctx.font='16px system-ui';ctx.fillText('Before',320,76);ctx.fillText('Updated',940,76);ctx.fillText((now/1000).toFixed(2)+'s · '+(index+1)+' / '+cases.length,30,778);
+ const imgs=await Promise.all(rigs.map((r,i)=>{r.render(engines[i].pose);return image(r.svg)}));
+ for(let i=0;i<2;i++){const x=i*640;ctx.fillStyle='#eaf0dc';ctx.fillRect(x+12,90,616,650);ctx.drawImage(imgs[i],x+50,120,540,557);ctx.font='13px system-ui';ctx.fillStyle='#566647';ctx.fillText('Daylight · identical numeric poses in night rig',x+30,720)}api.frames++;
+ }catch(e){api.error=String(e);recorder.stop()}finally{busy=false}}
+ api.status='recording';recorder.start(1000);await draw(started);return done;
+};
+</script><script src="offline-frames.js"></script></html>

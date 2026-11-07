@@ -1,0 +1,20 @@
+{
+  "discipline": "brand",
+  "state": "Both reviewers explicitly confirmed the same scoped recommendation.",
+  "recommendation": "Keep the warm owner-selected signature and real project bridge. Accept the improved hand and phone attention; deepen verified authorship later and avoid audience-impact claims.",
+  "discussionRecords": [
+    "pairs/brand-a-discussion.json",
+    "pairs/brand-b-discussion.json"
+  ],
+  "independentReviews": [
+    "independent/brand-a.json",
+    "independent/brand-b.json"
+  ],
+  "explicitConfirmations": [
+    "team-votes/brand-a.json",
+    "team-votes/brand-b.json"
+  ],
+  "proposal": "team-proposal-v1.json",
+  "proposalSha256": "db064ee23559e695e350ddc47e86c77380776554e6bb3a5a43eeadd8b18bd5f3",
+  "scorePolicy": "Individual scores remain separate; acceptance does not imply a 9/10 rating."
+}

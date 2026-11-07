@@ -1,0 +1,42 @@
+{
+  "owner": "Interaction/staging engineer",
+  "status": "Proposed bounded implementation; rendered benefit is not yet established",
+  "baseline": "brand/reviews/2026-11-07-gesture-staging/before/animation-v5",
+  "purpose": "Spatial consistency: make the authored investigation attend to its actual question after the same scene stacks on a phone.",
+  "cause": "The phone heading is above and only slightly right of the neutral eye center, while authored reading gaze remains to the right and includes positive/downward gazeY.",
+  "implementation": [
+    "Add a pure staging helper loaded only by signature.html. Measure neutral eye midpoint from the SVG viewBox fit and the question heading rectangle, once initially and on ResizeObserver/window/font layout changes. Do not read layout during character frames.",
+    "Derive an upper-target influence continuously from the measured direction, not a phone/user-agent branch. Apply only to curious-investigate and curious-wry, through their unchanged150\u20132350ms attention window. The24-expression studio and original curious control are untouched.",
+    "Use measured gaze bearing with a reduced authored scan; preserve decisive upward reading when the question is above. Add modest head support after gaze: reduce lateral headX/headR and use headY*.25-3 for the strongly-above case. Body, limbs, glasses and all anatomy stay authored.",
+    "Adjustment fades fully to zero by2350ms, preserving the exact warm visitor return and offering gesture. Both themes use the same mapped pose; theme change does not recalculate or reset staging.",
+    "Cache and smoothly retarget layout direction during an existing playback using the existing380ms pose-transition scale. Paused/inspection frames stay frozen until the next explicit playback/inspection action. Reduced motion never starts a new animation.",
+    "Preserve the current scene order and300px phone host. Do not compact the intro absent rendered evidence of a separate benefit. Format signature.js and add focused pure mapping tests."
+  ],
+  "coordination": {
+    "motionEngineer": "Attention times and gaze keyframes remain stable; separate hand/mitten refinements occur in1900\u20132720ms without changing the2350 return.",
+    "actingAdvisor": "Agrees measured bearing, bounded head support, upward scan and zero correction by2350; requests phone frames330/790/1190/1900/2350/2720."
+  },
+  "skillsReviewed": [
+    "emil-design-eng",
+    "mobile-native",
+    "review-animations",
+    "review-animations/STANDARDS.md",
+    "animate",
+    "choreograph"
+  ],
+  "notApplicable": [
+    "UI feedback duration does not shorten the intentional character performance.",
+    "Keyboard Play remains a valid explicit request for character motion.",
+    "No new motion library or compositor rewrite is needed for a pure SVG pose mapping."
+  ],
+  "checks": [
+    "Directional intent at actual reference layouts",
+    "Exact unmodified pose outside attention window and in original curious control",
+    "Only gaze/head keys may differ",
+    "Theme-independent numeric output",
+    "Continuous mid-play direction retargeting, including repeated resize",
+    "No layout reads in per-frame mapper",
+    "Reduced motion and paused frames receive no autonomous animation"
+  ],
+  "evidenceOwner": "Root browser owner; source tests are reliability checks, not visual approval."
+}

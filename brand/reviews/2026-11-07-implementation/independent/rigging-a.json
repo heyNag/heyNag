@@ -1,0 +1,92 @@
+{
+  "reviewer": "Technical character animator and rigger A — articulation and contact",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "scope": "Implemented native V5 rig and 27 authored performances: constrained articulation, sampled contact/overlap quality, interpolation and interruption engineering. Character and motion SHA-256 match review-source-v2.json. This is an implemented assessment, not approval of an unbuilt plan or a score for subjective uninterrupted playback.",
+  "independence": "Saved before reading the partner's new implementation review or score. Historical own-role independent review and pair resolution were read for continuity.",
+  "evidenceActuallyInspected": [
+    "AGENTS.md; brand/team.json role/lens; implementation reviewer-instructions.txt, brief.json, owner-preference.json, full installed-skills.json catalog and review-source-v1/v2.json; own expanded-panel independent/rigging-a.json and historical pair resolution.",
+    "Full current character.js and motion.js, including the 48-unit wrist constraints, nested feet/body/head transforms, authored hop tangents, family entry inheritance, bounded velocity carry and epoch cancellation. Source hashes independently checked against v2.",
+    "Full motion.test.mjs and evidence/motion-tests.txt: 15 passing recorded tests. Read assertions and recorded output; did not redundantly rerun them. Tests cover numeric bounds, termination, reduced motion, replay, hop contact/descent, selected interruptions and preserved emotional intent.",
+    "evidence/geometry.json: 567 identical-input comparisons of frozen/day/night SVG geometry, no recorded mismatches; paint and filters deliberately excluded. This establishes matched geometry, not perceptual contact quality.",
+    "Viewed actual PNGs using view_image: poses.png, excited.png, curious-investigate.png, sizes-final.png and all-final.png.",
+    "Viewed decoded film sheets using view_image: decoded-day-4.png, decoded-night-4.png, decoded-day-5.png, decoded-day-8.png, decoded-night-9.png and decoded-day-10.png. These show hop/contact, investigation/sharing, sad-to-worried, airborne-to-curious and thoughtful-to-happy samples.",
+    "Read comparison-export.json metadata: 2664 output frames at 30fps, 88.8 seconds, deterministic real-engine sampling at 120Hz. Did not watch uninterrupted normal-speed motion; neither metadata nor contact sheets prove live smoothness."
+  ],
+  "score": {
+    "value": 8.7,
+    "outOf": 10,
+    "meaning": "Strong implemented constrained-rig craft with credible sampled contact and well-defended interruption behavior. The number combines source/test evidence with actual visual samples. Residual hand/ruff legibility and incomplete temporal/device verification keep it below an exceptional fully demonstrated result; it is not a frame-rate or audience-response score."
+  },
+  "strengths": [
+    "Tiny anatomy remains coherent across the inspected 24-pose day/night sheet: large soft head, compact body, attached stub feet, short mittens, unequal paddle antennae and four layered wings. I found no sampled detached limb, broken antenna stem or need to enlarge anatomy.",
+    "The hop has a technically purposeful contact order: descent continues through the 900ms wing reversal, body reaches ground at 1060ms, head follows through at 1140ms and recovers while the body remains planted. The authored-pose sheet supports that order visually; wings retain independent articulation.",
+    "Thinking's chin contact and the other raised mittens remain reachable through a short connected arm. Feet live beneath the same root translation as the body, so the hop carries them with the character while grounded body rotation does not drag their contact baseline.",
+    "Interruption begins from the rendered pose, carries bounded velocity and cancels stale scheduled work. Family inheritance preserves facial/postural intention while excluding airborne height and transient effects. Selected decoded transitions retain the compact silhouette instead of resetting through an unrelated full-body stance.",
+    "The investigation sequence uses a legible cause order in the inspected frames: antenna/gaze precede reading, consideration is held, and return toward the visitor precedes the offering mitten. Reuse is achieved without stretching the rig or adding anatomy."
+  ],
+  "deductions": [
+    {
+      "id": "RIGA-01",
+      "kind": "visible craft limitation",
+      "severity": "minor",
+      "confidence": "high for the viewed stills; medium for its significance in motion",
+      "finding": "Several under-ruff gestures remain a compact cluster of cream shapes and dark contours. Thinking, grateful, shy and worried have less distinct hand/contact silhouettes than their labels imply; the offered mitten in Investigate & share is also subtle at 96–128px.",
+      "basis": "Viewed poses.png, all-final.png, sizes-final.png and curious-investigate.png; hand staging in motion.js at lines 117, 221, 244, 348 and 418; front-of-head mitten layering in character.js at line 209.",
+      "implication": "This is a staging/readability deduction, not a disconnected-joint defect or evidence that anatomy must be enlarged. Pose spacing and the display size are the first variables to examine."
+    },
+    {
+      "id": "RIGA-02",
+      "kind": "validation limit",
+      "severity": "moderate confidence ceiling, not a reproduced defect",
+      "confidence": "high",
+      "finding": "I cannot confirm normal-speed landing weight, velocity continuity as perceived, or busy-page/phone rendering smoothness from sampled PNGs and a deterministic export. Most channels deliberately stop at authored boundaries; whether every such stop reads as intentional remains a temporal review question.",
+      "basis": "motion.js smoothstep interpolation at line 26, explicit hop tangents, main-thread Engine frame loop and comparison-export.json metadata. No continuous playback or real-device performance trace inspected.",
+      "implication": "Do not convert the passing tests or 30fps file into a claim of fully verified motion feel. No source change is justified merely by this limit."
+    }
+  ],
+  "improvementCriteria": [
+    "Review the exact current hop from anticipation through 1410ms, plus airborne-to-signature and repeated mid-flight switches, continuously at normal speed and slowed speed. Change a curve only when that review identifies a specific unwanted halt, overshoot, slide or contact pop.",
+    "Compare thinking/grateful/shy/worried and the offered mitten at intended 96px, 128px and larger website sizes. Try small allowed wrist position/rotation or head/hand separation changes only if they visibly clarify contact without longer arms, bigger hands, lost ruff, or a larger body. Preserve the baseline for comparison.",
+    "For website reuse, measure current SVG updates and the night filter on a representative real phone while the page is busy. If missed frames occur, identify the expensive stage before optimizing; preserve anatomical geometry and rerun affected numeric/geometry checks after any actual change."
+  ],
+  "confidence": {
+    "anatomyAndSourceIntegrity": "high",
+    "sampledContactAndOverlap": "medium-high",
+    "testedInterruptionEngineering": "high for covered scenarios, not exhaustive all-pairs proof",
+    "continuousMotionFeel": "not verified",
+    "realDevicePerformance": "not verified"
+  },
+  "implementedAssessment": "Retain the current rig and authored contact order. The implementation supports local continuation and the selected Investigate & share direction. No high-impact rigging defect was found in this inspection; the hand/ruff staging deduction and temporal/device limits remain explicit. Approval of deployment, human comprehension or every transition is outside this record.",
+  "objections": [],
+  "limits": [
+    "Root owns browser evidence; I did not open or operate a browser.",
+    "No uninterrupted normal-speed video observation, real phone session, busy-page trace or exhaustive transition-pair inspection.",
+    "No new human comprehension, attachment or recall evidence; Nag's Investigate & share choice is an owner preference only.",
+    "The source/test and PNG evidence support the scoped score; they do not certify every visual effect or website interaction outside articulation/contact."
+  ],
+  "skillsReviewed": {
+    "fullCatalog": ["emil-design-eng", "animate", "animate-expo", "review-animations", "improve-animations", "find-animation-opportunities", "remove-animations", "choreograph", "animation-performance", "animation-vocabulary", "apple-design", "write-swift", "pick-ui-library", "prototype", "mobile-native", "break-ui", "ask-sonner"],
+    "fullSkillFiles": [
+      "/Users/nag/.config/skillshare/skills/review-animations/SKILL.md",
+      "/Users/nag/.config/skillshare/skills/animate/SKILL.md",
+      "/Users/nag/.config/skillshare/skills/animation-performance/SKILL.md",
+      "/Users/nag/.config/skillshare/skills/choreograph/SKILL.md"
+    ]
+  },
+  "workflowChanges": [
+    "Use review-animations to separate motion purpose, physical origin, interruption and reduced-motion checks; do not let a deterministic test pass stand in for a feel judgment.",
+    "Before changing character motion, map the lead and supporting parts and their meaningful events: antenna notice, gaze response, feet contact, head recovery and offered-hand arrival. Use choreograph's together/overlap/sequence distinctions to keep cause and effect explicit.",
+    "Use animate's current-state retargeting and cheapest-sufficient-tool reasoning for surrounding website interactions. Keep the character engine when it supplies genuine channel control, rather than adding a motion dependency for its own sake.",
+    "Use animation-performance's driver/property inventory and cause-first diagnosis for future web integration. Record code-verified facts separately from measured real-device performance; add will-change only for a demonstrated need.",
+    "Keep actual-size contact silhouettes, exact-time frames, normal-speed observation and target-device traces as distinct review evidence. Pair discussion must retain this practical workflow and any remaining individual score."
+  ],
+  "rulesNotApplicableWithReason": [
+    "The skills' sub-300ms UI budgets and no-keyboard-animation rule apply to interface response, not an explicitly requested authored character performance. The controls must remain responsive; the acting may take seconds.",
+    "The transform/opacity preference does not authorize flattening articulated paths, removing fingers/wing layers, or replacing antenna/face deformation. SVG path updates have a real expressive purpose; optimize only a measured bottleneck while retaining correctness.",
+    "A resting or reduced-motion character may be completely still. The skill preference to retain gentle opacity transitions is not a requirement to add unnecessary motion to this finite character system.",
+    "The read-only review assignment supersedes construction/output-format instructions from animate and choreograph. This record uses the required independent-review JSON and makes no source edits.",
+    "Native Swift/Expo implementation, toast setup, library selection, generated UI alternatives and stress-data toggles are outside this articulation review. Their catalog entries were considered; they were not invoked as implementation work.",
+    "No developer-machine smoothness claim is made. Native-phone testing requirements remain unmet and cannot be replaced by desktop screenshots or export cadence."
+  ]
+}

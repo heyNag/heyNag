@@ -1,0 +1,237 @@
+{
+  "reviewer": "Performance B — timing, weight and emotional clarity; comic economy and character appeal counterpoint",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "scope": "The updated LOCAL V5 foundation through the same full performance lens as the prior final vote: visual acting construction, emotional pose relationships, authored beat structure and sampled transitions across the retained24-emotion/3-study system. This round directly re-examines changed hand families and composition-aware curiosity; prior unchanged character/acting judgments remain in scope. No scoring of unobserved continuous comic timing, felt weight, real-device smoothness or human outcomes.",
+  "sourceManifest": {
+    "file": "review-source-v1.json",
+    "sha256": "d5abc24f90f9539bfddb0223da42392fb31c9321ab7c962aa98c893ff3789e0e",
+    "verified": "Computed exact manifest SHA256 and all12 source-file hashes; no mismatches. character.js hash remains b93400daeaa43af99e4b8c30942b80d4d69aba545a808863dd92ebe1830a97fa."
+  },
+  "independence": "Saved before reading any new Performance A review or score in this gesture-staging round. Previous implementation independent, pair and final vote remain the continuity record.",
+  "previousScoreAndScope": {
+    "record": "../2026-11-07-implementation/team-votes/performance-b.json",
+    "value": 8.4,
+    "outOf": 10,
+    "scope": "Holistic craft judgment of visual acting construction, pose relationships, authored beat structure and sampled transitions in the full local foundation. No claim about continuous feel, native hardware or audience outcomes.",
+    "previousNamedDeductions": "Sharing specificity/96–128px inner contour density; subtle optional wry afterthought; isolated mischievous narrative limitation. Final vote also retained the phone above-question/rightward-gaze spatial mismatch.",
+    "scopeContinuity": "Same full-foundation lens. I am not replacing the previous judgment with a narrow delta-only score. Unchanged optional-study and static-fallback limitations are retained rather than dropped to approach9."
+  },
+  "score": {
+    "value": 8.8,
+    "outOf": 10,
+    "meaning": "Stronger implemented acting/staging craft within the same scope. The outward cup, lowered quiet hands and composition-aware upward reading address named prior weaknesses without changing the character. Remaining tiny-scale specificity and subtle optional-story distinctions keep this below9. This holistic number is not an arithmetic test-pass score or continuous-motion certification."
+  },
+  "evidenceActuallyInspected": {
+    "instructionsAndContinuity": [
+      "AGENTS.md (current)",
+      "brand/team.json performance roster/lens",
+      "brand/workflow.json",
+      "reviewer-instructions.txt",
+      "brief.json",
+      "review-source-v1.json",
+      "own prior implementation independent/performance-b.json and pairs/performance-b-discussion.json retained in this conversation",
+      "own prior final team-votes/performance-b.json reread this round"
+    ],
+    "currentSource": [
+      "brand/animation-v5/staging.js full",
+      "brand/animation-v5/signature.js full",
+      "current motion.js changes directly compared with before/animation-v5/motion.js; prior full relevant catalogue/engine source read retained",
+      "implementation/hand-changes.json full",
+      "implementation/eyeline-changes.json full"
+    ],
+    "actualPNGsViewedWithViewImage": [
+      "evidence/hands-day.png",
+      "evidence/hands-night.png",
+      "evidence/sizes-curious-investigate.png",
+      "evidence/sizes-thinking.png",
+      "evidence/sizes-grateful.png",
+      "evidence/sizes-shy.png",
+      "evidence/sizes-worried.png",
+      "evidence/offer-sequence-day.png",
+      "evidence/offer-sequence-night.png",
+      "evidence/baseline-attention-390-day.png",
+      "evidence/attention-390-day-330.png",
+      "evidence/attention-390-day-790.png",
+      "evidence/attention-390-day-1190.png",
+      "evidence/attention-390-day-1900.png",
+      "evidence/attention-390-day-2350.png",
+      "evidence/attention-390-day-2720.png",
+      "evidence/attention-390-night-330.png",
+      "evidence/attention-390-night-790.png",
+      "evidence/attention-390-night-1190.png",
+      "evidence/attention-390-night-1900.png",
+      "evidence/attention-390-night-2350.png",
+      "evidence/attention-390-night-2720.png",
+      "evidence/attention-320-day-790.png",
+      "evidence/attention-320-night-790.png",
+      "evidence/attention-1440-day-790.png",
+      "evidence/attention-1440-night-790.png"
+    ],
+    "checksRead": [
+      "evidence/all-tests.txt:23 passing tests,0 failures; did not personally rerun tests",
+      "evidence/browser-checks.json summarized directly: six widths320/390/650/651/768/1440,18 sampled cases each, no false themeParity/returnedExactly/controlUnchanged checks; paused resize frozen, replay first frame exact, reduced motion not playing",
+      "Exact curious-investigate gaze samples read at330/790/1190/1900/2350/2720 for320/390/1440; phone scan stays upward and visitor return is exact by2350"
+    ],
+    "filmEvidence": "Read full-reel-export.json and comparison-export.json. ffprobe of assets/brand/preview/heynag-v5-gesture-emotions.mp4 reports1280×800,30/1fps,2655frames,88.5seconds. No continuous film watched; comparison export metadata alone is not film perception.",
+    "notInspected": "No browser operated; no new partner review read; no physical device or spoken assistive-technology session; no new audience result. Current wry afterthought was inspected as a source change and through shared opening/offer frames, not freshly watched continuously."
+  },
+  "strengths": [
+    {
+      "claim": "The invitation hand now has a clearer upward cup and reads less like the previous thumb-like acknowledgement.",
+      "basis": "hands-day/night.png and sizes-curious-investigate.png show the matched before/current difference. The revised407,458,−26° pose shifts the contour outward and below the ruff, while its original mitten path and40.52-unit wrist distance remain within the48-unit rig.",
+      "significance": "This directly improves the specific offering vocabulary identified in PB-I1; the improvement is clearest at160/240px and the contextual300px phone host. It is a useful gain without larger hands or longer arms."
+    },
+    {
+      "claim": "The offer follows the visitor return as one readable action, with a quiet partner hand.",
+      "basis": "offer-sequence-day/night.png at1900/2130/2350/2500/2620/2720/3050/3460/4100 and motion.js show the right hand tucked at382,470,+10° by2350, turning outward/up into407,458,−26° by2720, then holding. The left hand stays quiet.",
+      "significance": "The hierarchy is economical: finish considering, return to the viewer, then offer. No extra wave or second presentation gesture was added. The source/samples establish progression, not how the wrist turn feels continuously."
+    },
+    {
+      "claim": "Lowering the free thinking mitten strengthens a single dominant chin action; focused hands are less crowded.",
+      "basis": "hands-day/night.png and sizes-thinking.png show more separation between the lowered free hand and the ruff while the right hand still meets the chin. The diff preserves right-hand/head nod frames and the toe tap. Focused now retains two lower, separate ready hands in the matched sheet.",
+      "significance": "This improves acting hierarchy instead of treating all contact as a defect or making both hands compete near the face."
+    },
+    {
+      "claim": "The grateful clasp is cleaner while remaining a deliberate contact; worried keeps its diagonal relation.",
+      "basis": "hands-day/night.png, sizes-grateful.png and sizes-worried.png show the gathered hands lower on the body. Grateful has two readable lobes meeting at a central seam rather than a busy ruff band; worried retains one hand above the lower one. Shy retains a slightly asymmetric separate gather.",
+      "significance": "The variants preserve their distinct intentions. The shy adjustment is modest and I do not credit it as a wholesale expression improvement."
+    },
+    {
+      "claim": "The phone attention now supports the question’s actual above-head location throughout the read.",
+      "basis": "baseline-attention-390-day.png versus current790ms shows less lateral/downward head roll. All330/790/1190/1900/2350/2720 screenshots were viewed in both themes, with320/1440 comparison endpoints. staging.js maps only five attention channels using cached heading bearing; measured390px gazeY is about−4.96 at330/790,−3.69 at1190 and−4.20 at1900, returning exactly to0 by2350.",
+      "significance": "The old fixed screen-right/downward phone mismatch is addressed at the level of authored direction and inspected composition. The desktop retains its lateral relationship. This does not prove that an unprimed viewer infers reading from these small oval-eye shifts."
+    },
+    {
+      "claim": "The correction is subordinate to the existing performance and preserves matched themes and intentional stillness.",
+      "basis": "Unchanged character.js hash; staging.js ends its influence by2350, does not alter limbs/wings/expression shape, and applies one pose independent of theme. signature.js measures layout outside frame rendering, carries replay correction, and keeps a paused pose frozen during resize. The23-test report and browser records support these boundaries.",
+      "significance": "The local study retains tiny anatomy, finite acting, reduced-motion stills and user-controlled replay. It gains composition awareness without a new autonomous gaze loop."
+    }
+  ],
+  "deductions": [
+    {
+      "id": "PB-G1",
+      "severity": "minor residual craft limitation",
+      "type": "observed actual-size visual specificity",
+      "confidence": "medium-high",
+      "claim": "At96–128px the offer and inner hand relationships remain small shorthand rather than equally explicit actions.",
+      "basis": "sizes-curious-investigate/thinking/grateful/shy/worried.png show clearer larger contours, but at96px the glasses/face/overall wings still dominate. The new cup is a small notch beside the wing; the supporting thinking hand still shares a dense region with chin/ruff. The previous PB-I1 is reduced, not erased.",
+      "response": "Use the improved larger signature staging for a specific invitation. If a small placement needs that meaning independently, compare pose/timing/context at its actual size; keep tiny anatomy and do not infer that reach bounds alone guarantee legibility."
+    },
+    {
+      "id": "PB-G2",
+      "severity": "minor retained craft limitation",
+      "type": "optional-study distinction, unchanged prior issue",
+      "confidence": "medium",
+      "claim": "The wry afterthought remains a very restrained difference from the warm sharing hold.",
+      "basis": "The current motion.js diff retains the same modest brow/eye/head afterthought at3360–3520 and merely adapts its hand to the new cup (6 units lower,7° wrist relaxation). The preceding independent rendered comparison established how subtle that facial distinction is. This round provides no continuous or unprimed evidence that would retire that concern.",
+      "response": "Keep it as an optional study with Investigate & share as the owner-selected lead. Before promoting it, compare the intended extra thought at actual size without labels. No enlargement or stronger sarcasm is required merely to raise the score."
+    },
+    {
+      "id": "PB-G3",
+      "severity": "minor retained representation limit",
+      "type": "static-story specificity; not a drawing defect",
+      "confidence": "medium",
+      "claim": "The isolated mischievous still still conveys knowing/wink affect more securely than the full pretend-sleep joke.",
+      "basis": "The present motion.js diff leaves mischievous and one-peek unchanged. My prior independently inspected all-final and decoded day/night sheets support this retained limitation. A single frame lacks the prior false-sleep setup; this does not make the drawing incorrect.",
+      "response": "Retain the useful still and evaluate it for broad affect separately from the clip’s causal joke. Do not demand complete temporal-story recovery from one frame."
+    }
+  ],
+  "improvementCriteria": [
+    "At the actual intended small placements, the invitation and high/low hand roles should communicate their intended useful difference with less reliance on labels; retain the current form if stronger posing sacrifices innocence.",
+    "Inspect silent continuous playback of the2350–2720 offering turn and the1900–2350 composition-correction release, then scrub only a named unclear moment. Distinguish a graceful turn from an unintended wrist flick through real playback evidence, not a source hypothesis.",
+    "Review the full optional wry beat in context and test its extra thought separately from the shared investigation. Unchanged subtlety does not become solved because the lead’s hand improved.",
+    "Collect unprimed descriptions of what was noticed and what changed after the read, without performance labels or explanatory text. These outcomes remain unscored until measured.",
+    "Validate actual-phone exposure, real-time frame delivery and interaction paths separately; desktop viewport captures and exact exports do not establish them."
+  ],
+  "confidence": {
+    "implementedPoseAndDirectionChanges": "high",
+    "renderedLargeScaleActingClarity": "medium-high",
+    "smallScaleSemanticSpecificity": "medium",
+    "continuousRhythmWeightAndComicPayoff": "not assessed",
+    "humanComprehension": "not measured"
+  },
+  "implementedAssessment": {
+    "recommendation": "Support the updated local foundation and the owner-selected warm lead, with named nonblocking limits. No concrete source or drawing defect found that requires blocking this round before pair review.",
+    "priorConcernDisposition": {
+      "invitation": "Meaningfully improved by the outward cup and separation; residual small-scale specificity remains.",
+      "phoneEyeline": "Prior fixed horizontal/downward reading mismatch is addressed in source and inspected phone frames; first-view interpretation remains unmeasured.",
+      "handHierarchy": "Improved by lower quiet hands and preserved meaningful contact.",
+      "optionalWryAndStaticMischief": "Retained limitations rather than silently excluded from the full-foundation score."
+    },
+    "scoreChangeReason": "8.4→8.8 reflects visible evidence-led gains to the two central prior concerns while retaining unchanged deductions. It is not a concession to the target9.",
+    "pending": "Partner challenge and explicit vote on final frozen proposal; this independent support is not all18 consensus."
+  },
+  "objections": [],
+  "limits": [
+    "I inspected PNGs, source differences, checks and film metadata; I did not perceive continuous normal-speed motion. I do not call the wrist turn flicky or smooth without that evidence.",
+    "Numbers describing upward gaze and exact returns establish authored direction and continuity only, not psychological attention or readability to unfamiliar viewers.",
+    "The styling and layout are unchanged. Taller portrait composition and first-viewport exposure constraints from the prior final foundation remain; the new eyeline does not remove scrolling.",
+    "This is an above/right-question composition correction, not approval of a general gaze tracker for arbitrary future layouts.",
+    "The23 passing tests and browser records were read, not rerun by this reviewer. They do not establish physical-phone/GPU performance, all intermediate rendered contacts, native OS menu commit or spoken screen-reader output.",
+    "The prior optional wry and static-mischief findings remain based partly on earlier directly viewed artwork plus current source continuity, rather than being newly validated by human response.",
+    "No source edit, browser operation, publication or deployment was performed. No new partner score was seen before saving this record."
+  ],
+  "skillsApplied": {
+    "priorCatalogIntake": "All17 installed Emil skill descriptions were read in the prior independent round; actual intake is recorded in ../2026-11-07-implementation/independent/performance-b.json. Current brand/workflow.json routing was read.",
+    "fullSkillsAlreadyReadAndApplied": [
+      "/Users/nag/.config/skillshare/skills/choreograph/SKILL.md",
+      "/Users/nag/.config/skillshare/skills/review-animations/SKILL.md",
+      "/Users/nag/.config/skillshare/skills/animation-performance/SKILL.md"
+    ],
+    "newFullSkillsRead": [],
+    "application": "Reused the already read skills without falsely counting catalog discovery as full reading. General site-taste and framework implementation skills add no necessary instruction to this bounded performance review."
+  },
+  "workflowChanges": [
+    {
+      "skill": "choreograph",
+      "appliedNow": "Review the whole causal chain as attention→consideration→visitor return→offer. Explicitly check the five-channel composition correction is gone by2350 before the offering hand arrives at2720, rather than judging the final palm in isolation."
+    },
+    {
+      "skill": "choreograph",
+      "appliedNow": "Assign one high acting hand and a quiet supporting hand. Preserve purposeful chin/clasp contact; seek contour hierarchy and separation from the ruff rather than separating every part indiscriminately."
+    },
+    {
+      "skill": "review-animations",
+      "appliedNow": "Compare matched baseline/current frames at actual sizes in both themes. Retire only the part of a prior deduction that the evidence addresses, and keep static-story limits distinct from drawing defects and playback questions."
+    },
+    {
+      "skill": "animation-performance",
+      "appliedNow": "Audit the new composition mapper for cached layout, no per-frame DOM reads and no independent timer, then use actual runtime evidence for any optimization claim. Do not trade the drawing for a compositor-only prescription."
+    },
+    {
+      "skill": "future pair and engineering workflow",
+      "appliedNow": "Make the breakpoint-specific attention sequence an explicit review artifact alongside the hand sequence. Track raw and displayed pose at replay/resize boundaries so numeric engine continuity cannot hide a rendered correction snap."
+    }
+  ],
+  "rulesNotApplicableWithReason": [
+    {
+      "rule": "Sub300ms UI budget for the full character sequence",
+      "reason": "The requested thought sequence and deliberate return/offer are content. Keep brief control feedback separate from character anticipation and hold durations."
+    },
+    {
+      "rule": "Uniform timing for all animated parts",
+      "reason": "Antenna/gaze/head and hand support carry different causal roles; the current staged attention and delayed offer would lose intention if forced simultaneous."
+    },
+    {
+      "rule": "Only transform/opacity irrespective of drawing fidelity",
+      "reason": "Existing SVG paths and facial articulation preserve the approved anatomy; cached composition work is the appropriate performance boundary here. Profile measured costs before changing expression."
+    },
+    {
+      "rule": "No animation after keyboard activation",
+      "reason": "Keyboard Play must play the same requested content; avoid unnecessary control decoration, not access to the performance."
+    },
+    {
+      "rule": "Reduced motion must contain fades",
+      "reason": "The existing still pose is a complete valid alternative; a new tween would weaken rather than improve that contract."
+    },
+    {
+      "rule": "Delete uncertain acting or forbid experiments absent a proven failure",
+      "reason": "Unseen continuous feel calls for scoped claims and targeted evidence. Bounded reversible exploration is authorized; adoption needs a named benefit and preservation of tiny anatomy."
+    },
+    {
+      "rule": "Read or execute every installed skill on every review",
+      "reason": "The17 catalog entries and three relevant full skills are already read in this conversation. Native-framework, toast, library-choice and broad website taste workflows are not needed for this independent character assessment."
+    }
+  ]
+}

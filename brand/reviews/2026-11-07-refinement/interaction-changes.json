@@ -1,0 +1,57 @@
+{
+  "role": "Interaction implementation",
+  "scope": "Repair IX-01 gallery keyboard navigation and IX-03 local emotion selection without changing the character or the visual library.",
+  "filesChanged": [
+    "brand/animation-v5/index.html",
+    "brand/animation-v5/studio.js",
+    "brand/animation-v5/studio.css"
+  ],
+  "changes": [
+    {
+      "id": "IX-01",
+      "behavior": "Keyboard and assistive-technology activation of a gallery button scrolls to the player and focuses its updated heading. The heading has an explicit focus outline and a description of its position in the 24-feeling catalogue. Pointer activation retains its existing scroll-to-preview behavior without a forced heading focus.",
+      "implementation": "Native button click detail 0 identifies non-pointer activation. The heading uses tabindex -1 and focus({preventScroll:true}) after the player scroll. Focus handling is confined to gallery activation; choose() and collection progression do not move focus."
+    },
+    {
+      "id": "IX-03",
+      "behavior": "A visibly labelled native Feeling select and Previous feeling / Next feeling buttons sit above the stages. They use the existing catalogue groups and state order, wrap at either end, cancel collection playback when used, and remain in place during selection.",
+      "implementation": "All 24 options and gallery buttons derive from the same catalogue. The selected option is synchronized for gallery, transport, keyboard shortcuts and sequence changes. The select retains native keyboard behavior."
+    },
+    {
+      "id": "IX-feedback",
+      "behavior": "The polite atomic playback status includes the selected feeling, so repeated Next/Previous actions announce the result without moving focus. Status text is still updated only when its content changes, not on every frame."
+    },
+    {
+      "id": "IX-motion-preference",
+      "behavior": "Reduced-motion selections seek directly to the established still pose, collection playback remains disabled, and button hover/press transforms are suppressed. Initial load remains still. Existing pause/resume, rest, scrub, offscreen and background behaviors are retained."
+    }
+  ],
+  "checks": [
+    {
+      "type": "source syntax",
+      "command": "node --check brand/animation-v5/studio.js",
+      "result": "passed"
+    },
+    {
+      "type": "source review",
+      "result": "Verified native labelled controls, shared catalogue source, no focus movement inside choose or sequence, and explicit still selection under reduced motion."
+    }
+  ],
+  "browserVerification": {
+    "status": "Requested from root, sole Ego browser owner; pending fresh evidence.",
+    "requested": [
+      "At desktop and 390px: activate Angry using Enter and Space; verify the named heading and its outline are visible, then traverse forward and backward by Tab.",
+      "Verify pointer activation scrolls to preview without forcing heading focus.",
+      "Use the native selector for three nonadjacent feelings; verify selected option, title, gallery pressed state and status stay synchronized.",
+      "Verify previous/next wrap correctly, retain focus and provide named status feedback.",
+      "Verify initial no-autoplay, reduced-motion still selection, disabled collection, and preserved pause/resume/rest/scrub/sequence controls.",
+      "During collection progression, verify selected feeling changes without moving focus."
+    ]
+  },
+  "limits": [
+    "No browser operated by this implementation agent; root performs the actual UI checks.",
+    "No assistive-technology listening session or accessibility conformance claim."
+  ],
+  "crossReview": "Ready for an independent challenge after fresh browser evidence.",
+  "reviewCorrection": "Mixed pointer-to-keyboard testing exposed offscreen Tab return. All deliberate gallery activations now focus the player heading. Keyboard-only ring verified focus-visible=true with a 3px outline. Collection changes and nearby selection preserve focus."
+}

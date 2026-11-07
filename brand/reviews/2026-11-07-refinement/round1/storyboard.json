@@ -1,0 +1,35 @@
+{
+  "verdict": "The inspected refinement resolves the demonstrated smiling transition and improves mitten staging while preserving the tiny innocent character. No new staging defect is visible in these samples. Continuous descent and transition cadence remain a targeted verification task, not a reason to withhold unrelated static applications.",
+  "inspectedEvidence": [
+    "AGENTS.md; brand/team.json; brand/reviews/2026-11-07-refinement/brief.json",
+    "Own earlier reviews: brand/reviews/2026-11-07/round1/storyboard.json and round2/storyboard.json",
+    "Comparison of brand/reviews/2026-11-07-refinement/before/motion.js against brand/animation-v5/motion.js",
+    "brand/reviews/2026-11-07-refinement/evidence/poses.png; sad-worried.png; worried-sad.png; excited.png; all-24.png; thinking.png; identity.png"
+  ],
+  "resolvedIssues": [
+    "STORY-02, sampled semantic continuity: sad-worried.png now retains the closed, downcast-to-neutral mouth through 100–500ms, replacing the previous green smile at 200–300ms. Worried-sad.png likewise retains concern while the head and hands settle. The entry-pose mechanism preserves compatible outgoing channels instead of reinstating the welcoming baseline. This directly addresses the evidenced defect; it does not prove every emotional switch.",
+    "STORY-03, dominant mitten action: poses.png gives Thinking one chin-side hand and one clearly lower hand; Focused has two separated low hands. Worried uses staggered hands while Grateful retains a compact symmetrical acknowledgment. These contrasts are clearer to this reviewer than the former common ruff cluster. The body, hands and stub feet have not been enlarged to accommodate them.",
+    "Hop source defect: the new bodyY tangent passes through 900ms at nonzero downward velocity; the wing reversal no longer forces the entire body to stop mathematically. The updated 720–1060ms source samples maintain a single compact figure and attached feet.",
+    "Character continuity: all-24.png retains quiet thought, expansive surprise/excitement and protective fear. No new scenery, sound, prop or adult stance has been introduced. In identity.png the night antenna stems can be followed more readily, and the V5 header keeps the name and welcoming character together."
+  ],
+  "findings": [
+    {
+      "id": "REF-STORY-01",
+      "severity": "verification-pending",
+      "claim": "The sampled corrections and source explain why the defects should improve, but they do not establish perceived rhythm. In particular, a continuous fall, its landing, and the change of emotional intention must be assessed at playback speed. This is an evidence limit, not an observed new defect.",
+      "evidence": [
+        "brand/animation-v5/motion.js: excited 720/900/1060ms tangents; entryPose and resolveFrame",
+        "evidence/excited.png:720–1410ms",
+        "evidence/sad-worried.png; worried-sad.png:100–970ms"
+      ],
+      "fix": "Inspect the targeted continuous clips already being prepared. Preserve the current changes unless playback exposes a specific hesitation, abrupt landing or false emotional beat; do not compensate with larger motion or added effects.",
+      "verification": "At intended display size, descent continues through the wing beat, landing settles within the tiny anatomy, and concern changes without an unrelated cheerful interval."
+    }
+  ],
+  "limits": [
+    "No continuous clips were available during this independent pass. Still sheets are exact sampled poses, not evidence of uninterrupted cadence.",
+    "No new peer reviews read, browser operated, production files edited or audience response measured.",
+    "Keyboard operation and export engineering are outside this staging assessment. Their existence does not substitute for their specialists’ verification.",
+    "One motivated project story remains later application work; it is not a condition for completing these four authorized refinements."
+  ]
+}

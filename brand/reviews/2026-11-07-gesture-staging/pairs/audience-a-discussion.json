@@ -1,0 +1,94 @@
+{
+  "reviewer": "audience-a",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "partnerRecordRead": "independent/audience-b.json",
+  "partnerDiscussionRead": "pairs/audience-b-discussion.json",
+  "proposalFile": "team-proposal-v1.json",
+  "proposalSha256": "db064ee23559e695e350ddc47e86c77380776554e6bb3a5a43eeadd8b18bd5f3",
+  "sourceManifest": "review-source-v1.json",
+  "sourceManifestSha256": "d5abc24f90f9539bfddb0223da42392fb31c9321ab7c962aa98c893ff3789e0e",
+  "independence": "A's independent 8.5 review was saved before any B gesture-staging record was read. This response follows full reading of B's independent and pair discussion.",
+  "verification": {
+    "proposalHashMatched": true,
+    "manifestHashMatched": true,
+    "sourceFilesChecked": 12,
+    "sourceMismatches": [],
+    "governingVersion": "Gesture-staging v1. This pass changed motion/controller/staging relative to implementation v4; character.js and signature.css remain unchanged. The current pair instructions correctly say unchanged since gesture/staging v1.",
+    "freshEvidenceRead": ["evidence/evidence-index.json", "attention-browser.json all requested/actual timestamp summaries", "rigging-b-replay-envelope.json summary fields"],
+    "report": "index.html exists (40397 bytes at check); no new browser or report-rendering claim."
+  },
+  "responsesToPartner": [
+    {
+      "topic": "Cleaner contours versus understood invitation and recall",
+      "bPosition": "Visible hand separation is craft evidence; it cannot establish distinct social meanings, recognition, recall or attachment.",
+      "aResponse": "Agreed. My 0.3 increase is supported by the matched Thinking/Focused hand hierarchy, lower Grateful contact and clearer offering silhouette. It does not mean the offer is understood as an invitation. Grateful/Shy remain close at small sizes and the 96–128px offer remains a small accent. The complete look/return/context may carry more meaning than an isolated hand, but that is a hypothesis until observed.",
+      "resolution": "Accept the visible refinement, preserve A's remaining 0.5 gesture deduction and B's independent specificity/readiness judgments, and keep every human outcome null.",
+      "evidence": ["hands-day.png", "hands-night.png", "sizes-curious-investigate.png", "sizes-grateful.png", "sizes-shy.png", "offer-sequence-day.png", "offer-sequence-night.png"]
+    },
+    {
+      "topic": "Footer visibility and A's retained attribution deduction",
+      "bPosition": "The fuller current 390px captures include the name because exposure/capture differs; unchanged CSS does not support an implemented attribution gain.",
+      "aResponse": "Agreed. My independent record explicitly noted the visible heyNag/Nagarjuna Boddu footer. Its appearance in the new capture is not credited in the score increase. A's 0.4 deduction remains a bounded observation that the project/moth scene itself lacks an adjacent owner cue, not a claim that natural visitors miss Nag. The complete document already provides attribution. B's readiness deduction describes the uncontrolled exposure separately.",
+      "resolution": "Retain both scoped judgments. Any adjacent verified owner cue is optional and testable, not an assumed improvement. Keep actual brand/project context for attribution and recall; use isolated neutral clips only for action comprehension. Log width, height, crop/scroll, name/moth visibility, duration and playback.",
+      "evidence": ["attention-390-day-2720.png", "attention-320-day-790.png", "attention-1440-day-790.png", "signature.html", "unchanged signature.css hash"]
+    },
+    {
+      "topic": "Inherited night-avatar limitation",
+      "bPosition": "The present 96px-and-up hand ladders cannot establish a repair or regression in the unchanged 32–48px night avatar.",
+      "aResponse": "Agreed. My 0.6 deduction is inherited and anchored to the explicitly revisited prior sizes-final.png plus byte-identical renderer paint/geometry. It is not a new avatar test or a regression caused by these hands. Day as the universal 32px mark remains a reasonable usage mitigation; it does not make the night stems more legible.",
+      "resolution": "Keep the inherited limit and usage guidance without new small-avatar claims or a mandatory redraw.",
+      "evidence": ["../2026-11-07-implementation/evidence/sizes-final.png as listed in A independent", "review-source-v1.json character.js hash", "current hand size ladders"]
+    },
+    {
+      "topic": "Actual DOM, film simplification and timestamps",
+      "bPosition": "The actual phone screenshots take precedence over the simplified phone-film composition. Rounded range-selected screenshot labels do not prove a pose at an exact mathematical timestamp.",
+      "aResponse": "Agreed and independently checked. In attention-browser.json, requested 2350ms captures occur at 2349.3ms, 2720ms at 2718.3ms, 790ms at 791.3ms, 330ms at 328ms, 1190ms at 1189ms and 1900ms at 1898.3ms. The exact release at 2350ms is supported by source and exact-time browser/test records, while screenshots support nearby visible staging. I do not infer an unintended flick, perfect perceived line of sight or continuous smoothness from either.",
+      "resolution": "Accept the matched 320/390px upward attention improvement and keep numeric return, sampled appearance and continuous perception as separate claims. The film documents sampled engine output; the actual DOM is the layout evidence.",
+      "evidence": ["staging.js", "signature.js", "attention-browser.json", "browser-checks.json", "attention-390-day-790.png", "attention-390-night-1190.png", "attention-390-day-2350.png", "decoded-phone-night.png"]
+    },
+    {
+      "topic": "Authoring quality versus research readiness",
+      "bPosition": "Named variants, explanations and labels are useful authoring aids and should not be removed merely to improve a research-readiness score.",
+      "aResponse": "Agreed. A local implementation can be accepted while the instrument for an unprimed study has not been built. No unsolicited research recruitment, extra owner selection or deletion of useful labels is warranted. An eventual neutral exposure must retain appropriate accessibility and report modality rather than silently stripping descriptions.",
+      "resolution": "Preserve the selected labelled study. If future research is requested, define its question first, collect free descriptions before supplied categories, and keep preference, expert craft, comprehension and memory in separate records.",
+      "evidence": ["signature.html", "independent/audience-a.json", "independent/audience-b.json GB-1 and GB-2"]
+    }
+  ],
+  "newDiagnosticNuance": "The refreshed evidence index records 2136 replay cases and 429336 numeric samples with no renderer-limit violations; maximum gaze magnitude is 5.1401 within the renderer's ±6, so strict final-pose ±5 should not be claimed. I read the diagnostic summary, not its full case traces. This clarifies a mechanical boundary and does not alter this audience craft score or establish perceived smoothness.",
+  "acceptedJointRecommendation": "Accept the visible craft improvements as expert hypotheses, not demonstrated audience comprehension. Keep unfamiliar-viewer attribution, attachment and recall unscored; labels are not neutral stimuli.",
+  "explicitConfirmation": "I explicitly confirm the exact recommendation above and all five evidence-based resolutions in B's discussion. The contour change is visibly observed; the audience meaning remains hypothetical. This records A's position and responds to B's already explicit position; it does not certify all-18 consensus.",
+  "remainingDisagreements": [
+    "No substantive disagreement or blocking objection. A remains 8.5 and B remains 8.6; the scores retain their distinct emphasis and are not averaged.",
+    "A retains inherited night-avatar and adjacent-owner craft deductions; B emphasizes instrument/exposure readiness. These are compatible scoped judgments, not rival human outcomes."
+  ],
+  "personalScore": {"value": 8.5, "outOf": 10, "changedFromIndependent": false, "meaning": "Same overall expert static emotional-staging, attribution and research-readiness lens as the prior final vote; not an audience-result or continuous-motion score."},
+  "scoreHistory": [{"round": "implementation FINAL", "value": 8.2}, {"round": "gesture-staging independent and final vote", "value": 8.5}],
+  "audienceOutcomes": {"unprimedComprehension": null, "nagAttribution": null, "delayedRecall": null, "attachment": null, "populationPreference": null, "ownerFitNumeric": null},
+  "practicalSkillsWorkflowAgreement": {
+    "intake": "Both reviewers retain the 17-entry Emil catalog reading and full emil-design-eng, prototype and mobile-native reading. A additionally read design-taste-frontend in this round. B does not inherit that intake; each record states only actual reading.",
+    "agreedProcess": [
+      "Map each prior FINAL deduction to reduced, unchanged or resolved evidence before scoring. Retain score meaning and explicit history rather than narrowing to only the new code.",
+      "Use prototype's named comparison axis and full-size realistic context for matched expert comparisons. Keep anatomy/paint controlled, preserve the selected owner direction and retain historical controls.",
+      "Inspect actual DOM notice, investigation, return and offer across relevant widths/themes; log requested versus actual timestamps and film simplifications.",
+      "Log capture height, crop, scroll and actual name/moth exposure. Separate neutral action clips from branded attribution/recall exposures and collect unaided descriptions/recall before labels or recognition choices.",
+      "Apply Emil's purpose/frequency guidance to interface feedback while preserving multi-second character acting and keyboard Play. Use mobile-native's capability and hardware distinctions without global document restrictions.",
+      "Use A's additional design-taste reading only for grounded context, the real project subject and cross-width visual inspection here. It does not turn the authoring study into a marketing-page build or impose irrelevant layout/decoration rules.",
+      "Keep human outcomes null until measured. Source, tests, exported frames, continuous playback, physical hardware and human response remain separate evidence classes."
+    ],
+    "exceptions": [
+      "No new picker, owner-choice pause, unsolicited recruitment or deletion of historical comparisons.",
+      "No sub-300ms character compression, removal of keyboard Play or compositor-only rewrite of expressive anatomy.",
+      "No mobile zoom/selection/scroll locks or hardware claims based only on emulation.",
+      "No removal of authoring/accessible labels, decorative hover loops, mandatory viewport sections or separate browser workflow because of optional marketing-design guidance.",
+      "No inferred comprehension or memory improvement from clean contours, numerical reliability or AI agreement."
+    ]
+  },
+  "substantiveObjections": [],
+  "remainingEvidenceLimits": [
+    "Primed AI expert review; no unfamiliar-human comprehension, attribution, recall or attachment results.",
+    "No continuous normal-speed observation, physical-phone behavior, GPU validation, native OS-select keyboard commit or spoken screen-reader output established by this review.",
+    "Root owns browser work; I inspected supplied source, images and records, not personally reproduced browser tests.",
+    "No source edits, publication or deployment in this pair phase."
+  ]
+}

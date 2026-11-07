@@ -1,0 +1,5 @@
+{
+  "source": "review-source-v1.json paths are preserved relative to before/source-v1/.",
+  "evidence": "Initial independent-review evidence/ paths are preserved under before/evidence-v1/. Current evidence/ will show the updated application.",
+  "independentCount": 18
+}

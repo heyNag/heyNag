@@ -1,0 +1,47 @@
+{
+  "role": "Interaction design and accessibility specialist — refinement cross-review",
+  "challenges": [
+    {
+      "role": "Brand director",
+      "claimId": "Verdict and resolved application gap",
+      "decision": "Accept within local proof scope",
+      "reason": "The review explicitly distinguishes local README proofs from a live account update. That boundary matters: coherent exported assets and correct repository references can complete this draft without an upload, audience study or new website. Likewise, my studio focus checks establish an interaction improvement, not public-site usability.",
+      "evidence": ["round1/brand.json:verdict,limits", "brief.json:nonnegotiables", "evidence/interaction-checks.json"],
+      "implication": "Present the package as locally implemented and reviewed. Do not require publication to validate the work, or imply that publication has occurred."
+    },
+    {
+      "role": "Brand director",
+      "claimId": "BR-R2",
+      "decision": "Accept concrete completion dependency",
+      "reason": "My fresh source read still found 'A later refresh must use reviewed v5 exports' and 'a later matching avatar needs its own' review alongside the new current export paths. This is an actual handoff contradiction, not a request for more art or new research.",
+      "evidence": ["/Users/nag/projects/personal/heyNag/brand/README.md:Visual system,Updating the assets", "round1/brand.json:BR-R2"],
+      "implication": "Finish the already-planned documentation reconciliation before declaring the package complete. Keep local review, adoption and publication distinct."
+    },
+    {
+      "role": "Rigging reviewer",
+      "claimId": "REFRIG-02",
+      "decision": "Mark documented-use concern resolved",
+      "reason": "Current generator comments now explicitly describe stable standalone IDs, img use for repeated identical exports, and per-instance namespacing for inline consumers. That directly answers the reported overbroad promise. Repeated inline instances are not a demonstrated requirement of the current PNG README.",
+      "evidence": ["/Users/nag/projects/personal/heyNag/brand/source/applications-v5.js:47", "round1/rigging.json:REFRIG-02"],
+      "implication": "Do not expand this refinement into an instance-ID framework. Apply that requirement if a future component actually inlines repeated variants."
+    },
+    {
+      "role": "Rigging reviewer",
+      "claimId": "REFRIG-01",
+      "decision": "Retain refinement; clarify reachability and evidence",
+      "reason": "The new local selector already allows arbitrary emotion changes, so these combinations are reachable today rather than hypothetical future API use. Nevertheless, broad inheritance is a reason for targeted inspection, not proof of an unwanted intention. The supplied numerical tests and pose samples should not be promoted into perceptual validation either.",
+      "evidence": ["/Users/nag/projects/personal/heyNag/brand/animation-v5/studio.js:133", "round1/rigging.json:REFRIG-01,resolvedIssues"],
+      "implication": "Inspect the named representative pairs and change only demonstrated problems. Do not require every permutation, screen-reader study or audience research before presenting this local draft."
+    }
+  ],
+  "ownPositionChanged": [
+    "Resolved IXR-01 after inspecting keyboard-heading-ring.png and interaction-extra.json: genuine keyboard activation has :focus-visible=true and a visible solid 3px outline. The ringless capture was insufficient evidence of a regression.",
+    "Retained the native-selector limitation precisely: the keyboard probe kept focus but did not change Angry. Source and programmatic selection checks do not establish that particular physical keyboard path; the probe also does not establish a broken control.",
+    "The pointer-to-keyboard defect was reproduced, corrected and retested. No remaining interaction blocker is demonstrated in this refinement evidence."
+  ],
+  "finalVerdict": "The interaction correction is ready for local presentation. Preserve the coherent focus destination, native selection controls and reduced-motion stills. Complete the bounded documentation cleanup, report remaining perception and device questions honestly, and avoid turning them into unsupported global release gates.",
+  "openQuestions": [
+    "When the studio is reused publicly, how does the native selector behave on the actual target touch browsers and assistive technologies?",
+    "Which transition pairs will an authored scene intentionally use, beyond free exploration in this review tool?"
+  ]
+}

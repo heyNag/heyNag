@@ -1,0 +1,27 @@
+{
+  "reviewer": "sound-B",
+  "scope": "Response to sound pair proposal; quality-improvement plan only.",
+  "challengeResponses": [
+    {
+      "challenge": "Numerical overlap versus perceived cue loss",
+      "response": "Accepted. The 160 ms and 320 ms cues overlap the 380 ms blend numerically; this neither proves lost ordering nor establishes a rhythm defect. The moving target and starting pose matter. Compare rest, held replay and interruption separately before attributing a perceived weakness to the blend. My original concern remains a hypothesis."
+    },
+    {
+      "challenge": "Creative exploration before demonstrated failure",
+      "response": "Accepted; I revise my original experiment decision rule. Reversible pause, gaze or peek alternatives may explore stronger personality without a diagnosed defect. A named observed benefit is required for adoption, not exploration. Preserve the unchanged control, state the intended benefit and accept a no-change outcome."
+    },
+    {
+      "challenge": "Catalogue cadence versus experienced fatigue",
+      "response": "Accepted. Differing clip durations plus the shared 600 ms interval describe the explicit inspection sequence; they do not demonstrate monotony, fatigue or fluency. Contact sheets and capture cadence cannot supply that perceptual evidence. Ambient playback is outside the current implementation and is not a present defect."
+    }
+  ],
+  "BDecision": "agree_with_named_nonblocking_limits",
+  "requestedChanges": [],
+  "jointRecommendation": "I explicitly confirm the pair's prioritized silent comparisons and optional local acting experiment, with its acceptance criteria and experiment/adoption distinction. Silence remains complete; retain semantic announcements, still-first entry, explicit replay, indefinite settled rest, theme parity and reduced-motion meaning.",
+  "nonblockingLimits": [
+    "Continuous timing perception and repeated-viewing comfort have not been directly inspected by B in this review.",
+    "Neither specialist observation nor plan consensus establishes human comprehension, attachment or recall."
+  ],
+  "score": null,
+  "scoreStatus": "Independent null preserved; no score uplift or final-art approval."
+}

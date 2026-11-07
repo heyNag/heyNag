@@ -1,0 +1,54 @@
+{
+  "role": "Identity systems designer",
+  "challenges": [
+    {
+      "role": "Visual development artist",
+      "claimId": "VIS-01",
+      "decision": "Accept defect; narrow preferred remedy",
+      "reason": "Stem loss is visible. A lighter local stage can help an owned scene, but cannot protect a portable asset across other grounds. Prefer subtly lighter solid stem-edge paint or a crisp local contour, evaluated at output size. Existing blurred rim treatment becomes too fine when reduced; a larger aura would change the visual language.",
+      "evidence": ["evidence/identity.png night rows", "brand/animation-v5/character.js NIGHT palette and edge filter"],
+      "implication": "Correct affected night exports before their adoption. Compare 96/128/160px on intended grounds; preserve geometry and traceable connections without broad glow. Day exports need no corresponding redesign."
+    },
+    {
+      "role": "Visual development artist",
+      "claimId": "VIS-02",
+      "decision": "Accept material distinction; qualify proportion conclusion",
+      "reason": "Flatter surfaces and the wider rest smile are visible adaptations. The sheet matches image-box height, so it cannot isolate perceived head compression from occupancy and pose. Same-family recognition is a defensible expert judgment; exact model parity is not demonstrated.",
+      "evidence": ["evidence/identity.png top row", "brand/animation-v5/README.md"],
+      "implication": "Match visible height and rest pose before prescribing head reconstruction. Preserve anatomy, asymmetry and wing layering; allow intentional surface simplification."
+    },
+    {
+      "role": "Storyboard director",
+      "claimId": "STORY-03",
+      "decision": "Accept targeted refinement",
+      "reason": "The studio's Thinking pose visibly clusters mittens beneath the ruff. Clarifying the acting hand and contact matters more than reproducing every raster scallop. That can improve meaning while retaining the same identity.",
+      "evidence": ["evidence/studio-desktop.png Thinking", "assets/brand/expressions-v5/anchors-day-r3.png Thinking"],
+      "implication": "Test negative space and head-to-mitten contact at intended use size; do not enlarge hands or lengthen limbs."
+    },
+    {
+      "role": "Audience researcher",
+      "claimId": "AUD-03 / AUD-04",
+      "decision": "Accept contextual hypothesis; narrow research gate",
+      "reason": "Childlike anatomy does not establish poor professional judgment. Likewise, 32px full-body detail loss does not justify redesigning the master. A purpose-composed avatar addresses that surface. Comparative mascot-versus-wordmark testing answers a different question from refining an already chosen mascot identity.",
+      "evidence": ["evidence/identity.png size and avatar rows", "evidence/readme-phone-night.png"],
+      "implication": "Test the intended whole application for author/project recall. Treat research as formative; fix visible circle clipping independently."
+    },
+    {
+      "role": "Brand director",
+      "claimId": "BR-01 / round2 IDENTITY-01 response",
+      "decision": "Accept narrower release scope",
+      "reason": "A readable V2 profile draft can receive copy improvements while V5 packaging develops. Missing V5 exports should not block unrelated public work.",
+      "evidence": ["README.md", "evidence/readme-desktop-day.png", "round2/brand.json"],
+      "implication": "Require a matched inspected set for a declared V5 rollout; attach night and avatar conditions only to affected assets."
+    }
+  ],
+  "ownPositionChanged": [
+    "My before-public-use wording now explicitly means adoption of the affected export, not all README changes.",
+    "Keep separate map fields for generation (V2/V5), role (reference/study/application), release state (draft/candidate/released), intended surface, theme pair, minimum size and source revision. Do not infer release from a checksum or a current-reference label."
+  ],
+  "finalVerdict": "Keep the identity. Prioritize night-stem continuity, purpose-specific avatar framing and deliberate V5 packaging; refine hand readability without wholesale character reconstruction. Document intentional raster/vector differences and keep the name and real work prominent.",
+  "openQuestions": [
+    "Which grounds and minimum sizes will the first V5 application actually support?",
+    "At matched visible height, which contour changes remain perceptually meaningful?"
+  ]
+}

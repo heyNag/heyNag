@@ -1,0 +1,20 @@
+{
+  "reviewerId": "brand-a",
+  "model": "gpt-6-astra",
+  "reasoning": "ultra",
+  "proposalSha256": "0665e3d5d15f945e095fb200458d9fe0a63539bd432b6918f80fcdc7388ea0c4",
+  "decision": "agree_with_named_nonblocking_limits",
+  "substantiveObjections": [],
+  "nonblockingLimits": [
+    "This approves the complete improvement plan and its acceptance criteria, not unbuilt alternatives, publication or a 9/10 result.",
+    "My directly inspected evidence supports existing authorship hierarchy, visual coherence and editorial opportunities. Perceived timing, stranger recognition and attachment require their respective fresh evidence; source intent cannot establish them.",
+    "My brand score remains null. Subjective craft scores do not require audience research or a universally calibrated scale; my withheld number reflects the limits of my present brand-effect judgment, not a rule against other reviewers scoring their evidenced scope."
+  ],
+  "rationale": "I read the entire team proposal and score policy and verified the exact SHA256. P1 preserves Nag's authentic work while testing existing curiosity and purposeful alternatives. P2–P5 allow useful acting, material and interaction exploration while protecting anatomy, controls and provenance. Reversible creative experiments are legitimate before a defect is demonstrated; adoption requires a named observed benefit, and retaining the baseline remains valid. P6 keeps individual judgment, owner preference and human evidence distinct. These priorities can improve the work without manufacturing consensus scores.",
+  "pairPosition": {
+    "discussionResolved": true,
+    "ADecision": "agree",
+    "BRecordedDecision": "agree_with_named_nonblocking_limits",
+    "basis": "brand-b-response.json explicitly accepts separate species/owner outcomes, the existing signature grammar, comparable duration envelopes and comprehension before delayed recall. B endorses the unchanged pair proposal and requests no changes. I confirm that endorsement resolves our discussion; B's evidence limits remain visible."
+  }
+}

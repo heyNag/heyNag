@@ -1,0 +1,19 @@
+{
+  "method": "OpenAI built-in image generation",
+  "useCase": "background-extraction",
+  "prompt": "Use case: background-extraction.\nThe supplied image is a six-character sheet on an intended transparent canvas. Keep every character pixel, expression, proportion, color, line, position, small cue, and grid exactly unchanged. Clean only the unwanted faint semitransparent BACKGROUND HAZE left in the empty areas. Outside the actual figures and their explicitly drawn cue strokes, alpha must be EXACTLY zero. Remove the rectangular/smoky matte in all inter-character gutters and all empty areas around antennae, faces, wings and feet. Preserve smooth antialiased character edges and the fine edge lighting actually on the outline. Do not add a shadow, halo, backdrop, new outlines, color correction or any drawn feature. Do not regenerate the six poses. This is precise transparent background cleanup only. Return the same1536x1024 image with the original3-column2-row layout and genuine clean transparent background.",
+  "changes": [
+    {
+      "input": "assets/brand/expressions-v5/anchors-day-r2.png",
+      "output": "assets/brand/expressions-v5/anchors-day-r3.png",
+      "reason": "Removed faint residual alpha from empty areas."
+    },
+    {
+      "input": "assets/brand/expressions-v5/joy-night.png",
+      "output": "assets/brand/expressions-v5/joy-night-r2.png",
+      "reason": "Removed a visible semitransparent background haze on dark ground."
+    }
+  ],
+  "validation": "24 sampled empty cell-corner points per cleaned sheet have alpha 0; both sheets remain1536x1024. Visual browser review also required.",
+  "rendering": "The CSS cell viewport clips its final3% empty lower margin to prevent the next row's antenna edge from entering a displayed frame. Original PNGs remain intact."
+}

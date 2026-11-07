@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="document-type" content="interactive-character-study">
+  <meta name="color-scheme" content="light dark">
+  <title>heyNag — Earlier V2 interaction study</title>
+  <link rel="stylesheet" href="../design-system.css">
+  <link rel="stylesheet" href="lab.css">
+  <script src="lab.js" defer></script>
+</head>
+<body class="hn-system">
+  <div class="lab-shell" id="character-lab" data-motion="off" data-atlas="loading">
+    <header class="lab-masthead">
+      <a class="lab-brand" href="https://github.com/heyNag" aria-label="heyNag on GitHub">
+        <img class="lab-wordmark lab-wordmark--light" src="../../assets/brand/wordmark-ink.svg" alt="heyNag" width="633" height="202">
+        <img class="lab-wordmark lab-wordmark--dark" src="../../assets/brand/wordmark-paper.svg" alt="" width="633" height="202">
+      </a>
+      <div class="lab-preferences">
+        <div class="lab-theme" role="group" aria-label="Appearance">
+          <button type="button" data-theme="light" aria-pressed="false">Light</button>
+          <button type="button" data-theme="dark" aria-pressed="false">Dark</button>
+        </div>
+        <label class="lab-motion" for="motion-enabled">
+          <input id="motion-enabled" type="checkbox">
+          <span>Motion</span>
+        </label>
+      </div>
+    </header>
+
+    <main class="lab-main">
+      <div class="lab-introduction">
+        <p>Earlier V2 pose and interaction study. Current character review: <a href="../character-proof/index.html">the tiny V5 foundation</a>.</p>
+        <h1>Hey, I'm Nag.</h1>
+        <p class="lab-lead">I work in software. I like connecting things, asking questions, and getting into the details. Sometimes quite a few details.</p>
+      </div>
+
+      <section class="lab-story" id="story-copy" aria-labelledby="project-title">
+        <p class="lab-project-meta"><span>eva.md</span><span class="lab-project-status">In development</span></p>
+        <h2 id="project-title">What should software remember?</h2>
+        <p class="lab-story-line">Starting a new coding session often means explaining the work again. With eva.md, I'm exploring how Markdown and Git can help carry that context forward.</p>
+        <a class="lab-project-link" id="project-link" href="https://github.com/heyNag/eva-md">View eva.md on GitHub<span aria-hidden="true"> ↗</span></a>
+      </section>
+
+      <div class="lab-spotlight" aria-label="Character spotlight">
+        <div class="lab-scene" id="character-scene" data-pose="hello">
+          <div class="lab-floor" aria-hidden="true"></div>
+          <div class="lab-idea" aria-hidden="true">
+            <span class="lab-idea-glow"></span>
+            <svg viewBox="0 0 80 96" fill="none" focusable="false">
+              <path class="lab-bulb-glass" d="M57 41c0 9-5 14-10 20v9H33v-9c-5-6-10-11-10-20a17 17 0 1 1 34 0Z"/>
+              <path d="M34 77h12m-10 7h8M40 5v8M10 18l6 6M64 24l6-6M5 42h8m54 0h8M12 65l6-6m44 0 6 6M36 42l4 5 4-5m-4 5v22"/>
+            </svg>
+          </div>
+          <div class="lab-character-motion" id="character-motion">
+            <div class="lab-moth" id="moth" role="img" aria-label="The heyNag moth waving hello" data-pose="hello"></div>
+          </div>
+        </div>
+        <p class="lab-art-status" id="art-status" role="status" hidden></p>
+      </div>
+
+      <details class="lab-details" id="nerdy-details">
+        <summary><span class="lab-details-closed">Show the nerdy details</span><span class="lab-details-open">Hide the nerdy details</span></summary>
+        <div class="lab-technical-copy">
+          <p>The idea is a shared context file: Markdown that carries useful information about the work, with Git keeping a history of its changes.</p>
+          <p>Markdown keeps that context readable. Git makes edits traceable. The interesting question is what to keep—and how to keep it useful as the work changes.</p>
+          <p>That's the direction I'm exploring with eva.md. It's still in development.</p>
+        </div>
+      </details>
+
+      <div class="lab-story-actions">
+        <button class="lab-play" id="play-story" type="button" disabled>
+          <span class="lab-play-symbol" aria-hidden="true">▶</span>
+          <span id="play-label">Play the thought</span>
+        </button>
+        <p class="lab-play-note" id="play-note">Notice. Think. Share.</p>
+      </div>
+    </main>
+
+    <div class="lab-expression-controls">
+      <p id="expression-label">Earlier V2 expression study</p>
+      <div class="lab-expressions" role="group" aria-labelledby="expression-label">
+        <button class="lab-expression" type="button" data-pose="hello" aria-pressed="true" disabled>Hello</button>
+        <button class="lab-expression" type="button" data-pose="curious" aria-pressed="false" disabled>Curious</button>
+        <button class="lab-expression" type="button" data-pose="thinking" aria-pressed="false" disabled>Thinking</button>
+        <button class="lab-expression" type="button" data-pose="aha" aria-pressed="false" disabled>Aha!</button>
+        <button class="lab-expression" type="button" data-pose="sharing" aria-pressed="false" disabled>Sharing</button>
+        <button class="lab-expression" type="button" data-pose="oops" aria-pressed="false" disabled>Oops</button>
+      </div>
+    </div>
+
+    <footer class="lab-footer">
+      <p>Earlier V2 study · retained exploration, not the current production model</p>
+      <nav aria-label="Public projects">
+        <a href="https://github.com/heyNag/charms">Charms</a>
+        <a href="https://github.com/heyNag/eva-md">eva.md</a>
+        <a href="https://github.com/heyNag/codex-pet-grok-bot">Grok Bot</a>
+      </nav>
+    </footer>
+    <p class="lab-sr-only" id="lab-announcement" aria-live="polite" aria-atomic="true"></p>
+    <noscript><p class="lab-noscript">The technical details and project links work without JavaScript. JavaScript enables the character controls.</p></noscript>
+  </div>
+</body>
+</html>
