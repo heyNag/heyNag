@@ -866,8 +866,9 @@
     "record": "brand/reviews/2026-11-07-banner-park/whole-scene-13/consensus.json",
     "source": "README.md",
     "sourceSha256": "a88ff0761cd9d7da1bb6d2ba5746612976ab52c7bc73156d32feb8a24418e90e",
-    "state": "Current frozen personal story and park scene accepted by all18; authorized publication pending",
-    "priorProfileReview": "brand/reviews/2026-11-07-github/consensus.json"
+    "state": "All18 accepted frozen story/art; owner-authorized GitHub README/banner publication completed and separately root live-verified",
+    "priorProfileReview": "brand/reviews/2026-11-07-github/consensus.json",
+    "publicationRecord": "brand/profile/publication.json"
   },
   "currentOwnerDirection": {
     "record": "brand/reviews/2026-11-07-banner-park/current-study.json",

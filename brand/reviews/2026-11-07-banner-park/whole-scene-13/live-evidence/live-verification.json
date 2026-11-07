@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/heyNag",
+  "title": "heyNag (Nag) · GitHub",
+  "readmeText": "Hey, I’m Nag 👋\n\nI’m Nagarjuna Boddu. I work in software, and I like following a good “what if?”\n\n🛠️ I’m building tools to explore videos and saved ideas, experiments in memory across conversations, and little animated companions. I’m drawn to useful things with a bit of personality.\n\n🔎 I’m also exploring local AI, smoother developer workflows, and ways to make separate tools work well together. The quiet details interest me too: what happens when something fails, or an answer isn’t quite complete.\n\n🤓 I’m curious, talkative, and happy to get very geeky about the details. The glasses come out for deep work. Sometimes it’s a system I’m figuring out; sometimes it’s whether a tiny character’s eyes feel right.\n\n🌱 That little moth is a bit of me: building, wondering, taking a breather, then coming back with another idea. I want the things I make to be useful—and give someone a small reason to smile.\n\nSome experiments are already here. Others are still on the workbench. I’ll share more as they’re ready.\n\nGlad you wandered in.",
+  "imageSrc": "https://github.com/heyNag/heyNag/raw/main/assets/brand/banner-park/park-film-study-13-muse-face-cleanup.png",
+  "imageNaturalWidth": 2172,
+  "imageNaturalHeight": 724,
+  "oldOrganizationLinks": 0,
+  "localPreviewNotice": false,
+  "live": true,
+  "views": [
+    {
+      "width": 1440,
+      "theme": "light",
+      "viewport": 1440,
+      "scrollWidth": 1440,
+      "articleWidth": 846,
+      "bodyColor": "rgb(255, 255, 255)",
+      "screenshot": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-banner-park/whole-scene-13/live-evidence/live-light-1440.png"
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "viewport": 1440,
+      "scrollWidth": 1440,
+      "articleWidth": 846,
+      "bodyColor": "rgb(13, 17, 23)",
+      "screenshot": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-banner-park/whole-scene-13/live-evidence/live-dark-1440.png"
+    },
+    {
+      "width": 390,
+      "theme": "light",
+      "viewport": 390,
+      "scrollWidth": 390,
+      "articleWidth": 308,
+      "bodyColor": "rgb(255, 255, 255)",
+      "screenshot": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-banner-park/whole-scene-13/live-evidence/live-light-390.png"
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "viewport": 390,
+      "scrollWidth": 390,
+      "articleWidth": 308,
+      "bodyColor": "rgb(13, 17, 23)",
+      "screenshot": "/Users/nag/projects/personal/heyNag/brand/reviews/2026-11-07-banner-park/whole-scene-13/live-evidence/live-dark-390.png"
+    }
+  ]
+}

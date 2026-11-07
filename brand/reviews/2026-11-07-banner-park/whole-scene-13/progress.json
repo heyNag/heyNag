@@ -1,5 +1,5 @@
 {
-  "stage": "All18 independent reviews, exact-proposal votes and nine reciprocal pair challenges complete",
+  "stage": "Review, original-resolution delivery and authorized GitHub publication complete; live source/layout verified",
   "asset": "assets/brand/banner-park/park-film-study-13-muse-face-cleanup.png",
   "sha256": "32ce62c11e533fcd3a7ab1856a102c7a31b9111d96c3fbf16df8d469b8f08469",
   "all18ArtAgreement": true,
@@ -276,5 +276,6 @@
       "vote": "brand/reviews/2026-11-07-banner-park/whole-scene-13/votes/sound-b.json"
     }
   ],
-  "consensus": "brand/reviews/2026-11-07-banner-park/whole-scene-13/consensus.json"
+  "consensus": "brand/reviews/2026-11-07-banner-park/whole-scene-13/consensus.json",
+  "publicationRecord": "brand/profile/publication.json"
 }

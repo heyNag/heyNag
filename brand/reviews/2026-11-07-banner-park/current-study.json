@@ -12,7 +12,7 @@
     "actualStaging": "Visual pair and storyboard reviewed04; Clawd05 pose repair lost recognition according to owner.06 restored features but failed material. Both historical variants remain rejected.",
     "currentRepair": "All18 whole-scene13 independent reviews and nine paired actual-art/story challenges completed. Scores8.8–9.1 preserved; no must-fix. See whole-scene-13/consensus.json."
   },
-  "status": "All18 reviewed day-scene and frozen personal-story README accepted for owner-authorized publication; live verification pending.",
+  "status": "Current day-scene13 and personal-story README published to heyNag GitHub and root live-verified after full18 acceptance.",
   "localRepairReviews": [
     "brand/reviews/2026-11-07-banner-park/clawd-repair/identity-a-plush.json",
     "brand/reviews/2026-11-07-banner-park/clawd-repair/identity-b-plush.json",
@@ -27,12 +27,13 @@
   "latestLocalRevision": {
     "asset": "assets/brand/banner-park/park-film-study-13-muse-face-cleanup.png",
     "record": "brand/reviews/2026-11-07-banner-park/film-study-13.json",
-    "state": "Full18 actual-art/story acceptance complete; authorized publication pending."
+    "state": "Published and live verified; original Downloads copy confirmed."
   },
   "wholeSceneCorrection": {
     "planConsensus": "brand/reviews/2026-11-07-banner-park/whole-scene-11/consensus.json",
     "state": "Material/grip corrections and54-pixel Muse cleanup verified; full18 actual13/story consensus complete.",
     "actualArtConsensus": "brand/reviews/2026-11-07-banner-park/whole-scene-13/consensus.json"
   },
-  "ownerLikedBaseline": "assets/brand/banner-park/park-film-study-07-clawd-plush.png"
+  "ownerLikedBaseline": "assets/brand/banner-park/park-film-study-07-clawd-plush.png",
+  "publicationRecord": "brand/profile/publication.json"
 }

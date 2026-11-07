@@ -189,7 +189,12 @@
   "evidence": "Independent full/native/1280/880/420 scene inspection, native and5x final detail crops, exact source hashes; GitHub Markdown rendering and local native-layout1440/390 previews in both themes.",
   "publication": {
     "ownerAuthorized": true,
-    "status": "Root will publish and separately verify live result; review consensus alone is not publication evidence"
+    "status": "Published and root live-verified; this receipt is separate from all18 pre-publication review",
+    "sourceCommit": "0425e53212e1c7b156626c2c5558fe384f1bdbec",
+    "mergeCommit": "d6d51206a9fc21be915bec6872590feb0e0cb72d",
+    "verifiedAt": "2026-11-07T13:40:03.029Z",
+    "record": "brand/profile/publication.json",
+    "liveEvidence": "brand/reviews/2026-11-07-banner-park/whole-scene-13/live-evidence/live-verification.json"
   },
   "downloads": {
     "fileName": "heyNag-park-banner-2172x724.png",
